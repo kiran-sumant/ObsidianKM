@@ -11,8 +11,12 @@
             "id": "c1dcd6187536119e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Self Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Self Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Untitled.canvas"
+                "file": "Self Learning/Untitled.md"
               }
             }
           },
@@ -159,8 +165,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "34a1ffaf4c277d28",
+  "active": "c1dcd6187536119e",
   "lastOpenFiles": [
+    "Self Learning/Philosophy.md",
+    "Self Learning/Untitled.md",
+    "Projects/Project(s).md",
+    "Projects/Mental.md",
+    "Projects/Physical.md",
+    "Projects/Financial.md",
+    "Journals/October Entry.md",
+    "Academic/Honours.md",
     "2023-10-11.md",
     "Academic/Untitled.canvas",
     "Untitled",
