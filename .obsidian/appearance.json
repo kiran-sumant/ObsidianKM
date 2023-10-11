@@ -1,4 +1,7 @@
 {
-  "accentColor": "",
-  "baseFontSize": 16
+  "accentColor": "#5449a7",
+  "baseFontSize": 19,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Ink Free,Cambria",
+  "monospaceFontFamily": "Cambria Math"
 }
