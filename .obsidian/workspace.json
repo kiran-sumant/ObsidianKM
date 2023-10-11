@@ -11,10 +11,11 @@
             "id": "c1dcd6187536119e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Self Learning/Untitled.md",
-                "staged": false
+                "file": "Self Learning/Adobe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Self Learning/Adobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Self Learning/Adobe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Self Learning/Adobe.md"
+              }
             }
           },
           {
@@ -162,6 +167,7 @@
   },
   "active": "c1dcd6187536119e",
   "lastOpenFiles": [
+    "Self Learning/Adobe.md",
     "Projects/Project(s).md",
     "Self Learning/Obsidian Wrangling.md",
     "Self Learning/Data Science.md",
