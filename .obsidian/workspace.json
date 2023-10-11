@@ -128,9 +128,17 @@
                 "file": "2023-10-11.md"
               }
             }
+          },
+          {
+            "id": "acb2cc20f07d8589",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
