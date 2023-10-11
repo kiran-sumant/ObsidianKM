@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "IbSprout",
+      "IbProductivity",
+      "IbPencil",
+      "IbAcademicBook"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -16,5 +21,9 @@
     },
     "iconInTabsEnabled": false,
     "iconsBackgroundCheckEnabled": false
-  }
+  },
+  "Academic": "IbAcademicBook",
+  "Journals": "IbPencil",
+  "Projects": "IbProductivity",
+  "Self Learning": "IbSprout"
 }
