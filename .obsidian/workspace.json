@@ -11,11 +11,10 @@
             "id": "c1dcd6187536119e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Self Learning/Untitled.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self Learning/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,9 +162,11 @@
   },
   "active": "c1dcd6187536119e",
   "lastOpenFiles": [
-    "Self Learning/Philosophy.md",
-    "Self Learning/Untitled.md",
     "Projects/Project(s).md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Self Learning/Data Science.md",
+    "Projects/Addiction.md",
+    "Self Learning/Philosophy.md",
     "Projects/Mental.md",
     "Projects/Physical.md",
     "Projects/Financial.md",
