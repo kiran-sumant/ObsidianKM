@@ -11,13 +11,40 @@
             "id": "c1dcd6187536119e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf"
+                "file": "Projects/Addiction/Addiction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21814a4ea33199f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3026ea1b992693f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
+                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
+                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf"
+                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md"
               }
             }
           },
@@ -142,13 +169,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "984c7fc1f6e10175",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +201,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "c1dcd6187536119e",
+  "active": "3026ea1b992693f5",
   "lastOpenFiles": [
-    "Self Learning/Adobe/Adobe.md",
+    "Projects/Addiction/Addiction.md",
+    "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+    "Projects/Addiction",
     "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "Self Learning/Adobe/Adobe.md",
     "Academic/Honours",
     "Self Learning/Philosophy",
     "Self Learning/Obsidian Wrangling",
@@ -178,7 +216,6 @@
     "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
     "Projects/Project(s).md",
     "Self Learning/Data Science/Data Science.md",
-    "Projects/Addiction.md",
     "Self Learning/Philosophy/Philosophy.md",
     "Projects/Mental.md",
     "Projects/Physical.md",
@@ -190,8 +227,6 @@
     "Self Learning",
     "Academic",
     "Projects",
-    "Untitled.canvas",
-    "Journals",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }
