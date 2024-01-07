@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Honours.md",
+                "file": "Journals/Journal Entries/2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Honours.md",
+                "file": "Journals/Journal Entries/2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Honours.md",
+                "file": "Journals/Journal Entries/2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Honours.md"
+                "file": "Journals/Journal Entries/2024-01-08.md"
               }
             }
           },
@@ -189,12 +189,18 @@
   },
   "active": "34a1ffaf4c277d28",
   "lastOpenFiles": [
+    "202401080227.md",
+    "Journals/Journal Entries/2024-01-08.md",
+    "2024-01-08.md",
+    "Journals/Journal Entries",
+    "Journals/List Of Entries.md",
+    "Academic/Honours.md",
     "Projects/Addiction.md",
     "Projects/Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Notes",
     "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Self Learning/Adobe/Adobe.md",
-    "Academic/Honours",
+    "Academic/Academic notes",
     "Self Learning/Philosophy",
     "Self Learning/Obsidian Wrangling",
     "Self Learning/Data Science",
@@ -206,13 +212,10 @@
     "Projects/Mental.md",
     "Projects/Physical.md",
     "Projects/Financial.md",
-    "Journals/October Entry.md",
-    "Academic/Honours.md",
     "2023-10-11.md",
     "Academic/Untitled.canvas",
     "Self Learning",
     "Academic",
-    "Projects",
     "Untitled.canvas"
   ]
 }
