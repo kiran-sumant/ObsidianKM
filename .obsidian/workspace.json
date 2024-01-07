@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Journal Entries/2024-01-08.md",
+                "file": "Self Learning/Adobe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0942b9ed9bbc1e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Journal Entries/2024-01-08.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Journal Entries/2024-01-08.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Journal Entries/2024-01-08.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -165,7 +178,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,17 +201,22 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "34a1ffaf4c277d28",
+  "active": "0942b9ed9bbc1e07",
   "lastOpenFiles": [
-    "202401080227.md",
+    "Self Learning/Adobe.md",
+    "Untitled.md",
+    "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
+    "202401080312.md",
+    "Self Learning/Learn Notes",
     "Journals/Journal Entries/2024-01-08.md",
+    "202401080227.md",
     "2024-01-08.md",
     "Journals/Journal Entries",
     "Journals/List Of Entries.md",
     "Academic/Honours.md",
     "Projects/Addiction.md",
-    "Projects/Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Projects/Notes",
+    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Projects/Project Notes",
     "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Self Learning/Adobe/Adobe.md",
     "Academic/Academic notes",
@@ -205,7 +224,6 @@
     "Self Learning/Obsidian Wrangling",
     "Self Learning/Data Science",
     "Self Learning/Adobe",
-    "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
     "Projects/Project(s).md",
     "Self Learning/Data Science/Data Science.md",
     "Self Learning/Philosophy/Philosophy.md",
@@ -215,7 +233,6 @@
     "2023-10-11.md",
     "Academic/Untitled.canvas",
     "Self Learning",
-    "Academic",
     "Untitled.canvas"
   ]
 }
