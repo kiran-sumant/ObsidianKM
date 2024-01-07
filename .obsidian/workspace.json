@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Addiction/Addiction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21814a4ea33199f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "file": "Academic/Honours.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "file": "Projects/Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,14 +97,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "file": "Academic/Honours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
+                "file": "Academic/Honours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md"
+                "file": "Academic/Honours.md"
               }
             }
           },
@@ -178,12 +165,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +187,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "3026ea1b992693f5",
+  "active": "34a1ffaf4c277d28",
   "lastOpenFiles": [
-    "Projects/Addiction/Addiction.md",
-    "Projects/Addiction/Main differences between Good and Bad Habits makes Growth Hard.md",
-    "Projects/Addiction",
+    "Projects/Addiction.md",
+    "Projects/Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Projects/Notes",
     "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Self Learning/Adobe/Adobe.md",
     "Academic/Honours",
@@ -221,7 +207,7 @@
     "Projects/Physical.md",
     "Projects/Financial.md",
     "Journals/October Entry.md",
-    "Academic/Honours/Honours.md",
+    "Academic/Honours.md",
     "2023-10-11.md",
     "Academic/Untitled.canvas",
     "Self Learning",
