@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Adobe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0942b9ed9bbc1e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Self Learning/Obsidian Wrangling.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "52b8333014c8f021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e6ca75bd1f640e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf"
               }
             }
           },
@@ -178,8 +181,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,11 +203,23 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "0942b9ed9bbc1e07",
+  "active": "22e6ca75bd1f640e",
   "lastOpenFiles": [
+    "Self Learning/Obsidian Wrangling.md",
     "Self Learning/Adobe.md",
-    "Untitled.md",
+    "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Self Learning/Data Science.md",
+    "Projects/Project(s).md",
+    "-Attachments/Audio",
+    "-Attachments/Untitled.md",
+    "-Attachments/Code",
+    "-Attachments/Graphics",
+    "-Attachments/Docs",
+    "-Attachments",
     "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
+    "Self Learning/Philosophy.md",
+    "Self Learning/Adobe/Adobe.md",
     "202401080312.md",
     "Self Learning/Learn Notes",
     "Journals/Journal Entries/2024-01-08.md",
@@ -215,16 +229,8 @@
     "Journals/List Of Entries.md",
     "Academic/Honours.md",
     "Projects/Addiction.md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Project Notes",
-    "Self Learning/Obsidian Wrangling/make_useful_notes_v0-18-0_2023-07-24.pdf",
-    "Self Learning/Adobe/Adobe.md",
     "Academic/Academic notes",
-    "Self Learning/Philosophy",
-    "Self Learning/Obsidian Wrangling",
-    "Self Learning/Data Science",
-    "Self Learning/Adobe",
-    "Projects/Project(s).md",
     "Self Learning/Data Science/Data Science.md",
     "Self Learning/Philosophy/Philosophy.md",
     "Projects/Mental.md",
@@ -232,7 +238,6 @@
     "Projects/Financial.md",
     "2023-10-11.md",
     "Academic/Untitled.canvas",
-    "Self Learning",
     "Untitled.canvas"
   ]
 }
