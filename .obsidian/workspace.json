@@ -43,7 +43,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf"
+                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
+                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
+                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf"
+                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf"
               }
             }
           },
@@ -203,12 +203,12 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "22e6ca75bd1f640e",
+  "active": "34a1ffaf4c277d28",
   "lastOpenFiles": [
     "Self Learning/Obsidian Wrangling.md",
-    "Self Learning/Adobe.md",
-    "-Attachments/Docs/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Self Learning/Adobe.md",
     "Self Learning/Data Science.md",
     "Projects/Project(s).md",
     "-Attachments/Audio",
