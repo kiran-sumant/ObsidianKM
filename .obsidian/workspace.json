@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Process.md",
+                "file": "Self Learning/Obsidian Wrangling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Process.md",
+                "file": "Self Learning/Obsidian Wrangling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Process.md",
+                "file": "Self Learning/Obsidian Wrangling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Templates/Process.md"
+                "file": "Self Learning/Obsidian Wrangling.md"
               }
             }
           },
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,8 @@
   },
   "active": "3026ea1b992693f5",
   "lastOpenFiles": [
-    "-Support/Templates/Key Differences.md",
     "-Support/Templates/Process.md",
+    "-Support/Templates/Key Differences.md",
     "-Support/Cheat Sheet.md",
     "-Support/Templates/Reference Breakdown.md",
     "-Support/Templates/Standard Note.md",
