@@ -1,3 +1,4 @@
+
 | Bad | Good |
 | :--- | :--- |
 | Easy to default to because of unconscious dopamine or nostalgic promoters | Often new, unfamiliar. Required conscious effort to maintain and thus increases conscious effort required |
