@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+                "file": "-Support/Templates/Standard Note.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf88150d750ecbb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+                "file": "-Support/Templates/Standard Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+                "file": "-Support/Templates/Standard Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md"
+                "file": "-Support/Templates/Standard Note.md"
               }
             }
           },
@@ -199,10 +189,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "34a1ffaf4c277d28",
+  "active": "3026ea1b992693f5",
   "lastOpenFiles": [
-    "-Support/Docs/Untitled.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "-Support/Templates/Standard Note.md",
+    "Excalidraw/Drawing 2024-01-08 17.32.07.excalidraw.md",
+    "Excalidraw",
+    "-Support/Docs/Untitled.md",
     "Self Learning/Obsidian Wrangling.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Self Learning/Adobe.md",
@@ -227,7 +220,6 @@
     "Academic/Honours.md",
     "Projects/Addiction.md",
     "Projects/Project Notes",
-    "Academic/Academic notes",
     "Self Learning/Data Science/Data Science.md",
     "Self Learning/Philosophy/Philosophy.md",
     "Projects/Mental.md",
