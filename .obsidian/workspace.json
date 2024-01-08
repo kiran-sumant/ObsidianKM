@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
+                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
+                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf"
+                "file": "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,20 +199,21 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "bdf88150d750ecbb",
+  "active": "34a1ffaf4c277d28",
   "lastOpenFiles": [
-    "Self Learning/Obsidian Wrangling.md",
-    "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
+    "-Support/Docs/Untitled.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "-Support/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Self Learning/Adobe.md",
     "Self Learning/Data Science.md",
     "Projects/Project(s).md",
-    "-Attachments/Audio",
+    "-Support/Audio",
     "-Attachments/Untitled.md",
-    "-Attachments/Code",
-    "-Attachments/Graphics",
-    "-Attachments/Docs",
-    "-Attachments",
+    "-Support/Code",
+    "-Support/Graphics",
+    "-Support/Docs",
+    "-Support",
     "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Adobe/Adobe.md",
