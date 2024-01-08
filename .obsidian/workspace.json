@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling.md",
+                "file": "-Support/Templates/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling.md",
+                "file": "-Support/Templates/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling.md",
+                "file": "-Support/Templates/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling.md"
+                "file": "-Support/Templates/tags.md"
               }
             }
           },
@@ -191,12 +191,14 @@
   },
   "active": "3026ea1b992693f5",
   "lastOpenFiles": [
+    "Self Learning/Obsidian Wrangling.md",
+    "-Support/Templates/tags.md",
+    "Self Learning/Learn Notes/LaTeX lessons.md",
     "-Support/Templates/Process.md",
     "-Support/Templates/Key Differences.md",
     "-Support/Cheat Sheet.md",
     "-Support/Templates/Reference Breakdown.md",
     "-Support/Templates/Standard Note.md",
-    "Self Learning/Obsidian Wrangling.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Self Learning/Learn Notes",
     "Journals/Journal Entries/2024-01-08 1.md",
@@ -225,8 +227,6 @@
     "Academic/Honours.md",
     "Projects/Addiction.md",
     "Self Learning/Data Science/Data Science.md",
-    "Self Learning/Philosophy/Philosophy.md",
-    "Projects/Mental.md",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
