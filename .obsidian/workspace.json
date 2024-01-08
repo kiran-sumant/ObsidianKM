@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Untitled.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Untitled.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Untitled.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Templates/Untitled.md"
+                "file": "-Support/Templates/Reference Breakdown.md"
               }
             }
           },
@@ -192,7 +192,7 @@
   "active": "3026ea1b992693f5",
   "lastOpenFiles": [
     "-Support/Templates/Standard Note.md",
-    "-Support/Templates/Untitled.md",
+    "-Support/Templates/Reference Breakdown.md",
     "Self Learning/Obsidian Wrangling.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Self Learning/Learn Notes",
