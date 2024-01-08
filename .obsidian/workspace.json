@@ -30,24 +30,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "52b8333014c8f021",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "22e6ca75bd1f640e",
+            "id": "bdf88150d750ecbb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "release-notes",
               "state": {
-                "file": "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf"
+                "currentVersion": "1.5.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,7 +199,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "34a1ffaf4c277d28",
+  "active": "bdf88150d750ecbb",
   "lastOpenFiles": [
     "Self Learning/Obsidian Wrangling.md",
     "-Attachments/Docs/Obsidian and Zettelkasten - Edmund Gropl.pdf",
