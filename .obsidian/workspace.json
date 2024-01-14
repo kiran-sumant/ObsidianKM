@@ -11,21 +11,9 @@
             "id": "3026ea1b992693f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "486fd84ca658a630",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md"
               }
             }
           },
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md"
               }
             }
           },
@@ -181,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +186,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "486fd84ca658a630",
+  "active": "3026ea1b992693f5",
   "lastOpenFiles": [
     "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.33.46.excalidraw.md",
     "-Support/Cheat Sheet.md",
@@ -211,8 +201,6 @@
     "-Support/Graphics",
     "-Support/Graphics/Pasted image 20240114183833.png",
     "-Support/Graphics/Pasted image 20240114183825.png",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
     "Excalidraw",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Self Learning/Learn Notes/LaTeX lessons.md",
@@ -234,13 +222,10 @@
     "Self Learning/Data Science.md",
     "Projects/Project(s).md",
     "-Support/Templates",
-    "-Attachments/Untitled.md",
     "-Support/Code",
     "-Support/Embed",
     "-Support/Reading",
     "-Support",
-    "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
-    "Self Learning/Learn Notes",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]

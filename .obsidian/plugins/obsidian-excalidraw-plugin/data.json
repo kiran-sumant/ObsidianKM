@@ -82,7 +82,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "1.9.23",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
@@ -408,6 +408,6 @@
   "pdfBorderBox": true,
   "pdfGapSize": 20,
   "pdfLockAfterImport": true,
-  "pdfNumColumns": 1,
+  "pdfNumColumns": 2,
   "pdfImportScale": 0.3
 }
