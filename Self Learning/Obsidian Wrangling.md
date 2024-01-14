@@ -9,6 +9,8 @@
 > > [!success]- Also
 > > they can be folded and nested in one another using "-" in front of function and ">>", respectively.
 
+[[Callout list]]
+
 - list type 1 can use "-"
 * list type 2 can use "\*"
 + list type 3 can use "+"

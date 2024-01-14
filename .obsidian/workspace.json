@@ -8,24 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1dcd6187536119e",
+            "id": "3026ea1b992693f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Obsidian Wrangling.md",
+                "file": "-Support/Reading/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "377c81ac09df7280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fbd1cb017b7353d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3026ea1b992693f5",
+            "id": "c1dcd6187536119e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "Self Learning/Obsidian Wrangling.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md"
+                "file": "-Support/Reading/Untitled.md"
               }
             }
           },
@@ -192,12 +210,17 @@
   },
   "active": "3026ea1b992693f5",
   "lastOpenFiles": [
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "-Support/Reading/Untitled.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Pasted image 20240114183833.png",
+    "Pasted image 20240114183825.png",
+    "Pasted image 20240114183803.png",
+    "Self Learning/Learn Notes/LaTeX lessons.md",
+    "-Support/Cheat Sheet.md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Honours.md",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Self Learning/Learn Notes/LaTeX lessons.md",
-    "Self Learning/Obsidian Wrangling.md",
-    "-Support/Cheat Sheet.md",
     "-Support/Templates/tags.md",
     "-Support/Templates/Process.md",
     "-Support/Templates/Key Differences.md",
@@ -225,9 +248,7 @@
     "Self Learning/Adobe/Adobe.md",
     "202401080312.md",
     "Self Learning/Learn Notes",
-    "202401080227.md",
     "Journals/Journal Entries",
-    "Journals/List Of Entries.md",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
