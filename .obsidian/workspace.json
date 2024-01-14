@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "Self Learning/Learn Notes/Callout list.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "486fd84ca658a630",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md"
+                "file": "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md"
               }
             }
           },
@@ -189,17 +200,22 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "3026ea1b992693f5",
+  "active": "486fd84ca658a630",
   "lastOpenFiles": [
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "Self Learning/Obsidian Wrangling.md",
-    "Pasted image 20240114183833.png",
-    "Pasted image 20240114183825.png",
-    "Pasted image 20240114183803.png",
-    "Self Learning/Learn Notes/LaTeX lessons.md",
+    "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-14 20.33.46.excalidraw.md",
     "-Support/Cheat Sheet.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "-Support/Graphics/Pasted image 20240114183803.png",
+    "-Support/Graphics",
+    "-Support/Graphics/Pasted image 20240114183833.png",
+    "-Support/Graphics/Pasted image 20240114183825.png",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
+    "Excalidraw",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Self Learning/Learn Notes/LaTeX lessons.md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Honours.md",
     "-Support/Templates/tags.md",
@@ -212,7 +228,6 @@
     "Journals/Journal Entries/2024-01-08 1.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Excalidraw/Drawing 2024-01-08 17.32.07.excalidraw.md",
-    "Excalidraw",
     "-Support/Docs/Untitled.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Self Learning/Adobe.md",
@@ -225,11 +240,7 @@
     "-Support/Reading",
     "-Support",
     "Self Learning/Obsidian Wrangling/Obsidian Wrangling.md",
-    "Self Learning/Philosophy.md",
-    "Self Learning/Adobe/Adobe.md",
-    "202401080312.md",
     "Self Learning/Learn Notes",
-    "Journals/Journal Entries",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]

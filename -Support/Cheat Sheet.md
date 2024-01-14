@@ -1,3 +1,3 @@
 [[Obsidian Wrangling]]
 
-Callout list
+[[Callout list]]
