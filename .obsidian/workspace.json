@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3026ea1b992693f5",
+            "id": "9fbd1cb017b7353d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c5791aee2e9bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +30,21 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "84ece3d23dc69303",
+        "type": "tabs",
+        "children": [
           {
-            "id": "9fbd1cb017b7353d",
+            "id": "3026ea1b992693f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
-                "mode": "source",
-                "source": false
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
               }
             }
           }
@@ -81,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md"
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
               }
             }
           },
@@ -170,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,9 +209,10 @@
   },
   "active": "3026ea1b992693f5",
   "lastOpenFiles": [
-    "Ultra-sensitive.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
+    "Ultra-sensitive.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
@@ -222,8 +242,6 @@
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Excalidraw/Drawing 2024-01-08 17.32.07.excalidraw.md",
     "-Support/Docs/Untitled.md",
-    "Self Learning/Adobe.md",
-    "Self Learning/Data Science.md",
     "-Support/Templates",
     "-Support/Code",
     "-Support/Embed",
