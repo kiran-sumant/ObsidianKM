@@ -1,2 +1,2 @@
-<iframe src="https://drive.google.com/file/d/1EUXx_eEaH5fnmT8uJa7qTn1A7wOCa1PF/view?usp=drive_link" scrolling="no" allowfullscreen></iframe>
 
+![Document](file:///G:/My%20Drive/Embed/Academic%20Documents/Ultra-sensitive%20platelet%20proteome%20maps%20the%20O-glycosylation%20landscape.pdf)
