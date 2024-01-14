@@ -407,7 +407,7 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
-  "pdfLockAfterImport": true,
-  "pdfNumColumns": 2,
-  "pdfImportScale": 0.3
+  "pdfLockAfterImport": false,
+  "pdfNumColumns": 1,
+  "pdfImportScale": 0.5
 }

@@ -7,7 +7,7 @@ Focus pt: - Platelet O-fucosyltransferase POFUT1 regulates the secretion of adhe
 > [!info] FYI
 > 
 
-#### [Doc Link](https://www.biorxiv.org/content/10.1101/2022.11.01.514776v1)
+#### [Doc Link](Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf)
 
 # Details/Quotes
 
