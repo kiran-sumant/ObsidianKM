@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md"
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
               }
             }
           },
@@ -207,10 +207,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "69c5791aee2e9bbe",
+  "active": "0325d5f4b0101dd0",
   "lastOpenFiles": [
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Ultra-sensitive.md",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
