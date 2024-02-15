@@ -17,6 +17,11 @@ then lab/case study report
 
 ![[Pasted image 20240216100343.png]]
 
+
+# MODULES
+
+1. [[Week 1: ]]
+
 # Organise
 
 - [ ] Devise your own study plan for the honours, recap
