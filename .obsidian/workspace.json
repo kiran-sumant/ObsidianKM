@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/Academic notes/Orientation.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,23 +28,6 @@
                 "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ac480ac12c4e19c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60101118197ba670",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
               }
             }
           }
@@ -98,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -115,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                "file": "Academic/Academic notes/Orientation.md"
               }
             }
           },
@@ -207,22 +189,25 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "60101118197ba670",
+  "active": "9fbd1cb017b7353d",
   "lastOpenFiles": [
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Self Learning/Obsidian Wrangling.md",
+    "Academic/Academic notes/Orientation.md",
     "Ultra-sensitive.md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Honours.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.33.46.excalidraw.md",
     "-Support/Cheat Sheet.md",
-    "Self Learning/Obsidian Wrangling.md",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
     "-Support/Graphics/Pasted image 20240114183833.png",
@@ -230,7 +215,6 @@
     "Excalidraw",
     "Self Learning/Learn Notes/LaTeX lessons.md",
     "Academic/Academic notes/Honours Readings to go through.md",
-    "Academic/Honours.md",
     "-Support/Templates/tags.md",
     "-Support/Templates/Process.md",
     "-Support/Templates/Key Differences.md",
@@ -241,7 +225,6 @@
     "Journals/Journal Entries/2024-01-08 1.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Excalidraw/Drawing 2024-01-08 17.32.07.excalidraw.md",
-    "-Support/Docs/Untitled.md",
     "-Support/Templates",
     "-Support/Code",
     "-Support/Embed",
