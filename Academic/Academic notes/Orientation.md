@@ -20,7 +20,16 @@ then lab/case study report
 
 # MODULES
 
-1. [[Week 1: ]]
+1. [[Week 1 - Data Analysis and Visualisation]]
+2. [[Week 2 - Cell Culture]]
+3. [[Week 3 - Molecular and Chemical Probes in Research]]
+4. [[Week 4 - Work Health and Safety]]
+5. [[Week 4 - Research Integrity]]
+6. [[Week 4 - Intro to Biostatistics]]
+7. [[Week 4 - Human and Animal Ethics]]
+
+Last chance to change modules is 16/2/24
+
 
 # Organise
 
