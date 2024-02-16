@@ -37,6 +37,10 @@ Last chance to change modules is 16/2/24
 - [ ] Discuss any potential time-off
 - [ ] talk to staff if you get sick, talk abt lab meetings
 - [ ] Join mentor scheme definitely
+- [ ] Readings for week intensive studies
+- [ ] CPC induction
+
+
 
 
 

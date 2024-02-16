@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Orientation.md",
+                "file": "Academic/Academic notes/SOMS4101.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Orientation.md",
+                "file": "Academic/Academic notes/SOMS4101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Orientation.md",
+                "file": "Academic/Academic notes/SOMS4101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Orientation.md"
+                "file": "Academic/Academic notes/SOMS4101.md"
               }
             }
           },
@@ -191,17 +191,23 @@
   },
   "active": "9fbd1cb017b7353d",
   "lastOpenFiles": [
-    "Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Orientation.md",
-    "Pasted image 20240216100343.png",
     "Academic/Academic notes/SOMS4101.md",
-    "Pasted image 20240216095630.png",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Week 2 - Cell Culture.md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "-Support/Graphics/Pasted image 20240216095630.png",
+    "Academic/Academic notes/Week 4 - Human and Animal Ethics.md",
+    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
+    "Academic/Academic notes/Week 4 - Research Integrity.md",
+    "Academic/Academic notes/Week 4 - Work Health and Safety.md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "-Support/Graphics/Pasted image 20240216100343.png",
     "Self Learning/Obsidian Wrangling.md",
     "Ultra-sensitive.md",
     "Academic/Honours.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
@@ -219,14 +225,7 @@
     "Self Learning/Learn Notes/LaTeX lessons.md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "-Support/Templates/tags.md",
-    "-Support/Templates/Process.md",
-    "-Support/Templates/Key Differences.md",
-    "-Support/Templates/Reference Breakdown.md",
-    "-Support/Templates/Standard Note.md",
-    "Journals/Journal Entries/2024-01-08.md",
     "Self Learning/Learn Notes",
-    "Journals/Journal Entries/2024-01-08 1.md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "-Support/Templates",
     "-Support/Code",
     "-Support/Embed",
