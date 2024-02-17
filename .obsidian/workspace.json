@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-17.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-17.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-17.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-17.md"
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md"
               }
             }
           },
@@ -175,10 +176,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "69c5791aee2e9bbe",
+  "active": "34a1ffaf4c277d28",
   "lastOpenFiles": [
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "2024-02-17.md",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Ultra-sensitive.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
@@ -195,7 +197,6 @@
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "Self Learning/Obsidian Wrangling.md",
-    "Ultra-sensitive.md",
     "Academic/Honours.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
