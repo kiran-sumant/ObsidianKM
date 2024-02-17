@@ -2,6 +2,7 @@
   "accentColor": "#5449a7",
   "baseFontSize": 20,
   "cssTheme": "Minimal",
-  "interfaceFontFamily": "Ink Free,Cambria",
-  "monospaceFontFamily": "Cambria Math"
+  "interfaceFontFamily": "Calibri",
+  "monospaceFontFamily": "Cambria Math",
+  "textFontFamily": "Ink Free"
 }

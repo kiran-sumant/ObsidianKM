@@ -11,9 +11,11 @@
             "id": "9fbd1cb017b7353d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                "file": "Academic/Academic notes/SOMS4101.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/SOMS4101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/SOMS4101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                "file": "Academic/Academic notes/SOMS4101.md"
               }
             }
           },
@@ -163,8 +165,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,11 +189,12 @@
   },
   "active": "9fbd1cb017b7353d",
   "lastOpenFiles": [
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/Orientation.md",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Week 2 - Cell Culture.md",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "Academic/Academic notes/Week 4 - Human and Animal Ethics.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
@@ -204,7 +206,6 @@
     "Ultra-sensitive.md",
     "Academic/Honours.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
