@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -214,8 +215,9 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/Differential Expression Analysis.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
@@ -243,7 +245,6 @@
     "-Support/Graphics/Pasted image 20240216100343.png",
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Honours.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
