@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Adjuvant.md",
+                "file": "Academic/Academic notes/resection.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Adjuvant.md",
+                "file": "Academic/Academic notes/resection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Adjuvant.md",
+                "file": "Academic/Academic notes/resection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Adjuvant.md"
+                "file": "Academic/Academic notes/resection.md"
               }
             }
           },
@@ -213,11 +213,13 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/resection.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
+    "Academic/Academic notes/Systemic.md",
     "Academic/Academic notes/Adjuvant.md",
     "Academic/Academic notes/micrometastatic.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "2024-02-17.md",
     "Ultra-sensitive.md",
@@ -242,8 +244,6 @@
     "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
     "-Support/Graphics/Pasted image 20240114183833.png",
