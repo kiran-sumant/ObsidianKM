@@ -1,0 +1,1 @@
+A medical active chemical that heightens or alters the activity of other ingredients
