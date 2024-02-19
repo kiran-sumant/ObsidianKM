@@ -9,17 +9,36 @@ Metastasis-associated gene signature identified, expression signature helps ID p
 
 Use of [[Differential Expression Analysis]], on primary tumours from RNA-Sequenced Melanomas in an adjuvant trial.
 
-Basically took RNA from tumour, sequences it
+Basically took RNA from tumour, sequences it. We find Cam-121 gene expression the best indicator-most associated with (progression-free) melanoma survival
 
 Used machine learning model to create the classification model. More accurate compared to:
 - Clinical covariates
 - Current basic prognostic signatures
 
 ## Data Vis
-> [!info] Kaplan-Meier Survival Plot
-> 
+> [!info] Kaplan-Meier Survival Plot (Fig. 1)
+> Compares survival probabilities for high and low "Cam-121"
 > > [!abstract]- Variables
+> > - Time in years
+> > - Survival Probability (overall or progression-free)
+> > High Cam-121 generally decreases survival probability further over years
+> 
+
+> [!info] Forest Plot 
+> Demonstrates Hazard ratio estimates for with hazard model sets with difference clinical variables. All fall within confidence interval
+> > [!abstract]- Variables
+> > - Hazard ratio
+> > Models:
+> > - Sex
+> > - Age
+> > - Stage
+> > - ECOG
+> > - Treatment
+> > - NClass
+> > - 
 > > 
+
+
 
 
 
