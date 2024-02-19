@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
-                "mode": "preview",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md"
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
               }
             }
           },
@@ -187,58 +187,44 @@
         "type": "window",
         "children": [
           {
-            "id": "a3579cb70d9ed6dd",
-            "type": "split",
+            "id": "75c6c8b931bd16ee",
+            "type": "tabs",
             "children": [
               {
-                "id": "75c6c8b931bd16ee",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "ba47a1f48ebdea78",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
-                      }
-                    }
-                  },
-                  {
-                    "id": "b8fbc82e1a063082",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Self Learning/Obsidian Wrangling.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
+                "id": "ba47a1f48ebdea78",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
                   }
-                ],
-                "currentTab": 1
+                }
               },
               {
-                "id": "70c33c7eca44737d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "5928b01ecd2cb6b3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Self Learning/Learn Notes/Callout list.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
+                "id": "b8fbc82e1a063082",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Self Learning/Obsidian Wrangling.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ]
+                }
+              },
+              {
+                "id": "5928b01ecd2cb6b3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Self Learning/Learn Notes/Callout list.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
         "direction": "vertical",
@@ -253,13 +239,14 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
-    "Academic/Academic notes/Differential Expression Analysis.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "-Support/Templates/Callout.md",
-    "Self Learning/Obsidian Wrangling.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "-Support/Cheat Sheet.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "-Support/Templates/Reference Breakdown.md",
+    "-Support/Templates/Callout.md",
+    "Academic/Academic notes/Differential Expression Analysis.md",
+    "-Support/Cheat Sheet.md",
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
@@ -280,8 +267,6 @@
     "Academic/Academic notes/Week 2 - Cell Culture.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "Academic/Academic notes/Week 4 - Human and Animal Ethics.md",
-    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
-    "Academic/Academic notes/Week 4 - Research Integrity.md",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics/Pasted image 20240114183803.png",

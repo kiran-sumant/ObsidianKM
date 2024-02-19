@@ -9,6 +9,19 @@ Metastasis-associated gene signature identified, expression signature helps ID p
 
 Use of [[Differential Expression Analysis]], on primary tumours from RNA-Sequenced Melanomas in an adjuvant trial.
 
+Basically took RNA from tumour, sequences it
+
+Used machine learning model to create the classification model. More accurate compared to:
+- Clinical covariates
+- Current basic prognostic signatures
+
+## Data Vis
+> [!info] Kaplan-Meier Survival Plot
+> 
+> > [!abstract]- Variables
+> > 
+
+
 
 ## Related Links
 
