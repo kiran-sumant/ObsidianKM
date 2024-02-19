@@ -12,7 +12,7 @@ use case: helps give insight into processed affected by conditions being researc
 > [!abstract] Title
 > text
 > > [!success]- Fold
-> > nest
+> > 
 
 
 le Bioinformatic Workflow
