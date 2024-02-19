@@ -11,12 +11,8 @@
             "id": "69c5791aee2e9bbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Support/Templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "-Support/Templates/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,11 +244,11 @@
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
     "Academic/Academic notes/Differential Expression Analysis.md",
-    "-Support/Templates/Untitled.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "-Support/Templates/Callout.md",
     "Self Learning/Obsidian Wrangling.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/prognostic.md",
