@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a5a7c45681de5e",
+        "id": "9efa4ea55c555afe",
         "type": "tabs",
         "children": [
           {
-            "id": "69c5791aee2e9bbe",
+            "id": "3f24b0bea32b9a98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,9 +36,11 @@
             "id": "34a1ffaf4c277d28",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Analysis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,12 +66,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "924ef4b3e3146b09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 304.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
               }
             }
           },
@@ -191,7 +204,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ba47a1f48ebdea78",
+                "id": "0890e3fdfdae8956",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -237,14 +250,18 @@
       }
     ]
   },
-  "active": "69c5791aee2e9bbe",
+  "active": "0890e3fdfdae8956",
   "lastOpenFiles": [
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Self Learning/Obsidian Wrangling.md",
-    "-Support/Templates/Reference Breakdown.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Excalidraw/Drawing 2024-02-19 22.57.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-19 22.57.43.excalidraw.md",
     "-Support/Templates/Callout.md",
+    "-Support/Templates/Reference Breakdown.md",
     "Academic/Academic notes/Differential Expression Analysis.md",
     "-Support/Cheat Sheet.md",
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
@@ -256,17 +273,13 @@
     "Academic/Academic notes/Systemic.md",
     "Academic/Academic notes/Adjuvant.md",
     "Academic/Academic notes/micrometastatic.md",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "2024-02-17.md",
     "Ultra-sensitive.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Tumour.md",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/Orientation.md",
-    "Academic/Academic notes/Week 2 - Cell Culture.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
-    "Academic/Academic notes/Week 4 - Human and Animal Ethics.md",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics/Pasted image 20240114183803.png",

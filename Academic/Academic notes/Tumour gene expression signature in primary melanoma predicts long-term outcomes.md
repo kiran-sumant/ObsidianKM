@@ -16,7 +16,7 @@ Used machine learning model to create the classification model. More accurate co
 - Current basic prognostic signatures
 
 ## Data Vis
-> [!info] Kaplan-Meier Survival Plot (Fig. 1)
+> [!info] Kaplan-Meier Survival Plot (Fig. 1 a and b)
 > Compares survival probabilities for high and low "Cam-121"
 > > [!abstract]- Variables
 > > - Time in years
@@ -24,7 +24,7 @@ Used machine learning model to create the classification model. More accurate co
 > > High Cam-121 generally decreases survival probability further over years
 > 
 
-> [!info] Forest Plot 
+> [!info] Forest Plot (Fig. 1 c) 
 > Demonstrates Hazard ratio estimates for with hazard model sets with difference clinical variables. All fall within confidence interval
 > > [!abstract]- Variables
 > > - Hazard ratio
@@ -35,14 +35,17 @@ Used machine learning model to create the classification model. More accurate co
 > > - ECOG
 > > - Treatment
 > > - NClass
-> > - 
-> > 
+> > - All the above
+> > - All the above + Tumour Infiltrating Lymphocyte (TIL) count
+
 
 
 
 
 
 ## Related Links
+[Melanoma Transcriptomics Source Data](https://github.com/Manikgarg/MelanomaTranscriptomics/tree/master/Source_Data)
+[Melanoma Transcriptomics Scripts](https://github.com/Manikgarg/MelanomaTranscriptomics/tree/master/scripts)
 
 ## Related Reading
 
