@@ -11,8 +11,12 @@
             "id": "69c5791aee2e9bbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Adjuvant Systemic Therapy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Academic notes/Adjuvant Systemic Therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Academic notes/Adjuvant Systemic Therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Academic notes/Adjuvant Systemic Therapy.md"
+              }
             }
           },
           {
@@ -168,13 +176,50 @@
       "janitor:Janitor: scan vault": false
     }
   },
+  "floating": {
+    "id": "d587976507df0e79",
+    "type": "floating",
+    "children": [
+      {
+        "id": "316c3807e95d6680",
+        "type": "window",
+        "children": [
+          {
+            "id": "75c6c8b931bd16ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba47a1f48ebdea78",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
+    "Academic/Academic notes/micrometastatic.md",
+    "Academic/Academic notes/Adjuvant Systemic Therapy.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "2024-02-17.md",
     "Ultra-sensitive.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Tumour.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
@@ -199,13 +244,11 @@
     "Excalidraw/Drawing 2024-01-14 20.25.47.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.35.12.excalidraw.md",
     "Excalidraw/Drawing 2024-01-14 20.33.46.excalidraw.md",
-    "-Support/Cheat Sheet.md",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
     "-Support/Graphics/Pasted image 20240114183833.png",
     "-Support/Graphics/Pasted image 20240114183825.png",
     "Excalidraw",
-    "Self Learning/Learn Notes/LaTeX lessons.md",
     "Self Learning/Learn Notes",
     "-Support/Templates",
     "-Support/Code",
