@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "Academic/Academic notes/Differential Expression Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "Academic/Academic notes/Differential Expression Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "Academic/Academic notes/Differential Expression Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
+                "file": "Academic/Academic notes/Differential Expression Analysis.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/Differential Expression Analysis.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
     "Academic/Academic notes/melanocytes.md",
