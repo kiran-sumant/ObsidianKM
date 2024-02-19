@@ -38,10 +38,15 @@ Used machine learning model to create the classification model. More accurate co
 > > - All the above
 > > - All the above + Tumour Infiltrating Lymphocyte (TIL) count
 
+Cam-121 Negatively correlates with TIL count.
 
+## Machine Learning
 
-
-
+R was used!!!
+- Labelled for training
+- One-Hot Encoding was used to convert covariate data to numeric dummy variables
+- Variance Stabilizing Transformation (VST) used to transform both training and testing datasets for gene-expression data
+- 
 
 ## Related Links
 [Melanoma Transcriptomics Source Data](https://github.com/Manikgarg/MelanomaTranscriptomics/tree/master/Source_Data)
