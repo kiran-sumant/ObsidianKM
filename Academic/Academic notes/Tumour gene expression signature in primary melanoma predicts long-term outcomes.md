@@ -3,7 +3,7 @@
 [[Adjuvant Systemic Therapy ]]used following [[resection]] of stage 3 [[melanoma]], but it requires more accurate [[prognostic]] data to classify/stratify patients.
 Metastasis-associated gene signature identified, expression signature helps ID patients at high risk of metastasis.
 
-Prognostic biomarkers for cancers are vital but unmet in clinics. It will help guide adjuvant therapies. Clinical guidelines from trial study need to be established by further research, as most studies only undergo retrospective or pr
+Prognostic biomarkers for cancers are vital but unmet in clinics. It will help guide adjuvant therapies. Clinical guidelines from trial study need to be established by further research, as most studies only undergo ==retrospective== or ==prospective studies==, ==with no comparator group==.
 
 #### [Doc Link](Tumour%20gene%20expression%20signature%20in%20primary%20melanoma%20predicts%20long-term%20outcomes.pdf)
 
