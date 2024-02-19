@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/prognostic.md",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/prognostic.md",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/prognostic.md",
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/prognostic.md"
+                "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,6 +214,7 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
@@ -222,7 +224,6 @@
     "Academic/Academic notes/Systemic.md",
     "Academic/Academic notes/Adjuvant.md",
     "Academic/Academic notes/micrometastatic.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "2024-02-17.md",
     "Ultra-sensitive.md",
@@ -242,7 +243,6 @@
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Honours.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
