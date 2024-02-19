@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/resection.md",
+                "file": "Academic/Academic notes/prognostic.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/resection.md",
+                "file": "Academic/Academic notes/prognostic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/resection.md",
+                "file": "Academic/Academic notes/prognostic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/resection.md"
+                "file": "Academic/Academic notes/prognostic.md"
               }
             }
           },
@@ -214,6 +214,9 @@
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/prognostic.md",
+    "Academic/Academic notes/melanoma.md",
+    "Academic/Academic notes/melanocytes.md",
     "Academic/Academic notes/resection.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/Systemic.md",
@@ -241,9 +244,6 @@
     "Self Learning/Learn Notes/Callout list.md",
     "-Support%2FReading%2FUltra-sensitive platelet proteome maps the O-glycosylation landscape.pdf.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
-    "Excalidraw/Drawing 2024-01-14 20.46.34.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-14 20.36.26.excalidraw.md",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",
     "-Support/Graphics/Pasted image 20240114183833.png",
