@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
+                "file": "-Support/Templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Analysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
+                "file": "-Support/Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md",
+                "file": "-Support/Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Differential Expression Analysis.md"
+                "file": "-Support/Templates/Untitled.md"
               }
             }
           },
@@ -187,20 +186,58 @@
         "type": "window",
         "children": [
           {
-            "id": "75c6c8b931bd16ee",
-            "type": "tabs",
+            "id": "a3579cb70d9ed6dd",
+            "type": "split",
             "children": [
               {
-                "id": "ba47a1f48ebdea78",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                "id": "75c6c8b931bd16ee",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ba47a1f48ebdea78",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                      }
+                    }
+                  },
+                  {
+                    "id": "b8fbc82e1a063082",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Self Learning/Obsidian Wrangling.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "70c33c7eca44737d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5928b01ecd2cb6b3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Self Learning/Learn Notes/Callout list.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical",
@@ -215,10 +252,14 @@
   },
   "active": "69c5791aee2e9bbe",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/Differential Expression Analysis.md",
+    "-Support/Templates/Untitled.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Cheat Sheet.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
     "Academic/Academic notes/melanocytes.md",
@@ -240,11 +281,7 @@
     "Academic/Academic notes/Week 4 - Human and Animal Ethics.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Week 4 - Research Integrity.md",
-    "Academic/Academic notes/Week 4 - Work Health and Safety.md",
-    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "-Support/Graphics/Pasted image 20240216100343.png",
-    "Self Learning/Obsidian Wrangling.md",
-    "Academic/Honours.md",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics/Pasted image 20240114183803.png",
     "-Support/Graphics",

@@ -4,7 +4,11 @@ use case: helps give insight into processed affected by conditions being researc
 
 # Steps
 
-1. Quality control, Normalisation
-2. Statistical Analysis of genes identified to be differentially expressed between groups
-3. Downstream analysis of validation, Functional testings
+1. Data collection (*RNA-sequencing, microarray*)
+2. Data Processing (*quality control, normalisation*)
+3. Differential Gene Expression Testing (*statistical analysis of genes identified to be differentially expressed between groups*)
+4. Functional analyses of discovery set (*downstream analysis of validation, functional testing*)
 
+le Bioinformatic Workflow
+
+#analysis #data-science #genetics #gene-expression
