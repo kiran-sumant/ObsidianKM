@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md"
+                "file": "Academic/Academic notes/SOMS4101 Orientation.md"
               }
             }
           },
@@ -256,12 +256,13 @@
   },
   "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Academic notes/SOMS4101 Orientation.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Self Learning/Obsidian Wrangling.md",
-    "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Week 2 - Cell Culture.md",
