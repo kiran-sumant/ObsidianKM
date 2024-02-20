@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimensionality Reduction.md",
+                "file": "Data Imbalance.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dimensionality Reduction.md",
+                "file": "Data Imbalance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dimensionality Reduction.md",
+                "file": "Data Imbalance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dimensionality Reduction.md"
+                "file": "Data Imbalance.md"
               }
             }
           },
@@ -168,8 +169,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -254,6 +254,7 @@
   "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
     "Lecture SOMS4101 2024-02-21.md",
+    "Data Imbalance.md",
     "Dimensionality Reduction.md",
     "One-Hot Encoding.md",
     "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
@@ -285,7 +286,6 @@
     "Academic/Academic notes/Differential Expression Analysis.md",
     "-Support/Cheat Sheet.md",
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
-    "Academic/Academic notes/prognostic.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
