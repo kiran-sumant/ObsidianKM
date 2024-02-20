@@ -204,16 +204,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "0890e3fdfdae8956",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
-                  }
-                }
-              },
-              {
                 "id": "b8fbc82e1a063082",
                 "type": "leaf",
                 "state": {
@@ -222,6 +212,16 @@
                     "file": "Self Learning/Obsidian Wrangling.md",
                     "mode": "source",
                     "source": false
+                  }
+                }
+              },
+              {
+                "id": "3ba5d732fbc4a650",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
                   }
                 }
               },
@@ -237,7 +237,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -252,22 +253,22 @@
   },
   "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+    "Self Learning/Obsidian Wrangling.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Week 2 - Cell Culture.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
     "Academic/Academic notes/biomarkers.md",
     "Academic/Academic notes/Cox Model.md",
     "Academic/Academic notes/TRIPOD Statement.md",
     "Pasted image 20240220130804.png",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240220093845.png",
     "-Support/Graphics/Pasted image 20240220090929.png",
-    "Self Learning/Obsidian Wrangling.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Excalidraw/Drawing 2024-02-19 22.57.41.excalidraw.md",
     "Excalidraw/Drawing 2024-02-19 22.57.43.excalidraw.md",
@@ -282,7 +283,6 @@
     "Academic/Academic notes/resection.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/Systemic.md",
-    "Academic/Academic notes/Adjuvant.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",

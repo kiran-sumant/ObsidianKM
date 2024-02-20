@@ -42,6 +42,8 @@ Used machine learning model to create the classification model. More accurate co
 
 Cam-121 Negatively correlates with TIL count.
 
+On Kaplan-Meier Survival plot, high Cam-121 score means low death, low Cam-121 score means higher mortality.
+
 ## Machine Learning
 
 R was used!!!
