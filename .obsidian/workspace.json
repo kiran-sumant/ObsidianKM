@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md"
               }
             }
           },
@@ -251,10 +251,10 @@
       }
     ]
   },
-  "active": "3ba5d732fbc4a650",
+  "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Self Learning/Obsidian Wrangling.md",
