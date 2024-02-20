@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Imbalance.md",
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Imbalance.md",
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Imbalance.md"
+                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
               }
             }
           },
@@ -238,7 +238,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -246,18 +246,18 @@
         "y": 0,
         "width": 768,
         "height": 408,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "3f24b0bea32b9a98",
+  "active": "489579090c428119",
   "lastOpenFiles": [
-    "Lecture SOMS4101 2024-02-21.md",
+    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Data Imbalance.md",
+    "Lecture SOMS4101 2024-02-21.md",
     "Dimensionality Reduction.md",
     "One-Hot Encoding.md",
-    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
