@@ -9,13 +9,22 @@ Done by a balance of observing dataset model's:
 Helps consider:
 
 Accuracy-
-	
-Reliability-
-	
+$$
+Accuracy = \frac{TP+TN}{TP+TN+FP+FN}
+$$
 Precision-
 $$
-	Precision = \frac {TP}{TP+FP)
+	Precision = \frac {TP}{TP+FP}
 $$
 Recall-
-	
-#data-science #statistics #research #machine-learning 
+$$
+Recall = \frac{TP}{TP+FN}
+$$
+F1 Score-
+$$
+F1 = 2  \times \frac{Precision*Recall}{Precision+Recall}
+$$
+
+
+
+#data-science #statistics #research #machine-learning #accuracy
