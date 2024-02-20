@@ -41,6 +41,7 @@
               "state": {
                 "file": "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
@@ -211,6 +212,7 @@
                   "state": {
                     "file": "Self Learning/Obsidian Wrangling.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   }
                 }
@@ -233,6 +235,7 @@
                   "state": {
                     "file": "Self Learning/Learn Notes/Callout list.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   }
                 }
