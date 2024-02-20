@@ -13,6 +13,6 @@
 ## Lectures
 
 [[Lecture SOMS4101 2024-02-20]]
-
+[[Lecture SOMS4101 2024-02-21]]
 
 #SOMS4101 

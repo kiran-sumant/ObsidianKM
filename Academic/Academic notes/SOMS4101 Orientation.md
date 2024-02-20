@@ -3,7 +3,7 @@
 ## Keep up
 Make sure to watch pre-recorded, reading recommended, *download all software on laptop necessary for the teaching*
 
-## Lab/comp-based pracs
+## Lab/comp-based Practicals
 laptops usually allowed, make sure you got your lab coat, goggles and boots.
 
 ## No attendance

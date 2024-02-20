@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
+                "file": "Lecture SOMS4101 2024-02-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6a520a0b2d74bff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
+                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Orientation.md",
+                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Orientation.md"
+                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
               }
             }
           },
@@ -205,29 +216,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b8fbc82e1a063082",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Self Learning/Obsidian Wrangling.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3ba5d732fbc4a650",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
-                  }
-                }
-              },
-              {
                 "id": "5928b01ecd2cb6b3",
                 "type": "leaf",
                 "state": {
@@ -239,41 +227,56 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "489579090c428119",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                  }
+                }
               }
             ],
             "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 874,
         "y": 0,
-        "width": 768,
+        "width": 662,
         "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3f24b0bea32b9a98",
+  "active": "924ef4b3e3146b09",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS4101.md",
-    "Academic/Academic notes/SOMS4101 Orientation.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "-Support/Slides/Wednesday_ML_Adam-3.pdf",
+    "-Support/Slides",
+    "Lecture SOMS4101 2024-02-21.md",
+    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Week 4 - Work Health and Safety.md",
+    "Academic/Academic notes/SOMS4101 Orientation.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Obsidian Wrangling.md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Week 2 - Cell Culture.md",
     "Academic/Academic notes/biomarkers.md",
     "Academic/Academic notes/Cox Model.md",
     "Academic/Academic notes/TRIPOD Statement.md",
-    "Pasted image 20240220130804.png",
+    "-Support/Graphics/Pasted image 20240220130804.png",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240220093845.png",
     "-Support/Graphics/Pasted image 20240220090929.png",
-    "Self Learning/Learn Notes/Callout list.md",
     "Excalidraw/Drawing 2024-02-19 22.57.41.excalidraw.md",
     "Excalidraw/Drawing 2024-02-19 22.57.43.excalidraw.md",
     "-Support/Templates/Callout.md",
@@ -283,10 +286,6 @@
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/prognostic.md",
     "Academic/Academic notes/melanoma.md",
-    "Academic/Academic notes/melanocytes.md",
-    "Academic/Academic notes/resection.md",
-    "Academic/Academic notes/Adjuvant Systemic Therapy.md",
-    "Academic/Academic notes/Systemic.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
@@ -299,7 +298,6 @@
     "-Support/Templates",
     "-Support/Code",
     "-Support/Embed",
-    "-Support/Reading",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
