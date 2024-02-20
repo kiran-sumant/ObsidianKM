@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Lecture SOMS4101 2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Lecture SOMS4101 2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                "file": "Lecture SOMS4101 2024-02-21.md"
               }
             }
           },
@@ -252,12 +251,12 @@
       }
     ]
   },
-  "active": "924ef4b3e3146b09",
+  "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "Lecture SOMS4101 2024-02-21.md",
-    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/SOMS4101 Orientation.md",
@@ -297,7 +296,6 @@
     "Self Learning/Learn Notes",
     "-Support/Templates",
     "-Support/Code",
-    "-Support/Embed",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
