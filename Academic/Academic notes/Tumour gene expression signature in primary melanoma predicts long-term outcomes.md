@@ -48,7 +48,7 @@ On Kaplan-Meier Survival plot, high Cam-121 score means low death, low Cam-121 s
 
 R was used!!!
 - Labelled for training
-- One-Hot Encoding was used to convert covariate data to numeric dummy variables
+- [[One-Hot Encoding]] was used to convert covariate data to numeric dummy variables
 - Variance Stabilizing Transformation (VST) used to transform both training and testing datasets for gene-expression data
 - Data was used to train multiple ML models, and two-sample Welch t-tests used to statistically compare models based on AUROC (SVMRadical appears to be the most reliable across datasetsand classification models)
 

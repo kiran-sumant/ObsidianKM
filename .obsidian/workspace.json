@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture SOMS4101 2024-02-21.md",
+                "file": "Dimensionality Reduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f6a520a0b2d74bff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
               }
             }
           }
@@ -62,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#proteomics",
+                "query": "one-hot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture SOMS4101 2024-02-21.md",
+                "file": "Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture SOMS4101 2024-02-21.md",
+                "file": "Dimensionality Reduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture SOMS4101 2024-02-21.md"
+                "file": "Dimensionality Reduction.md"
               }
             }
           },
@@ -228,6 +218,16 @@
                 }
               },
               {
+                "id": "f6a520a0b2d74bff",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                  }
+                }
+              },
+              {
                 "id": "489579090c428119",
                 "type": "leaf",
                 "state": {
@@ -242,10 +242,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 874,
+        "x": 768,
         "y": 0,
-        "width": 662,
-        "height": 816,
+        "width": 768,
+        "height": 408,
         "maximize": false,
         "zoom": 0
       }
@@ -253,8 +253,11 @@
   },
   "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Lecture SOMS4101 2024-02-21.md",
+    "Dimensionality Reduction.md",
+    "One-Hot Encoding.md",
+    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
@@ -265,7 +268,6 @@
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Week 2 - Cell Culture.md",
@@ -284,7 +286,6 @@
     "-Support/Cheat Sheet.md",
     "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "Academic/Academic notes/prognostic.md",
-    "Academic/Academic notes/melanoma.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
