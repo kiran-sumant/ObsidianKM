@@ -11,9 +11,12 @@
             "id": "3f24b0bea32b9a98",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                "file": "Lecture SOMS4101 2024-02-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Lecture SOMS4101 2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Lecture SOMS4101 2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                "file": "Lecture SOMS4101 2024-02-21.md"
               }
             }
           },
@@ -250,8 +253,8 @@
   },
   "active": "3f24b0bea32b9a98",
   "lastOpenFiles": [
-    "Lecture SOMS4101 2024-02-21.md",
     "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+    "Lecture SOMS4101 2024-02-21.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
