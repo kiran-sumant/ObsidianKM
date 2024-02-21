@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f24b0bea32b9a98",
+            "id": "562bddb1be429b2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Data Imbalance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md"
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md"
               }
             }
           },
@@ -218,16 +215,6 @@
                 }
               },
               {
-                "id": "f6a520a0b2d74bff",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
-                  }
-                }
-              },
-              {
                 "id": "489579090c428119",
                 "type": "leaf",
                 "state": {
@@ -238,22 +225,26 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 768,
         "y": 0,
         "width": 768,
-        "height": 408,
+        "height": 816,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "489579090c428119",
+  "active": "562bddb1be429b2d",
   "lastOpenFiles": [
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+    "202402211451.md",
     "Data Imbalance.md",
     "Lecture SOMS4101 2024-02-21.md",
     "Dimensionality Reduction.md",
@@ -264,8 +255,6 @@
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/SOMS4101 Orientation.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
@@ -283,9 +272,6 @@
     "Excalidraw/Drawing 2024-02-19 22.57.43.excalidraw.md",
     "-Support/Templates/Callout.md",
     "-Support/Templates/Reference Breakdown.md",
-    "Academic/Academic notes/Differential Expression Analysis.md",
-    "-Support/Cheat Sheet.md",
-    "Excalidraw/Drawing 2024-02-19 20.31.35.excalidraw.md",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
