@@ -5,7 +5,7 @@
 | CAM-121                                         | HI/LO Cam-121                                                                                        |
 | Cam-121 Score                                   | OS and PFS events                                                                                    |
 | Patient TIL count                               | comparison of results with that from previous datasets                                               |
-| External Datasets from other prognostic methods | The ability of the models based of CAM-121 to predict and gauge probability of clinical events.      |
+| External Datasets from other prognostic methods | The ability of the models based of CAM-121 to predict and gauge probability of clinical events, ==such as metastases==      |
 | True Positive & False Positive Rate             | ROC/AUROC curve comparing classification performance of CAM-121 vs covariates.                       |
 | median B-Cell and T-cell gene expression        | Cam-121 neg Correlation w/ t-cells, b-cells, and all immune cell types, both scatter + density plots |
 
