@@ -13,7 +13,8 @@
 ## Clarify:
 - Weighted Cam-121 score - > For each sample, a ==vector== of [[weighted signature expression score]]s was calculated by using Eq. 1 on the vst normalised gene expression data ([[Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf#page=11&selection=412,2,413,80|link]])
 Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
-- 
+- TIL count; Clark Score vs MIA
+
 
 | Potential questions to answer |
 | ---- |
