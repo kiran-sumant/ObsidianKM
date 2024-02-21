@@ -17,7 +17,7 @@ Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
 
 | Potential questions to answer |
 | ---- |
-| Compare Fig2.A with Fig2.F  |
+| Compare Fig2.A with Fig2.F, test values/data to see if curves are statistically similar |
 |  |
 |  |
 |  |
