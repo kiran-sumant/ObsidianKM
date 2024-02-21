@@ -18,7 +18,7 @@ Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
 | Potential questions to answer |
 | ---- |
 | Compare Fig2.A with Fig2.F, test values/data to see if curves are statistically similar |
-|  |
+| What are the downregulated key immune-mediated processes in the samples from patients that developed metastases? |
 |  |
 |  |
 
