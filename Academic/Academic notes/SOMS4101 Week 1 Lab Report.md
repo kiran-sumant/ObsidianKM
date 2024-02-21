@@ -8,6 +8,8 @@
 | External Datasets from other prognostic methods | The ability of the models based of CAM-121 to predict and gauge probability of clinical events. |
 |                                                 |                                                                                                 |
 
+## Clarify:
+- Weighted Cam-121 score - [link][Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf#page=11&selection=412,2,413,80|Tumour gene expression signature in primary melanoma predicts long-term outcomes, page 11]
 
 | Potential questions to answer |
 | ---- |
