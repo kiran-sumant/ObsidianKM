@@ -9,7 +9,9 @@
 |                                                 |                                                                                                 |
 
 ## Clarify:
-- Weighted Cam-121 score - [link][Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf#page=11&selection=412,2,413,80|Tumour gene expression signature in primary melanoma predicts long-term outcomes, page 11]
+- Weighted Cam-121 score - > For each sample, a ==vector== of weighted signature expression scores was calculated by using Eq. 1 on the vst normalised gene expression data ([[Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf#page=11&selection=412,2,413,80|link]])
+Eq.1: $$ Weighted signature score =  ¼ Xn i¼1 βi ´ gene  $$
+
 
 | Potential questions to answer |
 | ---- |
