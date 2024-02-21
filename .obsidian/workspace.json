@@ -11,9 +11,12 @@
             "id": "562bddb1be429b2d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "one-hot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md"
               }
             }
           },
@@ -170,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,19 +203,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5928b01ecd2cb6b3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Self Learning/Learn Notes/Callout list.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "489579090c428119",
                 "type": "leaf",
                 "state": {
@@ -224,8 +212,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -240,19 +227,20 @@
   },
   "active": "562bddb1be429b2d",
   "lastOpenFiles": [
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+    "Lecture SOMS4101 2024-02-21.md",
+    "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Self Learning/Learn Notes/Callout list.md",
-    "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "202402211451.md",
     "Data Imbalance.md",
-    "Lecture SOMS4101 2024-02-21.md",
     "Dimensionality Reduction.md",
     "One-Hot Encoding.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/SOMS4101 Orientation.md",
     "Self Learning/Obsidian Wrangling.md",
