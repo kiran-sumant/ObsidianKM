@@ -11,9 +11,12 @@
             "id": "ed9470523d9d5fdb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md"
               }
             }
           },
@@ -225,21 +228,21 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Dimensionality Reduction.md",
+    "202402211451.md",
+    "Academic/Academic notes/Data Imbalance.md",
+    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
-    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/weighted signature expression score.md",
     "Academic/Academic notes/Tumour.md",
     "Academic/Academic notes/[.md",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
-    "Lecture SOMS4101 2024-02-21.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
-    "202402211451.md",
-    "Data Imbalance.md",
-    "Dimensionality Reduction.md",
-    "One-Hot Encoding.md",
+    "Academic/Academic notes/One-Hot Encoding.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
@@ -253,7 +256,6 @@
     "Academic/Academic notes/Week 2 - Cell Culture.md",
     "Academic/Academic notes/biomarkers.md",
     "Academic/Academic notes/Cox Model.md",
-    "Academic/Academic notes/TRIPOD Statement.md",
     "-Support/Graphics/Pasted image 20240220130804.png",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240220093845.png",
