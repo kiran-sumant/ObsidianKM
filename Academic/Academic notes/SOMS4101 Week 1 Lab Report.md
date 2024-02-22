@@ -26,9 +26,9 @@ We can work with processed rows as n=143 for AVAST-M LN
 
 data sources:
 
-1. 
-2. Metastases + key immune-related pathways (**lymph node samples**)
+1. Fig. 2a_2b_2c for survivability 
+2. Fig. 3b_3c_3d for metastases analyses
 
+PFS and OS for Fig.2 are both calculated from same dataset
 
-
-#SOMS4101 #data-science #analysis #code 
+#SOMS4101 #data-science #analysis #code
