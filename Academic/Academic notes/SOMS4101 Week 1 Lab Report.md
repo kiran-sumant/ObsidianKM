@@ -26,7 +26,7 @@ We can work with processed rows as n=143 for AVAST-M LN
 
 data sources:
 
-1. Fig. 2a_2b_2c for survivability 
+1. Table 1 for survivability (??????????????????)
 2. Fig. 3b_3c_3d for metastases analyses (143 rows per analysis model)
 
 PFS and OS for Fig.2 are both calculated from same dataset
