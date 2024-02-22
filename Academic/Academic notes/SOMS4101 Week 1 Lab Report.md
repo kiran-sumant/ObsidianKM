@@ -30,7 +30,6 @@ data sources:
 
 1. Table 1: has death confirmation, time survival, ==cancer stage,== ...1 (??), unweighted Cam-121 score, event (almost definitely ==metastases==), low/hi Cam-121 (0.33 cutoff)
 2. Fig 5B: (merge Cam-121 score), ID, ==TIL class== based off of Clark classification.
-3. relate cancer stage to TIL class too, perhaps? 
 
 MERGE AND CONQUER BOYOOOOOSSSS
 
@@ -38,6 +37,9 @@ spaghetti on the wall:
 - use the TIL class and then colour them dots to demonstrate how they are distributed along the classes.
 - Bar chart?
 - LOGARITHMIC SCATTER PLOT
+- relate cancer stage to TIL class too, perhaps?  would be scatterplot with classification or simply plot with the colours/shapes
+- ADVANCE THE PROJECT WITH USING ML ALGO TO CREATE A CLASSIFICATION YOO
+- ok pog we can try that if we got time
 - 
 
 PFS and OS for Fig.2 are both calculated from same dataset
