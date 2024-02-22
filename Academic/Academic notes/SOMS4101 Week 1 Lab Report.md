@@ -15,11 +15,18 @@ Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
 - TIL count; Clark Score vs MIA
 
 
-| Potential questions to answer |
-| ---- |
-| Compare Fig2.A with Fig2.F, test values/data to see if curves are statistically similar |
+| Potential questions to answer                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------- |
+| ~~Compare Fig2.A with Fig2.F, test values/data to see if curves are statistically similar~~                      |
 | What are the downregulated key immune-mediated processes in the samples from patients that developed metastases? |
-|  |
-|  |
+
+<u>***What are the downregulated key immune-mediated processes in the samples from patients that developed metastases?***<u>
+
+data sources:
+
+1. Metastases + key immune-related pathways (**primary melanoma samples**) fig. S13
+2. Metastases + key immune-related pathways (**lymph node samples**)
+
+
 
 #SOMS4101 #data-science #analysis #code 

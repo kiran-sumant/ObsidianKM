@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md"
               }
             }
           },
@@ -173,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,10 +228,10 @@
       }
     ]
   },
-  "active": "489579090c428119",
+  "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Dimensionality Reduction.md",
     "202402211451.md",
