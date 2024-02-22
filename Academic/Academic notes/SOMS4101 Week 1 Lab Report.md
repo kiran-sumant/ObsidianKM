@@ -20,11 +20,13 @@ Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
 | ~~Compare Fig2.A with Fig2.F, test values/data to see if curves are statistically similar~~                      |
 | What are the downregulated key immune-mediated processes in the samples from patients that developed metastases? |
 
-<u>***What are the downregulated key immune-mediated processes in the samples from patients that developed metastases?***<u>
+<u>***What link can be made between metastases and OS/PFS?***<u>
+
+We can work with processed rows as n=143 for AVAST-M LN
 
 data sources:
 
-1. Metastases + key immune-related pathways (**primary melanoma samples**) fig. S13
+1. 
 2. Metastases + key immune-related pathways (**lymph node samples**)
 
 
