@@ -22,12 +22,14 @@ Eq.1: $$ Weighted \ signature \ score =  \sum_ {i=1}^nβ_i  \times gene_i  $$
 
 ***What link can be made between metastases and OS/PFS, or TIL count?***
 
-~~We can work with processed rows as n=143 for AVAST-M LN~~ we cannot because its a part of the AVAST-M clinical trials. no accessing that data 
+~~We can work with processed rows as n=143 for AVAST-M LN~~ we cannot because its a part of the AVAST-M clinical trials. no accessing that data before becoming a friggin doctor.
+
+We're working with the Leeds data babyyyyy
 
 data sources:
 
-1. ~~Table 1 for survivability (??????????????????)~~
-2. Fig. 3b_3c_3d for metastases analyses (143 rows per analysis model)
+1. Table 1: has death confirmation, time survival, cancer stage, ...1 (??), unweighted Cam-121 score, event (almost definitely metastases), low/hi Cam-121 (0.33 cutoff)
+2. Fig 5B: merge
 
 PFS and OS for Fig.2 are both calculated from same dataset
 
