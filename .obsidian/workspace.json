@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md"
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md"
               }
             }
           },
@@ -230,9 +229,11 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
+    "Academic/Academic notes/Week 2 - Cell Culture.md",
+    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/Dimensionality Reduction.md",
     "202402211451.md",
     "Academic/Academic notes/Data Imbalance.md",
@@ -255,7 +256,6 @@
     "Academic/Academic notes/Lecture SOMS4101 2024-02-20.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Academic/Academic notes/Week 2 - Cell Culture.md",
     "Academic/Academic notes/biomarkers.md",
     "Academic/Academic notes/Cox Model.md",
     "-Support/Graphics/Pasted image 20240220130804.png",

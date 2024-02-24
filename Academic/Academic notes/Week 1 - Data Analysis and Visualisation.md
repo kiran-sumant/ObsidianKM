@@ -14,5 +14,7 @@
 
 [[Lecture SOMS4101 2024-02-20]]
 [[Lecture SOMS4101 2024-02-21]]
+[[Lecture SOMS4101 2024-02-22]]
+[[Lecture SOMS4101 2024-02-23]]
 
 #SOMS4101 #data-science #analysis #statistics #machine-learning 
