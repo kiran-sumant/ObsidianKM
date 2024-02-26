@@ -28,6 +28,18 @@ LCMS ^jUPpuSo2
 - Rapid Inactivation of any 
 chemical, enzymatic activity. ^tvJ1bshq
 
+- Rotavap
+- Freezedryer
+- N2 Evaoprator
+- Concentrator (speedvac) ^1DGOE0dZ
+
+1. Grind Physically, or freeze/thaw cycle
+2. Extract, proportional to S.A
+    - Might need to remove macromolecules
+    - Aim for comprehensive extraction w/ 
+      quantitative accuracy
+3. Concentrate, *BEWARE CONTAMINATION* ^Q9PwU26B
+
 %%
 # Drawing
 ```json
@@ -39,8 +51,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "6n8eOcUD",
 			"type": "text",
-			"x": -641.2799006802028,
-			"y": -409.9542919774664,
+			"x": -1361.279900680203,
+			"y": -1665.9540478368415,
 			"width": 162.9198455810547,
 			"height": 50,
 			"angle": 0,
@@ -55,8 +67,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 1325294689,
-			"version": 223,
-			"versionNonce": 1984930465,
+			"version": 278,
+			"versionNonce": 1746476559,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -64,7 +76,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645782,
+			"updated": 1708916928090,
 			"link": null,
 			"locked": false,
 			"text": "Purify/ wash/\nNormalise sample",
@@ -81,8 +93,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "cAf6XDx7nA22u_SHeumP_",
 			"type": "arrow",
-			"x": -469.2799006802028,
-			"y": -399.0193285858444,
+			"x": -1189.279900680203,
+			"y": -1655.0190844452195,
 			"width": 182.21634184550066,
 			"height": 27.935833323906422,
 			"angle": 0,
@@ -99,11 +111,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 1015135265,
-			"version": 506,
-			"versionNonce": 300553199,
+			"version": 673,
+			"versionNonce": 1625531937,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928128,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -119,13 +131,13 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "6n8eOcUD",
-				"focus": -0.00510084279964863,
+				"focus": -0.004913880968864802,
 				"gap": 9.080154418945312
 			},
 			"endBinding": {
 				"elementId": "C2nkF1AX",
-				"focus": -0.04090118411128313,
-				"gap": 6.0632444510189885
+				"focus": -0.04090118411127102,
+				"gap": 6.063244451019045
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -133,8 +145,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "C2nkF1AX",
 			"type": "text",
-			"x": -281.00031438368313,
-			"y": -462.309237910296,
+			"x": -1001.0003143836832,
+			"y": -1718.308993769671,
 			"width": 105.29989624023438,
 			"height": 50,
 			"angle": 0,
@@ -149,8 +161,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 655472751,
-			"version": 80,
-			"versionNonce": 486543809,
+			"version": 135,
+			"versionNonce": 42632303,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -162,7 +174,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Quench \nMetabolism",
@@ -179,8 +191,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "VSG2O3Pbju_-h1bJUMRcR",
 			"type": "arrow",
-			"x": -167.6658395900559,
-			"y": -464.4936243828211,
+			"x": -887.6658395900558,
+			"y": -1720.493380242196,
 			"width": 170.28847155534754,
 			"height": 50.03889103421767,
 			"angle": 0,
@@ -197,11 +209,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 995647489,
-			"version": 100,
-			"versionNonce": 981450255,
+			"version": 267,
+			"versionNonce": 1442271713,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928128,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -217,13 +229,13 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "C2nkF1AX",
-				"focus": -0.2350419846230571,
-				"gap": 8.326223441152138
+				"focus": -0.2310878415720647,
+				"gap": 8.034578553392976
 			},
 			"endBinding": {
 				"elementId": "YzspGjI0",
-				"focus": 0.05111779802740628,
-				"gap": 9.130685189891778
+				"focus": 0.051117798027398687,
+				"gap": 7.260100044190494
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -231,8 +243,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "YzspGjI0",
 			"type": "text",
-			"x": 9.882732009482197,
-			"y": -545.0696951491094,
+			"x": -710.1172679905178,
+			"y": -1801.0694510084845,
 			"width": 118.65989685058594,
 			"height": 25,
 			"angle": 0,
@@ -247,8 +259,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 626912335,
-			"version": 50,
-			"versionNonce": 2095984225,
+			"version": 105,
+			"versionNonce": 1905874159,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -260,7 +272,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Dry Samples",
@@ -277,8 +289,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "-FO0WxlrZ3WNpceqFytlq",
 			"type": "arrow",
-			"x": 107.91814765132096,
-			"y": -508.5470124407772,
+			"x": -612.081852348679,
+			"y": -1764.5467683001523,
 			"width": 155.1627600744896,
 			"height": 114.73514906016214,
 			"angle": 0,
@@ -295,11 +307,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 309553295,
-			"version": 105,
-			"versionNonce": 857416751,
+			"version": 272,
+			"versionNonce": 1734544801,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928128,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -315,13 +327,13 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "YzspGjI0",
-				"focus": -0.08596238694754851,
-				"gap": 11.522682708332184
+				"focus": -0.08156750512579478,
+				"gap": 11.52268270833224
 			},
 			"endBinding": {
 				"elementId": "Ez6zaZzH",
-				"focus": -0.023317931565516387,
-				"gap": 10.145188566180536
+				"focus": -0.023317931565514798,
+				"gap": 10.14518856618065
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -329,8 +341,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "Ez6zaZzH",
 			"type": "text",
-			"x": 243.8492024498264,
-			"y": -383.66667481443454,
+			"x": -476.1507975501736,
+			"y": -1639.6664306738096,
 			"width": 102.89988708496094,
 			"height": 25,
 			"angle": 0,
@@ -345,8 +357,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 112302913,
-			"version": 60,
-			"versionNonce": 2059123265,
+			"version": 115,
+			"versionNonce": 1148970351,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -358,7 +370,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Homogenize",
@@ -375,9 +387,9 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "8JfHr4vghC2-APE-2kmTT",
 			"type": "arrow",
-			"x": 292.167553168632,
-			"y": -347.1439727556908,
-			"width": 41.293243222811014,
+			"x": -427.9278048704495,
+			"y": -1603.1437286150658,
+			"width": 41.20373441717905,
 			"height": 290.38404134897894,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -393,11 +405,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 1776683361,
-			"version": 156,
-			"versionNonce": 1805960783,
+			"version": 325,
+			"versionNonce": 1247992161,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928128,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -406,20 +418,20 @@ chemical, enzymatic activity. ^tvJ1bshq
 					0
 				],
 				[
-					-41.293243222811014,
+					-41.20373441717905,
 					290.38404134897894
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "Ez6zaZzH",
-				"focus": -0.003405289717343857,
-				"gap": 11.522702058743732
+				"focus": -0.003414365277905218,
+				"gap": 11.52270205874379
 			},
 			"endBinding": {
 				"elementId": "NUuhGIA5",
-				"focus": 0.031116613365051997,
-				"gap": 6.08709765937914
+				"focus": 0.031116613365050574,
+				"gap": 6.087097659379197
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -427,8 +439,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "NUuhGIA5",
 			"type": "text",
-			"x": 207.29212971679533,
-			"y": -50.67283374733273,
+			"x": -512.7078702832047,
+			"y": -1306.6725896067078,
 			"width": 79.29994201660156,
 			"height": 25,
 			"angle": 0,
@@ -443,8 +455,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 576565487,
-			"version": 57,
-			"versionNonce": 581749281,
+			"version": 112,
+			"versionNonce": 324154863,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -456,7 +468,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Extract",
@@ -473,10 +485,10 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "wDJpNXIpZ7rJ4_4iaKZB1",
 			"type": "arrow",
-			"x": 205.9592824563943,
-			"y": -14.593021364839274,
-			"width": 329.86202435554515,
-			"height": 137.4425486259948,
+			"x": -512.2063899925245,
+			"y": -1270.5128976642384,
+			"width": 331.4277430241234,
+			"height": 137.36266906601895,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -491,11 +503,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 730621039,
-			"version": 190,
-			"versionNonce": 1123361903,
+			"version": 359,
+			"versionNonce": 355644705,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928128,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -504,20 +516,20 @@ chemical, enzymatic activity. ^tvJ1bshq
 					0
 				],
 				[
-					-329.86202435554515,
-					137.4425486259948
+					-331.4277430241234,
+					137.36266906601895
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "NUuhGIA5",
-				"focus": -0.25751981120927603,
-				"gap": 11.159691942469294
+				"focus": -0.2569472388918829,
+				"gap": 11.159691942469408
 			},
 			"endBinding": {
 				"elementId": "snwF6iz9",
-				"focus": 0.14354850978201694,
-				"gap": 6.700415708152434
+				"focus": 0.14354850978201886,
+				"gap": 6.700415708152377
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -525,8 +537,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "snwF6iz9",
 			"type": "text",
-			"x": -242.38843696118596,
-			"y": 129.54994296930795,
+			"x": -962.388436961186,
+			"y": -1126.449812890067,
 			"width": 119.09989929199219,
 			"height": 25,
 			"angle": 0,
@@ -541,8 +553,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 1633193409,
-			"version": 85,
-			"versionNonce": 1840307713,
+			"version": 140,
+			"versionNonce": 1715226223,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -554,7 +566,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Concentrate",
@@ -571,8 +583,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "K6HoU4dF18P7Pi-JKNr7h",
 			"type": "arrow",
-			"x": -216.25420036661728,
-			"y": 117.37570894972669,
+			"x": -936.2542003666173,
+			"y": -1138.6240469096483,
 			"width": 314.60956971249834,
 			"height": 128.55009208770008,
 			"angle": 0,
@@ -589,11 +601,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 526055585,
-			"version": 342,
-			"versionNonce": 685031055,
+			"version": 509,
+			"versionNonce": 2131665121,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916645783,
+			"updated": 1708916928129,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -609,13 +621,13 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "snwF6iz9",
-				"focus": 0.3042838675457359,
+				"focus": 0.29920828763257407,
 				"gap": 12.174234019581263
 			},
 			"endBinding": {
 				"elementId": "jUPpuSo2",
-				"focus": -0.07252306495035031,
-				"gap": 9.382357828171621
+				"focus": -0.0725230649503493,
+				"gap": 9.382357828171735
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -623,8 +635,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "jUPpuSo2",
 			"type": "text",
-			"x": -652.6060522236935,
-			"y": -59.48541543876712,
+			"x": -1372.6060522236935,
+			"y": -1315.4851712981422,
 			"width": 112.35992431640625,
 			"height": 50,
 			"angle": 0,
@@ -639,8 +651,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 2036335023,
-			"version": 168,
-			"versionNonce": 180844001,
+			"version": 223,
+			"versionNonce": 895096559,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -648,7 +660,7 @@ chemical, enzymatic activity. ^tvJ1bshq
 					"type": "arrow"
 				}
 			],
-			"updated": 1708916645783,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "Analyze by \nLCMS",
@@ -665,8 +677,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "tvJ1bshq",
 			"type": "text",
-			"x": -378.77461641055885,
-			"y": -703.020185985372,
+			"x": -1098.7746164105588,
+			"y": -1959.0199418447469,
 			"width": 206.8679962158203,
 			"height": 36.590789562882044,
 			"angle": 0,
@@ -681,11 +693,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"frameId": null,
 			"roundness": null,
 			"seed": 2015231137,
-			"version": 261,
-			"versionNonce": 293437153,
+			"version": 316,
+			"versionNonce": 111568687,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916737607,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"text": "- Rapid Inactivation of any \nchemical, enzymatic activity.",
@@ -702,8 +714,8 @@ chemical, enzymatic activity. ^tvJ1bshq
 		{
 			"id": "Vk__rkgO62sY39TRj75RF",
 			"type": "line",
-			"x": -249.54384717978962,
-			"y": -475.4214333599185,
+			"x": -969.5438471797896,
+			"y": -1731.4211892192934,
 			"width": 33.230778620793274,
 			"height": 169.84614445612976,
 			"angle": 0,
@@ -720,11 +732,11 @@ chemical, enzymatic activity. ^tvJ1bshq
 				"type": 2
 			},
 			"seed": 994224417,
-			"version": 44,
-			"versionNonce": 1666845359,
+			"version": 99,
+			"versionNonce": 1389341007,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708916762857,
+			"updated": 1708916928091,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -742,6 +754,256 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "JJiudnCmkrDbG1h-5Lg1S",
+			"type": "line",
+			"x": -640.9285001245012,
+			"y": -1813.8826901207358,
+			"width": 18.461538461538453,
+			"height": 116.9230769230769,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1157054337,
+			"version": 83,
+			"versionNonce": 1758177135,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708916928091,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					18.461538461538453,
+					-116.9230769230769
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1DGOE0dZ",
+			"type": "text",
+			"x": -654.4669428829146,
+			"y": -2019.4211845242814,
+			"width": 207.15187072753906,
+			"height": 80,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 587210351,
+			"version": 157,
+			"versionNonce": 1994580367,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708916928091,
+			"link": null,
+			"locked": false,
+			"text": "- Rotavap\n- Freezedryer\n- N2 Evaoprator\n- Concentrator (speedvac)",
+			"rawText": "- Rotavap\n- Freezedryer\n- N2 Evaoprator\n- Concentrator (speedvac)",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 74,
+			"containerId": null,
+			"originalText": "- Rotavap\n- Freezedryer\n- N2 Evaoprator\n- Concentrator (speedvac)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "xjEl455scM-vLuY_OpB2g",
+			"type": "line",
+			"x": -364.0053762513041,
+			"y": -1626.882708900784,
+			"width": 171.076894906851,
+			"height": 484.9231426532452,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1243298735,
+			"version": 151,
+			"versionNonce": 1313724335,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708916928091,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					171.076894906851,
+					484.9231426532452
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "VEuPpODPcqTCPAay-0yuW",
+			"type": "line",
+			"x": -414.00537625130426,
+			"y": -1265.728862746938,
+			"width": 212.92306753305297,
+			"height": 121.84612567608167,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 934515439,
+			"version": 89,
+			"versionNonce": 87361999,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708916928091,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					212.92306753305297,
+					121.84612567608167
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "Io5A49KhqnVzG1qO19JzX",
+			"type": "line",
+			"x": -817.6976980286479,
+			"y": -1103.2673148953754,
+			"width": 593.2307551457332,
+			"height": 25.84613506610583,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 170343265,
+			"version": 94,
+			"versionNonce": 1487992815,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708916928091,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					593.2307551457332,
+					-25.84613506610583
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "Q9PwU26B",
+			"type": "text",
+			"x": -211.53608066150568,
+			"y": -1138.950278622323,
+			"width": 362.52777099609375,
+			"height": 120,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1998044801,
+			"version": 375,
+			"versionNonce": 1048653519,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1708917132589,
+			"link": null,
+			"locked": false,
+			"text": "1. Grind Physically, or freeze/thaw cycle\n2. Extract, proportional to S.A\n    - Might need to remove macromolecules\n    - Aim for comprehensive extraction w/ \n      quantitative accuracy\n3. Concentrate, *BEWARE CONTAMINATION*",
+			"rawText": "1. Grind Physically, or freeze/thaw cycle\n2. Extract, proportional to S.A\n    - Might need to remove macromolecules\n    - Aim for comprehensive extraction w/ \n      quantitative accuracy\n3. Concentrate, *BEWARE CONTAMINATION*",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 114,
+			"containerId": null,
+			"originalText": "1. Grind Physically, or freeze/thaw cycle\n2. Extract, proportional to S.A\n    - Might need to remove macromolecules\n    - Aim for comprehensive extraction w/ \n      quantitative accuracy\n3. Concentrate, *BEWARE CONTAMINATION*",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "oVkp5pEil1hQAiBdQBVzQ",
@@ -834,6 +1096,43 @@ chemical, enzymatic activity. ^tvJ1bshq
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "x19TIRVa",
+			"type": "text",
+			"x": 576.3022878863162,
+			"y": -453.3445008929716,
+			"width": 8,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 256830337,
+			"version": 2,
+			"versionNonce": 794447663,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1708916849216,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -851,10 +1150,10 @@ chemical, enzymatic activity. ^tvJ1bshq
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 708.3130967290684,
-		"scrollY": 955.9214169273764,
+		"scrollX": 1352.2126345306203,
+		"scrollY": 1663.1775699511852,
 		"zoom": {
-			"value": 0.65
+			"value": 0.8299182461753717
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
