@@ -5,7 +5,10 @@
 
 # Workshops
 
+[[Workshop SOMS4101 2024-02-27]]
+
 ***==[[SOMS4101 Week 2 Lab Report]]==***
+
 # Lectures
 
 [[Lecture SOMS4101 2024-02-26]]

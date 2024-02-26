@@ -11,12 +11,19 @@
             "id": "ed9470523d9d5fdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf"
+              }
+            }
+          },
+          {
+            "id": "7ebce83b5a873e16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -94,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -111,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
+                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
+                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md"
+                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf"
               }
             }
           },
@@ -203,58 +209,30 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "floating": {
-    "id": "d587976507df0e79",
-    "type": "floating",
-    "children": [
-      {
-        "id": "316c3807e95d6680",
-        "type": "window",
-        "children": [
-          {
-            "id": "75c6c8b931bd16ee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "489579090c428119",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 656,
-        "y": 104,
-        "width": 769,
-        "height": 817,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Academic/Academic notes/Exploiting the biosynthetic machinery of.md",
+    "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/Differential Expression Analysis.md",
+    "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
+    "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
+    "Academic/Academic notes/Week 2 - MS and HPLC.md",
+    "Academic/Academic notes/SOMS4101 Week 2 Lab Report.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Pasted image 20240226143433.png",
     "Pasted image 20240226142915.png",
     "Pasted image 20240226142439.png",
     "Academic/Academic notes/Polarity based Chromatography.md",
     "Excalidraw/Pipeline of Sample prep-extraction.excalidraw.md",
-    "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "-Support/Graphics/Pasted image 20240225063932.png",
     "-Support/Graphics/Pasted image 20240226123921.png",
-    "Academic/Academic notes/SOMS4101 Week 2 Lab Report.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
@@ -266,15 +244,9 @@
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/weighted signature expression score.md",
     "Academic/Academic notes/Tumour.md",
-    "Academic/Academic notes/[.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/One-Hot Encoding.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
-    "Academic/Academic notes/SOMS4101 Orientation.md",
     "-Support/Graphics/Pasted image 20240220130804.png",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240220093845.png",
     "-Support/Graphics/Pasted image 20240220090929.png",
     "-Support/Graphics/Pasted image 20240216095630.png",
@@ -284,7 +256,6 @@
     "Excalidraw",
     "Self Learning/Learn Notes",
     "-Support/Templates",
-    "-Support/Code",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
