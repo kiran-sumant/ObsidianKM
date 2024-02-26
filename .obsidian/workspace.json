@@ -11,9 +11,12 @@
             "id": "ed9470523d9d5fdb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf"
+                "file": "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -117,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
+                "file": "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
+                "file": "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf"
+                "file": "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md"
               }
             }
           },
@@ -211,14 +214,17 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "Academic/Academic notes/Exploiting the biosynthetic machinery of.md",
-    "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
+    "Academic/Academic notes/Dimensionality Reduction.md",
+    "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
+    "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
+    "Academic/Academic notes/Exploiting the biosynthetic machinery of.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Differential Expression Analysis.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
-    "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/SOMS4101 Week 2 Lab Report.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
@@ -228,7 +234,6 @@
     "Pasted image 20240226142439.png",
     "Academic/Academic notes/Polarity based Chromatography.md",
     "Excalidraw/Pipeline of Sample prep-extraction.excalidraw.md",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "-Support/Graphics/Pasted image 20240225063932.png",
@@ -236,14 +241,12 @@
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
-    "Academic/Academic notes/Dimensionality Reduction.md",
     "202402211451.md",
     "Academic/Academic notes/Data Imbalance.md",
     "Excalidraw/Drawing 2024-02-21 08.20.40.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 14.52.01.excalidraw.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/weighted signature expression score.md",
-    "Academic/Academic notes/Tumour.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Graphics/Pasted image 20240220130804.png",
