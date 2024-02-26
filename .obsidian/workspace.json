@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf"
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md"
               }
             }
           },
@@ -228,15 +227,18 @@
       }
     ]
   },
-  "active": "489579090c428119",
+  "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
-    "Pasted image 20240226123921.png",
+    "Lecture SOMS4101 2024-02-26.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
-    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Pasted image 20240225063932.png",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/Week 4 - Work Health and Safety.md",
+    "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "Pasted image 20240226123921.png",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
+    "Pasted image 20240225063932.png",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
     "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "Academic/Academic notes/Dimensionality Reduction.md",
@@ -251,10 +253,8 @@
     "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/One-Hot Encoding.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
-    "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "Academic/Academic notes/SOMS4101 Orientation.md",
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Academic notes/SOMS4101.md",
