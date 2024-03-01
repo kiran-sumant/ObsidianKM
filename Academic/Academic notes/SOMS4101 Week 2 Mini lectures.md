@@ -61,6 +61,16 @@ Note to remember- Polarity based off of electric charge in a substructre in a mo
 
 Chemistry of Mobile vs Stationary Phase interactions; strength of interaction determines which phase the analyte is drawn.
 
+## Mobile phase:
+- Composition; isocratic or gradient concentration/makeup?
+Strength as eluent - ***[[solvent polarity index (P)]]***
+
+We gon use da Masheeeeeennnnn
+- Can use/combine multiple solvents
+- Pumped in to column, along with *sample*
+- run thru HPLC column
+- detec
+
 
 
 # Mass Spectrometry Basics
