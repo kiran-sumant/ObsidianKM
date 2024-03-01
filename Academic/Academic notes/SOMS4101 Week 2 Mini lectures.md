@@ -24,6 +24,10 @@ Don't forget that solvents might alter metabolites, processing time is important
 
 # Separating analytes for Individual Analysis
 
+[[Hydrophilicity]]
+[[Lipophilicity]]
+[[logP]]
+
 
 # Liquid Chromatography Basics
 
