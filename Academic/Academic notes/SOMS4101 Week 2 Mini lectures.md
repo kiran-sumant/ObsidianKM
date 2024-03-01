@@ -66,11 +66,15 @@ Chemistry of Mobile vs Stationary Phase interactions; strength of interaction de
 Strength as eluent - ***[[solvent polarity index (P)]]***
 
 We gon use da Masheeeeeennnnn
-- Can use/combine multiple solvents
-- Pumped in to column, along with *sample*
-- run thru HPLC column
-- detec
+1. Can use/combine multiple solvents
+2. Pumped in to column, along with *sample*
+3. run thru HPLC column
+4. detector acquires data
+5.  boom
 
+Note that ==detector can be any of the detectors, not just MS; e.g spectroscopy, UV, NMR==
 
+***For the love of god, develop your method properly before starting the project holyyplease just check and double check with phd students and supervisor please and thanks***
 
 # Mass Spectrometry Basics
+
