@@ -55,7 +55,6 @@ Note to remember- Polarity based off of electric charge in a substructre in a mo
 **Non-Polar** is ==Lipophilic==
 [[LogP]] is an ==Important Indicator==
 
-
 # Liquid Chromatography Basics
 
 
