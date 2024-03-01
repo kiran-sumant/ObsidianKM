@@ -57,5 +57,10 @@ Note to remember- Polarity based off of electric charge in a substructre in a mo
 
 # Liquid Chromatography Basics
 
+[[High-Performance Liquid Chromatography]] **(HP)LC**-MS
+
+Chemistry of Mobile vs Stationary Phase interactions; strength of interaction determines which phase the analyte is drawn.
+
+
 
 # Mass Spectrometry Basics
