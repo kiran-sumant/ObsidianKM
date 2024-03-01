@@ -24,9 +24,23 @@ Don't forget that solvents might alter metabolites, processing time is important
 
 # Separating analytes for Individual Analysis
 
-[[Hydrophilicity]]
-[[Lipophilicity]]
-[[logP]]
+Our conditions for separation of analytes depend upon:
+- [[Hydrophilicity]]
+- [[Lipophilicity]]
+- [[logP]]
+
+At this point, primary and secondary metabolites extracted from cell. Need to analyse individually, remove DNA and undesired proteins.
+
+Compounds to separate:
+- Ions
+- Macromolecules (nucleic acids, mRNA, all proteins, lipid bilayers)
+- Metabolites, amino acids, sugars, hormones
+
+## Chromatography
+Examples::
+- Size exclusion 
+- Polarity-Based
+- Affinity Chromatography (==for targeting specific proteins==)
 
 
 # Liquid Chromatography Basics
