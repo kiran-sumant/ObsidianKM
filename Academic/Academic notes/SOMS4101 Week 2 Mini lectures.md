@@ -25,9 +25,9 @@ Don't forget that solvents might alter metabolites, processing time is important
 # Separating analytes for Individual Analysis
 
 Our conditions for separation of analytes depend upon:
-- [[Hydrophilicity]]
-- [[Lipophilicity]]
-- [[logP]]
+- Hydrophilicity
+- Lipophilicity
+- [[LogP]]
 
 At this point, primary and secondary metabolites extracted from cell. Need to analyse individually, remove DNA and undesired proteins.
 
@@ -41,6 +41,19 @@ Examples::
 - Size exclusion 
 - Polarity-Based
 - Affinity Chromatography (==for targeting specific proteins==)
+
+
+Polarity + Affinity pipeline:
+1. Condition
+2. Load
+3. Wash off undesired compounds
+4. Elute desired compounds that end up binding to resin
+
+Note to remember- Polarity based off of electric charge in a substructre in a molecule, **depends on electronegativity diff in atoms**.
+
+**Polar** is ==Hydrophilic==
+**Non-Polar** is ==Lipophilic==
+[[LogP]] is an ==Important Indicator==
 
 
 # Liquid Chromatography Basics

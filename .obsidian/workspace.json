@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/LogP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/LogP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/LogP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
+                "file": "Academic/Academic notes/LogP.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "Academic/Academic notes/logP.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "Academic/Academic notes/LogP.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
@@ -235,9 +235,9 @@
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Differential Expression Analysis.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
-    "Pasted image 20240226143433.png",
-    "Pasted image 20240226142915.png",
-    "Pasted image 20240226142439.png",
+    "-Support/Graphics/Pasted image 20240226143433.png",
+    "-Support/Graphics/Pasted image 20240226142915.png",
+    "-Support/Graphics/Pasted image 20240226142439.png",
     "Academic/Academic notes/Polarity based Chromatography.md",
     "Excalidraw/Pipeline of Sample prep-extraction.excalidraw.md",
     "-Support/Graphics/Pasted image 20240225063932.png",
