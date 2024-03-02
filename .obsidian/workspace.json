@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md"
+                "file": "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md"
               }
             }
           },
@@ -188,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,13 +213,14 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
+    "Academic/Academic notes/Week 2 - MS and HPLC.md",
+    "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Academic notes/Mass Spectrometry.md",
     "Academic/Academic notes/solvent polarity index (P).md",
     "-Support/Graphics/Pasted image 20240302095219.png",
     "Academic/Academic notes/LogP.md",
     "Academic/Academic notes/High-Performance Liquid Chromatography.md",
-    "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
@@ -248,7 +248,6 @@
     "-Support/Graphics/Pasted image 20240226123921.png",
     "Academic/Academic notes/Week 4 - Work Health and Safety.md",
     "202402211451.md",
-    "Academic/Academic notes/Data Imbalance.md",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Graphics/Pasted image 20240220130804.png",

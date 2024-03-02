@@ -13,9 +13,9 @@ detector determines *abundance* of each compound present sorted by m/z, **result
 
 ## Analysis MS Machines:
 
-- SQ - 
-- QQQ - 
-- QTRAP, QTOF - 
+- SQ - simple chem reactions/sysnthesis
+- QQQ - Drug metabolites
+- QTRAP, QTOF - protein analyses, using advanced MS systems
 
 
 
