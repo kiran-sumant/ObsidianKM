@@ -4,6 +4,9 @@ O-glycosylation of platelet proteins at key functional/active sites has been dis
 
 Focus pt: - Platelet O-fucosyltransferase POFUT1 regulates the secretion of adhesive protein multimerin-1 (MMRN1)
 
+AIM: **Provide insight into regulation and composition of healthy human platelets**, and set out a path for future studies in human platelet biology
+
+
 > [!info] FYI
 > 
 

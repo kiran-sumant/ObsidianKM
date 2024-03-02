@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+                "file": "Academic/Research Larance Lab.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Research Larance Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Research Larance Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                "file": "Academic/Research Larance Lab.md"
               }
             }
           },
@@ -226,12 +226,13 @@
       }
     ]
   },
-  "active": "ed9470523d9d5fdb",
+  "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
-    "Academic/Academic notes/Honours Readings to go through.md",
+    "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
+    "Academic/Academic notes/Honours Readings to go through.md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Excalidraw/Pipeline of Sample prep-extraction.excalidraw.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
@@ -259,7 +260,6 @@
     "-Support/Graphics/Pasted image 20240226143433.png",
     "-Support/Graphics/Pasted image 20240226142915.png",
     "-Support/Graphics/Pasted image 20240226142439.png",
-    "Academic/Academic notes/Polarity based Chromatography.md",
     "-Support/Graphics/Pasted image 20240225063932.png",
     "-Support/Graphics/Pasted image 20240226123921.png",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
