@@ -17,9 +17,23 @@ Contents:
 
 
 # Details/Quotes
-> Analysis of how the platelet proteome is altered in disease states such as type II diabetes, where platelets are known to be hyperactivated64 , should prove fruitful to detect new mechanisms of platelet dysfunction
 
+Applies:
+- Proteomics
+- Glycomics
+
+Uses:
+- LC-MS/MS
+- Unbiased **open** PTM search 
+- PGC-LC-MS/MS for O-glycome profiling 
+
+Specifically looked at top-down proteomics for PTM search/ sequencing.
+
+Analysed using R, plotted using Tableau
+
+> Analysis of how the platelet proteome is altered in disease states such as type II diabetes, where platelets are known to be hyperactivated64 , should prove fruitful to detect new mechanisms of platelet dysfunction
 [[Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf#page=9&selection=2,69,7,72|Quote on application of research]]
+
 
 
 
