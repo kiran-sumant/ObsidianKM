@@ -88,6 +88,9 @@ The principles of [[Mass Spectrometry]]
 
 Ion Source - emits both Hydrogen and Sodium ions, or other complement metal/salt ion depending on source. This can result in ==ions with Na+ instead of H+, peaks with larger m/z than theorised H+ parent ion due to this==
 
+TIC - Total Ion Chromatogram
 
+Helps separate so as to avoid confusion on all values in the mass spectrum and form 3d analysis of extracted ion peaks and their respective mass spectra.
 
-[[]]
+EIC - Extracted Ion Chromatogram
+

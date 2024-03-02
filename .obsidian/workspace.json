@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
+                "file": "Academic/Academic notes/Mass Spectrometry.md"
               }
             }
           },
@@ -214,8 +214,8 @@
   },
   "active": "ed9470523d9d5fdb",
   "lastOpenFiles": [
-    "Academic/Academic notes/Mass Spectrometry.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "Academic/Academic notes/Mass Spectrometry.md",
     "Academic/Academic notes/solvent polarity index (P).md",
     "-Support/Graphics/Pasted image 20240302095219.png",
     "Academic/Academic notes/LogP.md",

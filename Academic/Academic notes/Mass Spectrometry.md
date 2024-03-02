@@ -10,5 +10,14 @@ into **inlet**, containing ==mass analyser== and ==detector== in vacuum system
 
 detector determines *abundance* of each compound present sorted by m/z, **resulting in a spectrum**.
 
+
+## Analysis MS Machines:
+
+- SQ - 
+- QQQ - 
+- QTRAP, QTOF - 
+
+
+
 #definition #mass-spectrometry #analysis #lab-technique 
 
