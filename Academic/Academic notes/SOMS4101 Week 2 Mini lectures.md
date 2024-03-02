@@ -78,3 +78,16 @@ Note that ==detector can be any of the detectors, not just MS; e.g spectroscopy,
 
 # Mass Spectrometry Basics
 
+At this point:
+- Got **analytes of interest**
+- Peak separation is completed
+
+we now *detect analytes via mass spec*
+
+The principles of [[Mass Spectrometry]]
+
+Ion Source - emits both Hydrogen and Sodium ions, or other complement metal/salt ion depending on source. This can result in ==ions with Na+ instead of H+, peaks with larger m/z than theorised H+ parent ion due to this==
+
+
+
+[[]]
