@@ -6,7 +6,12 @@ Currently:
 
 Danggg they dissed commercial compound vendors too shieeeee LOL
 
-Centralisation of resources is needed for more streamlined preparation for 
+Centralisation of resources is needed for more streamlined preparation of scientific methods creation
+
+![[Pasted image 20240305075054.png]]
+above: current recommended workflow to select probes
+
+Some cases of probes were touched upon and recommended against for certain cellular reactions.
 
 #### Doc Link: [Public resources for chemical probes: the journey so far and the road ahead.](https://www.future-science.com/doi/10.4155/fmc-2019-0231)
 
