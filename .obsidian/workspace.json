@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+                "file": "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+                "file": "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+                "file": "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md"
+                "file": "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md"
               }
             }
           },
@@ -168,11 +168,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +229,14 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
+    "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
-    "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
+    "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/Public resources for chemical probes; the journey so far and the road ahead..md",
     "Academic/Academic notes/RNA Interference to knock down gene expression..md",
-    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Academic notes/Doc Link.md",
     "Academic/Academic notes/DocLink.md",
@@ -253,8 +257,6 @@
     "Academic/Academic notes/High-Performance Liquid Chromatography.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
-    "Academic/Academic notes/SOMS4101 Week 1 Lab Report.md",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "-Support/Graphics/Pasted image 20240226143433.png",
@@ -272,7 +274,6 @@
     "-Support/Graphics",
     "Excalidraw",
     "Self Learning/Learn Notes",
-    "-Support/Templates",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
