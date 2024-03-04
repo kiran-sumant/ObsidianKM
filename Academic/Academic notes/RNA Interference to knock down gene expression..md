@@ -1,5 +1,6 @@
 # Main Idea of Thesis
 
+[[RNA Interference (RNAi)]]
 
 #### Doc Link: [RNA Interference to knock down gene expression.](https://link.springer.com/protocol/10.1007/978-1-4939-7471-9_16)
 

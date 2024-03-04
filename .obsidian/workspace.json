@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+                "file": "Academic/Academic notes/RNA Interference (RNAi).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+                "file": "Academic/Academic notes/RNA Interference (RNAi).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+                "file": "Academic/Academic notes/RNA Interference (RNAi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md"
+                "file": "Academic/Academic notes/RNA Interference (RNAi).md"
               }
             }
           },
@@ -229,15 +229,16 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/RNA Interference to knock down gene expression..md",
+    "Academic/Academic notes/RNA Interference (RNAi).md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
     "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/Public resources for chemical probes; the journey so far and the road ahead..md",
-    "Academic/Academic notes/RNA Interference to knock down gene expression..md",
-    "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Academic notes/Doc Link.md",
     "Academic/Academic notes/DocLink.md",
     "Academic/Academic notes/SOMS4101.md",

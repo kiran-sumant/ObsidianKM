@@ -60,11 +60,14 @@ note, the above is not all, it's just all I could include.
 
 - Some terms are both standardised and bastardisation of method and scientific names is prevented
 
-**Repeatability**: 
+**Repeatability**: precision and robustness of assay with identical samples. *SD for Cq variance*
+
+**Reproducibility**:  Variation in results btwn runs/ btwn diffferent laboratories. *SD / CV of concentrations or copy no's*
 
 #### Doc Link: [The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments.](https://academic.oup.com/clinchem/article/55/4/611/5631762)
 
 # Details/Quotes
+
 
 
 ## Related Links
