@@ -20,3 +20,6 @@
 [[SOMS4101 Seminar 2024-03-05]]
 
 
+# Practicals
+
+[[SOMS4101 Practical 2024-03-06]]

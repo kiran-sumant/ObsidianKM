@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md"
               }
             }
           },
@@ -229,13 +229,16 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/RNA Interference (RNAi).md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
+    "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+    "Academic/Academic notes/PROTACs.md",
+    "-Support/Graphics/Pasted image 20240305101024.png",
+    "Academic/Academic notes/RNA Interference (RNAi).md",
     "Academic/Academic notes/Pan-Assay.md",
     "Academic/Academic notes/Half-Maximal Inhibitory Concentration (IC50).md",
     "Academic/Academic notes/PAINS.md",
-    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
-    "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Public resources for chemical probes; the journey so far and the road ahead..md",
     "-Support/Graphics/Pasted image 20240305075054.png",
@@ -257,8 +260,6 @@
     "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
-    "Academic/Academic notes/Mass Spectrometry.md",
-    "Academic/Academic notes/solvent polarity index (P).md",
     "-Support/Graphics/Pasted image 20240302095219.png",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
@@ -270,7 +271,6 @@
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Graphics/Pasted image 20240220130804.png",
-    "-Support/Graphics/Pasted image 20240220093845.png",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics",
     "Excalidraw",
