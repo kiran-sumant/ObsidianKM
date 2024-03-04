@@ -2,4 +2,4 @@ Process by which dsRNA double stranded, induced sequence specific gene silencing
 
 
 
-#research #rna #gene-expression #genetics #transcriptomics #definition 
+#research #rna #gene-expression #genetics #transcriptomics #definition #chemical-probes 
