@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Gene Knockdown.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Gene Knockdown.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Gene Knockdown.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Gene Knockdown.md"
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -229,12 +229,12 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/(RT-)PCR.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Gene Knockdown.md",
     "Academic/Academic notes/RNA Interference (RNAi).md",
     "CRISPR/CRISPR-Cas9.md",
     "-Support/Graphics/Pasted image 20240305103606.png",
-    "Academic/Academic notes/(RT-)PCR.md",
     "CRISPR",
     "RNAi (siRNA/shRNA.md",
     "RNAi (siRNA",
