@@ -17,5 +17,6 @@
 
 # Seminar
 
+[[SOMS4101 Seminar 2024-03-05]]
 
 
