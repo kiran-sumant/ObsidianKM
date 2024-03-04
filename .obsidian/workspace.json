@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Gene Knockdown.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Gene Knockdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Gene Knockdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
+                "file": "Academic/Academic notes/Gene Knockdown.md"
               }
             }
           },
@@ -229,8 +229,13 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/RNA Interference (RNAi).md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+    "Academic/Academic notes/Gene Knockdown.md",
+    "Academic/Academic notes/RNA Interference (RNAi).md",
+    "CRISPR/CRISPR-Cas9.md",
+    "-Support/Graphics/Pasted image 20240305103606.png",
+    "Academic/Academic notes/(RT-)PCR.md",
+    "CRISPR",
     "RNAi (siRNA/shRNA.md",
     "RNAi (siRNA",
     "Academic/Academic notes/The Genome.md",
@@ -259,9 +264,6 @@
     "Academic/Academic notes/DocLink.md",
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
-    "Academic/Academic notes/Honours Readings to go through.md",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Excalidraw/Pipeline of Sample prep-extraction.excalidraw.md",
     "-Support/Graphics/Pasted image 20240302095219.png",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
@@ -269,12 +271,10 @@
     "-Support/Graphics/Pasted image 20240226142915.png",
     "-Support/Graphics/Pasted image 20240226142439.png",
     "-Support/Graphics/Pasted image 20240225063932.png",
-    "-Support/Graphics/Pasted image 20240226123921.png",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
     "-Support/Graphics",
-    "Excalidraw",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
