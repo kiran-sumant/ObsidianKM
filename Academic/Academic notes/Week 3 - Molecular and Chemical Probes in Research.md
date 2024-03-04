@@ -1,6 +1,6 @@
 # Pre-readings
 
-[[The MIQE guidelines: minimum information for publication of quantitative real-time PCR experiments.]]
+[[The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments.]]
 
 [[RNA Interference to knock down gene expression.]]
 

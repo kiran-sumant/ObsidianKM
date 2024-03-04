@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md"
+                "file": "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md"
               }
             }
           },
@@ -228,6 +228,9 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/DocLink.md",
+    "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
     "Academic/Research Larance Lab.md",
@@ -254,9 +257,6 @@
     "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
     "Academic/Academic notes/Dimensionality Reduction.md",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
-    "Academic/Academic notes/Exploiting the biosynthetic machinery of.md",
-    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "Academic/Academic notes/Differential Expression Analysis.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "-Support/Graphics/Pasted image 20240226143433.png",
     "-Support/Graphics/Pasted image 20240226142915.png",
