@@ -1,6 +1,4 @@
-Process by which dsRNA double stranded, induced sequence specific gene silencing by targeting mRNA for degradation.
-
-For knockin 
+Process by which dsRNA double stranded, induced sequence specific gene silencing by targeting mRNA (that do the expressing) for degradation.
 
 
 
