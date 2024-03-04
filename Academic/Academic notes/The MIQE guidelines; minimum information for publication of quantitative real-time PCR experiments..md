@@ -1,7 +1,7 @@
 # Main Idea of Thesis
 
 
-[[DocLink | https://academic.oup.com/clinchem/article/55/4/611/5631762]]
+#### Doc Link: [The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments.](https://academic.oup.com/clinchem/article/55/4/611/5631762)
 
 # Details/Quotes
 
