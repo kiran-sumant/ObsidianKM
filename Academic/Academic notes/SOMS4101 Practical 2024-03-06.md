@@ -10,9 +10,9 @@ Understand gene/Protein of interest (POI) *function*
 
 During this practical, collate information about chemical probes needed for experiments investigating a protein of interest (_i.e.,_ target) that you have been assigned. Address as many queries in this worksheet as possible. The information you collate here will form basis of your report for the **_Molecular and Chemical Probes in Biomedical Research_** module. If you know the aims of your Honours projects and it includes investigating/validating a function of a given protein, you might work on chemical probes targeting the protein of interest (if probes exists).
 
-**Protein of interest (target):**
+**Protein of interest (target):** F2R
 
-**Target protein name (synonyms):**
+**Target protein name (synonyms):** Proteinase-activated receptor 1, TR, PAR1, CF2R, F2R, PAR1_HUMAN, PAR-1, Thrombin receptor, Coagulation factor II receptor
 
 **Target protein function:** briefly describe the function of the target protein
 
