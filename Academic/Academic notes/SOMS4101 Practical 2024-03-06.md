@@ -45,7 +45,7 @@ Mechanism of action: Antagonist
 
 Which public resource(s) list this probe: Donated Chemical Probes, Chemicalprobes.org.
 
-Probe criteria:
+Probe criteria: 
 
 Potency:
 
