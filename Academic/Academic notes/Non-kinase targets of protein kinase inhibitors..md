@@ -8,12 +8,13 @@ Clinical kinase inhibitors are used for cancer therapy.
 	1. ATP pocket in active state
 	2. " " " " inactive state
 	3. allosteric inhibitors, bind **non-competitively against ATP**
-	4. interfere with prot-prot interactions.
+	4. ==interfere with prot-prot interactions.==
 
-beeg probelm:
+beeg probelm with mumbo number 4:
 
 - kinases targets aren't fully known, outside metabolic/neurological targets. 
 - *Toxicity is a risk.*
+
 
 
 
@@ -21,6 +22,13 @@ beeg probelm:
 
 # Details/Quotes
 
+Testing kinase inhibitor drugs for other cellular functions/ effects.
+
+Using *biochemical kinase inhibition assays*
+- Cellular shift thermal assay
+- Thermal profiling of proteome
+- RNAi-mediated knockdown of the identified target
+- Kinase independent functions of kinases
 
 ## Related Links
 
