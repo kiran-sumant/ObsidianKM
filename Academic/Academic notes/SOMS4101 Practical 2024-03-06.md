@@ -20,18 +20,20 @@ During this practical, collate information about chemical probes needed for expe
 The n-terminus of F2R serves as a substrate for multiple proteases upstream in the clotting process (e.g: _serine protease_ cathepsin G). Cleavage of the F2R N-terminus exposes an attached ligand group that activates the receptor. Ligation of this exposed binding site stimulates a series of phosphorylation events and intracellular signalling.
 
 name at least three downstream substrates/protein regulated by the targeted protein
-Beta-arrestin,
-G-Protein
-
+Beta-arrestin (regulates β-adrenergic receptor kinase (βARK)),
+PLCε Phospholipase C epsilon (activation triggers Caspase 3, a "death protease")
+NR2A and NMDA (Calcium ion channel, triggers block, apoptosis)
 
 
 _Break: each student briefly presenting their target & disease_
 
 ## **Chemical probe #1**
 
-Chemical name:
+Chemical name: BAY-386
 
-Structure: _(you can copy and paste, no need to draw the structure)_
+Structure: 
+![[Pasted image 20240306095215.png]]
+
 
 Physicochemical properties: _(MW, TPSA, log D, solubility)_
 
