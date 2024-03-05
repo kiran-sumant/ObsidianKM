@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md"
+                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
               }
             }
           },
@@ -223,13 +223,43 @@
         "height": 816,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "081d3625e79e041b",
+        "type": "window",
+        "children": [
+          {
+            "id": "39327cbb7c750255",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3b9b11dd70c0f7a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "e0f7dbde454e200a",
+  "active": "c3b9b11dd70c0f7a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Academic notes/Kinase.md",
     "Self Learning/Learn Notes/Callout list.md",
@@ -250,7 +280,6 @@
     "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Academic notes/PROTACs.md",
     "Academic/Academic notes/The.md",
-    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
     "Academic/Academic notes/SOMS4101.md",
     "-Support/Graphics/Pasted image 20240305101024.png",
     "Academic/Academic notes/Pan-Assay.md",

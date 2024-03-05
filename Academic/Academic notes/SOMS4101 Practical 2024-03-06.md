@@ -5,3 +5,153 @@ Understand gene/Protein of interest (POI) *function*
 		-> Recognise limitations
 			-> Identify Controls
 
+
+# **Worksheet for the Chemical Probes Computer lab**
+
+During this practical, collate information about chemical probes needed for experiments investigating a protein of interest (_i.e.,_ target) that you have been assigned. Address as many queries in this worksheet as possible. The information you collate here will form basis of your report for the **_Molecular and Chemical Probes in Biomedical Research_** module. If you know the aims of your Honours projects and it includes investigating/validating a function of a given protein, you might work on chemical probes targeting the protein of interest (if probes exists).
+
+**Protein of interest (target):**
+
+**Target protein name (synonyms):**
+
+**Target protein function:** briefly describe the function of the target protein
+
+**Target protein mechanism of action:** briefly identify and describe the signalling pathway in which the targeted protein is involved, name at least three downstream substrates/protein regulated by the targeted protein
+
+_Break: each student briefly presenting their target & disease_
+
+## **Chemical probe #1**
+
+Chemical name:
+
+Structure: _(you can copy and paste, no need to draw the structure)_
+
+Physicochemical properties: _(MW, TPSA, log D, solubility)_
+
+Mechanism of action: (_reversible/irreversible/allosteric inhibitor; agonist/antagonist, partial/allosteric agonist/antagonist etc.)_
+
+Which public resource(s) list this probe:
+
+Probe criteria:
+
+Potency:
+
+Selectivity within the target family:
+
+Selectivity outside target family:
+
+On-target cell activity:
+
+Evidence of cellular target engagement/modulation:
+
+Marker of on-target activity:
+
+            Stock solution & stability:       
+
+Usage recommendations in cells:
+
+Usage recommendations in vivo:
+
+Control compound: name, structure, properties - difference to the chemical probe - describe how this compound relates to the probe and provides a negative control
+
+**Chemical probe #2:** (aim for a probe that is orthogonal to Probe #1)
+
+Chemical name:
+
+Structure: _(copy and paste)_
+
+Physicochemical properties: _(MW, TPSA, log D, solubility)_
+
+Mechanism of action: how does this probe regulate activity of the target _(reversible/irreversible/allosteric inhibitor; agonist/antagonist, partial/allosteric agonist/antagonist)_
+
+Which public resource(s) list this probe:
+
+Probe criteria:
+
+Potency:
+
+Selectivity within the target family:
+
+Selectivity outside target family:
+
+On-target cell activity:
+
+Evidence of cellular target engagement/modulation:
+
+Marker of on-target activity:
+
+            Stock solution & stability:       
+
+Usage recommendations in cells:
+
+Usage recommendations in vivo:
+
+Control compound: structure, difference to the chemical probe - describe how this compound relates to the probe and provides a negative control
+
+_Break: each student briefly presenting their probes_
+
+**Publications using these probes**
+
+List 3 publications that **have used** these chemical probes, analyse whether
+
+·        Did authors adhere to guidelines and recommendations?
+
+·        Did authors use orthogonal approaches and/or orthogonal compounds? _If yes, which ones_
+
+·        Are compelling and reliable data presented?
+
+Reference #1:
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+Reference #2:
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+Reference #3.
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+List 3 publications that **have not used** these chemical probes
+
+-        What approach/compounds did authors use to target the protein of interest?
+
+-        Are compelling and reliable data presented?
+
+Reference #1:
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+Reference #2:
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+Reference #3.
+
+Title:
+
+Journal + Impact Factor:
+
+Comments:
+
+_Break: each student briefly presenting references_
