@@ -35,11 +35,15 @@ Structure:
 ![[Pasted image 20240306095215.png]]
 
 
-Physicochemical properties: _(MW, TPSA, log D, solubility)_
+Physicochemical properties: 
+- MW - 514.15
+- TPSA -  
+- log D (pH 7.5) - 3.6 
+- solubility - aqueous, 30mg/L at ph 6.5
 
-Mechanism of action: (_reversible/irreversible/allosteric inhibitor; agonist/antagonist, partial/allosteric agonist/antagonist etc.)_
+Mechanism of action: Antagonist
 
-Which public resource(s) list this probe:
+Which public resource(s) list this probe: Donated Chemical Probes, Chemicalprobes.org.
 
 Probe criteria:
 
