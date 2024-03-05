@@ -16,10 +16,14 @@ During this practical, collate information about chemical probes needed for expe
 
 **Target protein function:** F2R is a thrombin receptor expressed on human platelets and endothelial cells, and aids in maintaining vascular wall stability. It is also a key modulator of endothelial lining as part of the cascade process
 
-**Target protein mechanism of action:** briefly identify and describe the signalling pathway in which the targeted protein is involved, 
-The n-terminus of F2R serves as a substrate for multiple proteases upstream in the clotting process. Cleavage of the F2R N-terminus exposes an attached ligand group that activates the receptor. Ligation of this exposed binding site stimulates a series of phosphorylation events and 
+**Target protein mechanism of action:** 
+The n-terminus of F2R serves as a substrate for multiple proteases upstream in the clotting process (e.g: _serine protease_ cathepsin G). Cleavage of the F2R N-terminus exposes an attached ligand group that activates the receptor. Ligation of this exposed binding site stimulates a series of phosphorylation events and intracellular signalling.
 
 name at least three downstream substrates/protein regulated by the targeted protein
+Beta-arrestin,
+G-Protein
+
+
 
 _Break: each student briefly presenting their target & disease_
 
