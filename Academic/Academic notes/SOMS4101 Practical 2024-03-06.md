@@ -49,13 +49,13 @@ Probe criteria
 
 - Potency: IC50 = 56nM
 
-- Selectivity within the target family: at 10 uM, 
+- Selectivity within the target family: at 10 uM, for PAR4 is over 1000-fold selectivity. Closest off-target is CNR1 with 80.7% only, IC50=10.6 uM.
 
-- Selectivity outside target family:
+- Selectivity outside target family: Closest hit outside the family is Sarcolemmal Na+ channel site 2 with 55% inhibition only.
 
-- On-target cell activity:
+- On-target cell activity: In HEK cells, IC50 = 10nM, very active
 
-- Evidence of cellular target engagement/modulation:
+- Evidence of cellular target engagement/modulation: 
 
 - Marker of on-target activity:
 
