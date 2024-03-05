@@ -14,9 +14,12 @@ During this practical, collate information about chemical probes needed for expe
 
 **Target protein name (synonyms):** Proteinase-activated receptor 1, TR, PAR1, CF2R, F2R, PAR1_HUMAN, PAR-1, Thrombin receptor, Coagulation factor II receptor
 
-**Target protein function:** briefly describe the function of the target protein
+**Target protein function:** F2R is a thrombin receptor expressed on human platelets and endothelial cells, and aids in maintaining vascular wall stability. It is also a key modulator of endothelial lining as part of the cascade process
 
-**Target protein mechanism of action:** briefly identify and describe the signalling pathway in which the targeted protein is involved, name at least three downstream substrates/protein regulated by the targeted protein
+**Target protein mechanism of action:** briefly identify and describe the signalling pathway in which the targeted protein is involved, 
+The n-terminus of F2R serves as a substrate for multiple proteases upstream in the clotting process. Cleavage of the F2R N-terminus exposes an attached ligand group that activates the receptor. Ligation of this exposed binding site stimulates a series of phosphorylation events and 
+
+name at least three downstream substrates/protein regulated by the targeted protein
 
 _Break: each student briefly presenting their target & disease_
 
