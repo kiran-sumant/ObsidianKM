@@ -45,25 +45,25 @@ Mechanism of action: Antagonist
 
 Which public resource(s) list this probe: Donated Chemical Probes, Chemicalprobes.org.
 
-Probe criteria: 
+Probe criteria
 
-Potency:
+- Potency: IC50 = 56nM
 
-Selectivity within the target family:
+- Selectivity within the target family: at 10 uM, 
 
-Selectivity outside target family:
+- Selectivity outside target family:
 
-On-target cell activity:
+- On-target cell activity:
 
-Evidence of cellular target engagement/modulation:
+- Evidence of cellular target engagement/modulation:
 
-Marker of on-target activity:
+- Marker of on-target activity:
 
-            Stock solution & stability:       
+- Stock solution & stability:       
 
-Usage recommendations in cells:
+- Usage recommendations in cells:
 
-Usage recommendations in vivo:
+- Usage recommendations in vivo:
 
 Control compound: name, structure, properties - difference to the chemical probe - describe how this compound relates to the probe and provides a negative control
 
