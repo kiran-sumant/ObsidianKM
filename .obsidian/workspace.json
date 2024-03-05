@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
+                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md"
               }
             }
           },
@@ -226,11 +226,11 @@
       }
     ]
   },
-  "active": "924ef4b3e3146b09",
+  "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "-Support/Graphics/Pasted image 20240305110925.png",
     "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "-Support/Graphics/Pasted image 20240305105854.png",
     "Academic/Academic notes/(RT-)PCR.md",
@@ -269,7 +269,6 @@
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "-Support/Graphics/Pasted image 20240226143433.png",
     "-Support/Graphics/Pasted image 20240226142915.png",
-    "-Support/Graphics/Pasted image 20240226142439.png",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
