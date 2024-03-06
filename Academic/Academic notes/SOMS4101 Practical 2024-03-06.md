@@ -60,17 +60,17 @@ Probe criteria
 
 - Marker of on-target activity: IPA (inhibition of platelet aggregation) and TRAP6 (thrombin receptor activating peptide)
 
-- Stock solution & stability: 
+- Stock solution & stability: DMSO
 
 - Usage recommendations in cells:
 
 - Usage recommendations in vivo:
 
-Control compound: name, structure, properties - difference to the chemical probe - describe how this compound relates to the probe and provides a negative control
+Control compound:  BAY-448
 
-**Chemical probe #2:** (aim for a probe that is orthogonal to Probe #1)
+**Chemical probe #2:** 
 
-Chemical name:
+Chemical name: Vorapaxar
 
 Structure: _(copy and paste)_
 
