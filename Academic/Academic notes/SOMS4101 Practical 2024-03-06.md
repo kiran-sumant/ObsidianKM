@@ -55,11 +55,12 @@ Probe criteria
 
 - On-target cell activity: In HEK cells, IC50 = 10nM, very active
 
-- Evidence of cellular target engagement/modulation: 
+- Evidence of cellular target engagement/modulation: https://www.bayer.com/en/file/174686/download?token=I8NQc627
+		IC50 = 56nM in human in-vitro profile.
 
-- Marker of on-target activity:
+- Marker of on-target activity: IPA (inhibition of platelet aggregation) and TRAP6 (thrombin receptor activating peptide)
 
-- Stock solution & stability:       
+- Stock solution & stability: 
 
 - Usage recommendations in cells:
 
