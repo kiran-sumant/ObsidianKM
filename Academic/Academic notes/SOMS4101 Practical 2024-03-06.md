@@ -80,7 +80,7 @@ Physicochemical properties:
 - log D (pH 7.5) - 3.6 
 - solubility - DMSO, >30mg/L at ph 6.5
 
-Mechanism of action: how does this probe regulate activity of the target _(reversible/irreversible/allosteric inhibitor; agonist/antagonist, partial/allosteric agonist/antagonist)_
+Mechanism of action: antagonist
 
 Which public resource(s) list this probe:
 
