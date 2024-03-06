@@ -37,7 +37,6 @@ Structure:
 
 Physicochemical properties: 
 - MW - 514.15
-- TPSA -  
 - log D (pH 7.5) - 3.6 
 - solubility - aqueous, 30mg/L at ph 6.5
 
@@ -72,9 +71,14 @@ Control compound:  BAY-448
 
 Chemical name: Vorapaxar
 
-Structure: _(copy and paste)_
+Structure: 
+![[Pasted image 20240306111902.png]]
 
-Physicochemical properties: _(MW, TPSA, log D, solubility)_
+
+Physicochemical properties: 
+- MW - 492.5817
+- log D (pH 7.5) - 3.6 
+- solubility - DMSO, >30mg/L at ph 6.5
 
 Mechanism of action: how does this probe regulate activity of the target _(reversible/irreversible/allosteric inhibitor; agonist/antagonist, partial/allosteric agonist/antagonist)_
 
@@ -137,35 +141,3 @@ Title:
 Journal + Impact Factor:
 
 Comments:
-
-List 3 publications that **have not used** these chemical probes
-
--        What approach/compounds did authors use to target the protein of interest?
-
--        Are compelling and reliable data presented?
-
-Reference #1:
-
-Title:
-
-Journal + Impact Factor:
-
-Comments:
-
-Reference #2:
-
-Title:
-
-Journal + Impact Factor:
-
-Comments:
-
-Reference #3.
-
-Title:
-
-Journal + Impact Factor:
-
-Comments:
-
-_Break: each student briefly presenting references_
