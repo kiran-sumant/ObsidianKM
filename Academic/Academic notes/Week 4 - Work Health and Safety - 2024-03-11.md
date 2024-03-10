@@ -6,4 +6,3 @@
 
 [[Risk Management]]
 
-Work, Health and Safety
