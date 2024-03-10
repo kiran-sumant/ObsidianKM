@@ -11,8 +11,13 @@
             "id": "e0f7dbde454e200a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Terminology and Responsibilities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -79,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 228.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Academic notes/Terminology and Responsibilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Academic notes/Terminology and Responsibilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Academic notes/Terminology and Responsibilities.md"
+              }
             }
           },
           {
@@ -248,9 +257,15 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/risk control.md",
+    "Academic/Academic notes/Terminology and Responsibilities.md",
+    "Academic/Academic notes/risk.md",
+    "Academic/Academic notes/hazard.md",
+    "Academic/Academic notes/worker.md",
+    "Academic/Academic notes/Week 4 - Work Health and Safety - 2024-03-11.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
     "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
     "Pasted image 20240306111902.png",
@@ -280,14 +295,8 @@
     "Academic/Academic notes/PROTACs.md",
     "Academic/Academic notes/The.md",
     "-Support/Graphics/Pasted image 20240305101024.png",
-    "Academic/Academic notes/Pan-Assay.md",
-    "Academic/Academic notes/Half-Maximal Inhibitory Concentration (IC50).md",
-    "Academic/Academic notes/PAINS.md",
-    "Academic/Academic notes/Public resources for chemical probes; the journey so far and the road ahead..md",
     "-Support/Graphics/Pasted image 20240305075054.png",
     "-Support/Graphics/Pasted image 20240305073132.png",
-    "Academic/Academic notes/RNA Interference to knock down gene expression..md",
-    "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",

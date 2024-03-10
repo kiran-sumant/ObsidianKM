@@ -1,0 +1,1 @@
+Individual entity carrying out work in any capacity for a person *conducting a business* or *undertaking*
