@@ -168,12 +168,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +193,9 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/SOMS4101.md",
