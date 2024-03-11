@@ -12,3 +12,5 @@ Risks can be evaluated based on the **Risk Matrix**
 
 ![[Pasted image 20240311113752.png]]
 
+Once RA has been created/amended, needs to be sent to Work Safety Officer.
+
