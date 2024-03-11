@@ -1,0 +1,7 @@
+[[Lecture SOMS4101 2024-03-12]]
+
+[[Lecture SOMS4101 2024-03-13]]
+
+[[Workshop SOMS4101 2024-03-15]]
+
+

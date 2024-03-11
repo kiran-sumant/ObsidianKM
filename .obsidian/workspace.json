@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md"
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md"
               }
             }
           },
@@ -193,11 +193,16 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
-    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
-    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
+    "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
+    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/risk control.md",
     "Academic/Academic notes/Terminology and Responsibilities.md",
     "Academic/Academic notes/worker.md",
@@ -222,10 +227,6 @@
     "-Support/Graphics/Pasted image 20240305110925.png",
     "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "-Support/Graphics/Pasted image 20240305105854.png",
-    "Academic/Academic notes/(RT-)PCR.md",
-    "Academic/Academic notes/Gene Knockdown.md",
-    "Academic/Academic notes/RNA Interference (RNAi).md",
-    "CRISPR/CRISPR-Cas9.md",
     "-Support/Graphics/Pasted image 20240305103606.png",
     "CRISPR",
     "RNAi (siRNA",
