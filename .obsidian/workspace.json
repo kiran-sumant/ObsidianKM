@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/Chi-square test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/Chi-square test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/Chi-square test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md"
+                "file": "Academic/Academic notes/Chi-square test.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/Chi-square test.md",
+    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Academic notes/confidentiality.md",
     "Academic/Academic notes/anonymity.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
@@ -225,7 +226,6 @@
     "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Academic notes/Kinase.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240305110925.png",
     "-Support/Graphics/Pasted image 20240305105854.png",
     "-Support/Graphics/Pasted image 20240305103606.png",
