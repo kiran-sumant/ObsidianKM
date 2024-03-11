@@ -8,9 +8,17 @@ Incidents may also result in reassessment, such as when ***hazards interact***, 
 
 Risks can be evaluated based on the **Risk Matrix**
 
-## Safe-Work Procedure
+## Safe-Work Procedure (SWP)
 
 ![[Pasted image 20240311113752.png]]
 
 Once RA has been created/amended, needs to be sent to Work Safety Officer.
+
+Stuff to consider for SWP:
+- Materials SDS
+- Methods
+- Risk Assessment review date
+- People creating the protocol
+- People engaging in the experiment
+- Waste disposal
 
