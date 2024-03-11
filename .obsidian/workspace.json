@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Risk Assessment.md",
+                "file": "Academic/Academic notes/t-test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Risk Assessment.md",
+                "file": "Academic/Academic notes/t-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Risk Assessment.md",
+                "file": "Academic/Academic notes/t-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Risk Assessment.md"
+                "file": "Academic/Academic notes/t-test.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/t-test.md",
+    "Academic/Academic notes/Risk Assessment.md",
     "Academic/Academic notes/Chi-square test.md",
     "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Academic notes/confidentiality.md",
@@ -211,7 +213,6 @@
     "Academic/Academic notes/Terminology and Responsibilities.md",
     "Academic/Academic notes/worker.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety - 2024-03-11.md",
-    "Academic/Academic notes/Risk Assessment.md",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
     "Academic/Academic notes/risk.md",
@@ -225,7 +226,6 @@
     "-Support/Graphics/Pasted image 20240306095215.png",
     "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Academic notes/Kinase.md",
     "-Support/Graphics/Pasted image 20240305110925.png",
     "-Support/Graphics/Pasted image 20240305105854.png",
     "-Support/Graphics/Pasted image 20240305103606.png",
