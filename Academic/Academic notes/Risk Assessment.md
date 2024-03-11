@@ -17,7 +17,7 @@ Once RA has been created/amended, needs to be sent to Work Safety Officer.
 Stuff to consider for SWP:
 - Materials SDS
 - Methods
-- Risk Assessment review date
+- Risk Assessment review date, reference number, proposal date
 - People creating the protocol
 - People engaging in the experiment
 - Waste disposal
