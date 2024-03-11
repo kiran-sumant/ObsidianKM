@@ -1,3 +1,27 @@
+# Statistics Topic
+
+Consideration for type of study to use:
+
+
+| Risk-Factor\\Outcome | Poor | Good | Total |
+| -------------------- | ---- | ---- | ----- |
+| Yes                  | A    | B    | A+B   |
+| No                   | C    | D    | C+D   |
+| Total                | A+C  | B+D  | ABCD  |
+
+Cross-sectional study: 
+==A+B+C+D==
+
+Cohort Study/Clinical Trial:
+==A+B vs C+D==
+
+Case-Control Study:
+==A+C vs B+D==, uses Odds Ratio
+
+
+#data-science #statistics #biostatistics 
+
+# Work Health and Safety Topic
 Carried out when:
 - Work activity is made/ proposed
 - Work activity has changed; new hazards, etc
