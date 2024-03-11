@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/confidentiality.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/confidentiality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/confidentiality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md"
+                "file": "Academic/Academic notes/confidentiality.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/confidentiality.md",
+    "Academic/Academic notes/anonymity.md",
+    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
@@ -223,9 +225,7 @@
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Academic notes/Kinase.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "-Support/Graphics/Pasted image 20240305110925.png",
-    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "-Support/Graphics/Pasted image 20240305105854.png",
     "-Support/Graphics/Pasted image 20240305103606.png",
     "CRISPR",

@@ -1,0 +1,1 @@
+confidentiality is concerning **data** that is **only available** to **specific individuals
