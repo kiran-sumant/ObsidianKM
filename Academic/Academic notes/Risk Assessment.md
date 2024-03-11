@@ -8,9 +8,7 @@ Incidents may also result in reassessment, such as when ***hazards interact***, 
 
 Risks can be evaluated based on the **Risk Matrix**
 
-## Module example Risk Matrix:
+## Safe-Work Procedure
 
-|            | Potential Consequences |
-| ---------- | ---------------------- |
-| Likelihood |                        |
+![[Pasted image 20240311113752.png]]
 

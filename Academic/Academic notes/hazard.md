@@ -2,3 +2,5 @@ Any factor or object, **anything** that has *potential* to have a ==negative imp
 
 e.g: Ethanol 
 - pure ethanol is extremely flammable, and irritating to the eyes
+
+#definition #safety #lab-technique 

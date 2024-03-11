@@ -4,3 +4,4 @@ in the Lab, could also be:
 
 Workers, Safety officers, Supervisors
 
+#definition #safety #lab-technique 
