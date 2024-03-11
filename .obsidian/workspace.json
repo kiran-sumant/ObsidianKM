@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md"
               }
             }
           },
@@ -191,49 +191,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "floating": {
-    "id": "e73cca368de7cfd0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "081d3625e79e041b",
-        "type": "window",
-        "children": [
-          {
-            "id": "39327cbb7c750255",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c3b9b11dd70c0f7a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c3b9b11dd70c0f7a",
+  "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
     "Academic/Academic notes/risk control.md",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Academic notes/Terminology and Responsibilities.md",
     "Academic/Academic notes/worker.md",
     "Academic/Academic notes/Week 4 - Work Health and Safety - 2024-03-11.md",
