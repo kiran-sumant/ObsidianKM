@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Independence.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Independence.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Independence.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Independence.md"
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md"
               }
             }
           },
@@ -194,10 +194,13 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/Multivariate analysis.md",
     "Academic/Academic notes/Multiple regression.md",
+    "Academic/Academic notes/Homoscedastic.md",
+    "Academic/Academic notes/Equal Variance.md",
+    "Academic/Academic notes/Normality.md",
     "Academic/Academic notes/Independence.md",
     "Academic/Academic notes/Linearity.md",
-    "Academic/Academic notes/Multivariate analysis.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Bivariate analysis.md",
@@ -217,9 +220,6 @@
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "Academic/Academic notes/t-test.md",
     "Academic/Academic notes/Risk Assessment.md",
-    "Academic/Academic notes/Chi-square test.md",
-    "Academic/Academic notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
-    "Academic/Academic notes/confidentiality.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
