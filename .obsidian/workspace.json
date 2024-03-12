@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Logistic regression.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Logistic regression.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Logistic regression.md",
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Logistic regression.md"
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md"
               }
             }
           },
@@ -194,8 +194,11 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Logistic regression.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+    "Academic/Academic notes/Poisson or Negative Binomial regression.md",
+    "Academic/Academic notes/Cumulative logistic regression.md",
+    "Academic/Academic notes/Multinomial regression.md",
     "Poisson/Negative Binomial regression.md",
     "Poisson",
     "Academic/Academic notes/Multivariate analysis.md",
@@ -218,9 +221,6 @@
     "Academic/Academic notes/Scheffe.md",
     "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Bonferroni.md",
-    "Academic/Academic notes/Non-parametric.md",
-    "Academic/Academic notes/Kruskal-Wallis.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
