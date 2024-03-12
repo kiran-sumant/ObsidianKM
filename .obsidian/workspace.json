@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/t-test.md",
     "Academic/Academic notes/Risk Assessment.md",
     "Academic/Academic notes/Chi-square test.md",
