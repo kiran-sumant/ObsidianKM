@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101.md",
+                "file": "Academic/Academic notes/Week 4 - Research Integrity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101.md",
+                "file": "Academic/Academic notes/Week 4 - Research Integrity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101.md",
+                "file": "Academic/Academic notes/Week 4 - Research Integrity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101.md"
+                "file": "Academic/Academic notes/Week 4 - Research Integrity.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Week 4 - Research Integrity.md",
     "Academic/Academic notes/SOMS4101.md",
+    "Academic/Academic notes/Week 4 - Research Integrity.md",
     "Academic/Honours.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Scheffe.md",
