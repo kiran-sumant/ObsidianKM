@@ -9,7 +9,7 @@ Outcome variable is expressed as a function of explanatory variables.
 
 2. Two-way ANOVA
 
-4. Repeated Measures ANOVA
+3. Repeated Measures ANOVA
 
 
 ## Assumptions
