@@ -28,7 +28,9 @@ Dr Hart is a clinician and researcher, specialising in cardiology. She has acces
 *Yes provided that patients are aware of their data being used for research purposes, and their awareness is documented through informed consent documents with their signature included.*
 
 - Is the way Dr Hart collected her data appropriate? What should she have done?
-No it's not as she should have obtained consent from the patients and had a doctor who has contact with the patient
+*No it's not. She should have obtained consent from the patients and had a doctor who has contact with the patient (preferably the doctor who requested their MRI) to affirm their informed consent.*
+
 - What needs to be considered when storing data that involves individuals’ medical information?
+Confidentiality, data security, data longevity (depending on format)
 
 - What issues are present from a research data management perspective?
