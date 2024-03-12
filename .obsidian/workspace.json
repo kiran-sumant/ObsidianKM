@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+                "file": "Academic/Academic notes/Logistic regression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+                "file": "Academic/Academic notes/Logistic regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+                "file": "Academic/Academic notes/Logistic regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md"
+                "file": "Academic/Academic notes/Logistic regression.md"
               }
             }
           },
@@ -194,6 +194,10 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+    "Academic/Academic notes/Logistic regression.md",
+    "Poisson/Negative Binomial regression.md",
+    "Poisson",
     "Academic/Academic notes/Multivariate analysis.md",
     "Academic/Academic notes/Multiple regression.md",
     "Academic/Academic notes/Homoscedastic.md",
@@ -202,7 +206,6 @@
     "Academic/Academic notes/Independence.md",
     "Academic/Academic notes/Linearity.md",
     "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Bivariate analysis.md",
     "Academic/Academic notes/Simple regression.md",
     "Academic/Academic notes/Student's t-test.md",
@@ -218,8 +221,6 @@
     "Academic/Academic notes/Non-parametric.md",
     "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Academic/Academic notes/t-test.md",
-    "Academic/Academic notes/Risk Assessment.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
@@ -239,7 +240,6 @@
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "-Support/Slides",
     "-Support/Reading/Obsidian and Zettelkasten - Edmund Gropl.pdf",
-    "-Support/Graphics",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
