@@ -8,7 +8,6 @@ Outcome variable is expressed as a function of explanatory variables.
 ## Assumptions
 
 
-
 ## Post-Hoc Analyses
 
 - **[[Bonferroni]]**
