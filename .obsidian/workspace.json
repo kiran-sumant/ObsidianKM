@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tips for Presenting Regression results.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Tips for Presenting Regression results.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Tips for Presenting Regression results.md",
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Tips for Presenting Regression results.md"
+                "file": "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md"
               }
             }
           },
@@ -194,8 +194,11 @@
   },
   "active": "e0f7dbde454e200a",
   "lastOpenFiles": [
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Honours.md",
     "Academic/Academic notes/Tips for Presenting Regression results.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Logistic regression.md",
     "Academic/Academic notes/Poisson or Negative Binomial regression.md",
     "Academic/Academic notes/Cumulative logistic regression.md",
@@ -215,12 +218,9 @@
     "Academic/Academic notes/Student's t-test.md",
     "Academic/Academic notes/Univariate analysis.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
-    "Academic/Academic notes/SOMS4101.md",
-    "Academic/Honours.md",
     "Academic/Research Larance Lab.md",
     "Academic/Academic notes/Week 4 - Research Integrity.md",
     "Academic/Academic notes/Scheffe.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
