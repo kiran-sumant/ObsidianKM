@@ -6,6 +6,6 @@ One-way [[ANOVA]]
 
 [[Chi-square test]]
 
-[[Simple regression]]
+[[Simple linear regression]]
 
 #analysis #data-science #definition #statistics #regression
