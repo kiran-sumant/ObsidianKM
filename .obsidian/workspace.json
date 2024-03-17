@@ -221,7 +221,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 0,
         "y": 0,
         "width": 768,
         "height": 816,
@@ -232,11 +232,11 @@
   },
   "active": "8d8159e64e389686",
   "lastOpenFiles": [
+    "Academic/Academic notes/summary of probe mistakes in research.md",
+    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/SOMS4101.md",
     "Academic/Honours.md",
-    "Academic/Academic notes/summary of probe mistakes in research.md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Data-Model Table.md",
     "Academic/Academic notes/Simple linear regression.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
