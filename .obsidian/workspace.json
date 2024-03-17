@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f526011162f8962",
+        "id": "e50739e21cc151e0",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f7dbde454e200a",
+            "id": "8d8159e64e389686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Data-Model Table.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Data-Model Table.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Data-Model Table.md",
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Data-Model Table.md"
+                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
               }
             }
           },
@@ -192,19 +192,59 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "e0f7dbde454e200a",
+  "floating": {
+    "id": "8677cf2c94ee6e5c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7c6c6cfc5476a7e5",
+        "type": "window",
+        "children": [
+          {
+            "id": "88872ec2418796fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0f7dbde454e200a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Academic/Academic notes/summary of probe mistakes in research.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8d8159e64e389686",
   "lastOpenFiles": [
-    "Academic/Academic notes/Simple linear regression.md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Honours.md",
+    "Academic/Academic notes/summary of probe mistakes in research.md",
+    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Data-Model Table.md",
+    "Academic/Academic notes/Simple linear regression.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
-    "Academic/Academic notes/SOMS4101.md",
-    "Academic/Honours.md",
     "Academic/Research Larance Lab.md",
     "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
-    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/Tips for Presenting Regression results.md",
     "Academic/Academic notes/Logistic regression.md",
     "Academic/Academic notes/Poisson or Negative Binomial regression.md",
@@ -219,8 +259,6 @@
     "Academic/Academic notes/Normality.md",
     "Academic/Academic notes/Independence.md",
     "Academic/Academic notes/Linearity.md",
-    "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/Bivariate analysis.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
