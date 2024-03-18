@@ -11,20 +11,43 @@
             "id": "b359fb8614ca370d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2550f687ce3ec3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
             "id": "08c4fbada241cada",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -104,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md"
+              }
             }
           },
           {
@@ -172,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,19 +221,22 @@
   },
   "active": "08c4fbada241cada",
   "lastOpenFiles": [
+    "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
+    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/SOMS4101.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
+    "Academic/Honours.md",
+    "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Univariate analysis.md",
     "mean (sd).md",
     "Academic/Academic notes/Cox Model.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
-    "Academic/Academic notes/SOMS4101.md",
-    "Academic/Honours.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Data-Model Table.md",
-    "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/summary of probe mistakes in research.md",
     "Academic/Academic notes/Simple linear regression.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
@@ -215,10 +247,7 @@
     "Academic/Academic notes/Logistic regression.md",
     "Academic/Academic notes/Poisson or Negative Binomial regression.md",
     "Academic/Academic notes/Cumulative logistic regression.md",
-    "Academic/Academic notes/Multinomial regression.md",
-    "Poisson/Negative Binomial regression.md",
     "Poisson",
-    "Academic/Academic notes/Multivariate analysis.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
