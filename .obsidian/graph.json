@@ -1,22 +1,37 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "section:(Data)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.915280665280665,
-  "repelStrength": 16.1434511434511,
+  "centerStrength": 1,
+  "repelStrength": 18.0665280665281,
   "linkStrength": 0.466216216216216,
   "linkDistance": 239,
-  "scale": 0.587947034315817,
-  "close": true
+  "scale": 0.7504297033776798,
+  "close": false
 }
