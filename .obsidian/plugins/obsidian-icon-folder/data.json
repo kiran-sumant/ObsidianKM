@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbTriangle",
       "IbSprout",
       "IbProductivity",
       "IbPencil",
@@ -25,5 +26,6 @@
   "Academic": "IbAcademicBook",
   "Journals": "IbPencil",
   "Projects": "IbProductivity",
-  "Self Learning": "IbSprout"
+  "Self Learning": "IbSprout",
+  "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md": "IbTriangle"
 }

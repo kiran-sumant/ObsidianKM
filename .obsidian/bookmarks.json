@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1710801563802,
+      "title": "Data",
+      "options": {
+        "collapse-filter": false,
+        "search": "section:(Data)",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#definition  ",
+            "color": {
+              "a": 1,
+              "rgb": 14048348
+            }
+          },
+          {
+            "query": "",
+            "color": {
+              "a": 1,
+              "rgb": 14069084
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.40904365904366,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 1,
+        "repelStrength": 18.0665280665281,
+        "linkStrength": 0.466216216216216,
+        "linkDistance": 239,
+        "scale": 0.7504297033776798,
+        "close": false
+      }
+    }
+  ]
+}

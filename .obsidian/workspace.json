@@ -16,14 +16,15 @@
             }
           },
           {
-            "id": "07084c7de2f690c8",
+            "id": "b359fb8614ca370d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#definition tag:#mass-spectrometry  ",
+                "query": "sd(mean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,13 +168,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +190,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "8d8159e64e389686",
+  "active": "b359fb8614ca370d",
   "lastOpenFiles": [
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
+    "Academic/Academic notes/Univariate analysis.md",
     "mean (sd).md",
     "Academic/Academic notes/Cox Model.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
@@ -202,7 +203,6 @@
     "Academic/Honours.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Data-Model Table.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/summary of probe mistakes in research.md",
@@ -219,7 +219,6 @@
     "Poisson/Negative Binomial regression.md",
     "Poisson",
     "Academic/Academic notes/Multivariate analysis.md",
-    "Academic/Academic notes/Multiple regression.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
     "-Support/Graphics/Pasted image 20240311113752.png",
