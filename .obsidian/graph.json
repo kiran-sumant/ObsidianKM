@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "section:(Data)",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
+  "centerStrength": 0.815488565488566,
   "repelStrength": 18.0665280665281,
   "linkStrength": 0.466216216216216,
   "linkDistance": 239,
-  "scale": 0.7504297033776798,
+  "scale": 0.39991396293699427,
   "close": false
 }
