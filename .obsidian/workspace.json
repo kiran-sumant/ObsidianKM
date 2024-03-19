@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08c4fbada241cada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md"
+                "file": "Academic/Academic notes/Week 2 - MS and HPLC.md"
               }
             }
           },
@@ -219,21 +206,24 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "08c4fbada241cada",
+  "active": "2550f687ce3ec3e7",
   "lastOpenFiles": [
+    "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "Academic/Academic notes/Week 2 - MS and HPLC.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
+    "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-02-21.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/SOMS4101.md",
-    "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Univariate analysis.md",
     "mean (sd).md",
     "Academic/Academic notes/Cox Model.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Data-Model Table.md",
@@ -244,9 +234,6 @@
     "Academic/Research Larance Lab.md",
     "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
     "Academic/Academic notes/Tips for Presenting Regression results.md",
-    "Academic/Academic notes/Logistic regression.md",
-    "Academic/Academic notes/Poisson or Negative Binomial regression.md",
-    "Academic/Academic notes/Cumulative logistic regression.md",
     "Poisson",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
