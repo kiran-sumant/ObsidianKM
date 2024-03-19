@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sd(mean",
+                "query": "tag:#chemical-probes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +80,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -194,6 +193,12 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
+    "Academic/Academic notes/(RT-)PCR.md",
+    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+    "Academic/Academic notes/Gene Knockdown.md",
+    "Academic/Academic notes/RNA Interference (RNAi).md",
+    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
+    "Academic/Academic notes/summary of probe mistakes in research.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
@@ -210,16 +215,10 @@
     "Academic/Academic notes/Univariate analysis.md",
     "mean (sd).md",
     "Academic/Academic notes/Cox Model.md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
     "Academic/Academic notes/Data-Model Table.md",
-    "Academic/Academic notes/summary of probe mistakes in research.md",
     "Academic/Academic notes/Simple linear regression.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
-    "Academic/Research Larance Lab.md",
-    "Academic/Academic notes/SOMS4101 Practical 2024-03-06.md",
-    "Academic/Academic notes/Tips for Presenting Regression results.md",
     "Poisson",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",

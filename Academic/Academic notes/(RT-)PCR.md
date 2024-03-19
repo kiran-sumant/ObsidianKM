@@ -10,3 +10,5 @@ Gene of interest compared to a "housekeeping gene" ==control==.
 # RT-PCR
 
 requires additional **reverse-transcription** step to synth cDNA from RNA
+
+#molecular-probes #genetics #gene-expression #primers 
