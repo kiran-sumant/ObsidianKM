@@ -9,7 +9,8 @@
 ## Related Links
 
 ## Related Reading
+[[Public resources for chemical probes; the journey so far and the road ahead.]]
 
+[[Science Forum; Donated chemical probes for open science.]]
 
-
-#### Tags:
+#### Tags: #research #reference #chemical-probes 

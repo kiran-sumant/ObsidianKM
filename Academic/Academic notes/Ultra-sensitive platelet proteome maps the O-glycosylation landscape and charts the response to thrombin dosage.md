@@ -39,11 +39,12 @@ Analysed using R, plotted using Tableau
 
 
 
-
 ## Related Links
 
 ## Related Reading
 
-[[]]
+[[Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation]]
+
+
 
 #### Tags: #reference #proteomics #research #PTMs #data-science #ms-ms #platelets 

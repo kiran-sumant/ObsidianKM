@@ -31,7 +31,7 @@ Using *biochemical kinase inhibition assays*
 ## Related Links
 
 ## Related Reading
+[[Public resources for chemical probes; the journey so far and the road ahead.]]
 
 
-
-#### Tags: #research #reference
+#### Tags: #research #reference #chemical-probes #cancer 
