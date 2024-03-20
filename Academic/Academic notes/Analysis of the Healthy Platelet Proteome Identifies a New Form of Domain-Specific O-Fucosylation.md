@@ -27,7 +27,16 @@ Histograms of the open-search analysis of high-dose thrombin stimulated platelet
 
 What we didn't know:
 - O-Glycan compositions found in releasate
-- found 
+- found sites on the proteins not previously seen in any human sample including platelets.
+- proteins not know to be released from platelets were found (granulin, midkine) 
+
+O-fucosylation on MMRN1 is at site ==T216==. 
+
+High dose thrombin was found to trigger **increased lysosomal luminal enzyme** secretion
+
+We know previously that defective O-glycosylation -> bleeding phenotype (*Congenital disorders of glycosylation (CDG)*, quite rare)
+
+
 
 
 ## Related Links
