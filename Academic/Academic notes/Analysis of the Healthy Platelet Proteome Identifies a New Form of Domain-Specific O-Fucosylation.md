@@ -10,7 +10,8 @@
 
 **Method**: 
 Blood collection, Platelet Isolation and stabilisation, Flow Cytometry, *Cytometry cutoff determination*, 
-Sample Prepatation, LC/MS/MS, *Data analysis and unbiased *
+Sample Prepatation, LC/MS/MS, *Data analysis and unbiased PTM search*,
+**O-Glycan Focused PTM search**
 
 ## Related Links
 
