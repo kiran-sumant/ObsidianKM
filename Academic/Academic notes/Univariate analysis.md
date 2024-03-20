@@ -1,7 +1,7 @@
 Descriptive statistics
 
 - [[mean (sd)]]
-- [[median (IQR]]
+- [[median (IQR)]]
 - proportion
 
 
