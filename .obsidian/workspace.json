@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "-Support/Graphics/Pasted image 20240320164940.png",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "Academic/Academic notes/MMRN1 protein.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Pan-Assay Interference Compounds (Pains).md",
     "Academic/Academic notes/Univariate analysis.md",
@@ -227,7 +228,6 @@
     "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Academic notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
-    "Academic/Academic notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
@@ -242,7 +242,6 @@
     "RNAi (siRNA",
     "-Support/Graphics/Pasted image 20240305102234.png",
     "-Support/Graphics/Pasted image 20240305101024.png",
-    "-Support/Graphics/Pasted image 20240305075054.png",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "-Support/Slides/Wednesday_ML_Adam-3.pdf",
