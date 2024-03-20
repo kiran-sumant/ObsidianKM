@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+                "file": "Academic/Academic notes/Honours Readings to go through.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,8 +24,13 @@
             "id": "0a2d32f66f8af0af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"main idea of thesis\"",
+                "query": "blast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+                "file": "Academic/Academic notes/Honours Readings to go through.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+                "file": "Academic/Academic notes/Honours Readings to go through.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md"
+                "file": "Academic/Academic notes/Honours Readings to go through.md"
               }
             }
           },
@@ -201,17 +206,19 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
-    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
-    "Academic/Academic notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Academic notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Academic notes/Honours Readings to go through.md",
+    "Academic/Academic notes/ColabFold making protein folding accessible to all.md",
+    "Academic/Academic notes/Fast and accurate protein structure search with Foldseek.md",
+    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
+    "Academic/Honours.md",
+    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Academic/Academic notes/Honours Readings to go through.md",
-    "Academic/Honours.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
-    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
     "Academic/Academic notes/RNA Interference to knock down gene expression..md",
     "-Support/Templates/Reference Breakdown.md",
@@ -226,7 +233,6 @@
     "Academic/Academic notes/Gene Knockdown.md",
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
-    "Academic/Academic notes/(RT-)PCR.md",
     "Poisson",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",
