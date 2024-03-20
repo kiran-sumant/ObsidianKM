@@ -76,4 +76,4 @@ note, the above is not all, it's just all I could include.
 
 
 
-#### Tags:
+#### Tags: #research #reference #PCR #genetics #molecular-probes 

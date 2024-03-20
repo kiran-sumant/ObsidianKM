@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chemical-probes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+                "file": "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md"
+                "file": "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md"
               }
             }
           },
@@ -193,13 +193,21 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
-    "Academic/Academic notes/(RT-)PCR.md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
-    "Academic/Academic notes/Gene Knockdown.md",
-    "Academic/Academic notes/RNA Interference (RNAi).md",
-    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
-    "Academic/Academic notes/summary of probe mistakes in research.md",
     "Academic/Academic notes/Week 3 - Molecular and Chemical Probes in Research.md",
+    "Academic/Academic notes/Science Forum; Donated chemical probes for open science..md",
+    "Academic/Academic notes/Public resources for chemical probes; the journey so far and the road ahead..md",
+    "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
+    "Academic/Academic notes/RNA Interference to knock down gene expression..md",
+    "Academic/Academic notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Honours.md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Academic/Academic notes/Gene Knockdown.md",
+    "Academic/Academic notes/Adjuvant Systemic Therapy.md",
+    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
+    "Academic/Academic notes/(RT-)PCR.md",
+    "Academic/Academic notes/RNA Interference (RNAi).md",
+    "Academic/Academic notes/summary of probe mistakes in research.md",
     "Academic/Academic notes/Week 2 - MS and HPLC.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-26.md",
@@ -208,17 +216,9 @@
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-23.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-02-22.md",
-    "Academic/Academic notes/SOMS4101.md",
-    "Academic/Honours.md",
     "Academic/Academic notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-13.md",
     "Academic/Academic notes/Univariate analysis.md",
-    "mean (sd).md",
-    "Academic/Academic notes/Cox Model.md",
-    "Academic/Academic notes/Week 4 - Intro to Biostatistics.md",
-    "Academic/Academic notes/Data-Model Table.md",
-    "Academic/Academic notes/Simple linear regression.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "Poisson",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "-Support/Graphics/Pasted image 20240306111902.png",

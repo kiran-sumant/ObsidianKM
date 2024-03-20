@@ -16,8 +16,6 @@ beeg probelm with mumbo number 4:
 - *Toxicity is a risk.*
 
 
-
-
 #### Doc Link: [https://www.nature.com/articles/nrd.2016.266](https://www.nature.com/articles/nrd.2016.266)
 
 # Details/Quotes
@@ -36,4 +34,4 @@ Using *biochemical kinase inhibition assays*
 
 
 
-#### Tags:
+#### Tags: #research #reference

@@ -23,4 +23,4 @@ delivery can be done **either** through *transfection* or *electroporation*
 
 
 
-#### Tags:
+#### Tags: #research #reference #genetics #molecular-probes 
