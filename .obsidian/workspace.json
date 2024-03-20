@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2d32f66f8af0af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Academic notes/MMRN1 protein.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+              }
             }
           },
           {
@@ -209,10 +199,12 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "732fa64c6c86c033",
+  "active": "b359fb8614ca370d",
   "lastOpenFiles": [
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "Academic/Academic notes/MMRN1 protein.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
     "Academic/Academic notes/Pan-Assay Interference Compounds (Pains).md",
     "Academic/Academic notes/Univariate analysis.md",
     "Academic/Academic notes/mean (sd).md",
@@ -231,13 +223,11 @@
     "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "Academic/Academic notes/ColabFold making protein folding accessible to all.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
-    "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Academic notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Academic notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Academic notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Academic notes/Fast and accurate protein structure search with Foldseek.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
