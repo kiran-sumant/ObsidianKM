@@ -1,22 +1,37 @@
 {
-  "collapse-filter": true,
-  "search": "tag:#reference",
+  "collapse-filter": false,
+  "search": "tag:#material OR tag:#definition",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#material  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.545738045738046,
-  "repelStrength": 13.4927234927235,
-  "linkStrength": 1,
-  "linkDistance": 259,
-  "scale": 0.8360648267107395,
+  "centerStrength": 0.778586278586279,
+  "repelStrength": 12.8274428274428,
+  "linkStrength": 0.695426195426195,
+  "linkDistance": 97,
+  "scale": 0.654703261959407,
   "close": true
 }
