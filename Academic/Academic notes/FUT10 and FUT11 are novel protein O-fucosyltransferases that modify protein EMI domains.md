@@ -9,8 +9,10 @@
 ## Related Links
 
 ## Related Reading
-[[Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation]]
-[[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
+- [[Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation]]
+- [[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
+- [[ColabFold making protein folding accessible to all]]
+
 
 
 #### Tags: #research #reference 
