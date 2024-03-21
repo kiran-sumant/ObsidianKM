@@ -42,6 +42,13 @@ We know previously that defective O-glycosylation -> bleeding phenotype (*Congen
 - Implications of comparing with proteome of type-ii diabetes (==platelets known to be hyperactive==), help detect new layers/mechanisms of platelet dysfunction.
 
 ## Related Links
+[Post-translational modifications in proteins involved in blood coagulation](https://www.sciencedirect.com/science/article/pii/S1538783622167425)
+
+[Structural analysis of N-and O-glycans released from glycoproteins](https://www.nature.com/articles/nprot.2012.063/1000)
+
+[C-mannosylation and O-fucosylation of the thrombospondin type 1 module](https://www.jbc.org/article/S0021-9258(19)34659-9/abstract)
+
+
 
 ## Related Reading
 
