@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "tag:#reference",
+  "search": "tag:#protein OR tag:#definition",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#material  ",
+      "color": {
+        "a": 1,
+        "rgb": 6055126
+      }
+    },
+    {
+      "query": "tag:#post-hoc  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#definition  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#protein",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.545738045738046,
-  "repelStrength": 13.4927234927235,
-  "linkStrength": 1,
-  "linkDistance": 259,
-  "scale": 0.6092233669293379,
-  "close": true
+  "centerStrength": 0.778586278586279,
+  "repelStrength": 12.8274428274428,
+  "linkStrength": 0.695426195426195,
+  "linkDistance": 97,
+  "scale": 0.7736367271069543,
+  "close": false
 }

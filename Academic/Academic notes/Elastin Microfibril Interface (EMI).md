@@ -15,6 +15,11 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 - [[EMILIN-2]]
 - [[COQA1|Collagen alpha 1(XXVI) or COL26A1]]
 - [[EMILIN-3]]
+- [[MEGF6|Multiple Epidermal growth factor-like domains protein 6]]
+- [[MEGF11|Multiple Epidermal growth factor-like domains protein 11]]
+- [[EGFL7|Epidermal growth factor-like protein 7]]
+- [[EGFL8|Epidermal growth factor-like protein 8]]
+- [[PEAR1|Platelet endothelial aggregation receptor 1]]
 - [[NOTCH1|Neurogenic locus notch homolog protein 1]]*
 - [[NOTCH3|Neurogenic locus notch homolog protein 3]]*
 - [[HSPG2|Basement membrane-specific heparan sulfate proteoglycan core protein]]*
@@ -23,11 +28,6 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 - [[MUC3A|Mucin-3A]]*
 - [[MUC3B|Mucin-3B]]*
 - [[CLEC4C|C-type lectin domain family 4 member C]]*
-- [[MEGF6|Multiple Epidermal growth factor-like domains protein 6]]
-- [[MEGF11|Multiple Epidermal growth factor-like domains protein 11]]
-- [[EGFL7|Epidermal growth factor-like protein 7]]
-- [[EGFL8|Epidermal growth factor-like protein 8]]
-- [[PEAR1|Platelet endothelial aggregation receptor 1]]
 - [[MEGF10|Multiple Epidermal growth factor-like domains protein 10]]^
 - [[SSPO|SCO-spondin]]^
 - [[BGH3|Transforming growth factor-beta-induced protein ig-h3]]^

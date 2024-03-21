@@ -37,8 +37,13 @@
             "id": "c5679443a71a6a91",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/EMILIN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -53,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae30548eadb46daa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,12 +130,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Academic notes/EMILIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Academic notes/EMILIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "Academic/Academic notes/EMILIN.md"
               }
             }
           },
@@ -262,19 +276,20 @@
       }
     ]
   },
-  "active": "b5219fb6a44728da",
+  "active": "c5679443a71a6a91",
   "lastOpenFiles": [
-    "Academic/Academic notes/VCAN.md",
+    "BGH3.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Academic/Academic notes/MMRN1.md",
+    "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/POSTN.md",
     "Academic/Academic notes/SSPO.md",
     "Academic/Academic notes/EMILIN-2.md",
     "Academic/Academic notes/PEAR1.md",
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
-    "Academic/Academic notes/MMRN1.md",
     "Academic/Academic notes/Multimerin-1.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Academic notes/EMILIN.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
@@ -293,7 +308,6 @@
     "Academic/Academic notes/t-test.md",
     "Academic/Academic notes/weighted signature expression score.md",
     "Academic/Academic notes/worker.md",
-    "Academic/Academic notes/Scheffe.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
