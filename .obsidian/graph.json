@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#material  ",
-      "color": {
-        "a": 1,
-        "rgb": 6055126
-      }
-    },
-    {
       "query": "tag:#post-hoc  ",
       "color": {
         "a": 1,
@@ -46,6 +39,6 @@
   "repelStrength": 12.8274428274428,
   "linkStrength": 0.695426195426195,
   "linkDistance": 97,
-  "scale": 0.7736367271069543,
+  "scale": 0.6387626568023407,
   "close": false
 }
