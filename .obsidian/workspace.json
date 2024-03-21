@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/MMRN1 protein.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/MMRN1 protein.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/MMRN1 protein.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/MMRN1 protein.md"
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
               }
             }
           },
@@ -201,12 +201,13 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
+    "Academic/Academic notes/MMRN1 protein.md",
+    "Academic/Academic notes/EMILIN.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
     "Academic/Academic notes/PGC-LC-MSMS.md",
     "PGC-LC-MS/MS.md",
     "PGC-LC-MS",
-    "Academic/Academic notes/MMRN1 protein.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "-Support/Graphics/Pasted image 20240320164940.png",
     "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",

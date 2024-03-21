@@ -4,7 +4,9 @@ Platelet Protein
 
 Major Alpha granule protein
 
-Supports **platelet adhesion to collagen**
+Supports **platelet adhesion to collagen**, among adhesion of many other cell types
+
+Found to contain the [[Elastin Microfibril Interface (EMI)]] domain, and is part of the [[EMILIN]] protein family
 
 Contributes in the clotting process.
 
