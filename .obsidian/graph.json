@@ -1,37 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#reference",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#PTM  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#PTMs  ",
-      "color": {
-        "a": 1,
-        "rgb": 15662848
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.853430353430353,
+  "centerStrength": 0.545738045738046,
   "repelStrength": 13.4927234927235,
   "linkStrength": 1,
   "linkDistance": 259,
-  "scale": 0.7570677233723468,
+  "scale": 0.6092233669293379,
   "close": true
 }
