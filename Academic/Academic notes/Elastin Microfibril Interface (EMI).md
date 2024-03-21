@@ -7,7 +7,7 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 > > *Not all have been proven to form multimers, it is just shown that they ==theoretically== can*
 
 
-# Proteins containing the domain as seen on UNIPROT
+# Proteins containing the domain as seen on UNIPROT + FUT10/11 investigation \[[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains|ref]]\]
 - [[MMRN1|Multimerin-1]]
 - [[EMILIN-1]]
 - [[MMRN2|Multimerin-2]]
@@ -18,12 +18,18 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 - [[NOTCH1|Neurogenic locus notch homolog protein 1]]*
 - [[NOTCH3|Neurogenic locus notch homolog protein 3]]*
 - [[MEGF6|Multiple Epidermal growth factor-like domains protein 6]]
-- [[MEGF10|Multiple Epidermal growth factor-like domains protein 10]]*
+- [[MEGF10|Multiple Epidermal growth factor-like domains protein 10]]^
 - [[MEGF11|Multiple Epidermal growth factor-like domains protein 11]]
 - [[EGFL7|Epidermal growth factor-like protein 7]]
 - [[EGFL8|Epidermal growth factor-like protein 8]]
-- 
-\* : contained in 
+- [[PEAR1|Platelet endothelial aggregation receptor 1]]
+- [[SSPO|SCO-spondin]]^
+- [[BGH3|Transforming growth factor-beta-induced protein ig-h3]]^
+- [[POSTN|Periostin]]^
+
+
+\* : contained in uniprot search, but not in document
+^ : contained in document, but not in uniprot search
 # Relevance to [[MMRN1]]
 
 ![[Pasted image 20240320164940.png]]

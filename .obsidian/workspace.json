@@ -53,16 +53,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f90e9d9cbc7f5eb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -237,10 +227,49 @@
       "janitor:Janitor: scan vault": false
     }
   },
+  "floating": {
+    "id": "8677cf2c94ee6e5c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e871f794323be40c",
+        "type": "window",
+        "children": [
+          {
+            "id": "39d02baba208233f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f90e9d9cbc7f5eb0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b5219fb6a44728da",
   "lastOpenFiles": [
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/POSTN.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/SSPO.md",
+    "Academic/Academic notes/EMILIN-2.md",
+    "Academic/Academic notes/PEAR1.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/MMRN1.md",
     "Academic/Academic notes/Multimerin-1.md",
     "Self Learning/Learn Notes/Callout list.md",
@@ -265,9 +294,6 @@
     "Academic/Academic notes/worker.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Academic notes/The.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Academic/Academic notes/PAINS.md",
-    "Academic/Academic notes/Pan-Assay.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
