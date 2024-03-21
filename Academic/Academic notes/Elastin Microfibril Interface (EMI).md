@@ -7,8 +7,14 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 > > *Not all have been proven to form multimers, it is just shown that they ==theoretically== can*
 
 
+# Proteins containing the domain as seen on UNIPROT
+- [[Multimerin-1]]
+- [[EMILIN-1]]
+- [[Multimerin-2]]
+- [[EMI domain-containing protein 1]]
+- 
 
-# Relevance to [[MMRN1 protein]]
+# Relevance to [[Multimerin-1]]
 
 ![[Pasted image 20240320164940.png]]
 Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1. 

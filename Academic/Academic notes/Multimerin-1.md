@@ -1,4 +1,4 @@
-# Multimerin 1 protein
+# Multimerin 1 protein/MMRN1/EMILIN-4
 
 Platelet Protein
 
