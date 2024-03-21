@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Multimerin-1.md",
+                "file": "Academic/Academic notes/MMRN1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,6 +53,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f90e9d9cbc7f5eb0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -87,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:reference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -231,8 +241,9 @@
   "lastOpenFiles": [
     "Academic/Academic notes/Multimerin-1.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Academic/Academic notes/MMRN1.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Academic notes/EMILIN.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
