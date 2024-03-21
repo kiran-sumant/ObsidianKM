@@ -8,16 +8,17 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 
 
 # Proteins containing the domain as seen on UNIPROT
-- [[Multimerin-1MMRN1]]
+- [[MMRN1|Multimerin-1]]
 - [[EMILIN-1]]
-- [[Multimerin-2|MMRN2]]
-- [[EMI domain-containing protein 1|EMID1]]
+- [[MMRN2|Multimerin-2]]
+- [[EMID1|EMI domain-containing protein 1]]
 - [[EMILIN-2]]
-- [[Collagen alpha 1(XXVI)]]
+- [[COQA1|Collagen alpha 1(XXVI) or COL26A1]]
 - [[EMILIN-3]]
-- [[Neurogenic locus notch homolog protein 1]]
-- [[Neurogenic locus notch homolog protein 3]]
-- [[Multiple Epidermal growth factor-like domains protein 6]]
+- [[NOTCH1|Neurogenic locus notch homolog protein 1]]
+- [[NOTCH3|Neurogenic locus notch homolog protein 3]]
+- [[MEGF6|Multiple Epidermal growth factor-like domains protein 6]]
+- 
 
 # Relevance to [[MMRN1]]
 

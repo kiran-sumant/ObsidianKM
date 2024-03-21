@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:reference",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
               }
             }
           },
@@ -237,15 +237,15 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "b5219fb6a44728da",
+  "active": "f90e9d9cbc7f5eb0",
   "lastOpenFiles": [
-    "Academic/Academic notes/Multimerin-1.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "Academic/Academic notes/MMRN1.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/MMRN1.md",
+    "Academic/Academic notes/Multimerin-1.md",
+    "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Academic notes/EMILIN.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
     "Academic/Academic notes/PGC-LC-MSMS.md",
@@ -268,7 +268,6 @@
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "Academic/Academic notes/PAINS.md",
     "Academic/Academic notes/Pan-Assay.md",
-    "Academic/Academic notes/SOMS4101 Seminar 2024-03-05.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
