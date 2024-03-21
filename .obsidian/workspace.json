@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f90e9d9cbc7f5eb0",
+  "active": "b5219fb6a44728da",
   "lastOpenFiles": [
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/MMRN1.md",
     "Academic/Academic notes/Multimerin-1.md",
     "Self Learning/Learn Notes/Callout list.md",
