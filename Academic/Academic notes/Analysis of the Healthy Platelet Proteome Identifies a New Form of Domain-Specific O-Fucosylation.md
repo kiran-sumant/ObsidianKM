@@ -36,8 +36,10 @@ High dose thrombin was found to trigger **increased lysosomal luminal enzyme** s
 
 We know previously that defective O-glycosylation -> bleeding phenotype (*Congenital disorders of glycosylation (CDG)*, quite rare)
 
+## Impact
 
-
+- future studies of novel proteins and prev uncharacterised PTM sites
+- Implications of comparing with proteome of type-ii diabetes (==platelets known to be hyperactive==), help detect new layers/mechanisms of platelet dysfunction.
 
 ## Related Links
 
