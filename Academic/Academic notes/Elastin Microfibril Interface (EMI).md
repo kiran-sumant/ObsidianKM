@@ -18,6 +18,8 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 - [[NOTCH1|Neurogenic locus notch homolog protein 1]]
 - [[NOTCH3|Neurogenic locus notch homolog protein 3]]
 - [[MEGF6|Multiple Epidermal growth factor-like domains protein 6]]
+- [[EGFL7|Epidermal growth factor-like protein 7]]
+- [[EGFL8|Epidermal growth factor-like protein 8]]
 - 
 
 # Relevance to [[MMRN1]]
