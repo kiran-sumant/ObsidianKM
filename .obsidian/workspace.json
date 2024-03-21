@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/EMILIN.md",
+                "file": "Academic/Academic notes/MMRN1 protein.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/EMILIN.md",
+                "file": "Academic/Academic notes/MMRN1 protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/EMILIN.md",
+                "file": "Academic/Academic notes/MMRN1 protein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/EMILIN.md"
+                "file": "Academic/Academic notes/MMRN1 protein.md"
               }
             }
           },
@@ -224,12 +224,12 @@
   },
   "active": "b359fb8614ca370d",
   "lastOpenFiles": [
-    "Academic/Academic notes/MMRN1 protein.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/MMRN1 protein.md",
+    "Academic/Academic notes/EMILIN.md",
     "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/EMILIN.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
     "Academic/Academic notes/PGC-LC-MSMS.md",
