@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Academic/Literature Notes\"  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
+                "file": "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md"
               }
             }
           },
@@ -244,8 +244,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "732fa64c6c86c033",
+  "active": "707b025e0a145bdf",
   "lastOpenFiles": [
+    "Academic/Academic notes/Honours Readings to go through.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
@@ -268,11 +270,9 @@
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
-    "Academic/Academic notes/Honours Readings to go through.md",
     "Academic/Academic notes/EMILIN.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
     "PGC-LC-MS",
