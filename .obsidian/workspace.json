@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,10 +128,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fut",
+                "query": "tag:#research",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Biological functions of fucose in mammals.md"
+                "file": "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md"
               }
             }
           },
@@ -268,12 +267,20 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "707b025e0a145bdf",
+  "active": "732fa64c6c86c033",
   "lastOpenFiles": [
+    "Academic/Academic notes/Fast and accurate protein structure search with Foldseek.md",
+    "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
+    "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Literature Review.md",
-    "Academic/Biological functions of fucose in mammals.md",
-    "Academic/Protein O-fucosylation structure and function.md",
-    "Academic/The evolution of post-translational modifications.md",
+    "Academic/Academic notes/Suboptimal use of chemical probes in biomedical research..md",
+    "Academic/Literature Notes",
+    "Academic/Academic notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Academic/Academic notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Academic notes/Biological functions of fucose in mammals.md",
+    "Academic/Academic notes/Protein O-fucosylation structure and function.md",
+    "Academic/Academic notes/The evolution of post-translational modifications.md",
     "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Honours Readings to go through.md",
@@ -281,7 +288,6 @@
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/EMILIN.md",
     "BGH3.md",
-    "Academic/Academic notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/MMRN1.md",
     "Academic/Academic notes/VCAN.md",
@@ -292,14 +298,8 @@
     "Academic/Academic notes/Multimerin-1.md",
     "Academic/Academic notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Graphics/Pasted image 20240320174132.png",
-    "Academic/Academic notes/PGC-LC-MSMS.md",
-    "PGC-LC-MS/MS.md",
     "PGC-LC-MS",
     "-Support/Graphics/Pasted image 20240320164940.png",
-    "Academic/Academic notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
-    "Academic/Academic notes/Pan-Assay Interference Compounds (Pains).md",
-    "Academic/Academic notes/Univariate analysis.md",
-    "Academic/Academic notes/mean (sd).md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
@@ -315,7 +315,6 @@
     "-Support/Graphics/Pasted image 20240305102234.png",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
-    "-Support/Slides/Wednesday_ML_Adam-3.pdf",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]

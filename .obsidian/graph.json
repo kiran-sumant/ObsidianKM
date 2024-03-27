@@ -1,34 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "tag:#protein OR tag:#definition",
+  "search": "tag:#research  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#post-hoc  ",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#definition  ",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#protein",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,

@@ -10,7 +10,14 @@
       "mode": "any"
     }
   ],
-  "fileMenu": [],
+  "fileMenu": [
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "Move current file to another folder",
+      "mode": "any"
+    }
+  ],
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],

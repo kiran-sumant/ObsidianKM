@@ -9,6 +9,7 @@
 ## Related Links
 
 ## Related Reading
+- [[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]]
 - [[Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation]]
 - [[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
 - [[ColabFold making protein folding accessible to all]]

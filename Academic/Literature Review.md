@@ -13,7 +13,7 @@
 
 [[Biological functions of fucose in mammals]]
 
-[[Protein glycosylation investigated by mass spectrometry: an overview]]
+[[Protein glycosylation investigated by mass spectrometry an overview]]
 
 ## [[Elastin Microfibril Interface (EMI)]]
 
@@ -27,7 +27,7 @@
 [[Fast and accurate protein structure search with Foldseek]]
 ### How it was used, the way we want to use it
 
-[[Protein glycosylation investigated by mass spectrometry: an overview]]
+[[Protein glycosylation investigated by mass spectrometry an overview]]
 ## Notch Signalling Pathway
 
 
@@ -43,13 +43,13 @@
 
 [[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
 
-[[Expanding the O-Fucosylation Repertoire: Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]]
+[[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]]
 
 
 # Hypotheses/Aims (spaghetti at the wall)
 
 Aim: Investigate potential mechanisms by which EMI O-fucosylation helps play a key role in MMRN1 secretion, and propose its effects in other proteins when we confirm they contain the same domain modification
-[[Protein O-fucosylation: structure and function]]
+[[Protein O-fucosylation structure and function]]
 
 
 
