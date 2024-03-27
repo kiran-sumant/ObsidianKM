@@ -7,11 +7,17 @@
 # Fucosylation
 
 
-[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]
+[[The evolution of post-translational modifications]]
 
+[[Protein O-fucosylation structure and function]]
+
+[[Biological functions of fucose in mammals]]
+
+[[Protein glycosylation investigated by mass spectrometry: an overview]]
 
 ## [[Elastin Microfibril Interface (EMI)]]
 
+[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]
 
 ## Software for Novel Protein Search/Discovery
 
@@ -21,9 +27,23 @@
 [[Fast and accurate protein structure search with Foldseek]]
 ### How it was used, the way we want to use it
 
-
+[[Protein glycosylation investigated by mass spectrometry: an overview]]
 ## Notch Signalling Pathway
 
+
+## MAGPs
+
+[[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]
+
+[[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
+
+## Connecting MAGPs, and EMI domain PTM through EGF-like domain binding
+
+[[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]
+
+[[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
+
+[[Expanding the O-Fucosylation Repertoire: Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]]
 
 
 # Hypotheses/Aims (spaghetti at the wall)

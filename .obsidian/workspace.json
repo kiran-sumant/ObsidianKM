@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Biological functions of fucose in mammals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Biological functions of fucose in mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Biological functions of fucose in mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Biological functions of fucose in mammals.md"
               }
             }
           },
@@ -270,8 +270,11 @@
   },
   "active": "707b025e0a145bdf",
   "lastOpenFiles": [
-    "Academic/Research Larance Lab.md",
     "Academic/Literature Review.md",
+    "Academic/Biological functions of fucose in mammals.md",
+    "Academic/Protein O-fucosylation structure and function.md",
+    "Academic/The evolution of post-translational modifications.md",
+    "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
     "Academic/Academic notes/Honours Readings to go through.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
@@ -297,9 +300,6 @@
     "Academic/Academic notes/Pan-Assay Interference Compounds (Pains).md",
     "Academic/Academic notes/Univariate analysis.md",
     "Academic/Academic notes/mean (sd).md",
-    "Academic/Academic notes/(RT-)PCR.md",
-    "Academic/Academic notes/risk.md",
-    "Academic/Academic notes/Doc Link.md",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Poisson",
     "-Support/Graphics/Pasted image 20240306111902.png",
