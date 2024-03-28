@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e50739e21cc151e0",
+        "id": "9f0d4466fd53924f",
         "type": "tabs",
         "children": [
           {
-            "id": "707b025e0a145bdf",
+            "id": "fecb98f465d9cbe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "59e0e1534c480dd1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff738800747b5ecd",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Academic/Literature Review.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
+            },
+            "group": "67b0cedefe3aaaf6"
           }
         ]
       }
@@ -111,15 +71,12 @@
             }
           },
           {
-            "id": "924ef4b3e3146b09",
+            "id": "1e596113cbcf3ed5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "file-explorer",
               "state": {
-                "file": "Academic/Literature Review.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -144,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "-Support/Templates/Reference Breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "-Support/Templates/Reference Breakdown.md"
               }
             }
           },
@@ -235,11 +192,72 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "924ef4b3e3146b09",
+  "floating": {
+    "id": "53e2291c97feb92a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d36f90da78ac4df6",
+        "type": "window",
+        "children": [
+          {
+            "id": "5f5c599dffe100e4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e46b03818b440a84",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "-Support/Templates/Reference Breakdown.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "67b0cedefe3aaaf6"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1253,
+        "y": 0,
+        "width": 795,
+        "height": 556,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Templates/Callout - statement and warning note.md",
     "Self Learning/Learn Notes/Callout list.md",
