@@ -43,9 +43,9 @@
 > >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25](https://elifesciences.org/articles/38805)
 
 > [!example] Mutation and Evolution of PTM sites 
-> 
+> There is a constraint against binding affinity optimisation, caused by knock-on effects of optimisation.
 > >[!quote]-
-> >"Binding of the motif ultimately leads to the ubiquitin-mediated degradation of [Sic1](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sic1 "Learn more about Sic1 from ScienceDirect's AI-generated Topic Pages") and entry into S-phase. The suboptimal motif is conserved across orthologues, and optimising the motif by mutation significantly accelerates the kinetics of Sic1p degradation during the G-1–S transition [[53]](https://www.cell.com/current-biology/pdf/S0960-9822(20)31289-6.pdf)"
+> >"Binding of the (*native*) motif (*suboptimal for cyclin binding*) ultimately leads to the ubiquitin-mediated degradation of [Sic1](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sic1 "Learn more about Sic1 from ScienceDirect's AI-generated Topic Pages") and entry into S-phase. The suboptimal motif is conserved across orthologues, and optimising the motif by mutation significantly accelerates the kinetics of Sic1p degradation during the G-1–S transition [[53]](https://www.cell.com/current-biology/pdf/S0960-9822(20)31289-6.pdf)"
 > 
 > 
 
