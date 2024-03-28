@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Callout - fact list with ref.md",
+                "file": "-Support/Templates/Callout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,16 +76,16 @@
         "currentTab": 4
       },
       {
-        "id": "3721ae30c8dda196",
+        "id": "c6ba2b013eb57cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1099ce7dd2c0b8",
+            "id": "21a349f17cc06ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "-Support/Templates/Callout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Callout - fact list with ref.md",
+                "file": "-Support/Templates/Callout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Callout - fact list with ref.md",
+                "file": "-Support/Templates/Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Templates/Callout - fact list with ref.md"
+                "file": "-Support/Templates/Callout.md"
               }
             }
           },
@@ -263,13 +263,15 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "924ef4b3e3146b09",
+  "active": "21a349f17cc06ed5",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Templates/Callout.md",
     "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - fact list with ref.md",
     "-Support/Templates/Callout - multiple.md",
+    "-Support/Templates/Reference Breakdown.md",
     "Academic/Literature Review.md",
-    "-Support/Templates/Callout.md",
     "Academic/Academic notes/Flow Cytometry.md",
     "Academic/Academic notes/SDS-PAGE.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
@@ -289,8 +291,6 @@
     "Academic/Academic notes/EMILIN-3.md",
     "Academic/Academic notes/COQA1.md",
     "Academic/Academic notes/EMID1.md",
-    "Academic/Academic notes/MMRN2.md",
-    "Academic/Academic notes/EMILIN-1.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",

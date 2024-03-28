@@ -5,6 +5,12 @@
 
 # Details/Quotes
 
+> [!statement] 
+> 
+> >[!quote]
+
+
+
 
 ## Related Links
 
