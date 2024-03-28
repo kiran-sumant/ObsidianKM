@@ -4,7 +4,9 @@
 #### [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf|Doc Link]]
 
 # Details/Quotes
-
+> [!statement] 
+> 
+> >[!quote]
 
 ## Related Links
 

@@ -4,7 +4,9 @@
 #### [Doc Link](https://www.sciencedirect.com/science/article/pii/S0945053X1500102X)
 
 # Details/Quotes
-
+> [!statement] 
+> 
+> >[!quote]
 
 ## Related Links
 

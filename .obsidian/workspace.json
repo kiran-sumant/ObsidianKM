@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Reference Breakdown.md",
+                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Reference Breakdown.md",
+                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Reference Breakdown.md",
+                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Templates/Reference Breakdown.md"
+                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md"
               }
             }
           },
@@ -210,7 +210,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "-Support/Templates/Reference Breakdown.md",
+                    "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -256,15 +256,23 @@
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
+    "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "-Support/Templates/Callout - statement quote.md",
+    "-Support/Templates/Reference Breakdown.md",
     "-Support/Templates/Callout - statement and warning note.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - fact list with ref.md",
     "-Support/Templates/Callout - multiple.md",
-    "-Support/Templates/Reference Breakdown.md",
     "Academic/Academic notes/Flow Cytometry.md",
     "Academic/Academic notes/SDS-PAGE.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
@@ -273,14 +281,6 @@
     "Academic/Academic notes/MUC3B.md",
     "Academic/Academic notes/MUC3A.md",
     "Academic/Academic notes/REPL.md",
-    "Academic/Academic notes/HSPG2.md",
-    "Academic/Academic notes/NOTCH3.md",
-    "Academic/Academic notes/NOTCH1.md",
-    "Academic/Academic notes/PEAR1.md",
-    "Academic/Academic notes/EGFL8.md",
-    "Academic/Academic notes/EGFL7.md",
-    "Academic/Academic notes/MEGF11.md",
-    "Academic/Academic notes/MEGF6.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",

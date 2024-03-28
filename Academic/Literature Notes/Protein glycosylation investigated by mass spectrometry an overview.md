@@ -4,7 +4,9 @@
 #### Doc Link: 
 
 # Details/Quotes
-
+> [!statement] 
+> 
+> >[!quote]
 
 ## Related Links
 
