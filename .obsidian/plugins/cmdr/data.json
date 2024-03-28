@@ -8,6 +8,12 @@
       "icon": "lucide-copy",
       "name": "Templates: Insert template",
       "mode": "any"
+    },
+    {
+      "id": "url-into-selection:paste-url-into-selection",
+      "icon": "at-sign",
+      "name": "Paste URL into selection: ",
+      "mode": "any"
     }
   ],
   "fileMenu": [
