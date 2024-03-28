@@ -43,7 +43,10 @@
 > >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25](https://elifesciences.org/articles/38805)
 
 
-## Systematic annotation of PTM funciton
+## Systematic annotation of PTM function
+
+![[Pasted image 20240328142310.png]]
+> Figure 2. Four approaches for the systematic annotation of PTM function. **(a)** **Structural bioinformatics**. Cartoon representation of PDB: 3GQI. The phosphosite at the interface is coloured in purple. **(b)** **Machine learning**. Structural (top-left), [mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mass-spectrometry "Learn more about mass spectrometry from ScienceDirect's AI-generated Topic Pages") (top-right), evolutionary (bottom-left) and specificity motif data (bottom-right) can all be used as features to train a model for the prediction of whether or not a PTM site is functional. **(c)** **Experimental fitness assay**. Introduce an [amino acid](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acid from ScienceDirect's AI-generated Topic Pages") mutation to nullify or mimic a PTM site and then examine fitness across several conditions. **(d)** **Mass spectrometry** (MS). MS workflows can now be used to annotate the effect of PTM sites on protein [thermal stability](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thermostability "Learn more about thermal stability from ScienceDirect's AI-generated Topic Pages"), [protein turnover](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protein-degradation "Learn more about protein turnover from ScienceDirect's AI-generated Topic Pages") and changes to the local protein structure surrounding the PTM site.
 
 ## Related Links
 
