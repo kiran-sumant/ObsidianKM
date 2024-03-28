@@ -23,8 +23,10 @@
 > > The results revealed that the local effect of a PTM on binding correlates poorly with PTM conservation (in terms of sequence conservation) and that the global effect is heavily impacted by PTM crosstalk [33](https://scholar.google.com/scholar_lookup?title=Molecular%20dynamics%20shows%20complex%20interplay%20and%20long-range%20effects%20of%20post-translational%20modifications%20in%20yeast%20protein%20interactions&publication_year=2021&author=N.%20%C5%A0o%C5%A1tari%C4%87&author=V.%20van%20Noort))
 
 > [!example] Origin and evolution of PTM enzymes 
-> - 
+> - Many PTM enzyme classes have an ancient origin.
+> 
 > >[!quote]-
+> > [Serine](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/serine "Learn more about Serine from ScienceDirect's AI-generated Topic Pages") and threonine phosphorylation, for example, is found across the three domains of life [10]([https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib10](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000341)), [11](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib11), [12](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib12)
 
 
 
