@@ -31,7 +31,8 @@
 > Consistent with this is the list of ~100 kinases predicted for the *ancestral eukaryotic kinome* from phylogenetic analysis of the kinase domain
 > >[!quote]-
 > >"..a global phylogenetic analysis of the kinase domain predicted a surprisingly large repertoire of ~100 kinases for the ancestral eukaryotic [kinome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/kinome "Learn more about kinome from ScienceDirect's AI-generated Topic Pages") [23](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib23)"
-> >""
+> 
+> So many paralogues in this instance should risk spontaneous phosphorylation of unrelated substrates, but 
 
 
 
