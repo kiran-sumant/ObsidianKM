@@ -32,7 +32,7 @@
 > >[!quote]-
 > >"..a global phylogenetic analysis of the kinase domain predicted a surprisingly large repertoire of ~100 kinases for the ancestral eukaryotic [kinome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/kinome "Learn more about kinome from ScienceDirect's AI-generated Topic Pages") [23](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib23)"
 > 
-> - So many paralogues in this instance should risk spontaneous phosphorylation of unrelated substrates.
+> - So many paralogues in this instance should risk spontaneous phosphorylation of unrelated ([[non-cognate]]) substrates.
 > - The reason this doesn't happen is because of
 > 	1. Evolution of weak specificity of D/E residues 
 > 	2. Regulation through the MAPKK-dependent signalling pathway.
@@ -42,11 +42,17 @@
 > >
 > >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25](https://elifesciences.org/articles/38805)
 
+> [!example] Mutation and Evolution of PTM sites 
+> 
+> >[!quote]-
+
+
 
 ## Systematic annotation of PTM function
 
 ![[Pasted image 20240328142310.png]]
-> Figure 2. Four approaches for the systematic annotation of PTM function. **(a)** **Structural bioinformatics**. Cartoon representation of PDB: 3GQI. The phosphosite at the interface is coloured in purple. **(b)** **Machine learning**. Structural (top-left), [mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mass-spectrometry "Learn more about mass spectrometry from ScienceDirect's AI-generated Topic Pages") (top-right), evolutionary (bottom-left) and specificity motif data (bottom-right) can all be used as features to train a model for the prediction of whether or not a PTM site is functional. **(c)** **Experimental fitness assay**. Introduce an [amino acid](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acid from ScienceDirect's AI-generated Topic Pages") mutation to nullify or mimic a PTM site and then examine fitness across several conditions. **(d)** **Mass spectrometry** (MS). MS workflows can now be used to annotate the effect of PTM sites on protein [thermal stability](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thermostability "Learn more about thermal stability from ScienceDirect's AI-generated Topic Pages"), [protein turnover](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protein-degradation "Learn more about protein turnover from ScienceDirect's AI-generated Topic Pages") and changes to the local protein structure surrounding the PTM site.
+> Figure 2. Four approaches for the systematic annotation of PTM function. **(a)** **Structural bioinformatics**. Cartoon representation of PDB: 3GQI. The phosphosite at the interface is coloured in purple. **(b)** **Machine learning**. Structural (top-left), [mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mass-spectrometry "Learn more about mass spectrometry from ScienceDirect's AI-generated Topic Pages") (top-right), evolutionary (bottom-left) and specificity motif data (bottom-right) can all be used as features to train a model for the prediction of whether or not a PTM site is functional. **(c)** **Experimental fitness assay**. Introduce an [amino acid](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acid from ScienceDirect's AI-generated Topic Pages") mutation to nullify or mimic a PTM site and then examine fitness across several conditions. **(d)** **Mass spectrometry** (MS). ==MS workflows== can now be used to ==annotate== the ==effect== of **PTM sites** on protein **[thermal stability](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thermostability "Learn more about thermal stability from ScienceDirect's AI-generated Topic Pages")**, **[protein turnover](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protein-degradation "Learn more about protein turnover from ScienceDirect's AI-generated Topic Pages")**  and changes to the local protein structure surrounding the PTM site.
+
 
 ## Related Links
 
