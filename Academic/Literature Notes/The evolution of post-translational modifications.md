@@ -26,7 +26,7 @@
 > - Many PTM enzyme classes have an ancient origin.
 > 
 > >[!quote]-
-> > [Serine](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/serine "Learn more about Serine from ScienceDirect's AI-generated Topic Pages") and threonine phosphorylation, for example, is found across the three domains of life [10]([https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib10](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000341)), [11](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib11), [12](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib12)
+> > [Serine](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/serine "Learn more about Serine from ScienceDirect's AI-generated Topic Pages") and threonine phosphorylation, for example, is found across the three domains of life [10](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000341), [11](https://www.nature.com/articles/s41579-019-0243-0), [12](https://www.nature.com/articles/s41597-020-0506-7)
 
 
 
