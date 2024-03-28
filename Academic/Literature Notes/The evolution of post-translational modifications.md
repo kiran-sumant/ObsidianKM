@@ -32,7 +32,13 @@
 > >[!quote]-
 > >"..a global phylogenetic analysis of the kinase domain predicted a surprisingly large repertoire of ~100 kinases for the ancestral eukaryotic [kinome](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/kinome "Learn more about kinome from ScienceDirect's AI-generated Topic Pages") [23](https://www.sciencedirect.com/science/article/pii/S0959437X2200065X#bib23)"
 > 
-> So many paralogues in this instance should risk spontaneous phosphorylation of unrelated substrates, but 
+> - So many paralogues in this instance should risk spontaneous phosphorylation of unrelated substrates.
+> - The reason this doesn't happen is because of
+> 	1. Evolution of weak specificity of D/E residues 
+> 	2. Regulation through the MAPKK-dependent signalling pathway.
+> >[!quote]-
+> >"Examination of ancestral kinase sequences revealed several charge-switching substitutions in the substrate-binding pocket, likely leading to the loss of the classic R–x–x–S/T motif and gain of weak specificity for D/E residues [24]"
+> >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25]
 
 
 
