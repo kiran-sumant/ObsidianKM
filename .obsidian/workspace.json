@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Callout - fact with ref.md",
+                "file": "-Support/Templates/Callout - multiple.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Templates/Callout - fact with ref.md",
+                "file": "-Support/Templates/Callout - multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Templates/Callout - fact with ref.md",
+                "file": "-Support/Templates/Callout - multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Templates/Callout - fact with ref.md"
+                "file": "-Support/Templates/Callout - multiple.md"
               }
             }
           },
@@ -265,10 +265,10 @@
   },
   "active": "707b025e0a145bdf",
   "lastOpenFiles": [
+    "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - multiple.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Templates/Callout.md",
-    "-Support/Templates/Callout - fact with ref.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/Week 1 - Data Analysis and Visualisation.md",
     "Academic/Academic notes/Honours Readings to go through.md",
