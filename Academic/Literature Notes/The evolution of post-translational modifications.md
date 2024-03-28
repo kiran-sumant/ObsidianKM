@@ -36,11 +36,14 @@
 > - The reason this doesn't happen is because of
 > 	1. Evolution of weak specificity of D/E residues 
 > 	2. Regulation through the MAPKK-dependent signalling pathway.
+> 
 > >[!quote]-
-> >"Examination of ancestral kinase sequences revealed several charge-switching substitutions in the substrate-binding pocket, likely leading to the loss of the classic R–x–x–S/T motif and gain of weak specificity for D/E residues [24]"
-> >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25]
+> >"Examination of ancestral kinase sequences revealed several charge-switching substitutions in the substrate-binding pocket, likely leading to the loss of the classic R–x–x–S/T motif and gain of weak specificity for D/E residues [24](ps://www.cell.com/cell-reports/pdf/S2211-1247(20)31591-6.pdf)"
+> >
+> >"...also used this approach to characterise the evolutionary transition from autoactivation to MAPKK-dependent regulation within the [MAPK](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/mitogen-activated-protein-kinase "Learn more about MAPK from ScienceDirect's AI-generated Topic Pages") family of signalling kinases [25](https://elifesciences.org/articles/38805)
 
 
+## Systematic annotation of PTM funciton
 
 ## Related Links
 
