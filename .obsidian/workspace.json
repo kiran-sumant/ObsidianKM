@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "-Support/Templates/Callout - fact list with ref.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "-Support/Templates/Callout - fact list with ref.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "-Support/Templates/Callout - fact list with ref.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "-Support/Templates/Callout - fact list with ref.md"
               }
             }
           },
@@ -263,10 +263,17 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "707b025e0a145bdf",
+  "active": "924ef4b3e3146b09",
   "lastOpenFiles": [
-    "Academic/Academic notes/MEGF10.md",
+    "-Support/Templates/Callout - fact with ref.md",
+    "-Support/Templates/Callout - fact list with ref.md",
+    "-Support/Templates/Callout - multiple.md",
+    "Academic/Literature Review.md",
+    "-Support/Templates/Callout.md",
+    "Academic/Academic notes/Flow Cytometry.md",
+    "Academic/Academic notes/SDS-PAGE.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/MEGF10.md",
     "Academic/Academic notes/CLEC4C.md",
     "Academic/Academic notes/MUC3B.md",
     "Academic/Academic notes/MUC3A.md",
@@ -284,13 +291,6 @@
     "Academic/Academic notes/EMID1.md",
     "Academic/Academic notes/MMRN2.md",
     "Academic/Academic notes/EMILIN-1.md",
-    "Academic/Academic notes/MMRN1.md",
-    "BGH3.md",
-    "-Support/Templates/Callout - multiple.md",
-    "-Support/Templates/Callout - fact with ref.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "-Support/Templates/Callout.md",
-    "Academic/Literature Review.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",
