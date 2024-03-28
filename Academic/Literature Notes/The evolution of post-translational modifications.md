@@ -45,6 +45,9 @@
 > [!example] Mutation and Evolution of PTM sites 
 > 
 > >[!quote]-
+> >"Binding of the motif ultimately leads to the ubiquitin-mediated degradation of [Sic1](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sic1 "Learn more about Sic1 from ScienceDirect's AI-generated Topic Pages") and entry into S-phase. The suboptimal motif is conserved across orthologues, and optimising the motif by mutation significantly accelerates the kinetics of Sic1p degradation during the G-1–S transition [[53]](https://www.cell.com/current-biology/pdf/S0960-9822(20)31289-6.pdf)"
+> 
+> 
 
 
 
