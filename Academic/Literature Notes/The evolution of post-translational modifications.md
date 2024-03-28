@@ -48,7 +48,10 @@
 > >"Binding of the (*native*) motif (*suboptimal for cyclin binding*) ultimately leads to the ubiquitin-mediated degradation of [Sic1](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sic1 "Learn more about Sic1 from ScienceDirect's AI-generated Topic Pages") and entry into S-phase. The suboptimal motif is conserved across orthologues, and optimising the motif by mutation significantly accelerates the kinetics of Sic1p degradation during the G-1–S transition [53](https://www.cell.com/current-biology/pdf/S0960-9822(20)31289-6.pdf)"
 > 
 > - **liquid-liquid-phase relationship (LLPS)** of PTM enzymes and sites is brought into focus.
-> - This is because of substrate and enzyme recruitment to [[synthetic condensates]],
+> - This is because of substrate and enzyme recruitment to [[synthetic condensates]], to remove (obviate) specificity requirements.
+> - LLPS has links to "phosphorylation, acetylation, [glycosylation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glycosylation "Learn more about glycosylation from ScienceDirect's AI-generated Topic Pages"), [citrullination](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/citrullination "Learn more about citrullination from ScienceDirect's AI-generated Topic Pages"), methylation, [sulfoxidation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/sulfoxidation "Learn more about sulfoxidation from ScienceDirect's AI-generated Topic Pages"), and ubiquitination."
+> >[!quote]-
+> >
 
 
 
