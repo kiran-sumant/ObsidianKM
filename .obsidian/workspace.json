@@ -244,16 +244,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 1253,
+        "x": 1252,
         "y": 0,
-        "width": 795,
-        "height": 556,
+        "width": 800,
+        "height": 559,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "acb2cc20f07d8589",
+  "active": "e46b03818b440a84",
   "lastOpenFiles": [
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
