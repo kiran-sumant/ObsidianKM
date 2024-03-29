@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Journals/Journal Entries/2024-03-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Journals/Journal Entries/2024-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Journals/Journal Entries/2024-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Journals/Journal Entries/2024-03-29.md"
               }
             }
           },
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,31 +211,31 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Academic/Literature Review.md",
+                    "file": "Journals/Journal Entries/2024-03-29.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 1,
-                      "localBacklinks": true,
+                      "localBacklinks": false,
                       "localForelinks": true,
-                      "localInterlinks": false,
+                      "localInterlinks": true,
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
                       "collapse-color-groups": false,
                       "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
+                      "collapse-display": false,
+                      "showArrow": true,
                       "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
+                      "nodeSizeMultiplier": 0.757068607068607,
                       "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
+                      "collapse-forces": false,
+                      "centerStrength": 0.687110187110187,
+                      "repelStrength": 15.4054054054054,
                       "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
+                      "linkDistance": 216,
+                      "scale": 0.7183958368692747,
+                      "close": false
                     }
                   }
                 },
@@ -244,29 +245,30 @@
           }
         ],
         "direction": "vertical",
-        "x": 1252,
+        "x": 768,
         "y": 0,
-        "width": 800,
-        "height": 559,
+        "width": 768,
+        "height": 408,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e46b03818b440a84",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Journals/Journal Entries/2024-03-29.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
-    "Pasted image 20240328142310.png",
+    "-Support/Graphics/Pasted image 20240328142310.png",
     "Academic/Literature Notes/23.md",
     "-Support/Templates/Callout - statement quote.md",
     "-Support/Templates/Callout - statement and warning note.md",
     "-Support/Templates/Callout - multiple.md",
     "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - fact list with ref.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
@@ -281,7 +283,6 @@
     "Academic/Academic notes/SDS-PAGE.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/MEGF10.md",
-    "Academic/Academic notes/CLEC4C.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",

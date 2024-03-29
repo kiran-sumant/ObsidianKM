@@ -1,7 +1,7 @@
 # Main Idea of Thesis
 
 
-#### Doc Link: 
+#### Doc Link
 
 # Details/Quotes
 > [!statement] 
