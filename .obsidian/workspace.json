@@ -11,15 +11,9 @@
             "id": "fecb98f465d9cbe6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Review.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "67b0cedefe3aaaf6"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -101,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Academic/Literature Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,72 +183,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "floating": {
-    "id": "53e2291c97feb92a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d36f90da78ac4df6",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f5c599dffe100e4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e46b03818b440a84",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Academic/Literature Review.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": false,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": true,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 0.757068607068607,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.687110187110187,
-                      "repelStrength": 15.4054054054054,
-                      "linkStrength": 1,
-                      "linkDistance": 216,
-                      "scale": 0.7183958368692747,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "67b0cedefe3aaaf6"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 408,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e46b03818b440a84",
+  "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
     "-Support/Cheat Sheet.md",
     "Journals/Journal Entries/2024-03-29.md",
-    "Academic/Literature Review.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
