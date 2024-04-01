@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/FINER.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/FINER.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/FINER.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/FINER.md"
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/Academic notes/FINER.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "-Support/Graphics/Pasted image 20240402101430.png",
     "Academic/Seminars.md",
     "Academic/Honours.md",

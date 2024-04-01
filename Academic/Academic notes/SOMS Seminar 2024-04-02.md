@@ -10,3 +10,10 @@ The [[FINER]] research question
 
 Design question so that disproving hypothesis is an answer in and of itself that can be concluded well **within the project's scope**.
 
+Consider the use of statistics in results.
+**probability of detecting a difference between study groups when a true difference exists** (p-value)
+Don't want to 
+- underpower (study too small to identify important differences), or
+- overpower (becomes non-meaningful sensitivity)
+
+Research plan requires **controls** in
