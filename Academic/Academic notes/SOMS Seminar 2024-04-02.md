@@ -16,4 +16,5 @@ Don't want to
 - underpower (study too small to identify important differences), or
 - overpower (becomes non-meaningful sensitivity)
 
-Research plan requires **controls** in
+Research plan requires **controls** in methodology. What is being used as a control, what caveats are being addressed?
+
