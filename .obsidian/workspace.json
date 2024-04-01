@@ -11,8 +11,13 @@
             "id": "fecb98f465d9cbe6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md"
+              }
             }
           },
           {
@@ -185,6 +194,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/Honours.md",
     "Academic/Literature Review.md",
     "-Support/Cheat Sheet.md",
     "Journals/Journal Entries/2024-03-29.md",
@@ -209,9 +221,6 @@
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
-    "-Support/Templates/Reference Breakdown.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/Flow Cytometry.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",
