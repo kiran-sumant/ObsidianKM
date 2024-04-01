@@ -7,3 +7,6 @@
 
 ![[Pasted image 20240402101430.png]]
 The [[FINER]] research question
+
+Design question so that disproving hypothesis is an answer in and of itself that can be concluded well **within the project's scope**.
+
