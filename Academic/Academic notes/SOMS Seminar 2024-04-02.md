@@ -10,7 +10,7 @@ The [[FINER]] research question
 
 Design question so that disproving hypothesis is an answer in and of itself that can be concluded well **within the project's scope**.
 
-==CONTEXT:== make sure to spend about 30% of your presentation
+==CONTEXT:== make sure to spend about 30% of your presentation/time in pitch explaining the background information. Simplify the question and leave some info out if it's unnecessary; **generify** for *laypeople*, **specialise** for *intermediate and expert audience*.
 
 Consider the use of statistics in results.
 **probability of detecting a difference between study groups when a true difference exists** (p-value)
