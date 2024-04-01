@@ -18,3 +18,5 @@ Don't want to
 
 Research plan requires **controls** in methodology. What is being used as a control, what caveats are being addressed?
 
+Picking a journal to apply for publishing requires evaluation:
+
