@@ -1,7 +1,7 @@
 # Main Idea of Thesis
 
 To describe and map the functions of O-linked fucose within the protein they modify, how they interact with their and other proteins, and the biological importance of these interactions.
-#### [Doc Link](https://doi.org/10.1016/j.sbi.2018.12.005)
+#### [Doc Link](https://doi.org/10.1016/j.sbi.2018.12.005) (2019)
 
 # Details/Quotes
 > [!statement] O-Fucose biology
@@ -19,7 +19,7 @@ To describe and map the functions of O-linked fucose within the protein they mod
 
 > [!warning] Modification Description
 > - O-fucosylation is done via ==Serine== or ==Threonine== hydroxyl grps
-> - Modifies Epidermal Growth Factor-like ([[EGF]]) repeats & Thromospondin type-1 ([[TSR]]) repeats in the [[endoplasmic reticulum]]
+> - Modifies Epidermal Growth Factor-like ([[EGF]]) repeats & Thromospondin type-1 ([[TSR]]) repeats in the [[endoplasmic reticulum]] (ER)
 > - **EGF-repeats = [[POFUT1]]**
 > - **TSR = [[POFUT2]]**
 > 
@@ -40,8 +40,8 @@ c) group 1 and 2 TSR depends on C-location for disulfide bond. POFUT2 consensus 
 2. B3GLCT - Glucose
 d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/adamts13 "Learn more about ADAMTS13 from ScienceDirect's AI-generated Topic Pages") TSR1 modified with Glucoseβ1-3-Fucose disaccharide. Fucose in red, glucose in blue, disulfide bonds in green.
 
-> [!statement] 
-> 
+> [!statement] Newfound 2019 facts
+> Evidence for **direct intermolecular interactions** of fucose on EGF repeats, to ==stabilise structure== -> increase in ER folding rate
 > >[!quote]-
 
 ## Related Links
