@@ -88,9 +88,15 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > 
 > > [!quote]- 
 > > "Further evidence that these enzymes recognize folded structures came from co-crystal structures of POFUT1 and an EGF repeat [[15••](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0075)], and POFUT2 and a TSR [[14••](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0070)]."
-> > ""
 > > 
+> > "In both cases, the enzymes have a large binding pocket for the respective folded domains, and the enzymes bind these domains in such a way as to orient the hydroxyl group of the Ser/Thr to be modified in the exact [position](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/position "Learn more about position from ScienceDirect's AI-generated Topic Pages") necessary to perform a [nucleophilic](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/nucleophilicity "Learn more about nucleophilic from ScienceDirect's AI-generated Topic Pages") attack on the anomeric carbon of the fucose of GDP-fucose. These structures explain why the enzymes require both a consensus sequence and a properly folded domain for modification to occur."
 
+> [!important] 
+> Note about HEK293 cells!
+> > [!warning] Quote
+> > Elimination of _Pofut1_ in mice or in cell lines is reported to reduce cell-surface NOTCH1 in some contexts (e.g. [somites](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somite "Learn more about somites from ScienceDirect's AI-generated Topic Pages") [[63](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0315)], HEK293T cells [[18••](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0090)], HSCs [[66](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0330)]), but less so in other contexts (e.g. mouse [embryonic stem cells](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/embryonic-stem-cell "Learn more about embryonic stem cells from ScienceDirect's AI-generated Topic Pages") [[67](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0335)]), suggesting that the quality control effects of POFUT1 are cell type-specific.
+
+![[Pasted image 20240402163923.png]]
 
 
 
