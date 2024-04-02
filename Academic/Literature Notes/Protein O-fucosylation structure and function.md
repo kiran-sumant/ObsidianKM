@@ -4,7 +4,7 @@ To describe and map the functions of O-linked fucose within the protein they mod
 #### [Doc Link](https://doi.org/10.1016/j.sbi.2018.12.005) (2019)
 
 # Details/Quotes
-> [!statement] O-Fucose biology
+> [!example] O-Fucose biology
 > Fucosylation is common in proteins and lipids. it's a glycosylation reaction (*not to be confused with fucosylation*)
 > >[!quote]-
 > >The fucose residues typically occur as terminal or core modifications of the glycan, added by Golgi-localized fucosyltransferases
@@ -57,14 +57,15 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >[!quote]- 
 > >Loss of _Pofut1_ causes embryonic lethality with defects in [somite](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somite "Learn more about somite from ScienceDirect's AI-generated Topic Pages"), [neural tube](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/neural-tube "Learn more about neural tube from ScienceDirect's AI-generated Topic Pages"), heart, and [blood vessel development](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/angiogenesis "Learn more about blood vessel development from ScienceDirect's AI-generated Topic Pages"), similar to _Notch1_ knockout. Similar loss of Notch function is seen in _O-fut1_ (_POFUT1_ homolog in flies) mutants in flies. Loss of _Pofut2_ in mice causes early embryo lethality resulting from abnormalities in [gastrulation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gastrulation "Learn more about gastrulation from ScienceDirect's AI-generated Topic Pages") and axis elongation, similar to _Adamts9_ mutants
 
-> [!example] NOTCH1 signalling
-> - Elongation/extension of fucose with other glycans ==not essential== for Notch function, but for **modulating notch signalling**. 
+> [!statement] NOTCH1 signalling
+> Elongation/extension of fucose with other glycans ==not essential== for Notch function, but for **modulating notch signalling**. 
 > >[!quote]-
-> >Reduced [Notch signaling](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/notch-signaling-pathway "Learn more about Notch signaling from ScienceDirect's AI-generated Topic Pages") in Fringe mutants provides evidence that extension of the _O_-fucose with GlcNAc is not essential for Notch function, but rather is important for modulating Notch signaling. Fringe mutations in flies affects a subset of Notch functions, especially in formation of the wing [[25](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0125)]. Mutations in either mouse or human _Lfng_/_LFNG_ show skeletal defects consistent with reduced Notch signaling, but are less severe than _Pofut1_ or _Notch1_ mutants.
+> >Reduced [Notch signalling](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/notch-signaling-pathway "Learn more about Notch signaling from ScienceDirect's AI-generated Topic Pages") in Fringe mutants provides evidence that extension of the _O_-fucose with GlcNAc is not essential for Notch function, but rather is important for modulating Notch signalling. Fringe mutations in flies affects a subset of Notch functions, especially in formation of the wing [[25](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0125)]. Mutations in either mouse or human _Lfng_/_LFNG_ show skeletal defects consistent with reduced Notch signalling, but are less severe than _Pofut1_ or _Notch1_ mutants.
 
-> [!important] 
-> 
-> > [!warning]- 
+> [!statement] 
+> Some protein functions are shown to be more dependent on protein function than others 
+> >[!quote]-
+> >... both _Pofut2_ and _Adamts9_-null mice are embryonic lethal, but loss of _B3GLCT_ in PPS is not. Since ADAMTS9 is modified with the Glucoseβ1-3Fucose [disaccharide](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/disaccharide "Learn more about disaccharide from ScienceDirect's AI-generated Topic Pages") [[49](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0245)], this suggests that ADAMTS9 function is more-dependent on POFUT2 than B3GLCT.
 
 
 
