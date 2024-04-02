@@ -38,6 +38,7 @@ b) [[NOTCH1]] modified by **GlcNAcβ1-3Fucose disaccharide**. Fucose in red, Glc
 c) group 1 and 2 TSR depends on C-location for disulfide bond. POFUT2 consensus sequence shown, and with two glycan additions:
 1. POFUT2 - Fucose
 2. B3GLCT - Glucose
+d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/adamts13 "Learn more about ADAMTS13 from ScienceDirect's AI-generated Topic Pages") TSR1 modified with Glucoseβ1-3-Fucose disaccharide. Fucose in red, glucose in blue, disulfide bonds in green.
 
 > [!statement] 
 > 
