@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/consensus sequence.md",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/consensus sequence.md",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/consensus sequence.md",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/consensus sequence.md"
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/consensus sequence.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Pasted image 20240402150635.png",
     "Academic/Literature Notes/TSR.md",
     "Academic/Literature Notes/endoplasmic reticulum.md",

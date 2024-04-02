@@ -29,7 +29,11 @@ To describe and map the functions of O-linked fucose within the protein they mod
 ![[Pasted image 20240402150635.png]]
 Fig. Modification of Motifs by O-fucose glycans. 
 a) (left) shows disulphide bonding via green lines, beta strands via arrows. Site of O-fucosylation and GlcNAc elongation indicated by red triangle and blue square, respectively. 
-(right) shows **POFUT1 modification's [[consensus sequence]]**
+(right) shows **POFUT1 modification's [[consensus sequence]]** and glycans additions with relevant enzymes:
+1. POFUT1 - fucose
+2. FRINGE - GlcNAc
+3. B4GALT1 - Galactose
+4. 
 b) 
 
 > [!statement] 
