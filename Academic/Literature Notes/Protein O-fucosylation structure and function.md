@@ -83,9 +83,13 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 
 > [!example] O-Fucosylation forms interactions that stabilised folded repeat motifs, via **ER quality control pathway**
 > Pathway is:
-> - Novel - unlike classical ER QC systems, 
-> - Non-canonical - 
-> > [!summary]- Reference
+> - Novel - unlike classical ER QC systems, POFUTs recognise folded domains
+> - Non-canonical - ==modification is/can be done post-folding==
+> 
+> > [!quote]- 
+> > "Further evidence that these enzymes recognize folded structures came from co-crystal structures of POFUT1 and an EGF repeat [[15••](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0075)], and POFUT2 and a TSR [[14••](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0070)]."
+> > ""
+> > 
 
 
 
