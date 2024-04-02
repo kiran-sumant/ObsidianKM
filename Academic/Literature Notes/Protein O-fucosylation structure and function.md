@@ -46,6 +46,16 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >Recent evidence suggests that the _O_-linked fucose on EGF repeats can participate directly in intermolecular interactions with binding partners. In addition, _O_-fucose participates in intramolecular interactions with neighboring [amino acids](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acids from ScienceDirect's AI-generated Topic Pages") of correctly disulfide-bonded EGF repeats and TSRs. These interactions are proposed to stabilize the structure and as a consequence accelerate the overall rate of folding in the ER
 > 
 
+> [!statement] Implications
+> Clinical:
+> - Dowling-Degos Disease - POFUT1 mutation, rare skin condition
+> - POFUT1 -> several types of cancer
+> - POFUT gene knockout is **embryonic lethal** in mice.
+> - Defects from POFUT1 KO similar to NOTCH1 KO
+> - Adamts9 KO similar to POFUT2 KO
+> - Evidence that O
+> >[!quote]-
+
 
 ## Related Links
 
