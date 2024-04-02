@@ -81,6 +81,15 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >[!quote]-
 > >![[Pasted image 20240402161527.png]]
 
+> [!example] O-Fucosylation forms interactions that stabilised folded repeat motifs, via **ER quality control pathway**
+> Pathway is:
+> - Novel - unlike classical ER QC systems, 
+> - Non-canonical - 
+> > [!summary]- Reference
+
+
+
+
 
 ## Related Links
 
