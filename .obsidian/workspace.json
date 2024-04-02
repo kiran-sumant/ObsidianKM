@@ -11,14 +11,12 @@
             "id": "fecb98f465d9cbe6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Literature Review Canvas.canvas",
-                "viewState": {
-                  "x": -367.5,
-                  "y": -243.75,
-                  "zoom": 0
-                }
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Literature Review Canvas.canvas",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Literature Review Canvas.canvas",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Literature Review Canvas.canvas"
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
               }
             }
           },
@@ -196,6 +194,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Literature Notes/analogs.md",
+    "Academic/Literature Notes/orthologs.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
@@ -230,8 +231,6 @@
     "Academic/Literature Notes/23.md",
     "-Support/Templates/Callout - statement quote.md",
     "-Support/Templates/Callout - statement and warning note.md",
-    "-Support/Templates/Callout - multiple.md",
-    "-Support/Templates/Callout - fact with ref.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
