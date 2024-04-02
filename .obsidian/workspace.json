@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-                "mode": "preview",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md"
+                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md"
               }
             }
           },
@@ -194,19 +194,19 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Seminars.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "-Support/Graphics/Pasted image 20240402101430.png",
-    "Academic/Academic notes/FINER.md",
-    "Academic/Research Larance Lab.md",
+    "-Support/Graphics/Pasted image 20240402150635.png",
+    "-Support/Graphics/Pasted image 20240114183803.png",
+    "-Support/Graphics/Pasted image 20240114183825.png",
+    "-Support/Graphics/Pasted image 20240114183833.png",
+    "-Support/Graphics/Pasted image 20240216095630.png",
+    "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
     "-Support/Graphics/Pasted image 20240402161527.png",
-    "-Support/Graphics/Pasted image 20240402150635.png",
-    "-Support/Graphics/Pasted image 20240216100343.png",
-    "-Support/Graphics/Pasted image 20240216095630.png",
-    "-Support/Graphics/Pasted image 20240114183833.png",
-    "-Support/Graphics/Pasted image 20240114183825.png",
-    "-Support/Graphics/Pasted image 20240114183803.png",
+    "-Support/Graphics/Pasted image 20240402101430.png",
+    "Academic/Research Larance Lab.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/Academic notes/FINER.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/POFUT1.md",

@@ -98,6 +98,12 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 
 ![[Pasted image 20240402163923.png]]
 
+Things to be answered:
+- how the Glucoseβ1,3Fucose disaccharide on TSRs affects intermolecular interactions
+- what other mechanisms are used for EGF repeat stabilization
+
+> [!quote] 
+> The data suggesting _O_-fucose modifications of EGF8 and 12 on NOTCH1 are in direct contact with ligands are compelling, but do not explain what the other 15 _O_-fucose residues on the NOTCH1 extracellular domain are doing.
 
 
 
