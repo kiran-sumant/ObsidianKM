@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -195,11 +195,13 @@
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
     "Academic/Seminars.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "-Support/Graphics/Pasted image 20240402101430.png",
+    "Academic/Academic notes/FINER.md",
     "Academic/Research Larance Lab.md",
     "-Support/Graphics/Pasted image 20240402163923.png",
     "-Support/Graphics/Pasted image 20240402161527.png",
     "-Support/Graphics/Pasted image 20240402150635.png",
-    "-Support/Graphics/Pasted image 20240402101430.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240114183833.png",
@@ -213,8 +215,6 @@
     "Academic/Literature Notes/TSR.md",
     "Academic/Literature Notes/endoplasmic reticulum.md",
     "Academic/Literature Notes/EGF.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "Academic/Academic notes/FINER.md",
     "Academic/Honours.md",
     "-Support/Cheat Sheet.md",
     "Journals/Journal Entries/2024-03-29.md",
@@ -229,7 +229,6 @@
     "-Support/Templates/Callout - statement and warning note.md",
     "-Support/Templates/Callout - multiple.md",
     "-Support/Templates/Callout - fact with ref.md",
-    "-Support/Templates/Callout - fact list with ref.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
