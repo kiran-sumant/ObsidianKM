@@ -46,15 +46,26 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >Recent evidence suggests that the _O_-linked fucose on EGF repeats can participate directly in intermolecular interactions with binding partners. In addition, _O_-fucose participates in intramolecular interactions with neighboring [amino acids](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acids from ScienceDirect's AI-generated Topic Pages") of correctly disulfide-bonded EGF repeats and TSRs. These interactions are proposed to stabilize the structure and as a consequence accelerate the overall rate of folding in the ER
 > 
 
-> [!statement] Implications
-> Clinical:
+> [!example] Implications
 > - Dowling-Degos Disease - POFUT1 mutation, rare skin condition
 > - POFUT1 -> several types of cancer
 > - POFUT gene knockout is **embryonic lethal** in mice.
 > - Defects from POFUT1 KO similar to NOTCH1 KO
 > - Adamts9 KO similar to POFUT2 KO
-> - Evidence that O
+> - Evidence that O-fucosylation is essential for function.
+> 
+> >[!quote]- 
+> >Loss of _Pofut1_ causes embryonic lethality with defects in [somite](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/somite "Learn more about somite from ScienceDirect's AI-generated Topic Pages"), [neural tube](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/neural-tube "Learn more about neural tube from ScienceDirect's AI-generated Topic Pages"), heart, and [blood vessel development](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/angiogenesis "Learn more about blood vessel development from ScienceDirect's AI-generated Topic Pages"), similar to _Notch1_ knockout. Similar loss of Notch function is seen in _O-fut1_ (_POFUT1_ homolog in flies) mutants in flies. Loss of _Pofut2_ in mice causes early embryo lethality resulting from abnormalities in [gastrulation](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gastrulation "Learn more about gastrulation from ScienceDirect's AI-generated Topic Pages") and axis elongation, similar to _Adamts9_ mutants
+
+> [!example] NOTCH1 signalling
+> - Elongation/extension of fucose with other glycans ==not essential== for Notch function, but for **modulating notch signalling**. 
 > >[!quote]-
+> >Reduced [Notch signaling](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/notch-signaling-pathway "Learn more about Notch signaling from ScienceDirect's AI-generated Topic Pages") in Fringe mutants provides evidence that extension of the _O_-fucose with GlcNAc is not essential for Notch function, but rather is important for modulating Notch signaling. Fringe mutations in flies affects a subset of Notch functions, especially in formation of the wing [[25](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0125)]. Mutations in either mouse or human _Lfng_/_LFNG_ show skeletal defects consistent with reduced Notch signaling, but are less severe than _Pofut1_ or _Notch1_ mutants.
+
+> [!important] 
+> 
+> > [!warning]- 
+
 
 
 ## Related Links
