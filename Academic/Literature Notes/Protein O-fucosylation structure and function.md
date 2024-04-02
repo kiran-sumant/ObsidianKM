@@ -46,6 +46,8 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >Recent evidence suggests that the _O_-linked fucose on EGF repeats can participate directly in intermolecular interactions with binding partners. In addition, _O_-fucose participates in intramolecular interactions with neighboring [amino acids](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/amino-acids "Learn more about amino acids from ScienceDirect's AI-generated Topic Pages") of correctly disulfide-bonded EGF repeats and TSRs. These interactions are proposed to stabilize the structure and as a consequence accelerate the overall rate of folding in the ER
 > 
 
+# Evidence of Function
+
 > [!example] Implications
 > - Dowling-Degos Disease - POFUT1 mutation, rare skin condition
 > - POFUT1 -> several types of cancer
@@ -67,6 +69,15 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > >[!quote]-
 > >... both _Pofut2_ and _Adamts9_-null mice are embryonic lethal, but loss of _B3GLCT_ in PPS is not. Since ADAMTS9 is modified with the Glucoseβ1-3Fucose [disaccharide](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/disaccharide "Learn more about disaccharide from ScienceDirect's AI-generated Topic Pages") [[49](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#bib0245)], this suggests that ADAMTS9 function is more-dependent on POFUT2 than B3GLCT.
 
+# Mechanism of Function
+
+> [!statement] Influences intermolecular interaction with binding partners
+> - _O_-fucosylation by POFUT1 is a highly efficient process in cells, **not site selective**
+> - (context) 
+> - Figure shows EGF12
+> 
+> >[!quote]-
+> >![[Pasted image 20240402161527.png]]
 
 
 ## Related Links
