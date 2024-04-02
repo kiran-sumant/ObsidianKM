@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/POFUT1.md",
+                "file": "Academic/Literature Notes/POFUT2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/POFUT1.md",
+                "file": "Academic/Literature Notes/POFUT2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/POFUT1.md",
+                "file": "Academic/Literature Notes/POFUT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/POFUT1.md"
+                "file": "Academic/Literature Notes/POFUT2.md"
               }
             }
           },
@@ -194,9 +194,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/POFUT2.md",
     "Academic/Literature Notes/POFUT1.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Academic/Literature Notes/POFUT2.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/Academic notes/FINER.md",
