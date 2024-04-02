@@ -7,8 +7,14 @@ To describe and map the functions of O-linked fucose within the protein they mod
 
 # Details/Quotes
 > [!statement] 
-> Fucosylation is common in proteins and lipids. it's a glycos
+> Fucosylation is common in proteins and lipids. it's a glycosylation reaction (*not to be confused with fucosylation*)
 > >[!quote]-
+> >The fucose residues typically occur as terminal or core modifications of the glycan, added by Golgi-localized fucosyltransferases
+> 
+> - Modifications have functions in immunology, blood group antigens, etc.
+> - Our interest is in **O-linkage** of fucose to hydroxyl groups
+
+
 
 ## Related Links
 
