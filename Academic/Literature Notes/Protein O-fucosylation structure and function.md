@@ -1,7 +1,8 @@
 # Main Idea of Thesis
 
 
-#### Doc Link
+
+#### [Doc Link](https://doi.org/10.1016/j.sbi.2018.12.005)
 
 # Details/Quotes
 > [!statement] 
