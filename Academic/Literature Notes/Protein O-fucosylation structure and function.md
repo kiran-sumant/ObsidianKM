@@ -75,8 +75,8 @@ d) Structure of [ADAMTS13](https://www.sciencedirect.com/topics/biochemistry-ge
 > - _O_-fucosylation by POFUT1 is a highly efficient process in cells, **not site selective**
 > - (context) 36 EGF repeats on Notch, 17 sites modded with O-fucose
 > - Figure shows EGF12 in **direct contact** with **backbone and side-chain** residues in both ligands.  
-> - Key roles of EGF8 and 12 in supporting **fringes** that boost LL1-mediated **NOTCH1 activation.**
-> - 
+> - Key roles of EGF8 and 12 in supporting **fringe enzyme modification** of Notch that boosts LL1-mediated **NOTCH1 activation.**
+> - ==Proposed that TSRs may have similar interactions==
 > 
 > >[!quote]-
 > >![[Pasted image 20240402161527.png]]
