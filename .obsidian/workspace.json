@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md"
+                "file": "Academic/Literature Notes/POFUT1.md"
               }
             }
           },
@@ -194,6 +194,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Literature Notes/POFUT2.md",
+    "Academic/Literature Notes/POFUT1.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/Academic notes/FINER.md",
@@ -204,7 +207,6 @@
     "Journals/Journal Entries/2024-03-29.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Journals/Journal Entries/2024-01-08.md",
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
@@ -220,8 +222,6 @@
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
-    "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
-    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",
