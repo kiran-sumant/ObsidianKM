@@ -18,6 +18,14 @@
 
 [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]
 
+> [!warning] Importantey
+> - Does the EMI domain contain an EGF adjacent motif? 
+> - Is there a possible evolution link between either TSF or EGF and EMI domain?
+
+
+
+
+
 ## Software for Novel Protein Search/Discovery
 
 [[ColabFold making protein folding accessible to all]]
