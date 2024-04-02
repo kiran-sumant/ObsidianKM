@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c2c16ce67aec536",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "fecb98f465d9cbe6",
+  "active": "3c2c16ce67aec536",
   "lastOpenFiles": [
     "-Support/Graphics/Pasted image 20240402150635.png",
     "-Support/Graphics/Pasted image 20240114183803.png",
