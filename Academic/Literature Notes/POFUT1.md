@@ -10,3 +10,5 @@ Binds with ==high specificity== to [[EGF]] or **Epidermal Growth Factor-like Rep
 [[Protein O-fucosylation structure and function]]
 
 see also [[POFUT2]]
+
+#enzymes #proteomics #PTM 

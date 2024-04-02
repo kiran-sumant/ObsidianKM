@@ -11,3 +11,5 @@ Binds with ==high specificity== to [[TSR]] or **Thrombospondin type-1 repeats**
 [[Protein O-fucosylation structure and function]]
 
 See also [[POFUT1]]
+
+#enzymes #proteomics #PTM 

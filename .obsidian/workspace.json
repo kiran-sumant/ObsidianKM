@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/POFUT2.md",
+                "file": "Academic/Literature Notes/TSR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/POFUT2.md",
+                "file": "Academic/Literature Notes/TSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/POFUT2.md",
+                "file": "Academic/Literature Notes/TSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/POFUT2.md"
+                "file": "Academic/Literature Notes/TSR.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/POFUT1.md",
     "Academic/Literature Notes/POFUT2.md",
+    "Academic/Literature Notes/POFUT1.md",
+    "Academic/Literature Notes/TSR.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
@@ -221,7 +222,6 @@
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",
