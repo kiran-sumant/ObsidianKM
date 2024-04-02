@@ -18,7 +18,7 @@ To describe and map the functions of O-linked fucose within the protein they mod
 > >  In contrast, fucose can be directly added to proteins via an _O_-linkage to hydroxyl groups of [Serines](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/serine "Learn more about Serines from ScienceDirect's AI-generated Topic Pages") or Threonines of folded Epidermal Growth Factor-like (EGF) repeats and [Thrombospondin](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/thrombospondin "Learn more about Thrombospondin from ScienceDirect's AI-generated Topic Pages") Type 1 Repeats (TSR) in the endoplasmic reticulum (ER).
 
 
-> [!example] Modification description
+> [!example] Modification Description
 > - O-fucosylation is done via ==Serine== or ==Threonine== hydroxyl grps
 > - Modifies Epidermal Growth Factor-like ([[EGF]]) repeats & Thromospondin type-1 ([[TSR]]) repeats in the [[endoplasmic reticulum]]
 > - ==EGF-repeats = [[POFUT1]]==
