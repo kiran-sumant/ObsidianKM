@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/TSR.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/TSR.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/TSR.md",
+                "file": "Academic/Literature Notes/POFUT1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/TSR.md"
+                "file": "Academic/Literature Notes/POFUT1.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   "lastOpenFiles": [
     "Academic/Literature Notes/POFUT2.md",
     "Academic/Literature Notes/POFUT1.md",
+    "Academic/Literature Notes/EGF.md",
     "Academic/Literature Notes/TSR.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
@@ -221,7 +222,6 @@
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "-Support/Graphics/Pasted image 20240320174132.png",
