@@ -26,7 +26,12 @@ To describe and map the functions of O-linked fucose within the protein they mod
 > >[!quote]- 
 > >EGF repeats and TSRs are small protein modules characterized by three [disulfide bonds](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/disulfide-bond "Learn more about disulfide bonds from ScienceDirect's AI-generated Topic Pages") ([Figure 1](https://www.sciencedirect.com/science/article/pii/S0959440X18301532?via%3Dihub#fig0005)). Protein _O_-fucosyltransferases 1 and 2 (POFUT1 and POFUT2) add _O_-linked fucose to folded EGF repeats and TSRs, respectively
 
+![[Pasted image 20240402150635.png]]
+Fig. 
 
+> [!statement] 
+> 
+> >[!quote]-
 
 ## Related Links
 
