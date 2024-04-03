@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/epimers.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/epimers.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/epimers.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/epimers.md"
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
               }
             }
           },
@@ -194,11 +194,12 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/epimers.md",
+    "-Support/Graphics/Epimers-of-D-Glucose.webp",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/enantiomers.md",
-    "Pasted image 20240403111056.png",
-    "Pasted image 20240403111031.png",
+    "-Support/Graphics/Pasted image 20240403111056.png",
+    "-Support/Graphics/Pasted image 20240403111031.png",
     "Academic/Literature Notes/analogs.md",
     "Academic/Literature Notes/orthologs.md",
     "Academic/Literature Review.md",
@@ -211,7 +212,6 @@
     "-Support/Graphics/Pasted image 20240216095630.png",
     "-Support/Graphics/Pasted image 20240216100343.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
-    "-Support/Graphics/Pasted image 20240402161527.png",
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
@@ -230,7 +230,6 @@
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
-    "Academic/Literature Notes/23.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",

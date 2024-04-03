@@ -12,6 +12,7 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 # [[Fucose|6-deoxy-L/D-galactose]]
 
 - Has both **[[enantiomers]]** and **[[epimers]]**.
+- Epimer has $$
 
 > [!example] Fucose be like "I'm not like the other sugars"
 > - ==L-configuration== of chiral carbon, where **all natural mammalian** sugars *exist as D-config*
