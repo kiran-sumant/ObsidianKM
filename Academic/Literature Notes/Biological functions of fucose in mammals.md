@@ -27,10 +27,24 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 > - can be modded into N-, O- terminals, or **lipid-linked oligosaccharide chains**
 > - also linked to ==Serine or Threonine in some proteins==
 
-> [!statement] Fucose Glycan Structure
-> - ==Mucin O-GalNAc glycansv==  and Direct attachment to Ser or Thr, are the main modification methods for **O-glycans**
+> [!example] Fucose Glycan Structure
+> - ==Mucin O-GalNAc glycans extension==, and Direct attachment to Ser or Thr, are the main modification methods for **O-glycans**
+> - 13 known FUTs for synthesis of fucosylated glycans
+> 
 > >[!quote]-
+> >Two types of _O_-glycans can be modified with fucose: mucin _O_-GalNAc glycans are initiated by the attachment of _N_-acetylgalactosamine (GalNAc) to the hydroxyl group of a serine or threonine; alternatively fucose can be directly attached to serine or threonine residues within the appropriate consensus sequence of a subset of proteins. There are 13 known fucosyltransferases responsible for the synthesis of this group of fucosylated glycans
 
+
+| Abbr. | Common name related to Function |     |
+| ----- | ------------------------------- | --- |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
+|       |                                 |     |
 
 
 
