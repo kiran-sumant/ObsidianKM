@@ -9,7 +9,9 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 (Squiggly line means OH either arranged towards or away from view. These are two differenct confirmations, D and L)
 #### [Doc Link](https://academic.oup.com/glycob/article/27/7/601/3738501)
 
-# Details/Quotes
+# [[Fucose|6-deoxy-L/D-galactose]]
+
+- Has both **[[optical isomers]]** and **[[epimers]]**.
 
 > [!example] Fucose be like "I'm not like the other sugars"
 > - ==L-configuration== of chiral carbon, where **all natural mammalian** sugars *exist as D-config*
