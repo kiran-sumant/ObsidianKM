@@ -35,21 +35,22 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 > >Two types of _O_-glycans can be modified with fucose: mucin _O_-GalNAc glycans are initiated by the attachment of _N_-acetylgalactosamine (GalNAc) to the hydroxyl group of a serine or threonine; alternatively fucose can be directly attached to serine or threonine residues within the appropriate consensus sequence of a subset of proteins. There are 13 known fucosyltransferases responsible for the synthesis of this group of fucosylated glycans
 
 
-| Abbr.            | Common name related to Function                        | Major Products                                                                                                       |
-| ---------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| FUT1             | H blood group $\alpha2$-fucosyltransferase             | H antigen-type 2                                                                                                     |
-| FUT2             | Secretor (Se) blood group $\alpha2$-fucosyltransferase | H antigen-type 1                                                                                                     |
-| FUT3             | Lewis blood group fucosyltransferase                   | Sialyl Lewis and Lewis antibodies                                                                                    |
-| FUT4             | ELAM-1 ligand fucosyltransferase                       |                                                                                                                      |
-| FUT5             | Fuc-T*V* $\alpha3$-fucosyltransferase                  |                                                                                                                      |
-| FUT6             | Fuc-T*Vi* $\alpha3$-fucosyltransferase                 |                                                                                                                      |
-| FUT7             | Fuc-T*VII* $\alpha3$-fucosyltransferase                |                                                                                                                      |
-| FUT8             | Fuc-T*VIII* $\alpha6$-fucosyltransferase               | core fucose attached to core structure of all **N-glycans**                                                          |
-| FUT9             | Fuc-T*IX* $\alpha3$-fucosyltransferase                 |                                                                                                                      |
-| FUT10            | Fuc-T*X* $\alpha3$-fucosyltransferase                  | [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]] |
-| FUT11            | Fuc-T*XI* $\alpha3$-fucosyltransferase                 | [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]] |
-| FUT12/**POFUT1** | [[POFUT1\|Protein O-fucosyltransferase 1]]             |                                                                                                                      |
-| FUT13/**POFUT2** | [[POFUT2\|Protein O-fucosyltransferase 2]]             |                                                                                                                      |
+| Abbr.            | Common name related to Function                        | Major Products                                                                                                           |
+| ---------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| FUT1             | H blood group $\alpha2$-fucosyltransferase             | H antigen-type 2                                                                                                         |
+| FUT2             | Secretor (Se) blood group $\alpha2$-fucosyltransferase | H antigen-type 1                                                                                                         |
+| FUT3             | Lewis blood group fucosyltransferase                   | Sialyl Lewis and Lewis antibodies                                                                                        |
+| FUT4             | ELAM-1 ligand fucosyltransferase                       |                                                                                                                          |
+| FUT5             | Fuc-T*V* $\alpha3$-fucosyltransferase                  |                                                                                                                          |
+| FUT6             | Fuc-T*Vi* $\alpha3$-fucosyltransferase                 |                                                                                                                          |
+| FUT7             | Fuc-T*VII* $\alpha3$-fucosyltransferase                |                                                                                                                          |
+| FUT8             | Fuc-T*VIII* $\alpha6$-fucosyltransferase               | core fucose attached to ==core structure of all== **N-glycans**                                                          |
+| FUT9             | Fuc-T*IX* $\alpha3$-fucosyltransferase                 |                                                                                                                          |
+| FUT10            | Fuc-T*X* $\alpha3$-fucosyltransferase                  | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
+| FUT11            | Fuc-T*XI* $\alpha3$-fucosyltransferase                 | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
+| FUT12/**POFUT1** | [[POFUT1\|Protein O-fucosyltransferase 1]]             | ![[Pasted image 20240403115409.png]]                                                                                     |
+| FUT13/**POFUT2** | [[POFUT2\|Protein O-fucosyltransferase 2]]             | ![[Pasted image 20240403115422.png]]                                                                                     |
+
 
 
 
