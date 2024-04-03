@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/extravasation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/extravasation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/extravasation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
+                "file": "Academic/Literature Notes/extravasation.md"
               }
             }
           },
@@ -194,11 +194,12 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Literature Notes/extravasation.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Academic/Literature Notes/epimers.md",
     "-Support/Graphics/Epimers-of-D-Glucose.webp",
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/enantiomers.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
@@ -212,7 +213,6 @@
     "-Support/Graphics/Pasted image 20240114183825.png",
     "-Support/Graphics/Pasted image 20240114183833.png",
     "-Support/Graphics/Pasted image 20240216095630.png",
-    "-Support/Graphics/Pasted image 20240216100343.png",
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",

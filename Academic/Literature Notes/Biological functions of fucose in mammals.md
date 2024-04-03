@@ -52,12 +52,18 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 | FUT13/**POFUT2** | [[POFUT2\|Protein O-fucosyltransferase 2]]             | ![[Pasted image 20240403115422.png]]                                                                                     |
 
 
-> 
-- **GDP fucose** to modify target protein/lipids.
+> [!example] Fucose synthesis process
+> - **GDP fucose** used by FUTs to modify target protein/lipids.
 > - most fucose comes from **==de novo synthesis pathway==**
+> 
 > > [!quote] 
-> > GDP-fucose is synthesized through two pathways—the de novo synthesis pathway and the fucose salvage pathway (Figure 3). The de novo pathway synthesizes GDP-fucose from GDP-mannose through a three-step reaction catalyzed by two enzymes, GDP-mannose 4,6-dehydratase and GDP-keto-6-deoxymannose 3,5 epimerase (the FX protein) (Ginsburg 1960; Tonetti et al. 1996).
+> > GDP-fucose is synthesized through two pathways—the de novo synthesis pathway and the fucose salvage pathway (Figure 3). The de novo pathway **synthesizes** GDP-fucose from **==GDP-mannose==** through a ==three-step reaction catalyzed== by *two enzymes*, GDP-mannose 4,6-dehydratase and GDP-keto-6-deoxymannose 3,5 epimerase (**the FX protein**) (Ginsburg 1960; Tonetti et al. 1996).
 
+## List of Functions 
+- ABO Blood groups
+- Host-Microbe interactions
+- Learning, memory, cognitive processes
+- Leucocyte rolling and [[extravasation]]
 
 
 ## Related Links
