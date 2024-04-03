@@ -1,7 +1,7 @@
 # Main Idea of Thesis
 
 
-#### Doc Link: 
+#### [Doc Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/)
 
 # Details/Quotes
 > [!statement] 

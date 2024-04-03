@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
               }
             }
           },
@@ -229,9 +229,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Academic notes/POFUT2.md",
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Review.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Academic notes/POFUT2.md",
     "Academic/Academic notes/motif.md",
     "Academic/Academic notes/domain.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",

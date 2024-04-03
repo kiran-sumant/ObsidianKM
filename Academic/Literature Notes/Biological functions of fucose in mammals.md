@@ -76,12 +76,7 @@ Done by **[[POFUT1]], [[POFUT2]], [[POFUT3|FUT10]] and [[POFUT4|FUT11]]**
 
 # Fucose analogs
 
-
-
-> [!example] 
-> 
-> >[!quote]-
-
+*FUT10 and 11 not mentioned, blocked and unfollowed*
 
 ## Related Links
 
