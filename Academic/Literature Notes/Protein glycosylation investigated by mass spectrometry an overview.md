@@ -32,7 +32,8 @@ Glycans are **secondary gene products**
 - Changes in protein glycosylation seen at *both beginning and end* of **cancer progression** and **metastasis**.
 
 ## Experimentation
-- MALDI-MS or LC-MS/MS- 
+- MALDI-MS or LC-MS/MS - using [[CID]], [[ECD]] and [[ETD]]
+- **Multiple reaction monitoring** approach w/ ****
 
 ## Related Links
 
