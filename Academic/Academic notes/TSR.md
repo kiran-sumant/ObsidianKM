@@ -1,4 +1,4 @@
-[[Motif]]
+[[motif]]
 
 
 

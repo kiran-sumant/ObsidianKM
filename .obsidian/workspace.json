@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/TSR.md",
+                "file": "Academic/Academic notes/motif.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motif",
+                "query": "tag:#defini",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/TSR.md",
+                "file": "Academic/Academic notes/motif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/TSR.md",
+                "file": "Academic/Academic notes/motif.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/TSR.md"
+                "file": "Academic/Academic notes/motif.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
+    "Academic/Academic notes/EGF.md",
+    "Academic/Academic notes/motif.md",
+    "Academic/Academic notes/TSR.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
@@ -252,9 +255,6 @@
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Notes/Public resources for chemical probes; the journey so far and the road ahead..md",
-    "Academic/Literature Notes/RNA Interference to knock down gene expression..md",
-    "Academic/Literature Notes/Science Forum; Donated chemical probes for open science..md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
