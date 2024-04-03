@@ -27,7 +27,12 @@ Glycans are **secondary gene products**
 > 
 
 ## Implications
+- Immunity and inflammation: ==stimulated t-cells, cytokine release, immune receptors==
+- Genetic defects in glycosylation are **often embryonice lethal**
+- Changes in protein glycosylation seen at *both beginning and end* of **cancer progression** and **metastasis**.
 
+## Experimentation
+- MALDI-MS or LC-MS/MS- 
 
 ## Related Links
 
