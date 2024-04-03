@@ -59,11 +59,23 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 > > [!quote] 
 > > GDP-fucose is synthesized through two pathways—the de novo synthesis pathway and the fucose salvage pathway (Figure 3). The de novo pathway **synthesizes** GDP-fucose from **==GDP-mannose==** through a ==three-step reaction catalyzed== by *two enzymes*, GDP-mannose 4,6-dehydratase and GDP-keto-6-deoxymannose 3,5 epimerase (**the FX protein**) (Ginsburg 1960; Tonetti et al. 1996).
 
-## List of Functions 
+# List of Fucose Modification Functions 
+## Terminal Fucosylation
 - ABO Blood groups
 - Host-Microbe interactions
 - Learning, memory, cognitive processes
 - Leucocyte rolling and [[extravasation]]
+- Cancer metastasis
+- Fertilisation
+
+## Core Fucosylation
+- Immune response, inflammation
+- Cancer/cancer biomarkers
+## O-fucosylation
+
+> [!example] 
+> 
+> >[!quote]-
 
 
 ## Related Links
