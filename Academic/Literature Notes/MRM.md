@@ -9,9 +9,9 @@ Multiple reaction monitoring; also **selective reaction monitoring (SRM)
 	3. Daughter ions **selected** for **quantitation**.
 
 
-> [!important] To note:
-> - significant chromatographic separation required
-> - 
+> [!warning] To note:
+> significant chromatographic separation required (LC-MS)
+
 
 
 #mass-spectrometry 

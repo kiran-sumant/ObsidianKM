@@ -34,6 +34,8 @@ Glycans are **secondary gene products**
 ## Experimentation
 - MALDI-MS or LC-MS/MS - using [[CID]], [[ECD]] and [[ETD]]
 - **Multiple reaction monitoring** approach w/ **Targeted mass spectrometry** ([[MRM]])
+- **High-energy collision dissociation (HCD)**: frag method for peptides with PTMs to provide sequence info and ==localisation of modification sites.==
+
 
 ## Related Links
 
