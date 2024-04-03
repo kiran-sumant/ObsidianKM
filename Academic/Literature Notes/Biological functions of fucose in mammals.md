@@ -8,8 +8,13 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 # Details/Quotes
 
 > [!example] Fucose be like "I'm not like the other sugars"
-> - 
-> >[!quote]
+> - ==L-configuration== of chiral carbon, where **all natural mammalian** sugars *exist as D-config*
+> - ==Lacks hydroxyl== group on ==C-6 carbon==
+> - Relatively *common* glycan *modification* in lipids and proteins (*7.6% of oligosaccharides studies have it*)
+> 
+> >[!quote]-
+> >It is unique in having an L-configuration, whereas all other naturally occurring sugars in mammals exist in the D-conformation (Figure 1). It is also structurally distinct in lacking a hydroxyl group on the C-6 carbon (note contrast with D-galactose in Figure 1). A study of 3299 mammalian oligosaccharides revealed that fucose is found in 7.2% of oligosaccharides studied, second only to sialic acid...
+
 
 ## Related Links
 
