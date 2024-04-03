@@ -4,7 +4,19 @@
 #### [Doc Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/)
 
 # Details/Quotes
-> [!statement] 
+- Glycosylation is post translational modification
+- Covalent bonding of oligosaccharide/*glycan* to a polypeptide chain
+
+Glycans are **secondary gene products**
+
+## N-glycans
+- Synthesised in [[endoplasmic reticulum]]
+- 
+
+
+## O-glycans
+
+> [!example] Statements
 > 
 > >[!quote]
 
