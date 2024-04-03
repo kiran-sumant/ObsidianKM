@@ -6,8 +6,9 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 #### [Doc Link](https://academic.oup.com/glycob/article/27/7/601/3738501)
 
 # Details/Quotes
-> [!statement] 
-> 
+
+> [!example] Fucose be like "I'm not like the other sugars"
+> - 
 > >[!quote]
 
 ## Related Links
