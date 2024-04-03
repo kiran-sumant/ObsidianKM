@@ -46,8 +46,8 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 | FUT7             | Fuc-T*VII* $\alpha3$-fucosyltransferase                |                                                                                                                          |
 | FUT8             | Fuc-T*VIII* $\alpha6$-fucosyltransferase               | core fucose attached to ==core structure of all== **N-glycans**                                                          |
 | FUT9             | Fuc-T*IX* $\alpha3$-fucosyltransferase                 |                                                                                                                          |
-| FUT10            | Fuc-T*X* $\alpha3$-fucosyltransferase                  | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
-| FUT11            | Fuc-T*XI* $\alpha3$-fucosyltransferase                 | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
+| FUT10/==POFUT3== | Fuc-T*X* $\alpha3$-fucosyltransferase                  | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
+| FUT11/==POFUT4== | Fuc-T*XI* $\alpha3$-fucosyltransferase                 | **[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains\|was unknown, now known!]]** |
 | FUT12/**POFUT1** | [[POFUT1\|Protein O-fucosyltransferase 1]]             | ![[Pasted image 20240403115409.png]]                                                                                     |
 | FUT13/**POFUT2** | [[POFUT2\|Protein O-fucosyltransferase 2]]             | ![[Pasted image 20240403115422.png]]                                                                                     |
 
@@ -72,7 +72,7 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 - Immune response, inflammation
 - Cancer/cancer biomarkers
 ## O-fucosylation
-
+Done by **POFUT1, 2 and 3**
 > [!example] 
 > 
 > >[!quote]-

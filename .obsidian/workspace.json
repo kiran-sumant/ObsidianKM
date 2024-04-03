@@ -192,10 +192,47 @@
       "janitor:Janitor: scan vault": false
     }
   },
+  "floating": {
+    "id": "24a1ff5f77a3eead",
+    "type": "floating",
+    "children": [
+      {
+        "id": "11ce0b6215819db4",
+        "type": "window",
+        "children": [
+          {
+            "id": "9497d8121b97a776",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8680fe6021d4f0b7",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/extravasation.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Academic/Literature Notes/extravasation.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Academic/Literature Notes/epimers.md",
@@ -229,9 +266,6 @@
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
-    "Academic/Literature Notes/synthetic condensates.md",
-    "Academic/Literature Notes/non-cognate.md",
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
