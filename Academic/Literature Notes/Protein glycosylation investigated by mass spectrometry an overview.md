@@ -33,7 +33,7 @@ Glycans are **secondary gene products**
 
 ## Experimentation
 - MALDI-MS or LC-MS/MS - using [[CID]], [[ECD]] and [[ETD]]
-- **Multiple reaction monitoring** approach w/ ****
+- **Multiple reaction monitoring** approach w/ **Targeted mass spectrometry** ([[MRM]])
 
 ## Related Links
 

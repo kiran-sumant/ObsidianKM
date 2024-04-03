@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/MRM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/MRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/MRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+                "file": "Academic/Literature Notes/MRM.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Literature Notes/ETD.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/MRM.md",
+    "Academic/Literature Notes/ETD.md",
     "Academic/Literature Notes/ECD.md",
     "Academic/Literature Notes/CID.md",
     "Academic/Literature Notes/12.md",
@@ -254,7 +255,6 @@
     "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Academic/Academic notes/Adjuvant.md",
     "Academic/Academic notes/COQA1.md",
-    "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
