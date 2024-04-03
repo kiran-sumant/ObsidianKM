@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/optical isomers.md",
+                "file": "Academic/Literature Notes/epimers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/optical isomers.md",
+                "file": "Academic/Literature Notes/epimers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/optical isomers.md",
+                "file": "Academic/Literature Notes/epimers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/optical isomers.md"
+                "file": "Academic/Literature Notes/epimers.md"
               }
             }
           },
@@ -195,7 +195,8 @@
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
-    "Academic/Literature Notes/optical isomers.md",
+    "Academic/Literature Notes/epimers.md",
+    "Academic/Literature Notes/enantiomers.md",
     "Pasted image 20240403111056.png",
     "Pasted image 20240403111031.png",
     "Academic/Literature Notes/analogs.md",
@@ -230,7 +231,6 @@
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
     "Academic/Literature Notes/23.md",
-    "-Support/Templates/Callout - statement quote.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
