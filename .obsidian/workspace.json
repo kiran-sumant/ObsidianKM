@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EMI dom",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
               }
             }
           },
@@ -229,8 +229,14 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Academic notes/EMID1.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Literature Notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
+    "Academic/Academic notes/Honours Readings to go through.md",
+    "Academic/Honours.md",
+    "Academic/Literature Review.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "Academic/Literature Notes/extravasation.md",
     "Pasted image 20240403115422.png",
@@ -242,7 +248,6 @@
     "-Support/Graphics/Pasted image 20240403111031.png",
     "Academic/Literature Notes/analogs.md",
     "Academic/Literature Notes/orthologs.md",
-    "Academic/Literature Review.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "-Support/Graphics/Pasted image 20240402150635.png",
@@ -260,12 +265,8 @@
     "Academic/Literature Notes/TSR.md",
     "Academic/Literature Notes/endoplasmic reticulum.md",
     "Academic/Literature Notes/EGF.md",
-    "Academic/Honours.md",
     "-Support/Cheat Sheet.md",
     "Journals/Journal Entries/2024-03-29.md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Journals/Journal Entries/2024-01-08.md",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",

@@ -6,7 +6,9 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 > > [!attention]- Note
 > > *Not all have been proven to form multimers, it is just shown that they ==theoretically== can*
 
+# Experiment w/ plasmids available
 
+**MFAP2/5, EGFL7/8, SNED1, VWA2, MEGF10,  PEAR1, EMID1**
 # Proteins containing the domain as seen on UNIPROT + FUT10/11 investigation \[[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains|ref]]\]
 - [[MMRN1|Multimerin-1]]
 - [[EMILIN-1]]
