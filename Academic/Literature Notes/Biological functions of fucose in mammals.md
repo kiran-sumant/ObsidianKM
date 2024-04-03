@@ -24,8 +24,13 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 > >It is unique in having an L-configuration, whereas all other naturally occurring sugars in mammals exist in the D-conformation (Figure 1). It is also structurally distinct in lacking a hydroxyl group on the C-6 carbon (note contrast with D-galactose in Figure 1). A study of 3299 mammalian oligosaccharides revealed that fucose is found in 7.2% of oligosaccharides studied, second only to sialic acid...
 
 > [!example] Statements
-> - can be modded into 
-> > [!quote]-
+> - can be modded into N-, O- terminals, or **lipid-linked oligosaccharide chains**
+> - also linked to ==Serine or Threonine in some proteins==
+
+> [!statement] Fucose Glycan Structure
+> - ==Mucin O-GalNAc glycansv==  and Direct attachment to Ser or Thr, are the main modification methods for **O-glycans**
+> >[!quote]-
+
 
 
 
