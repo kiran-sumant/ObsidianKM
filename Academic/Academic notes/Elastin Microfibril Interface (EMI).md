@@ -47,4 +47,4 @@ Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1.
 
 
 
-#definition #proteomics #PTM 
+#definition #proteomics #PTM #domain
