@@ -72,7 +72,11 @@ Summarises known roles of fucose in mammals. Also discuss therapeutic advances f
 - Immune response, inflammation
 - Cancer/cancer biomarkers
 ## O-fucosylation
-Done by **POFUT1, 2 and 3**
+Done by **[[POFUT1]], [[POFUT2]], [[POFUT3|FUT10]] and [[POFUT4|FUT11]]**
+
+# Fucose analogs
+
+
 
 > [!example] 
 > 

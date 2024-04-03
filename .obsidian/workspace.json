@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/motif.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elastin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/motif.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/motif.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/motif.md"
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
               }
             }
           },
@@ -229,14 +229,15 @@
   },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "Academic/Academic notes/domain.md",
+    "Academic/Academic notes/POFUT2.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Literature Review.md",
     "Academic/Academic notes/motif.md",
+    "Academic/Academic notes/domain.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/EGF.md",
     "Academic/Academic notes/TSR.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Research Larance Lab.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
     "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
@@ -254,7 +255,6 @@
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
-    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
