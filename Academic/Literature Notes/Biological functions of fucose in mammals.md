@@ -3,6 +3,10 @@
 Chemically altered fucose [[analogs]] can be utilised for altering fucose-dependent processes to probe fucose function.
 
 Summarises known roles of fucose in mammals. Also discuss therapeutic advances for cancer directly resultant from knowledge advancement in fucose studies.
+
+![[Pasted image 20240403111031.png]]
+![[Pasted image 20240403111056.png]]
+(Squiggly line means OH either arranged towards or away from view. These are two differenct confirmations, D and L)
 #### [Doc Link](https://academic.oup.com/glycob/article/27/7/601/3738501)
 
 # Details/Quotes
