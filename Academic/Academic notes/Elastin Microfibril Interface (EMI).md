@@ -45,9 +45,7 @@ Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1.
 **c.** Cartoon of the homotrimer MMRN1 structure with key domains shown. Clustal Omega alignment of all human EMI domain protein sequences colored by residue type. Subgroups with high similarity are bound by black boxes. The O-fucosylated residues in MMRN1 are labelled. 
 **d.** HCD-MS/MS spectra of fucosylated peptides 209NWCAYVHTR217 and 263IVTSLDWR270 that contain the ==novel T216 and T265 O-fucose sites== (*highly conserved*) in MMRN1 EMI domains. Extracted ion chromatograms (EICs) of different glycoforms were inserted for each peptide: red lines, O-fucose modified; black lines, unmodified. The EIC and spectra for T1055 O-fucose modification in MMRN1 EGF domain are in Data S1. [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains|Sauce]]
 
-
-
-#definition #proteomics #PTM #domain
+# O-fucosylation
 
 > [!example] POFUT3/4 & EMI
 > - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
@@ -62,3 +60,5 @@ Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1.
 > > 
 > > [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]] 
 
+
+#definition #proteomics #PTM #domain
