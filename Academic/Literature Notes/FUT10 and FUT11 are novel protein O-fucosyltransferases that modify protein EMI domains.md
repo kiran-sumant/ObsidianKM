@@ -23,11 +23,18 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > [!example] POFUT3/4 & EMI
 > - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
 > - Activity of POFUT4 slightly > POFUT3 at T216 residue, similar at T265
-> - POFUT3 kinetics validated via 
+> - POFUT3 kinetics validated via **GDP-Glo Glycosyltransferase assay**
 > 
 > > [!quote]-
 > > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was207 notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
 
+- POFUT3/4 can act independent of each other (CRISPR/Cas9 KO)
+- They are solely responsible for EMI O-fucosylation.
+
+> [!example] Con-Canonical ER quality control pathway 
+> - denatured EMI domain doesn't bind, POFUT3/4 only accepts folded protein for modification.
+> - 
+> >[!quote]-
 
 
 ## Related Links
