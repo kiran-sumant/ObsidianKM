@@ -47,8 +47,9 @@
 
 ## Connecting MAGPs, and EMI domain PTM through EGF-like domain binding
 
-Appears to be no linkage in symptoms between MAGP-1 and MMRN1 deficiency despite similarities in functional pathways
-- MMRN1 
+Appears to be no linkage in symptoms between MAGP-1 and MMRN1 deficiency some overlapping in functional pathways
+- MMRN1 loss impairs platelet adhesion and vessel occlusion, but not wound repair (similar to wild type/ not statistically significant difference)
+- MAGP1 loss leads to inefficient fat metabolism, haematopoiesis, slowed wound repair
 
 
 [[Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion]]
