@@ -19,7 +19,9 @@
 > >[!quote]-
 > >However, unlike EGF repeats and TSRs which are frequently found embedded within proteins as tandem repeats, the EMI domain is consistently singular and located at the N-terminus of proteins (150).
 
-Used **Time-dependent enzymatic assay** to compare kinetics (*Km and Vmax*) 
+Used **Time-dependent enzymatic assay** to compare kinetics (*Km and Vmax*) for POFUT3/4
+
+
 ## Related Links
 
 

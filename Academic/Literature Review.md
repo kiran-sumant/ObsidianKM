@@ -49,12 +49,12 @@
 
 
 
-[[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]
+[[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]$\checkmark$ 
 
 [[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
 
-[[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]]
-
+[[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]] OR
+[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]$\checkmark$ 
 
 # Hypotheses/Aims (spaghetti at the wall)
 
