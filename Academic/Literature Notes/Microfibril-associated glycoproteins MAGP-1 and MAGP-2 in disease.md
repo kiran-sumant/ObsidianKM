@@ -6,12 +6,18 @@
 - bind to
 	1. Transforming growth factor beta (TGF-$\beta$)
 	2. Bone morphogenetic proteins (BMPs)
-- 
 #### [Doc Link](https://www.sciencedirect.com/science/article/pii/S0945053X17304936)
 
 # Details/Quotes
-> [!statement] 
-> 
+
+**Microfibrillar-associated glycoprotein-1 and -2**
+
+- Bond covalently through matrix binding domain, near the c-terminus
+- 
+
+> [!example] MAGP and Notch Signalling
+
+
 > >[!quote]
 
 ## Related Links
