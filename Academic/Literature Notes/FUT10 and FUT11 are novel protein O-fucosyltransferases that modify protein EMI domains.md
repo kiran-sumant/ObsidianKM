@@ -22,8 +22,11 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 
 > [!example] POFUT3/4 & EMI
 > - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
-> - Activity of POFUT4 slightly >3 at T216 residue, similar at T265
+> - Activity of POFUT4 slightly > POFUT3 at T216 residue, similar at T265
+> - POFUT3 kinetics validated via 
+> 
 > > [!quote]-
+> > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was207 notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
 
 
 
