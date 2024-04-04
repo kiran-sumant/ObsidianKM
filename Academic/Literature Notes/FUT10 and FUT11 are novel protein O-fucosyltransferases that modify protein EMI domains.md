@@ -18,7 +18,7 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > - Enzyme activity enhanged by **divalent metal ions (MnCl2>MgCl2>CaCl2>)
 > 
 > >[!quote]-
-> >Equivalent levels of EMI O-fucosylation were also observed in full-129 length MMRN1-transfected WT and POFUT2 KO HEK293T cells
+> >Equivalent levels of EMI O-fucosylation were also observed in full-length MMRN1-transfected WT and POFUT2 KO HEK293T cells
 
 > [!example] POFUT3/4 & EMI
 > - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
@@ -26,7 +26,7 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > - POFUT3 kinetics validated via **GDP-Glo Glycosyltransferase assay**
 > 
 > > [!quote]-
-> > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was207 notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
+> > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
 
 - POFUT3/4 can act independent of each other (CRISPR/Cas9 KO)
 - They are solely responsible for EMI O-fucosylation.
@@ -40,7 +40,13 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 
 
 > [!quote] "interestingly" quotes
-> "... second fucose was found in close proximity to the primary fucose site in 3D space, and many other EMI domains also possess a threonine at this equivalent site"
+> - "... second fucose was found in close proximity to the primary fucose site in 3D space, and many other EMI domains also possess a threonine at this equivalent site"
+> - "It would be intriguing to understand the spatial orientation of these two fucose residues and the catalytic mechanisms involved in their addition to EMI"
+
+It is ==hypothesised== that **EMI structure compacting** is brought about by the **fucose site modifications**, located in the ==middle== of two ==separate, *antiparallel*== $\beta$-strands. the modifications may draw the beta-strands closer together.
+> [!quote] 
+> 
+
 
 
 ## Related Links
