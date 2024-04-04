@@ -4,8 +4,9 @@
 #### [Doc Link](https://www.sciencedirect.com/science/article/pii/S0945053X1500102X)
 
 # Details/Quotes
-> [!statement] 
-> 
+> [!example] Statements
+> - We know MAGPs effect on Notch signalling, and TGF$\beta$, 
+> - In rodent testing, MAGP-1 had less to affect in blood vessel elastic fibers, and ==much more to do about
 > >[!quote]
 
 ## Related Links
