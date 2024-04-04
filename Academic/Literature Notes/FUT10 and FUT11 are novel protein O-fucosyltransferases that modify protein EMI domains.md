@@ -1,9 +1,13 @@
 # Main Idea of Thesis
 
+FUT10 and FUT11 -> POFUT3 and POFUT4
+
+Via [[co-immunoprecipitation]] 
 
 #### [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf|Doc Link]]
 
 # Details/Quotes
+
 > [!statement] 
 > 
 > >[!quote]
