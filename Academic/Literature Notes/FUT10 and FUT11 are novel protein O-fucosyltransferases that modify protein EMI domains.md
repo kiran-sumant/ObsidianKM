@@ -12,6 +12,7 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 
 > [!example] POFUT facts
 > - POFUT1&2 not responsible for EMI domain in MMRN1, **confirmed** via ==transient transfections==
+> - EIC shows that FX KO (obliterates all fucosylation) affects EMI, but NOT POFUT1,2.
 > - 
 > 
 > >[!quote]-
