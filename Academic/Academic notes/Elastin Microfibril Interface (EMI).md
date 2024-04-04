@@ -56,4 +56,9 @@ Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1.
 > 
 > > [!quote]-
 > > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
+> 
+> > [!summary]- Reference
+> > [[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2|Hao, H., 2023. Expanding the O-Fucosylation Repertoire: Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.]]
 > > 
+> > [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]] 
+
