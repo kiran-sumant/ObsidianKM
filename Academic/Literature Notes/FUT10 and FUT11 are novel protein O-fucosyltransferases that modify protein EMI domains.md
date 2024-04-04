@@ -4,15 +4,18 @@ FUT10 and FUT11 -> POFUT3 and POFUT4
 
 Via [[co-immunoprecipitation]], enzymatic assays, MS and CRISPR knockout, confirmed responsible for **modifying EMI domains**
 
-same "non-canonical ER quality control pathway" for secreti
+same "non-canonical ER quality control pathway" for secretion of proteins with EMI domain.
 
 #### [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf|Doc Link]]
 
 # Details/Quotes
 
-> [!statement] 
+> [!example] POFUT facts
+> - POFUT1&2 not responsible for EMI domain in MMRN1, **confirmed** via ==transient transfections==
+> - 
 > 
-> >[!quote]
+> >[!quote]-
+> >Equivalent levels of EMI O-fucosylation were also observed in full-129 length MMRN1-transfected WT and POFUT2 KO HEK293T cells
 
 ## Related Links
 

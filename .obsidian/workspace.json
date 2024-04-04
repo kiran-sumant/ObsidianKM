@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md"
+                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
               }
             }
           },
@@ -227,11 +227,11 @@
       }
     ]
   },
-  "active": "fecb98f465d9cbe6",
+  "active": "8680fe6021d4f0b7",
   "lastOpenFiles": [
-    "Academic/Literature Notes/co-immunoprecipitation.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Literature Notes/co-immunoprecipitation.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
@@ -255,7 +255,6 @@
     "Academic/Academic notes/risk.md",
     "Academic/Academic notes/resection.md",
     "Academic/Academic notes/REPL.md",
-    "Academic/Academic notes/Adjuvant Systemic Therapy.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "-Support/Graphics/Epimers-of-D-Glucose.webp",
