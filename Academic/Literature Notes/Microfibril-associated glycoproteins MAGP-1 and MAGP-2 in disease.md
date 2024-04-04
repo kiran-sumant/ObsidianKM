@@ -18,9 +18,12 @@
 > [!example] MAGP and [[notch signalling]]
 > - reference of MAGPs for **tandem EGF-like motifs**
 > - Interacts with Fibulins, JAG1, JAG2, DELTA1, [[NOTCH1]] and [[MEGF6]] (all contain EGFL domain)
-> - 
+> - Instrumental in [[angiogenesis]], cancer, inflammation
 > 
-> >[!quote]
+> >[!quote]- quotes
+> > ""
+> > ""
+> > ""
 
 ## Related Links
 

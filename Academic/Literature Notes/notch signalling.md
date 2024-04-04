@@ -6,8 +6,6 @@ A ==highly conserved cell signalling/ interaction mechanism== in most mammals co
 > > [!summary]- Reference
 > > Hori, K., Sen, A., & Artavanis-Tsakonas, S. (2013). Notch signaling at a glance. _Journal of cell science_, _126_(Pt 10), 2135–2140. https://doi.org/10.1242/jcs.127308
 
-
-
 Major role in **regulating embryonic development**
 
 Malfunction seen in *many cancers*
