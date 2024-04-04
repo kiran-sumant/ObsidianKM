@@ -14,7 +14,8 @@
 > [!Example] EMI and how it is unique
 > - Domain is **consistently singular** (unlike EGF and TSR repeats)
 > - Located at the **N-terminus** (not slap-bang in the middle of the protein)
-> - Seen in al proteins of the [[EMILIN|]]
+> - Seen in all proteins of the [[EMILIN|EMILIN/Multimerin family]], which can form **homotrimers**
+> - 
 > 
 > >[!quote]-
 > >However, unlike EGF repeats and TSRs which are frequently found embedded within proteins as tandem repeats, the EMI domain is consistently singular and located at the N-terminus of proteins (150).
