@@ -6,7 +6,10 @@
 # Details/Quotes
 > [!example] Statements
 > - We know MAGPs effect on Notch signalling, and TGF$\beta$, 
-> - In rodent testing, MAGP-1 had less to affect in blood vessel elastic fibers, and ==much more to do about
+> - In rodent testing, MAGP-1 deficiency had less to affect in blood vessel elastic fibres, and ==much more to do about==:
+> 	- Bone abnorms
+> 	- hematopoietic changes
+> 	- increase in fat deposition, **impaired wound repair**, and bleeding diathesis
 > >[!quote]
 
 ## Related Links

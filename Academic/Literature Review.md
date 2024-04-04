@@ -47,11 +47,15 @@
 
 ## Connecting MAGPs, and EMI domain PTM through EGF-like domain binding
 
+Appears to be no linkage in symptoms between MAGP-1 and MMRN1 deficiency despite similarities in functional pathways
+- MMRN1 
 
+
+[[Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion]]
 
 [[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]$\checkmark$ 
 
-[[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]
+[[The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche]]$\checkmark$ 
 
 [[Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2]] OR
 [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]$\checkmark$ 
