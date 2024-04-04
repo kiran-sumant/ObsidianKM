@@ -15,9 +15,11 @@
 - Bond covalently through matrix binding domain, near the c-terminus
 - 
 
-> [!example] MAGP and Notch Signalling
-
-
+> [!example] MAGP and [[notch signalling]]
+> - reference of MAGPs for **tandem EGF-like motifs**
+> - Interacts with Fibulins, JAG1, JAG2, DELTA1, [[NOTCH1]] and [[MEGF6]] (all contain EGFL domain)
+> - 
+> 
 > >[!quote]
 
 ## Related Links
