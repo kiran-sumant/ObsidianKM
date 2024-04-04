@@ -1,7 +1,7 @@
 # Main Idea of Thesis
 
 
-#### Doc Link: 
+#### [Doc Link](https://www.proquest.com/docview/2917446057?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) 
 
 # Details/Quotes
 > [!statement] 
