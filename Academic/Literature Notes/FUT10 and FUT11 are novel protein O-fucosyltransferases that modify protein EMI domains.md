@@ -15,7 +15,7 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > - EIC shows that FX KO (obliterates all fucosylation) affects EMI, but NOT POFUT1,2.
 > - FUT10,11 confirmed MMRN1 EMI fucosylation *in vitro*
 > - FUT11 reaction rate > FUT10 (enzymatic assay)
-> - Enzyme activity enhanged by **divalent metal ions ()
+> - Enzyme activity enhanged by **divalent metal ions (MnCl2>MgCl2>CaCl2>)
 > 
 > >[!quote]-
 > >Equivalent levels of EMI O-fucosylation were also observed in full-129 length MMRN1-transfected WT and POFUT2 KO HEK293T cells
