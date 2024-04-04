@@ -2,7 +2,9 @@
 
 FUT10 and FUT11 -> POFUT3 and POFUT4
 
-Via [[co-immunoprecipitation]] 
+Via [[co-immunoprecipitation]], enzymatic assays, MS and CRISPR knockout, confirmed responsible for **modifying EMI domains**
+
+same "non-canonical ER quality control pathway" for secreti
 
 #### [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf|Doc Link]]
 
