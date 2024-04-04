@@ -7,17 +7,17 @@
 
 # Fucosylation
 
-[[The evolution of post-translational modifications]]
+[[The evolution of post-translational modifications]]$\checkmark$ 
 
-[[Protein O-fucosylation structure and function]]
+[[Protein O-fucosylation structure and function]]$\checkmark$ 
 
-[[Biological functions of fucose in mammals]]
+[[Biological functions of fucose in mammals]]$\checkmark$ 
 
-[[Protein glycosylation investigated by mass spectrometry an overview]]
+[[Protein glycosylation investigated by mass spectrometry an overview]]$\checkmark$ 
 
 ## [[Elastin Microfibril Interface (EMI)]]
 
-[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]
+[[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]$\checkmark$ 
 
 > [!warning] Importantey
 > - Does the EMI domain contain an EGF adjacent motif? 
@@ -35,7 +35,7 @@
 [[Fast and accurate protein structure search with Foldseek]]
 ### How it was used, the way we want to use it
 
-[[Protein glycosylation investigated by mass spectrometry an overview]]
+[[Protein glycosylation investigated by mass spectrometry an overview]] $\checkmark$ 
 ## Notch Signalling Pathway
 
 

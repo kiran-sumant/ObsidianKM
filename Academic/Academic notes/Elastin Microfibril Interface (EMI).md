@@ -48,3 +48,12 @@ Fig. 1. Two novel O-fucose sites were identified on the EMI domain of MMRN1.
 
 
 #definition #proteomics #PTM #domain
+
+> [!example] POFUT3/4 & EMI
+> - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
+> - Activity of POFUT4 slightly > POFUT3 at T216 residue, similar at T265
+> - POFUT3 kinetics validated via **GDP-Glo Glycosyltransferase assay**
+> 
+> > [!quote]-
+> > This aligns with the trend we observed in Fig. 4a, where the concentrations of enzyme and EMI substrate fell within this range, although the difference was notably smaller, likely due to the influence of MnCl2 that boosts FUT10 activity (Fig. S9)
+> > 

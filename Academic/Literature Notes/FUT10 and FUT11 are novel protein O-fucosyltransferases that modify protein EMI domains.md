@@ -20,7 +20,7 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > >[!quote]-
 > >Equivalent levels of EMI O-fucosylation were also observed in full-length MMRN1-transfected WT and POFUT2 KO HEK293T cells
 
-> [!example] POFUT3/4 & EMI
+> [!example] POFUT3/4 & [[Elastin Microfibril Interface (EMI)|EMI]]
 > - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
 > - Activity of POFUT4 slightly > POFUT3 at T216 residue, similar at T265
 > - POFUT3 kinetics validated via **GDP-Glo Glycosyltransferase assay**
@@ -45,7 +45,9 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 
 It is ==hypothesised== that **EMI structure compacting** is brought about by the **fucose site modifications**, located in the ==middle== of two ==separate, *antiparallel*== $\beta$-strands. the modifications may draw the beta-strands closer together.
 > [!quote] 
-> 
+> Supporting this hypothesis is the observation that a MMRN1 T216A mutant displayed a reduced fucosylation level at T265 site, indicating that the presence of the T216 fucose facilitates the addition of the T265 fucose.
+
+
 
 
 
