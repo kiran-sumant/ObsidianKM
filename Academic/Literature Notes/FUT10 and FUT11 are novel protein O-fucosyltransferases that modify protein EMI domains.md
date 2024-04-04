@@ -33,8 +33,14 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 
 > [!example] Con-Canonical ER quality control pathway 
 > - denatured EMI domain doesn't bind, POFUT3/4 only accepts folded protein for modification.
-> - 
+> - POFUT3/4 function in ER rather than Golgi after KO of Golgi GDP-fucose pool
+> 
 > >[!quote]-
+> >To examine if POFUT3 and POFUT4 function in the Golgi, we257 performed transient transfections with the N-terminal EMI construct in WT and SLC35C1 KO258 HEK293T cells62. SLC35C1 encodes the Golgi GDP-fucose transporter. Loss of SLC35C1 leads to259 the depletion of the Golgi GDP-fucose pool, thereby inhibiting the activity of Golgi-localized FUTs.260 As expected, nearly all fucosylation of N-glycan on EMI N136 site was lost in SLC35C1 KO cells261 compared to WT cells, confirming the KO status of the cells (Fig. 6b). In contrast to N-glycan262 fucosylation, equivalent O-fucosylation levels on EMI T216 and T265 sites were observed in WT263 and SLC35C1 KO cells.
+
+
+> [!quote] "interestingly" quotes
+> "... second fucose was found in close proximity to the primary fucose site in 3D space, and many other EMI domains also possess a threonine at this equivalent site"
 
 
 ## Related Links
