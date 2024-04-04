@@ -21,7 +21,7 @@
 > - Instrumental in [[angiogenesis]], cancer, inflammation
 > 
 > >[!quote]- quotes
-> > ""
+> > "strong binding preference for tandem EGF-like motifs and has been shown using direct binding assays or yeast two-hybrid screens to interact with [fibulins](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/fibulin "Learn more about fibulins from ScienceDirect's AI-generated Topic Pages"), Jagged1, Jagged2, Delta1, Notch1, and multiple EGF-like domain protein 6 (MEGF6), all of which contain EGF domain repeats"
 > > ""
 > > ""
 
