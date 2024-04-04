@@ -20,6 +20,13 @@ same "non-canonical ER quality control pathway" for secretion of proteins with E
 > >[!quote]-
 > >Equivalent levels of EMI O-fucosylation were also observed in full-129 length MMRN1-transfected WT and POFUT2 KO HEK293T cells
 
+> [!example] POFUT3/4 & EMI
+> - EMI can accommodate **two fucose** residues **simultaneously** (seen from experiments in MMRNA)
+> - Activity of POFUT4 slightly >3 at T216 residue, similar at T265
+> > [!quote]-
+
+
+
 ## Related Links
 
 ## Related Reading
