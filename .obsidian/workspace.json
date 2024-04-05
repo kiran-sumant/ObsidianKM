@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0d4466fd53924f",
+        "id": "5f61d9130be6de06",
         "type": "tabs",
         "children": [
           {
-            "id": "fecb98f465d9cbe6",
+            "id": "87d57a90b10f4d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,8 +191,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "fecb98f465d9cbe6",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "202404051209.md",
+    "Academic/Academic notes/Literature Review Canvas.canvas",
+    "Academic/Literature Review.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Journals/Journal Entries/2024-03-29.md",
@@ -202,7 +205,6 @@
     "Academic/Literature Notes/angiogenesis.md",
     "Academic/Literature Notes/MRM.md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Academic notes/FINER.md",
     "Academic/Academic notes/EGF.md",
     "-Support/Templates/checkmark.md",
@@ -217,19 +219,16 @@
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
-    "Pasted image 20240328142310.png",
     "Academic/Literature Notes/23.md",
     "-Support/Templates/Callout - statement quote.md",
     "-Support/Templates/Callout - statement and warning note.md",
     "-Support/Templates/Callout - multiple.md",
     "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - fact list with ref.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",

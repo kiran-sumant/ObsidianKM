@@ -66,6 +66,9 @@ Appears to be no linkage in symptoms between MAGP-1 and MMRN1 deficiency some ov
 Aim: Investigate potential mechanisms by which EMI O-fucosylation helps play a key role in MMRN1 secretion, and propose its effects in other proteins when we confirm they contain the same domain modification
 [[Protein O-fucosylation structure and function]]
 
+- [ ] Writeup for experiments with MS proteomics, how it worky
+- [ ] Paragraph(s) on software used
+- [ ] MAGP2 IS MFAP5!!
 
 
 
