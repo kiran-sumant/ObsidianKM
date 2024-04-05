@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canvas",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,12 +169,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,81 +191,46 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "floating": {
-    "id": "24a1ff5f77a3eead",
-    "type": "floating",
-    "children": [
-      {
-        "id": "11ce0b6215819db4",
-        "type": "window",
-        "children": [
-          {
-            "id": "9497d8121b97a776",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8680fe6021d4f0b7",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fecb98f465d9cbe6",
   "lastOpenFiles": [
-    "-Support/Templates/checkmark.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
-    "Academic/Literature Notes/co-immunoprecipitation.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/MRM.md",
-    "Academic/Literature Notes/ETD.md",
-    "Academic/Literature Notes/ECD.md",
-    "Academic/Literature Notes/CID.md",
-    "Academic/Literature Notes/12.md",
-    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
-    "Academic/Academic notes/POFUT2.md",
-    "Academic/Academic notes/motif.md",
-    "Academic/Academic notes/domain.md",
-    "Academic/Academic notes/EGF.md",
-    "Academic/Academic notes/TSR.md",
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-    "Academic/Research Larance Lab.md",
-    "Academic/Academic notes/Workshop SOMS4101 2024-02-27.md",
-    "Academic/Academic notes/Workshop SOMS4101 2024-02-29.md",
-    "Academic/Academic notes/Workshop SOMS4101 2024-03-15.md",
-    "Academic/Academic notes/worker.md",
-    "Academic/Academic notes/risk.md",
-    "Academic/Academic notes/resection.md",
-    "Academic/Academic notes/REPL.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
-    "-Support/Graphics/Epimers-of-D-Glucose.webp",
+    "Journals/Journal Entries/2024-03-29.md",
+    "Academic/Seminars.md",
+    "Academic/Literature Notes/notch signalling.md",
+    "Academic/Literature Notes/co-immunoprecipitation.md",
+    "Academic/Literature Notes/angiogenesis.md",
+    "Academic/Literature Notes/MRM.md",
+    "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
+    "Academic/Academic notes/Literature Review Canvas.canvas",
+    "Academic/Academic notes/FINER.md",
+    "Academic/Academic notes/EGF.md",
+    "-Support/Templates/checkmark.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
-    "Academic/Academic notes/Literature Review Canvas.canvas",
+    "-Support/Graphics/Pasted image 20240402163923.png",
+    "-Support/Graphics/Pasted image 20240402161527.png",
     "-Support/Graphics/Pasted image 20240402150635.png",
-    "-Support/Graphics/Pasted image 20240114183803.png",
-    "-Support/Graphics/Pasted image 20240114183825.png",
-    "-Support/Graphics/Pasted image 20240114183833.png",
-    "-Support/Graphics/Pasted image 20240216095630.png",
+    "-Support/Graphics/Pasted image 20240402101430.png",
+    "-Support/Graphics/Pasted image 20240328142310.png",
+    "-Support/Graphics/Epimers-of-D-Glucose.webp",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Literature Notes/synthetic condensates.md",
+    "Academic/Literature Notes/non-cognate.md",
+    "Pasted image 20240328142310.png",
+    "Academic/Literature Notes/23.md",
+    "-Support/Templates/Callout - statement quote.md",
+    "-Support/Templates/Callout - statement and warning note.md",
+    "-Support/Templates/Callout - multiple.md",
+    "-Support/Templates/Callout - fact with ref.md",
+    "-Support/Templates/Callout - fact list with ref.md",
+    "Academic/Literature Review.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
@@ -276,6 +240,7 @@
     "RNAi (siRNA",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
     "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
-    "Academic/Untitled.canvas"
+    "Academic/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
