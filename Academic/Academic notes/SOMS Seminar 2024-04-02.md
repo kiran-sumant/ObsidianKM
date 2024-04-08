@@ -31,3 +31,6 @@ Take home messages
 - Surrounded by experts
 - Scientific writing is **iterative**
 - keep track of ==all materials and methods== use lab archives
+
+
+#seminar 
