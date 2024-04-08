@@ -5,6 +5,10 @@
 **Seminar Series:** SOMS and CPC Biology Domain
 
 ## What was the seminar about?
+Mitochondrial disease
+- Mitochondria contain a unique genetic system for vital energy production/energy release.
+- Disease in Mitochontrial is most common inherited genetic disease category.
+- 
 
 
 ## What were the major methods used?
@@ -17,7 +21,7 @@
 
 
 ## General comments:
-
+Organellogenesis: 
 
 
 #seminar
