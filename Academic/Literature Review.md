@@ -15,6 +15,8 @@
 
 [[Protein glycosylation investigated by mass spectrometry an overview]]$\checkmark$ 
 
+**Reference for branch fucosylation products (see biorender figure)**: Fujita, Kazutoshi & Hatano, Koji & Hashimoto, Mamoru & Tomiyama, Eisuke & Miyoshi, Eiji & Nonomura, Norio & Uemura, Hirotsugu. (2021). Fucosylation in Urological Cancers. International Journal of Molecular Sciences. 22. 13333. 10.3390/ijms222413333. 
+
 ## [[Elastin Microfibril Interface (EMI)]]
 
 [[FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains]]$\checkmark$ 
