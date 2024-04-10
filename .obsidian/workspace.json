@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
               }
             }
           },
@@ -191,17 +191,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Journals/Deadlines.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
-    "-Support/Templates/Seminar.md",
-    "-Support/Graphics/Pasted image 20240403115422.png",
-    "-Support/Graphics/Pasted image 20240403115409.png",
+    "Academic/Literature Review.md",
     "202404051209.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
-    "Academic/Literature Review.md",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Journals/Journal Entries/2024-03-29.md",
@@ -220,6 +214,8 @@
     "-Support/Graphics/Pasted image 20240402161527.png",
     "-Support/Graphics/Pasted image 20240402150635.png",
     "-Support/Graphics/Pasted image 20240402101430.png",
+    "-Support/Graphics/Pasted image 20240328142310.png",
+    "-Support/Graphics/Epimers-of-D-Glucose.webp",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
@@ -230,6 +226,9 @@
     "-Support/Templates/Callout - fact with ref.md",
     "-Support/Templates/Callout - fact list with ref.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes",
     "PGC-LC-MS",
