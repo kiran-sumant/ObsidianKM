@@ -11,7 +11,7 @@
 > 2. Result visualisation of inferred structures
 > 3. Structure prediction
 > 	- single structures simple enough
-> 	- complexes require pairing top hits within same species + 
+> 	- complexes require pairing top hits within same species + **add two unpaired** multiple sequence alignments to guide structure prediction
 > >[!quote]
 
 ## Related Links
