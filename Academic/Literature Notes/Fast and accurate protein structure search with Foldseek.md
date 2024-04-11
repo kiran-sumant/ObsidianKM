@@ -15,7 +15,15 @@ Very computationally efficient compared to Dali, TM-align and CE.
 > 
 > Other alignment tools may overlook homologous structures that **aren't globally superposable**.
 > 
-> Foldseek can find ==**homologous multi-domain structures==**, *independent* of ==relative domain orientations==.
+> Foldseek can find ==**homologous multi-domain structures**==, *independent* of ==relative domain orientations==.
+
+Sequence alignment works based on a ==**3Di alphabet**==, which sequences/describes *residue-residue* interactions (more emphasis on tertiary interactions of the prot).
+
+> [!example] 3Di alphabet
+> - Tertiary contacts between residues and 
+> > [!quote]-
+
+
 
 
 ## Related Links
