@@ -10,9 +10,13 @@ Very computationally efficient compared to Dali, TM-align and CE.
 
 # Details/Quotes
 
-> [!example] List of Features 
-> - 
-> >[!quote]
+> [!important] Key Feature
+> While it performs slightly below Dali, TM-align and CE (according to HOMSTRAD benchmark),
+> 
+> Other alignment tools may overlook homologous structures that **aren't globally superposable**.
+> 
+> Foldseek can find ==**homologous multi-domain structures==**, *independent* of ==relative domain orientations==.
+
 
 ## Related Links
 
