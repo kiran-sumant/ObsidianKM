@@ -1,5 +1,7 @@
 # Main Idea of Thesis
 
+- Prediction of protein structures/complexes
+- combines MMseq homology search with Alphafold2 fold predictor
 
 #### [Doc Link](https://www.nature.com/articles/s41592-022-01488-1)
 
