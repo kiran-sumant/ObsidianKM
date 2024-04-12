@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -191,6 +191,41 @@
       "obsidian-projects:Open projects": false,
       "janitor:Janitor: scan vault": false
     }
+  },
+  "floating": {
+    "id": "9f8011ca23bdabae",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5f8b892d702c5683",
+        "type": "window",
+        "children": [
+          {
+            "id": "d00484da326dc333",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "292e1aac34882d94",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [

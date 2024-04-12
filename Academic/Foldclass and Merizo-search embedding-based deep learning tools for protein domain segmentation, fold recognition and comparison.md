@@ -13,6 +13,7 @@
 
 
 ## Related Links
+https://github.com/psipred/merizo_search
 
 ## Related Reading
 
