@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+                "file": "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+                "file": "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+                "file": "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/ColabFold making protein folding accessible to all.md"
+                "file": "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "202404051209.md",
