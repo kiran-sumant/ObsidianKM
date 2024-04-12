@@ -31,10 +31,10 @@
 
 ## Software for Novel Protein Search/Discovery
 
-[[ColabFold making protein folding accessible to all]]
+[[ColabFold making protein folding accessible to all]] $\checkmark$ 
 
 
-[[Fast and accurate protein structure search with Foldseek]]
+[[Fast and accurate protein structure search with Foldseek]] $\checkmark$ 
 ### How it was used, the way we want to use it
 
 [[Protein glycosylation investigated by mass spectrometry an overview]] $\checkmark$ 
