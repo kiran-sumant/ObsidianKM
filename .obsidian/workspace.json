@@ -11,9 +11,12 @@
             "id": "87d57a90b10f4d89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+                "file": "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+                "file": "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+                "file": "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf"
+                "file": "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md"
               }
             }
           },
@@ -191,10 +194,12 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
-    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+    "Academic/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Literature Review.md",
+    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
@@ -227,8 +232,6 @@
     "Academic/Literature Notes/non-cognate.md",
     "Academic/Literature Notes/23.md",
     "-Support/Templates/Callout - statement quote.md",
-    "-Support/Templates/Callout - statement and warning note.md",
-    "-Support/Templates/Callout - multiple.md",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
@@ -237,7 +240,6 @@
     "CRISPR",
     "RNAi (siRNA",
     "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
-    "-Support/Reading/Exploiting the biosynthetic machinery of Streptomyces pilosus to engineer a water-soluble zirconium(iv) chelator.pdf",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -33,8 +33,9 @@
 
 [[ColabFold making protein folding accessible to all]] $\checkmark$ 
 
-
 [[Fast and accurate protein structure search with Foldseek]] $\checkmark$ 
+
+[[Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison]]
 ### How it was used, the way we want to use it
 
 [[Protein glycosylation investigated by mass spectrometry an overview]] $\checkmark$ 
