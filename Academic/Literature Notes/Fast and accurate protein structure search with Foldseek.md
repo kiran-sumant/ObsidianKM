@@ -19,6 +19,8 @@ Very computationally efficient compared to Dali, TM-align and CE.
 
 Sequence alignment works based on a ==**3Di alphabet**==, which sequences/describes *residue-residue* interactions (more emphasis on tertiary interactions of the prot).
 
+- Three-track neural network
+
 > [!example] 3Di alphabet
 > - Tertiary contacts between residues and **spatial** nearest neighbours, ==described==.
 > - 

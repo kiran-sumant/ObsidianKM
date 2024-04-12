@@ -9,7 +9,7 @@
 > 
 > >[!quote]
 
-
+- E(n)-equivariant graph neural network (EGNN)
 
 
 ## Related Links
