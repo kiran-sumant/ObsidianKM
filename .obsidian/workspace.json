@@ -32,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6fb49432b7d43d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md"
               }
             }
           },
@@ -200,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,46 +204,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "floating": {
-    "id": "9f8011ca23bdabae",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5f8b892d702c5683",
-        "type": "window",
-        "children": [
-          {
-            "id": "d00484da326dc333",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "292e1aac34882d94",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "292e1aac34882d94",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "conflict-files-obsidian-git.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
-    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
@@ -294,7 +244,6 @@
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
     "Academic/Literature Notes/23.md",
-    "-Support/Templates/Callout - statement quote.md",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
