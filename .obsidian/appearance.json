@@ -1,8 +1,9 @@
 {
-  "accentColor": "#5449a7",
+  "accentColor": "#841515",
   "baseFontSize": 20,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Calibri",
   "monospaceFontFamily": "Cambria Math",
-  "textFontFamily": "Ink Free"
+  "textFontFamily": "Ink Free",
+  "theme": "obsidian"
 }
