@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+                "file": "Academic/Literature Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -206,9 +206,9 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "conflict-files-obsidian-git.md",
-    "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
