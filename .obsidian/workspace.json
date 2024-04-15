@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md"
               }
             }
           },
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +207,13 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Academic/SOMS Seminar 2024-04-11.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/Literature Review.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "conflict-files-obsidian-git.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
@@ -223,7 +227,6 @@
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Journals/Journal Entries/2024-03-29.md",
-    "Academic/Seminars.md",
     "Academic/Literature Notes/notch signalling.md",
     "Academic/Literature Notes/co-immunoprecipitation.md",
     "Academic/Literature Notes/angiogenesis.md",
@@ -243,7 +246,6 @@
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes/non-cognate.md",
-    "Academic/Literature Notes/23.md",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
