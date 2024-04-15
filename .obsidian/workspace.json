@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
               }
             }
           },
@@ -254,10 +254,10 @@
       }
     ]
   },
-  "active": "6fb49432b7d43d34",
+  "active": "292e1aac34882d94",
   "lastOpenFiles": [
-    "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "conflict-files-obsidian-git.md",
+    "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
