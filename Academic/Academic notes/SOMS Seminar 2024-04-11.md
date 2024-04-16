@@ -60,3 +60,5 @@ Some Websites employ **subject heading searching** which involves having the sea
 ## Step 5
 Organise a **concept table**. Example:
 ![[Pasted image 20240416153514.png]]
+
+![[Pasted image 20240416154656.png]]
