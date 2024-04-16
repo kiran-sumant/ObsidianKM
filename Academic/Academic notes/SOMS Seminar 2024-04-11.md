@@ -61,4 +61,6 @@ Some Websites employ **subject heading searching** which involves having the sea
 Organise a **concept table**. Example:
 ![[Pasted image 20240416153514.png]]
 
+## Systematic review Guide
+
 ![[Pasted image 20240416154656.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Seminars.md"
+                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md"
               }
             }
           },
@@ -206,13 +206,13 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "-Support/Graphics/Pasted image 20240416153514.png",
     "-Support/Cheat Sheet.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Journals/List Of Entries.md",
-    "Academic/Seminars.md",
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
     "Academic/Academic notes/CPC Seminar 2024-04-08.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
@@ -244,7 +244,6 @@
     "-Support/Graphics/Pasted image 20240402161527.png",
     "-Support/Graphics/Pasted image 20240402150635.png",
     "-Support/Graphics/Pasted image 20240402101430.png",
-    "-Support/Graphics/Pasted image 20240328142310.png",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
