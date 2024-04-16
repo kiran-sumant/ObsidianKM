@@ -29,6 +29,10 @@ Testing various adjuvants against different receptors including but not limited 
 - NLRP3 inflammasome complex
 - TLR4 agonist
 
+Advax vs CPG(current vaxxination in use)
+CPG in conjunction with other factors enhances immunity. CPG also only works 7 days after injection
+Researchers on the project believe that the CPG vaccine in mothers actually inhibit TB protection in offspring.
+
 
 ## What did the speaker discover?
 Discovered Advax-CpG55.2 doesn't activate the NF-kB signalling pathway in vitro.
