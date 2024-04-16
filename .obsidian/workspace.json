@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+                "file": "Academic/Centenary Seminar 2024-04-16.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+                "file": "Academic/Centenary Seminar 2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+                "file": "Academic/Centenary Seminar 2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-04-08.md"
+                "file": "Academic/Centenary Seminar 2024-04-16.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Seminars.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/Centenary Seminar 2024-04-16.md",
     "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/SOMS Seminar 2024-04-11.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
@@ -245,7 +246,6 @@
     "-Support/Graphics/Pasted image 20240328142310.png",
     "-Support/Graphics/Epimers-of-D-Glucose.webp",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
-    "Academic/Literature Notes/synthetic condensates.md",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
