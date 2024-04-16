@@ -45,7 +45,6 @@ And identify relationships between the concepts:
 - Constants vs variables
 
 ## Step 3
-
 Turn ==concepts== into **searchable terms**
 Needs to be:
 
@@ -54,4 +53,9 @@ Needs to be:
 - Medical/scientific terminology
 
 ## Step 4
+Identify synonyms
 
+Some Websites employ **subject heading searching** which involves having the search term as a ==subject of the article==, **not just a keyword**.
+
+## Step 5
+Organise a **concept table**
