@@ -26,8 +26,9 @@ Developing adjuvants for immune response agaisnt TB.
 Testing various adjuvants against different receptors including but not limited to:
 - lectin receptors
 - STING agonists
-- NLRP3 inflammasome
-- TLR4 
+- NLRP3 inflammasome complex
+- TLR4 agonist
+
 
 ## What did the speaker discover?
 Discovered Advax-CpG55.2 doesn't activate the NF-kB signalling pathway in vitro.
