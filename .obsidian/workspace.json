@@ -187,6 +187,7 @@
   },
   "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
     "Academic/Centenary Seminar 2024-04-16.md",
     "Academic/Seminars.md",
@@ -194,6 +195,17 @@
     "-Support/Templates/Seminar.md",
     "Journals/Deadlines.md",
     "Academic/Honours.md",
+=======
+    "-Support/Cheat Sheet.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Journals/List Of Entries.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
+    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/SOMS Seminar 2024-04-11.md",
+>>>>>>> 1360c9c8919c6a7cc972fafc63b7df4bd67baefa
     "Academic/Literature Review.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
@@ -211,9 +223,6 @@
     "Academic/Literature Notes/angiogenesis.md",
     "Academic/Literature Notes/MRM.md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Academic notes/FINER.md",
-    "Academic/Academic notes/EGF.md",
-    "-Support/Templates/checkmark.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
