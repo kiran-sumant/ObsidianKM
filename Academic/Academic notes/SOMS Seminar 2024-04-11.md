@@ -27,7 +27,6 @@
 
 # Review Question
 ## Step 1
-
 Developing relevant questions requires targeting the following properties:
 
 > [!check]- Clarity
@@ -36,5 +35,23 @@ Developing relevant questions requires targeting the following properties:
 > [!check]- Scope
 > The ==number== of retrieved results is **manageable**.
 
-
 ## Step 2
+- Find the mains concepts
+- **Ideas, Themes, Aspects** of the ==research topic==.
+
+And identify relationships between the concepts:
+- What comes first? what order is considered?
+- Cause and effect
+- Constants vs variables
+
+## Step 3
+
+Turn ==concepts== into **searchable terms**
+Needs to be:
+
+- Unambiguous
+- Accepted and widely used terms
+- Medical/scientific terminology
+
+## Step 4
+
