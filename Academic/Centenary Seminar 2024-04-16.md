@@ -14,7 +14,7 @@ Immunisation of newborns against influenza
 use of binding assays
 Stem model for immunisation
 use of rat model for monitoring toxicity and testing antibody prevalence
-r7H7A 
+r7H7A antibody 
 
 ## What did the speaker discover?
 Discovered Advax-CpG55.2 doesn't activate the NF-kB signalling pathway in vitro.
