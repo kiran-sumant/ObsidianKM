@@ -9,11 +9,6 @@
 - identify a problem in leterature that warrants further study
 - Looking for outcomes, hypotheses and methods.
 
-
-## Review Question
-
-Develop relevant 
-
 ## Types of Searching
 
 > [!example] Scoping Search
@@ -28,3 +23,18 @@ Develop relevant
 > - keywords + subject headings
 > - multiple synonyms
 > - advanced search syntax, boolean operators
+
+
+# Review Question
+## Step 1
+
+Developing relevant questions requires targeting the following properties:
+
+> [!check]- Clarity
+> Search terms are **understandable** for database to process
+
+> [!check]- Scope
+> The ==number== of retrieved results is **manageable**.
+
+
+## Step 2
