@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "686594ac5ecdaa88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -191,23 +204,30 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "-Support/Graphics/Pasted image 20240416153514.png",
-    "Academic/Seminars.md",
-    "Academic/Honours.md",
-    "Academic/Literature Review.md",
-    "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
-    "Academic/Centenary Seminar 2024-04-16.md",
+    "-Support/Cheat Sheet.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Journals/List Of Entries.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
-    "-Support/Templates/Seminar.md",
-    "Journals/Deadlines.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
+    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
+    "Academic/SOMS Seminar 2024-04-11.md",
+    "Academic/Literature Review.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
-    "-Support/Graphics/Pasted image 20240403115422.png",
-    "-Support/Graphics/Pasted image 20240403115409.png",
+    "conflict-files-obsidian-git.md",
+    "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
+    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "202404051209.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
@@ -217,21 +237,14 @@
     "Academic/Literature Notes/co-immunoprecipitation.md",
     "Academic/Literature Notes/angiogenesis.md",
     "Academic/Literature Notes/MRM.md",
-    "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Academic notes/FINER.md",
-    "Academic/Academic notes/EGF.md",
-    "-Support/Templates/checkmark.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
     "-Support/Graphics/Pasted image 20240402161527.png",
     "-Support/Graphics/Pasted image 20240402150635.png",
     "-Support/Graphics/Pasted image 20240402101430.png",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
-    "Academic/Literature Notes/synthetic condensates.md",
-    "Academic/Literature Notes/non-cognate.md",
-    "Academic/Literature Notes/23.md",
-    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "-Support/Graphics/Pasted image 20240328142310.png",
+    "-Support/Graphics/Epimers-of-D-Glucose.webp",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
