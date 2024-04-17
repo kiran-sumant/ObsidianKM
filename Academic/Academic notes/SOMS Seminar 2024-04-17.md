@@ -25,3 +25,4 @@ This allows for **Predictive modelling, which can be done two ways:
 | ----------------------------------- | ------------------------------------- |
 | Used in more environmental settings | Used in more corporate settings       |
 
+![[Pasted image 20240417102304.png]]
