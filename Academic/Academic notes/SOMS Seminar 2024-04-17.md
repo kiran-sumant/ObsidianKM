@@ -32,6 +32,17 @@ Use Code SOMS3818 for registering
 ## Approaching your work
 
 
-| Graphical User Interface | Command Line Interface |
-| ------------------------ | ---------------------- |
-|                          |                        |
+| Graphical User Interface                      | Command Line Interface                                               |
+| --------------------------------------------- | -------------------------------------------------------------------- |
+| GUI                                           | CLI                                                                  |
+| Interactive, point-and-click                  | Less interactive, more bare-bones                                    |
+| Easier to get started                         | For those more technically versed                                    |
+| Less reproducability                          | Much more reproducible                                               |
+| Might be less intricate understanding of data | Requires and provides deeper understanding of the data you work with |
+
+
+> [!warning] Note
+> Avoid using spreadsheets for data entry. Use something that makes sure you make **less mistakes**.
+
+## Tidy data
+Defined by three t
