@@ -45,4 +45,13 @@ Use Code SOMS3818 for registering
 > Avoid using spreadsheets for data entry. Use something that makes sure you make **less mistakes**.
 
 ## Tidy data
-Defined by three t
+Defined by three things:
+1. One category per column
+2. One item per row
+3. One value per cell
+
+
+> [!summary] for da books
+> Keep in mind where you can **transform** your data from wide to narrow, avoids common visualisation pitfalls, and **increases data versatility**.
+
+
