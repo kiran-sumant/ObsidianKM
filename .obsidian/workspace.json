@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
+                "file": "Academic/SOMS Seminar 2024-04-17.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
+                "file": "Academic/SOMS Seminar 2024-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
+                "file": "Academic/SOMS Seminar 2024-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-11.md"
+                "file": "Academic/SOMS Seminar 2024-04-17.md"
               }
             }
           },
@@ -207,8 +207,9 @@
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Seminars.md",
-    "-Support/Graphics/Pasted image 20240416154656.png",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
+    "Academic/SOMS Seminar 2024-04-17.md",
+    "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
     "-Support/Cheat Sheet.md",
     "Self Learning/Learn Notes/Callout list.md",
