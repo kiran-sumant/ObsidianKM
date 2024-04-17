@@ -2,7 +2,7 @@
 
 Sydney informatics hub (SIH) is a core facility, includes the Artemis HPC (supercomputer)
 
-# Workflow
+## Workflow
 
  SIH has a general research workflow for completing analysis.
 
@@ -14,3 +14,14 @@ Sydney informatics hub (SIH) is a core facility, includes the Artemis HPC (super
 6. Data analysis or inferential analysis
 7. Predictive modelling
 8. Publication
+
+## Statistical Inference
+
+It is the **theory, methods, and practice** of forming ==judgements== about **population features** based on random sampling.
+
+This allows for **Predictive modelling, which can be done two ways:
+
+| Inferential Predictive statistics   | Machine Learning/Predictive Analytics |
+| ----------------------------------- | ------------------------------------- |
+| Used in more environmental settings | Used in more corporate settings       |
+
