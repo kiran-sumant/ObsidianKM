@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Seminar 2024-04-17.md"
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md"
               }
             }
           },
@@ -206,9 +206,10 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Seminars.md",
     "Academic/SOMS Seminar 2024-04-17.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "conflict-files-obsidian-git.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
@@ -221,7 +222,6 @@
     "Academic/Academic notes/CPC Seminar 2024-04-08.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/SOMS Seminar 2024-04-11.md",
-    "Academic/Literature Review.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
