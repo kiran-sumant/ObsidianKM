@@ -5,8 +5,12 @@ Sydney informatics hub (SIH) is a core facility, includes the Artemis HPC (super
 # Workflow
 
 - SIH has a general statistical workflow for completing analysis.
+
 1. Hypothesis generation
 2. Experimental, analytical design
 3. Collect Data
 4. Clean Data
-5. [s]
+5. Exploratory data analysis
+6. Data analysis or inferential analysis
+7. Predictive modelling
+8. Publication

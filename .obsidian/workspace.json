@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "470de39c3df96451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
@@ -219,8 +206,8 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Academic/SOMS Seminar 2024-04-17.md",
+    "conflict-files-obsidian-git.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "-Support/Graphics/Pasted image 20240416154656.png",
