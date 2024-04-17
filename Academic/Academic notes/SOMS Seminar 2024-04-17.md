@@ -26,3 +26,12 @@ This allows for **Predictive modelling, which can be done two ways:
 | Used in more environmental settings | Used in more corporate settings       |
 
 ![[Pasted image 20240417102304.png]]
+
+Use Code SOMS3818 for registering
+
+## Approaching your work
+
+
+| Graphical User Interface | Command Line Interface |
+| ------------------------ | ---------------------- |
+|                          |                        |
