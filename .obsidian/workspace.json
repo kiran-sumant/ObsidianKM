@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Literature Notes/GWAS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Literature Notes/GWAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Literature Notes/GWAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md"
+                "file": "Academic/Literature Notes/GWAS.md"
               }
             }
           },
@@ -207,6 +207,8 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Literature Notes/GWAS.md",
     "Academic/Literature Review.md",
     "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
@@ -233,14 +235,12 @@
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "202404051209.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Journals/Journal Entries/2024-03-29.md",
-    "Academic/Literature Notes/notch signalling.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
