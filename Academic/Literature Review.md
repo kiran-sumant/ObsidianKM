@@ -42,7 +42,7 @@
 ## Notch Signalling Pathway
 
 
-## MAGPs
+## MAGPs (MFAP2 and MFAP5)
 
 [[Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease]]
 
