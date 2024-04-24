@@ -41,7 +41,8 @@ MAGP2 proposed as an independent prognostic biomarker of cancer survival and che
 
 
 > [!statement] 
-> Due to it's cellular interactions, MAGP1 and 2 are cosely linked to 
+> Due to it's cellular interactions, MAGP1 and 2 are closely linked to fibrillin function. MAGP-fibrillin interactions and their changes due to fibrillin mutation affect MAGP function, so the converse may be true as well. 
+> 
 > > [!quote]-
 > > do mutations that result in the absence of MAGP from the microfibril impart gain-of-function properties to fibrillin?
 
