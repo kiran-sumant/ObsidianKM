@@ -40,6 +40,12 @@
 MAGP2 proposed as an independent prognostic biomarker of cancer survival and chemosensitivity.
 
 
+> [!statement] 
+> Due to it's cellular interactions, MAGP1 and 2 are cosely linked to 
+> > [!quote]-
+> > do mutations that result in the absence of MAGP from the microfibril impart gain-of-function properties to fibrillin?
+
+
 ## Related Links
 
 ## Related Reading
