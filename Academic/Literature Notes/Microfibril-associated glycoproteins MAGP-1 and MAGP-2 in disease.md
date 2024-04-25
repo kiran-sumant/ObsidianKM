@@ -10,7 +10,11 @@
 
 # Details/Quotes
 
+
 **Microfibrillar-associated glycoprotein-1 and -2**
+
+See also [[MFAP2]] and [[MFAP5]]
+
 
 - Bond covalently through matrix binding domain, near the c-terminus
 - 

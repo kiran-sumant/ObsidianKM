@@ -34,6 +34,8 @@ Sauce: [EMI, a novel cysteine-rich domain of EMILINs and other extracellular pro
 - [[SSPO|SCO-spondin]]^
 - [[BGH3|Transforming growth factor-beta-induced protein ig-h3]]^
 - [[POSTN|Periostin]]^
+- [[MFAP2|Microfibrillar-associated  protein 2]]
+- [[MFAP5|Microfibrillar-associated  protein 5]]
 \* : contained in uniprot search, but not in document
 ^ : contained in document, but not in uniprot search
 # Relevance to [[MMRN1]]
