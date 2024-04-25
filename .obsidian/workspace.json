@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Academic notes/MFAP2.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/MFAP5.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/MFAP2.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/VCAN.md",
