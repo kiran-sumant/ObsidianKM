@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +24,9 @@
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md"
+                "file": "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md"
               }
             }
           },
@@ -186,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,20 +196,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "janitor:Janitor: scan vault": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "janitor:Janitor: scan vault": false
     }
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Literature Notes/GWAS.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Review.md",
-    "Academic/Research Larance Lab.md",
-    "Academic/Honours.md",
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+    "Academic/Literature Review.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Seminars.md",
     "Academic/SOMS Seminar 2024-04-17.md",
@@ -227,19 +223,21 @@
     "Academic/Academic notes/CPC Seminar 2024-04-08.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/SOMS Seminar 2024-04-11.md",
-    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "202404051209.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "Journals/Journal Entries/2024-03-29.md",
+    "Academic/Literature Notes/notch signalling.md",
+    "Academic/Literature Notes/co-immunoprecipitation.md",
     "-Support/Graphics/Pasted image 20240403111056.png",
     "-Support/Graphics/Pasted image 20240403111031.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
