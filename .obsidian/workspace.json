@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md",
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md"
+                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md"
               }
             }
           },
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,13 +204,15 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/EGF.md",
     "Academic/Literature Notes/MRM.md",
     "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Literature Notes/12.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Notes/GWAS.md",
-    "Academic/Literature Review.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Seminars.md",
     "Academic/SOMS Seminar 2024-04-17.md",
@@ -232,8 +235,6 @@
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "202404051209.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
