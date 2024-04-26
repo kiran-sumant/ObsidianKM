@@ -6,15 +6,17 @@ Class
 # Earth
 - Object-interaction based
 - Push, Ground, Block, Impact
-- Kung-fu based movesets
+- Kung-fu based movesets with karate influence
 - Slower, movements projected, high impact high defense
 
 
 # Fire
-- Breathing based mechanisms
+- Breathing based mechanisms, Power output based
 - Punch, Slash, Propel, Force out
 - Karate-based movements with shaolin influence
-- Character breathing changes with stamina. Timing of movements must synchronise with breathing. Stamina reduce increases breath rate but reduces power output. Large movements automatically store breath for delayed result but 
+- Character breathing changes with stamina. 
+- Timing of movements must synchronise with breathing. Stamina reduce increases breath rate but reduces power output. 
+- Large movements automatically store breath for delayed result but exponential impact. (breath capacity can increase with skill level)
 
 # Air
 - Flow-manipulation based
