@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Projects/Project Notes/Ideas for an ATLA based video game.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Projects/Project Notes/Ideas for an ATLA based video game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Projects/Project Notes/Ideas for an ATLA based video game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md"
+                "file": "Projects/Project Notes/Ideas for an ATLA based video game.md"
               }
             }
           },
@@ -202,10 +202,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Projects/Project(s).md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+    "Projects/Project Notes/Ideas for an ATLA based video game.md",
+    "Projects/Project(s).md",
     "Projects/Physical.md",
     "Projects/Financial.md",
     "Projects/Addiction.md",
@@ -233,7 +234,6 @@
     "-Support/Cheat Sheet.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Journals/List Of Entries.md",
-    "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
