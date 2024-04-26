@@ -5,6 +5,8 @@ Class
 
 # Earth
 - Object-interaction based
+- Push, Ground, Block, Impact
+- Kung-fu based movesets
 
 
 # Fire
@@ -14,4 +16,4 @@ Class
 
 
 # Water
-
+- 
