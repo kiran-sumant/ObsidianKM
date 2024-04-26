@@ -8,9 +8,10 @@ Student-Sifu relationship: create a sifu hierarchy for the top players. Novice s
 For the separate elements:
 
 
-| Element | Duel name   |
-| ------- | ----------- |
-| Fire    | Agni Kai    |
-| Water   |             |
-| Rock    | Prithvi Kai |
-| Air     |             |
+| Element | Duel name         |
+| ------- | ----------------- |
+| Fire    | Agni Kai          |
+| Water   |                   |
+| Rock    | Lei Tai           |
+| Air     | Sparring          |
+| Mix     | Pro Bending Match |
