@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-                "mode": "preview",
+                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md"
+                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md"
               }
             }
           },
@@ -202,13 +202,19 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
+    "Projects/Project(s).md",
+    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+    "Projects/Physical.md",
+    "Projects/Financial.md",
+    "Projects/Addiction.md",
+    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/MFAP5.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/MFAP2.md",
     "Academic/Literature Review.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/EGF.md",
     "Academic/Literature Notes/MRM.md",
@@ -228,13 +234,7 @@
     "Self Learning/Learn Notes/Callout list.md",
     "Journals/List Of Entries.md",
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
-    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "Academic/SOMS Seminar 2024-04-11.md",
-    "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
-    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
-    "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
