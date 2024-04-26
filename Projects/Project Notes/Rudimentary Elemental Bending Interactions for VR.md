@@ -1,4 +1,15 @@
+Class
 
-| Earth |     |
-| ----- | --- |
-|       |     |
+
+# Earth
+- Object-interaction based
+
+
+# Fire
+
+
+# Air
+
+
+# Water
+
