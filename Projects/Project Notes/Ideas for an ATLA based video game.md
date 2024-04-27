@@ -22,3 +22,4 @@ For the separate elements:
 | Rock    | Lei Tai                                  |
 | Air     | Sparring                                 |
 | Mix     | Pro Bending Match                        |
+

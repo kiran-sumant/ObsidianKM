@@ -8,6 +8,8 @@ Class
 - Push, Ground, Block, Impact
 - Kung-fu based movesets with karate influence
 - Slower, movements projected, high impact high defense
+- Momentum determines object motion, setting up more complex moves requires more finesse rather than time. Therefore skill gap success heightens exponentially.
+- 
 
 
 # Fire
@@ -22,8 +24,10 @@ Class
 - Flow-manipulation based
 - Redirect, Slow, Immobilise, Blast
 - Wing Chun style movements
+- 
 
 # Water
 - Flow-interaction based
 - Redirect, Block (ice), Propel/slide, Lash
 - Taichi-based movements, mixed in with a little Kungfu for ice manipulation
+- 
