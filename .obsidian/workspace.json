@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md"
               }
             }
           },
@@ -218,10 +218,10 @@
   },
   "active": "c9db9079452e4db8",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Ideas for an ATLA based video game.md",
     "Projects/Project(s).md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Academic notes/MFAP5.md",
     "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
