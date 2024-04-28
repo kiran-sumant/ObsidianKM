@@ -73,7 +73,12 @@ Glycans are **secondary gene products**
 
 
 ## [[MRM]] targeted mass spec for Glycosylation Quantification
-- 
+
+Tools supporting data analysis for high-throughput mass spec results, all follow a conventional pattern:
+1. Determine accurate mass from precursor spectra
+2. Hypothesize glycan composition and peptide backbone seq from LC-MS/MS spectra
+3. Database interrogation to match glycan/peptide backbone to theoretical spectra
+4. 
 
 
 # Related Links
