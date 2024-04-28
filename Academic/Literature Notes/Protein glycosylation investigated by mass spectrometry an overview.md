@@ -40,6 +40,18 @@ Glycans are **secondary gene products**
 
 ## Related Links
 
+[Unsupervised machine learning for **exploratory** data analysis in imaging **mass spectrometry**](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21602)
+
+[**Mass**-**spectrometric exploration** of proteome structure and function](https://idp.nature.com/authorize/casa?redirect_uri=https://www.nature.com/articles/nature19949&casa_token=2cmgt7R3AI8AAAAA:9y54rK4FTSFBYxEokxM6zUpoRhBxX0KcLHPA-QK7tuiYboXcpFOA3HypGqxctm2F_RlOz43ug6-evY5R)
+
+[Conventional-flow liquid chromatography–**mass spectrometry** for **exploratory** bottom-up proteomic analyses](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b00525?casa_token=m_UMmPcbNo4AAAAA:rfkQ2-GJRLqP6_5Wt1nFP0u4JJH75bsBEqOXrYYC4105Tp5jc6jXpmWRB3TThhPIpEXCEYcAtTU0zZc)
+
+[Post-translational modifications and **mass spectrometry** detection](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI)
+
+[Discover the post‐translational modification proteome using **mass spectrometry**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.202000515?casa_token=DDRr73PXckgAAAAA:-AG2zXpbYebTHEB-LRE-wa5mtyibzf5lRUBx7jjq-YlI9ILLG7DkQvq_sQ-DLLSuLI1kFCrB3Yyjrf4)
+
+
+
 ## Related Reading
 
 
