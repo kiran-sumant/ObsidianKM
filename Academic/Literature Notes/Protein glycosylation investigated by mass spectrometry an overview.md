@@ -35,9 +35,15 @@ Glycans are **secondary gene products**
 - MALDI-MS or LC-MS/MS - using [[CID]], [[ECD]] and [[ETD]]
 - **Multiple reaction monitoring** approach w/ **Targeted mass spectrometry** ([[MRM]])
 - **High-energy collision dissociation (HCD)**: frag method for peptides with PTMs to provide sequence info and ==localisation of modification sites.==
- 
 
-## Related Links
+# [[Glycoscience Mass Spectrometry-Based Methodology]]
+
+## Sample prep
+
+- ==Bottom-up proteomics==
+- In-situ/in-solution digestion to relase peptides from proteins, submitted t
+
+# Related Links
 
 [Unsupervised machine learning for **exploratory** data analysis in imaging **mass spectrometry**](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21602)
 
