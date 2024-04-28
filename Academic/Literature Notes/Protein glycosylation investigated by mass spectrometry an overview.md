@@ -43,10 +43,19 @@ Glycans are **secondary gene products**
 - ==Bottom-up proteomics==
 - In-situ/in-solution digestion to relase peptides from proteins, submitted to MS analysis.
 
-> [!statement] **Increase in -charge** and **acidity** of modified peptides affects ionisation efficiency.
+> [!statement] Increase in -charge and acidity of modified peptides affects ionisation efficiency.
 > It's speculated that MS signals of phosphorylated/glycosylated peptides undergo ==ion suppression== due to competition with more intense Ion currents from non-modified peptides.
 
 
+> [!success] Overcoming Ionisation efficiency
+> - Enzymatic/chemical cleavage of glycans, then purification for MS analysis
+> Rudmentarily limited by simple method to single PTM prots
+> - Overcome again by ==glycosylation site-specific analysis==
+>
+> > [!quote]-
+> > Thus, the glycan composition can be correctly correlated to the glycosylation site of specific glycopeptides by using this approach referred to as ‘a glycosylation site-specific analysis’. The information obtained in a site-specific manner can be extremely important in correlating glycosylation profiles with specific glycosylation sites, which is useful in understanding structure–function relationships [[92](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/#B92-cells-09-01986),[93](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/#B93-cells-09-01986)].
+
+![[Pasted image 20240428200327.png]]
 
 # Related Links
 

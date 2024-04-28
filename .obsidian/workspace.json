@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "d9e0df9282cae7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
@@ -204,8 +217,11 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
+    "Pasted image 20240428200327.png",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Cheat Sheet.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
@@ -229,11 +245,8 @@
     "Academic/SOMS Seminar 2024-04-17.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "conflict-files-obsidian-git.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
-    "-Support/Cheat Sheet.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
