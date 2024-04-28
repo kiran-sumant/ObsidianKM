@@ -58,12 +58,15 @@ Glycans are **secondary gene products**
 ![[cells-09-01986-g002.jpg]]
 
 
-| Technique                 | How it helps |
-| ------------------------- | ------------ |
-| HILIC                     |              |
-| Normal Phase              |              |
-| Porous Graphitised Carbon |              |
-|                           |              |
+| Technique                 | How it helps                                                          |
+| ------------------------- | --------------------------------------------------------------------- |
+| HILIC                     | Affinity Purification technique, to purify glycopeptides for analysis |
+| Normal Phase              | ^                                                                     |
+| Porous Graphitised Carbon | ^                                                                     |
+| MALDI-MS                  | N-glycan analysis                                                     |
+| nano-LC/MSMS              | analysis of free deglycosylated peptides                              |
+| MALDI-ToF                 | glycan profile exploration and analysis                               |
+|                           |                                                                       |
 
 
 # Related Links
