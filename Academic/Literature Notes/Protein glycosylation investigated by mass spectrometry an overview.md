@@ -42,7 +42,10 @@ Glycans are **secondary gene products**
 
 - ==Bottom-up proteomics==
 - In-situ/in-solution digestion to relase peptides from proteins, submitted to MS analysis.
-- It's speculated that MS signals of phosphorylated/glycosylated peptides undergo ion suppression due to competition with more intense I
+
+**increase in -charge** and **acidity** of modified peptides affects ionisation efficiency.
+- It's speculated that MS signals of phosphorylated/glycosylated peptides undergo ==ion suppression== due to competition with more intense Ion currents from non-modified peptides.
+- 
 
 # Related Links
 
