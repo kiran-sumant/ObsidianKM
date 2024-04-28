@@ -58,6 +58,14 @@ Glycans are **secondary gene products**
 ![[cells-09-01986-g002.jpg]]
 
 
+| Technique                 | How it helps |
+| ------------------------- | ------------ |
+| HILIC                     |              |
+| Normal Phase              |              |
+| Porous Graphitised Carbon |              |
+|                           |              |
+
+
 # Related Links
 
 [Unsupervised machine learning for **exploratory** data analysis in imaging **mass spectrometry**](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21602)
