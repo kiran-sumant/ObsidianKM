@@ -41,7 +41,8 @@ Glycans are **secondary gene products**
 ## Sample prep
 
 - ==Bottom-up proteomics==
-- In-situ/in-solution digestion to relase peptides from proteins, submitted t
+- In-situ/in-solution digestion to relase peptides from proteins, submitted to MS analysis.
+- It's speculated that MS signals of phosphorylated/glycosylated peptides undergo ion suppression due to competition with more intense I
 
 # Related Links
 
