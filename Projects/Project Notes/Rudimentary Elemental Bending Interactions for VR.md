@@ -1,14 +1,11 @@
 [[Ideas for an ATLA based video game]]
 
-Class
-
 
 # Earth
 - Object-interaction based
 - Push, Ground, Block, Impact
 - Kung-fu based movesets with karate influence
 - Systematic, movements projected, high impact high defense. (size and/or fundamental momentum of rocks summoned can increase with skill level)
-
 
 # Fire
 - Breathing based mechanisms, Power output based
@@ -23,7 +20,7 @@ Class
 - Redirect, Slow, Immobilise, Blast
 - Wing Chun style movements
 - Able to stun opponents with sound (potential skill tree application)
-- Different speeds and agilities of mobility can *ncrease *
+- Different speeds and agilities of mobility can increase wiht skill level.
 
 # Water
 - Flow-interaction based
