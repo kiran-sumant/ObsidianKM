@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9db9079452e4db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -43,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
               }
             }
           },
@@ -216,10 +202,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
-    "Academic/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
@@ -247,7 +234,6 @@
     "-Support/Cheat Sheet.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Journals/List Of Entries.md",
-    "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
