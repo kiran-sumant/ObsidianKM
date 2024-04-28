@@ -35,8 +35,7 @@ Glycans are **secondary gene products**
 - MALDI-MS or LC-MS/MS - using [[CID]], [[ECD]] and [[ETD]]
 - **Multiple reaction monitoring** approach w/ **Targeted mass spectrometry** ([[MRM]])
 - **High-energy collision dissociation (HCD)**: frag method for peptides with PTMs to provide sequence info and ==localisation of modification sites.==
-
-
+ 
 
 ## Related Links
 
@@ -52,11 +51,12 @@ Glycans are **secondary gene products**
 
 [**Mass spectrometry**-based candidate substrate and site identification of **PTM** enzymes](https://www.sciencedirect.com/science/article/pii/S016599362300078X?casa_token=IxBAHFAgJYYAAAAA:D3OW1-_eaV-opC18IeAg29ekT_XLPDXfcTKkSFHf8SpEkzmTZPEJJwy0jsINYoz9gkK3mcFt)
 
-[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight **Mass Spectrometer**](https://pubs.acs.org/doi/abs/10.1021/jasms.3c00144?casa_token=FSrZ2lIcPxMAAAAA:WptDQFWiwNZM34clc8Hxfn1crqskfTV0lWNWmtjiltMYg60eruKyTyU5ZuQGcH7DRY0LjFsOweFqwHA
-
+[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight **Mass Spectrometer**](https://pubs.acs.org/doi/abs/10.1021/jasms.3c00144?casa_token=FSrZ2lIcPxMAAAAA:WptDQFWiwNZM34clc8Hxfn1crqskfTV0lWNWmtjiltMYg60eruKyTyU5ZuQGcH7DRY0LjFsOweFqwHA)
 [Analysis of tandem **mass spectrometry** data with CONGA: Combining Open and Narrow searches with Group-wise Analysis](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.3c00399?casa_token=woTweMAgutYAAAAA:p__v5OIVqYsVVQ4SRG2OMhgxOQcxqKf-oRWyIK0jj6kdHTpY8GTRhjaUS3S4K__VyS8By4MVe38Pm8I)
 
 [Re-investigating the correctness of decoy-based false **discovery** rate control in proteomics tandem **mass spectrometry**](https://www.biorxiv.org/content/10.1101/2023.06.21.546013.abstract)
+
+
 
 ## Related Reading
 
