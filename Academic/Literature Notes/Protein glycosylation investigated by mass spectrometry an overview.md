@@ -57,6 +57,7 @@ Glycans are **secondary gene products**
 
 ![[cells-09-01986-g002.jpg]]
 
+## Glycopeptide Characterisation via MS
 
 | Technique                 | How it helps                                                                         |
 | ------------------------- | ------------------------------------------------------------------------------------ |
@@ -65,9 +66,14 @@ Glycans are **secondary gene products**
 | Porous Graphitised Carbon | ^                                                                                    |
 | MALDI-MS                  | N-glycan analysis                                                                    |
 | nano-LC/MSMS              | analysis of free deglycosylated peptides                                             |
-| MALDI-ToF                 | glycan profile exploration and analysis                                              |
+| [[MALDI-ToF]]             | glycan profile exploration and analysis                                              |
 | [[ECD]]                   | fragmentation method: **ionic resonance instruments** in fourier transform cyclotron |
-| [[ETD]]                   | fragmentation method:                                                                |
+| [[ETD]]                   | fragmentation method: perfoemd in **ion trap mass spectrometer**                     |
+| [[IM-MS]]                 | Can be used in tandem with [[CID]] for improving glycoform separation                |
+
+
+## [[MRM]] targeted mass spec for Glycosylation Quantification
+- 
 
 
 # Related Links
