@@ -58,15 +58,16 @@ Glycans are **secondary gene products**
 ![[cells-09-01986-g002.jpg]]
 
 
-| Technique                 | How it helps                                                          |
-| ------------------------- | --------------------------------------------------------------------- |
-| HILIC                     | Affinity Purification technique, to purify glycopeptides for analysis |
-| Normal Phase              | ^                                                                     |
-| Porous Graphitised Carbon | ^                                                                     |
-| MALDI-MS                  | N-glycan analysis                                                     |
-| nano-LC/MSMS              | analysis of free deglycosylated peptides                              |
-| MALDI-ToF                 | glycan profile exploration and analysis                               |
-|                           |                                                                       |
+| Technique                 | How it helps                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| HILIC                     | Affinity Purification technique, to purify glycopeptides for analysis                |
+| Normal Phase              | ^                                                                                    |
+| Porous Graphitised Carbon | ^                                                                                    |
+| MALDI-MS                  | N-glycan analysis                                                                    |
+| nano-LC/MSMS              | analysis of free deglycosylated peptides                                             |
+| MALDI-ToF                 | glycan profile exploration and analysis                                              |
+| [[ECD]]                   | fragmentation method: **ionic resonance instruments** in fourier transform cyclotron |
+| [[ETD]]                   | fragmentation method:                                                                |
 
 
 # Related Links

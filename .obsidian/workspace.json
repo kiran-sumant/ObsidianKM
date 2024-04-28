@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +215,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "-Support/Graphics/cells-09-01986-g002.jpg",
     "cells-09-01986-g002.jpg",
