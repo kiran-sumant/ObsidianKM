@@ -55,6 +55,7 @@ Glycans are **secondary gene products**
 > > [!quote]-
 > > Thus, the glycan composition can be correctly correlated to the glycosylation site of specific glycopeptides by using this approach referred to as ‘a glycosylation site-specific analysis’. The information obtained in a site-specific manner can be extremely important in correlating glycosylation profiles with specific glycosylation sites, which is useful in understanding structure–function relationships [[92](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/#B92-cells-09-01986),[93](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7564411/#B93-cells-09-01986)].
 
+![[cells-09-01986-g002.jpg]]
 
 
 # Related Links
