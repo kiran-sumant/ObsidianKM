@@ -25,9 +25,10 @@ For the separate elements, each duel type can have lore/fanon accurate names:
 | Air     | Sparring                                 |
 | Mix     | Pro Bending Match                        |
 
-
 ## Player Characterisation
 
 - (inspired by Deep rock galactic): All players have access to all elements, under different customisable characters. 
-- (perhaps) players can choose main element to start with, then upskill to unlock new "partners" to become part of their team. Could be campaign based, but for now best to attribute to quest completion or completion of achievements (similar to perk points but maybe exponential unlock costs from 2nd to 3rd and 4th elements)
+- (perhaps) players can choose main element to start with, then upskill to unlock new "partners" to become part of their team. 
+- Could be campaign based unlock in deeper playthrough, but for now best to attribute to quest completion or completion of achievements (similar to perk points but maybe exponential unlock costs from 2nd to 3rd and 4th elements)
+- Facial features entirely customisable, body type based on class perhaps? (brawler, warrior, )
 
