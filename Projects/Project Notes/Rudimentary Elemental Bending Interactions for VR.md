@@ -29,4 +29,7 @@
 - Taichi-based movements, mixed in with a little Kungfu for ice manipulation
 - Can heal (takes time, potential skill tree application)
 - One hand controls the path of the water, the other hand controls how far away the water is relative to the holder (proportion calculations, how fast can they run?)
+- At terminal velocity provided by bending acceleration or water falling, hand to direct distance becomes hand to control water's state (liquid or ice, open hand vs closed for instance)
+- can use earth bending moves on still water to create Ice defences (temporary ice wall, ice disk but icicles that need to accelerate before firing)
+- Ice and waves can be used for advantage mobility or disadvantage mobility (slippery area, pushing closer to the edge with wave)
 
