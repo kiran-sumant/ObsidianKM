@@ -23,6 +23,7 @@ also add Variable modifications:
 
 Byonic can run to generate a **new database** (FASTA file format) based on running the data to assemble to figure out what proteins are in the sample as per the data obtained from MaxQuant.
 
+Second we use the new database created to create a second, more efficient search to query the new data with, ==this time searching for our desired PTM targets noted/stated==.
 
 
 
