@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +201,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
+    "cells-09-01986-g002.jpg",
+    "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+    "Academic/Literature Notes/MALDI-ToF.md",
+    "Academic/Literature Notes/IM-MS.md",
+    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
+    "-Support/Graphics/cells-09-01986-g002.jpg",
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project(s).md",
@@ -226,14 +231,9 @@
     "Academic/Literature Notes/GWAS.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Seminars.md",
-    "Academic/SOMS Seminar 2024-04-17.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
-    "conflict-files-obsidian-git.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
-    "-Support/Cheat Sheet.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
@@ -242,7 +242,6 @@
     "-Support/Graphics/Pasted image 20240403111031.png",
     "-Support/Graphics/Pasted image 20240402163923.png",
     "-Support/Graphics/Pasted image 20240402161527.png",
-    "-Support/Graphics/Pasted image 20240402150635.png",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",

@@ -4,6 +4,8 @@
 - Push, Ground, Block, Impact
 - Kung-fu based movesets with karate influence
 - Systematic, movements projected, high impact high defense. (size and/or fundamental momentum of rocks summoned can increase with skill level)
+- Slower, movements projected, high impact high defense
+- Momentum determines object motion, setting up more complex moves requires more finesse rather than time. Therefore skill gap success heightens exponentially.
 
 # Fire
 - Breathing based mechanisms, Power output based
@@ -25,3 +27,4 @@
 - Redirect, Block (ice), Propel/slide, Lash
 - Taichi-based movements, mixed in with a little Kungfu for ice manipulation
 - Can heal (takes time, potential skill tree application)
+
