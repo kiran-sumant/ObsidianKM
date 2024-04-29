@@ -78,7 +78,7 @@ Note that ==detector can be any of the detectors, not just MS; e.g spectroscopy,
 
 
 > [!Example] What's being used to investigate fucosylation
-> - 
+> C18 beads used
 
 
 # Mass Spectrometry Basics

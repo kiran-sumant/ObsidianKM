@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/MaxQuant and Byonic.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
               }
             }
           },
@@ -219,11 +218,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "686594ac5ecdaa88",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
-    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Academic notes/PRM.md",
     "Academic/Academic notes/DDA.md",
     "Self Learning/Learn Notes/Callout list.md",
