@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "hilic",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md"
+                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
               }
             }
           },
@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +217,9 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/DDA.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/MaxQuant and Byonic.md",
+    "Academic/DDA.md",
     "Academic/PRM.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
@@ -226,7 +228,6 @@
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/MALDI-ToF.md",
     "Academic/Literature Notes/IM-MS.md",
     "Academic/Literature Notes/ETD.md",
