@@ -3,13 +3,15 @@
 
 Student-Sifu relationship: create a sifu hierarchy for the top players. Novice students pay ingame currency for the opportunity to be taught.
 
-**Dojo-space** top-100 players must remain active t keep their rank. **Duels** need to occur (best of 5) in order to rank higher. refusal to honour a duel results in demotion. Only allowed to request duel from your immediate superior.
+**Dojo-space** top-100 players must remain active to keep their rank. **Duels** need to occur (best of 5) in order to rank higher. refusal to honour a duel results in demotion. Only allowed to request duel from your immediate superior.
 
 Coins earned through quests and/or matches.
 
 Sifus also have a ranking determined by student successes. Score behaves as follows:
 - consider same scoring metric used for impact score in journals
 - chronologically sensitive (adjust for every month/season so ratings can increase and not depend on past performance unless students activity is reduced)
+
+## The Fights
 
 Less about factions, more about schools. (schools can have respective aesthetics through)
 
@@ -22,3 +24,8 @@ For the separate elements, each duel type can have lore/fanon accurate names:
 | Rock    | Lei Tai                                  |
 | Air     | Sparring                                 |
 | Mix     | Pro Bending Match                        |
+
+## Player Characterisation
+
+- (inspired by Deep rock galactic): All players have access to all elements, under different customisable characters. 
+- (perha)

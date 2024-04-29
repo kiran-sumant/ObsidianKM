@@ -1,5 +1,3 @@
-[[Ideas for an ATLA based video game]]
-
 
 # Earth
 - Object-interaction based
