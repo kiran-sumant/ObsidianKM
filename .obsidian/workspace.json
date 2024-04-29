@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md",
+                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/MaxQuant and Byonic.md"
+                "file": "Academic/Academic notes/MaxQuant and Byonic.md"
               }
             }
           },
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,16 +216,16 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "d9e0df9282cae7df",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
     "Academic/Research Larance Lab.md",
-    "Academic/PRM.md",
-    "Academic/DDA.md",
+    "Academic/Academic notes/PRM.md",
+    "Academic/Academic notes/DDA.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Academic notes/High-Performance Liquid Chromatography.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/MaxQuant and Byonic.md",
+    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Academic/Honours.md",

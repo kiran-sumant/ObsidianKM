@@ -8,12 +8,21 @@ Byonic for data analysis:
 
 > [!statement] Checkmark: Add Decoys
 > - Decoy matches act as "false proteins" that shouldn't be discovered.
-> - Adjusts scoring threshold for peptide cutoffs in order to limit the identification of decoy database proteins, in order to achieve a ==false discovery rate less than 1%==
+> - Adjusts scoring threshold for peptide cutoffs in order to limit the identification of decoy database proteins, in order to achieve a ==false discovery rate of 2%==
 > - decoy database copies every sequence and puts it in reverse, swaps all arginines with lysines in order to reduce palindrome matches between decoy and original.
 
 ==set out mass spec analysis accepted precision to 3ppm (precursor mass tolerance)==
 
 Trypsin digest noted with **RK** to denote both separations via digest and even accounting for missed cleavage.
+
+CAA has CAT; alkylated, 99% efficient at **carbamidomethylation**.
+
+also add Variable modifications:
+- Oxidation
+- Deamidation
+
+Byonic can run to generate a **new database** (FASTA file format) based on running the data to assemble to figure out what proteins are in the sample as per the data obtained from MaxQuant.
+
 
 
 
