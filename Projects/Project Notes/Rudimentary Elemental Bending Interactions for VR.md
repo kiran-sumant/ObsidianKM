@@ -20,7 +20,7 @@
 - Redirect, Slow, Immobilise, Blast
 - Wing Chun style movements
 - Able to stun opponents with sound (potential skill tree application)
-- Different speeds and agilities of mobility can increase wiht skill level.
+- Different speeds and agilities of mobility can increase with skill level.
 
 # Water
 - Flow-interaction based
