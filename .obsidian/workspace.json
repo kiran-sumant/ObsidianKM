@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Seminars.md"
+                "file": "Academic/MaxQuant and Byonic.md"
               }
             }
           },
@@ -217,8 +217,11 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/MaxQuant and Byonic.md",
+    "Academic/Honours.md",
     "Academic/Seminars.md",
+    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/MALDI-ToF.md",
@@ -244,9 +247,6 @@
     "Academic/Academic notes/MFAP2.md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/EGF.md",
-    "Academic/Literature Notes/MRM.md",
-    "Academic/Academic notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
-    "Academic/Literature Notes/12.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
