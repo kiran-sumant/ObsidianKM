@@ -20,6 +20,7 @@
 - Redirect, Slow, Immobilise, Blast
 - Wing Chun style movements
 - Able to stun opponents with sound (potential skill tree application)
+- Using flow and rhythm of wind to push and stun, rather than hurt. Power moves can do significant damage, but mainly knockback to kick people out of the ring.
 - Different speeds and agilities of mobility can increase with skill level.
 
 # Water
@@ -27,4 +28,5 @@
 - Redirect, Block (ice), Propel/slide, Lash
 - Taichi-based movements, mixed in with a little Kungfu for ice manipulation
 - Can heal (takes time, potential skill tree application)
+- One hand controls the path of the water, the other hand controls how far away the water is relative to the holder (proportion calculations, how fast can they run?)
 
