@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hilic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -103,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/MaxQuant and Byonic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
+                "file": "Academic/MaxQuant and Byonic.md"
               }
             }
           },
@@ -215,17 +216,18 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "d9e0df9282cae7df",
   "lastOpenFiles": [
-    "Academic/Academic notes/High-Performance Liquid Chromatography.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/PRM.md",
+    "Academic/DDA.md",
+    "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "Academic/Academic notes/High-Performance Liquid Chromatography.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/MaxQuant and Byonic.md",
-    "Academic/DDA.md",
-    "Academic/PRM.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
-    "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
@@ -237,7 +239,6 @@
     "cells-09-01986-g002.jpg",
     "Pasted image 20240428200421.png",
     "Pasted image 20240428200327.png",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "Academic/Literature Review.md",
