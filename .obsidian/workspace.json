@@ -37,14 +37,17 @@
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
+                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,16 +219,17 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
     "Academic/Research Larance Lab.md",
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Academic notes/PRM.md",
     "Academic/Academic notes/DDA.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Academic notes/High-Performance Liquid Chromatography.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Academic/Honours.md",
@@ -247,8 +251,6 @@
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Ideas for an ATLA based video game.md",
-    "Projects/Project(s).md",
-    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",

@@ -26,7 +26,8 @@ Byonic can run to generate a **new database** (FASTA file format) based on runni
 Second we use the new database created to create a second, more efficient search to query the new data with, ==this time searching for our desired PTM targets noted/stated==. (found in temp folder under your id, KM_EXP numero xyz)
 
 BYRSLT file is the best for looking at an interactible list of all proteins discovered in your sample.
-Make a list of all glycans you're gonna be searching for, seen in EMI suite under
+Make a list of all glycans you're gonna be searching for, seen in EMI suite file
+Use DDA to create new database, then query PRM data.
 
 
 
