@@ -1,4 +1,4 @@
-- We go by overarching topic
+ - We go by overarching topic
 - Aims and/or hypotheses at the end
 - lesgo
 
