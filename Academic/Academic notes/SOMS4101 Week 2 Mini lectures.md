@@ -76,6 +76,11 @@ Note that ==detector can be any of the detectors, not just MS; e.g spectroscopy,
 
 ***For the love of god, develop your method properly before starting the project holyyplease just check and double check with phd students and supervisor please and thanks***
 
+
+> [!Example] What's being used to investigate fucosylation
+> - 
+
+
 # Mass Spectrometry Basics
 
 At this point:
