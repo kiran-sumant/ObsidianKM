@@ -19,4 +19,6 @@ Ttl approx. 7 pages
 3. [[Literature Review|Literature Consideration]]
 
 ## Research Plan
-1. 
+1. **Experimental Plan** described
+2. ***Methodologies***
+3. ***Expected outcomes*** must be explained and justified
