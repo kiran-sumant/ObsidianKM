@@ -47,6 +47,15 @@ Create figure for experimental Pipeline to put on the first page.
 2. Relation to aims and hypothesis
 3. [[Literature Review|Literature Consideration]]
 
+> [!example] Contents
+> - Expand on Significance if important
+> - What Concepts do you need to cover?
+> - ***Incorporate key literature*** related to the project, choose articles that are seminal and most up-to-date.
+
+> [!warning] Important!!
+> - ==***don't cite reviews***==
+
+
 ## Research Plan
 1. **Experimental Plan** described
 2. ***Methodologies***
