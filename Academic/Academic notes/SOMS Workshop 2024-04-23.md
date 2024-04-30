@@ -17,4 +17,15 @@ Final oral pres- 15%
 - TIME TIME TIME TIME TIME 
 - Practice with peers and superiors
 - Give the Rubric to Mark to look at, along with anyone providing feedback on your assignment.
-- ***PL
+- ***PLEASE expect and request advice on academic writing and presentation from your supervisor***
+
+## Project Showcase
+Presenting your project in ==Research Grant format.==
+- Communication clear, concise
+- significanct and unique project strengths to be taken into consideration
+
+## Oral Presentation
+Purpose:
+1. Project Introduction
+2. State [[Honours Aims and Hypotheses]]
+3. Justify the Research Plan: **Detailed explanation and critique** of meth
