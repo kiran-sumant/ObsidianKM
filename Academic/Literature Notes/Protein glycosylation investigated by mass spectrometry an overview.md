@@ -78,7 +78,7 @@ Tools supporting data analysis for high-throughput mass spec results, all follow
 1. Determine accurate mass from precursor spectra
 2. Hypothesize glycan composition and peptide backbone seq from LC-MS/MS spectra
 3. Database interrogation to match glycan/peptide backbone to theoretical spectra
-4. 
+4. Data validity score
 
 
 # Related Links
@@ -101,10 +101,10 @@ Tools supporting data analysis for high-throughput mass spec results, all follow
 
 [Re-investigating the correctness of decoy-based false **discovery** rate control in proteomics tandem **mass spectrometry**](https://www.biorxiv.org/content/10.1101/2023.06.21.546013.abstract)
 
-
-
 ## Related Reading
 
 
+
+[[ Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
 #### Tags: #research #reference #glycomics #proteomics #mass-spectrometry #PTM 
