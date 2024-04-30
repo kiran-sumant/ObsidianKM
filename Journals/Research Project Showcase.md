@@ -64,7 +64,16 @@ Create figure for experimental Pipeline to put on the first page.
 2. ***Methodologies***
 3. ***Expected outcomes*** must be explained and justified
 
-Sate the aim
+> [!example] Aim
+> - State the aim, weave in a bit of **approach** from overview
+> - ==Use Figures/diagrams== wherever necessary to ==summarise methods==.
+
+> [!example] Methodologies
+> - Technology used
+> - Diagram + text to show **how it work**
+> - Justification
+
+Expected outcomes are **optional**
 
 # Tone, Grammar, etc.
 
@@ -73,3 +82,6 @@ Sate the aim
 - For research plan, saying "we" is a *must*.
 
 Your research is mainly combination of **Dry Lab** and **Wet Lab**.
+
+==**Nature medicine has been recommended**==
+
