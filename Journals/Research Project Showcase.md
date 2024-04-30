@@ -12,10 +12,10 @@ Ttl approx. 7 pages
 2. State ***gap in knowledge***
 3. **Approach** must address/attempt to resolve knowledge gap
 4. Present **[[Honours Aims and Hypotheses|aims and hypotheses]]**
-
-- Must grab their attention!
-- Must be able to understand the entire project from the first page.
-- 
+ 
+> [!important]
+> - Must grab their attention!
+> - Must be able to understand the entire project from the first page.
 
 ## Background
 1. Content
