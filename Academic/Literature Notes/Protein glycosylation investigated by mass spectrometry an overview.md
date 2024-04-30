@@ -103,7 +103,21 @@ Tools supporting data analysis for high-throughput mass spec results, all follow
 
 ## Related Reading
 
+[[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry]]
 
+[[Mass-spectrometric exploration of proteome structure and function]]
+
+[[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]]
+
+[[Post-translational Modifications and Mass Spectrometry Detection]]
+
+[[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
+
+[[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
+
+[[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer]]
+
+[[Analysis of Tandem Mass Spectrometry Data with CONGA: Combining Open and Narrow Searches with Group-Wise Analysis]]
 
 [[ Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
