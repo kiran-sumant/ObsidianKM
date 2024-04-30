@@ -40,6 +40,7 @@ Ttl approx. 7 pages
 > - **Hypotheses** must be ==definitive statements==. (*avoid should, could, may etc*)
 > ***Aims must be well-linked to each other***
 
+Create figure for experimental Pipeline to put on the first page.
 
 ## Background
 1. Content
