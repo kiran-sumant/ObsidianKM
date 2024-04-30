@@ -17,27 +17,29 @@ Ttl approx. 7 pages
 > - Must grab their attention!
 > - Must be able to understand the entire project from the first page.
 
-Significance
-- About 1/4 page
-- Needs to be stated quickly
-- **Start/end** with a ==punchy statement==.
-- Facts+figures **must be included** for relevance.
-- ==be ***specific*** but not boring==
+> [!example] Significance
+> - About 1/4 page
+> - Needs to be stated quickly
+> - **Start/end** with a ==punchy statement==.
+> - Facts+figures **must be included** for relevance.
+> - ==be ***specific*** but not boring==
 
-Gap in knowledge
-- Specify
-- Why does the gap exist
+> [!example] Gap in knowledge
+> - Specify
+> - Why does the gap exist
 
-Advertise your advantage in the project
-- Unique setting (mass spec direct access)
-- Access to patient samples (HUVEC)
-- Specialised Assays
+> [!example] Advertise your advantage in the project
+> - Unique setting (mass spec direct access)
+> - Access to patient samples (HUVEC)
+> - Specialised Assays
 
-Approach Taken + Aims & Hypotheses
-- Approach can be part of [[Honours Aims and Hypotheses|aims and hypotheses section]].
-- A&H can be stated in either order
-- **Aims** start with =="to"==
-- Hypotheses
+> [!example] Approach Taken + Aims & Hypotheses
+> - Approach can be part of [[Honours Aims and Hypotheses|aims and hypotheses section]].
+> - A&H can be stated in either order
+> - **Aims** start with =="to"==
+> - **Hypotheses** must be ==definitive statements==. (*avoid should, could, may etc*)
+> ***Aims must be well-linked to each other***
+
 
 ## Background
 1. Content
