@@ -17,6 +17,14 @@ Ttl approx. 7 pages
 > - Must grab their attention!
 > - Must be able to understand the entire project from the first page.
 
+Significance:
+- About 1/4 page
+- Needs to be stated quickly
+- **Start/end** with a ==punchy statement==.
+- Facts+figures **must be included** for relevance.
+- ==be ***specific*** but not boring==
+
+
 ## Background
 1. Content
 2. Relation to aims and hypothesis
