@@ -42,23 +42,23 @@
 
 [[Protein glycosylation investigated by mass spectrometry an overview]] $\checkmark$ 
 
-[[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry]]
+1. [[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry]]
 
-[[Mass-spectrometric exploration of proteome structure and function]]
+2. [[Mass-spectrometric exploration of proteome structure and function]]
 
-[[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]]
+3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]]
 
-[[Post-translational Modifications and Mass Spectrometry Detection]]
+4. [[Post-translational Modifications and Mass Spectrometry Detection]]
 
-[[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
+5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
 
-[[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
+6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
 
-[[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer]]
+7. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer]]
 
-[[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]
+8. [[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]
 
-[[ Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
+9. [[ Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
 ## Notch Signalling Pathway
 
