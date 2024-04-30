@@ -5,7 +5,7 @@
 - References 2-page MAX- ==10%==
 - Presentation/Format and readability- ==10%==
 
-Ttl approx. 7 pages
+Ttl approx. 7 pages not more than this
 
 ## Overview
 1. State ***Problem***, either health, educational or technological
