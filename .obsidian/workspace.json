@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
               }
             }
           },
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +220,12 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Journals/Research Project Showcase.md",
+    "Academic/Literature Review.md",
+    "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "Journals/Research Project Showcase.md",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "Academic/Academic notes/Project Showcase.md",
-    "Academic/Seminars.md",
     "Academic/Honours.md",
     "Journals/Deadlines.md",
     "Journals/Mid-year Oral Presentation.md",
