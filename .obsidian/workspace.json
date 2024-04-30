@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d9e0df9282cae7df",
+            "id": "c11484a8fca8fa1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md"
+                "file": "Journals/Mid-year Oral Presentation.md"
               }
             }
           },
@@ -218,17 +219,19 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "c11484a8fca8fa1c",
   "lastOpenFiles": [
-    "Academic/Seminars.md",
     "Journals/Deadlines.md",
+    "Journals/Research Project Showcase.md",
+    "Journals/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
+    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "Academic/Academic notes/MaxQuant and Byonic.md",
+    "Academic/Seminars.md",
     "Academic/Academic notes/SOMS4102.md",
     "Academic/Academic notes/SOMS4101.md",
-    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Academic notes/Mass Spectrometry.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
-    "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Academic notes/PRM.md",
@@ -249,8 +252,6 @@
     "Pasted image 20240428200327.png",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",

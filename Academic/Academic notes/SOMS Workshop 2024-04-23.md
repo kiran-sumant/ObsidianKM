@@ -28,4 +28,4 @@ Presenting your project in ==Research Grant format.==
 Purpose:
 1. Project Introduction
 2. State [[Honours Aims and Hypotheses]]
-3. Justify the Research Plan: **Detailed explanation and critique** of meth
+3. Justify the Research Plan: **Detailed explanation and critique** of methodologies
