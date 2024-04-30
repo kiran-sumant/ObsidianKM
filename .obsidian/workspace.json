@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+                "file": "Academic/Literature Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Review.md",
     "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
@@ -230,7 +231,6 @@
     "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Journals/Research Project Showcase.md",
