@@ -23,3 +23,10 @@ Ttl approx. 7 pages
 2. ***Methodologies***
 3. ***Expected outcomes*** must be explained and justified
 
+# Tone, Grammar, etc.
+
+- No "I", ***only "we"***
+- For discussing previous findings from your lab that aren't part of your work, can say "**our research group has shown**"
+- For research plan, saying "we" is a *must*.
+
+Your research is mainly combination of **Dry Lab** and **Wet Lab**.
