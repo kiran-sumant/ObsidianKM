@@ -55,13 +55,16 @@ Create figure for experimental Pipeline to put on the first page.
 > [!warning] Important!!
 > - ==***don't cite reviews***==
 
+> [!important] Preliminary Data
+> - Either background or research plan
+> - Published findings aren't preliminary data. those must be summarised and referenced
 
 ## Research Plan
 1. **Experimental Plan** described
 2. ***Methodologies***
 3. ***Expected outcomes*** must be explained and justified
 
-
+Sate the aim
 
 # Tone, Grammar, etc.
 
