@@ -2,7 +2,7 @@
 ==**Logbook??**==
 ==**Grant Proposal??**==
 
-- [ ] Research Project Showcase 2024-07-15
+- [ ] Research Project Showcase 2024-06-
 - [ ] Mid-year Oral Presentation 2024-07-15
 - [ ] Poster Presentation 2024-09-1
 - [ ] Thesis Submission on 2024-11-6

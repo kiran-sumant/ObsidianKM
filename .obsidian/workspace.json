@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Journals/Deadlines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Journals/Deadlines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md",
+                "file": "Journals/Deadlines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Mass Spectrometry.md"
+                "file": "Journals/Deadlines.md"
               }
             }
           },
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,8 +220,13 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Honours.md",
+    "Academic/Academic notes/SOMS4101.md",
+    "Academic/Academic notes/SOMS4102.md",
+    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/Mass Spectrometry.md",
+    "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
     "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
@@ -231,7 +237,6 @@
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
-    "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "Academic/Literature Notes/MALDI-ToF.md",
@@ -246,9 +251,6 @@
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
-    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
-    "Projects/Project Notes/Ideas for an ATLA based video game.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",

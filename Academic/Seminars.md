@@ -4,3 +4,7 @@
 [[Centenary Seminar 2024-04-16]]
 [[SOMS Seminar 2024-04-17]]
 
+# Workshops
+
+[[SOMS Workshop 2024-04-23]]
+
