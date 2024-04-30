@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+                "file": "Academic/Academic notes/Mass Spectrometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md"
+                "file": "Academic/Academic notes/Mass Spectrometry.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
-    "Academic/Honours.md",
     "Academic/Academic notes/SOMS4101 Week 2 Mini lectures.md",
+    "Academic/Honours.md",
     "Academic/Academic notes/MaxQuant and Byonic.md",
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",

@@ -18,6 +18,12 @@ detector determines *abundance* of each compound present sorted by m/z, **result
 - QTRAP, QTOF - protein analyses, using advanced MS systems
 
 
+> [!example]
+> We'll be using QTrap/Orbitrap for the rest of our experiments
+
+
+
+
 
 #definition #mass-spectrometry #analysis #lab-technique 
 
