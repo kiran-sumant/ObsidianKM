@@ -86,7 +86,10 @@ Your research is mainly combination of **Dry Lab** and **Wet Lab**.
 ==**Nature medicine has been recommended**==
 
 
-| Do                 | Do-not                      |
-| ------------------ | --------------------------- |
-| Great Wall of Text | White space for readability |
-|                    |                             |
+| Do                                  | Do-not                                   |
+| ----------------------------------- | ---------------------------------------- |
+| White space for readability         | Great Wall of Text                       |
+| ==COLOUR!!== YAYYY                  | Excessive abbreviations                  |
+| Diagrams and Figures                | Inconsistent grammar syntax (stick 2 UK) |
+| **bold** and *italics* for emphasis | Overuse of bold and Italics              |
+
