@@ -19,13 +19,17 @@ Final oral pres- 15%
 - Give the Rubric to Mark to look at, along with anyone providing feedback on your assignment.
 - ***PLEASE expect and request advice on academic writing and presentation from your supervisor***
 
-## Project Showcase
+## [[Research Project Showcase]]
 Presenting your project in ==Research Grant format.==
 - Communication clear, concise
 - significanct and unique project strengths to be taken into consideration
 
-## Oral Presentation
-Purpose:
+## [[Mid-year Oral Presentation]]
 1. Project Introduction
 2. State [[Honours Aims and Hypotheses]]
 3. Justify the Research Plan: **Detailed explanation and critique** of methodologies
+
+## Poster Presentation
+
+"***Informal discussion***" between you and assessor, during the poster presentation event.
+
