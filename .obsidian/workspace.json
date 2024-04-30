@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+                "file": "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md"
               }
             }
           },
@@ -221,6 +221,16 @@
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
+    "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+    "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
+    "Academic/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer.md",
+    "Academic/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
+    "Academic/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
+    "Academic/Post-translational Modifications and Mass Spectrometry Detection.md",
+    "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
+    "Academic/Mass-spectrometric exploration of proteome structure and function.md",
+    "Academic/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Journals/Research Project Showcase.md",
@@ -238,16 +248,6 @@
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Academic notes/PRM.md",
     "Academic/Academic notes/DDA.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/High-Performance Liquid Chromatography.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
-    "Projects/Project Notes/Avatar Game Storyboard.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
-    "Academic/Literature Notes/MALDI-ToF.md",
-    "Academic/Literature Notes/IM-MS.md",
-    "Academic/Literature Notes/ETD.md",
     "-Support/Graphics/cells-09-01986-g002.jpg",
     "Pasted image 20240428200421.png",
     "Pasted image 20240428200327.png",
