@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Journals/Research Project Showcase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Journals/Research Project Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+                "file": "Journals/Research Project Showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/SOMS Workshop 2024-04-23.md"
+                "file": "Journals/Research Project Showcase.md"
               }
             }
           },
@@ -221,8 +222,8 @@
   },
   "active": "c11484a8fca8fa1c",
   "lastOpenFiles": [
-    "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "Academic/Academic notes/Project Showcase.md",
     "Academic/Seminars.md",
     "Academic/Honours.md",
