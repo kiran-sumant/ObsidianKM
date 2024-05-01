@@ -11,10 +11,12 @@
             "id": "87d57a90b10f4d89",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -108,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+              }
             }
           },
           {
@@ -197,6 +203,7 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
@@ -225,8 +232,6 @@
     "Projects/Physical.md",
     "Projects/Financial.md",
     "Projects/Addiction.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
