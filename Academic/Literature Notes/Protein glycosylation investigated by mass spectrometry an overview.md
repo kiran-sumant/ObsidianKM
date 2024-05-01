@@ -59,17 +59,18 @@ Glycans are **secondary gene products**
 
 ## Glycopeptide Characterisation via MS
 
-| Technique                 | How it helps                                                                         |
-| ------------------------- | ------------------------------------------------------------------------------------ |
-| HILIC                     | Affinity Purification technique, to purify glycopeptides for analysis                |
-| Normal Phase              | ^                                                                                    |
-| Porous Graphitised Carbon | ^                                                                                    |
-| MALDI-MS                  | N-glycan analysis                                                                    |
-| nano-LC/MSMS              | analysis of free deglycosylated peptides                                             |
-| [[MALDI-ToF]]             | glycan profile exploration and analysis                                              |
-| [[ECD]]                   | fragmentation method: **ionic resonance instruments** in fourier transform cyclotron |
-| [[ETD]]                   | fragmentation method: perfoemd in **ion trap mass spectrometer**                     |
-| [[IM-MS]]                 | Can be used in tandem with [[CID]] for improving glycoform separation                |
+| Technique                 | How it helps                                                                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| HILIC                     | Affinity Purification technique, to purify glycopeptides for analysis                                                                    |
+| Normal Phase              | ^                                                                                                                                        |
+| Porous Graphitised Carbon | ^                                                                                                                                        |
+| MALDI-MS                  | N-glycan analysis                                                                                                                        |
+| nano-LC/MSMS              | analysis of free deglycosylated peptides                                                                                                 |
+| [[MALDI-ToF]]             | glycan profile exploration and analysis                                                                                                  |
+| [[ECD]]                   | fragmentation method: **ionic resonance instruments** in fourier transform cyclotron                                                     |
+| EAD                       | Electron activated dissociation, kinda ECD pt 2.                                                                                         |
+| [[ETD]]                   | fragmentation method: perfoemd in **ion trap mass spectrometer**. (==only works best on +3 ions, as more positive the better it works==) |
+| [[IM-MS]]                 | Can be used in tandem with [[CID]] for improving glycoform separation                                                                    |
 
 
 ## [[MRM]] targeted mass spec for Glycosylation Quantification

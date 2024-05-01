@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ecd",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -106,12 +106,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
               }
             }
           },
@@ -221,6 +220,7 @@
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer.md",
@@ -247,7 +247,6 @@
     "Academic/Research Larance Lab.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Academic notes/PRM.md",
-    "Academic/Academic notes/DDA.md",
     "-Support/Graphics/cells-09-01986-g002.jpg",
     "Pasted image 20240428200421.png",
     "Pasted image 20240428200327.png",
