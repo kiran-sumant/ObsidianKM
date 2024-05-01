@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "371c24f44045e46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Review.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -201,10 +215,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
-    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "Academic/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
