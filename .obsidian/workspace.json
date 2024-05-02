@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c11484a8fca8fa1c",
+            "id": "371c24f44045e46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/MaxQuant and Byonic.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localization",
+                "query": "re-inves",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -110,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md"
               }
             }
           },
@@ -217,39 +218,38 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry 1.md",
+    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1.md",
-    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry 1.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
-    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
-    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
+    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1.md",
+    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
-    "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
-    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
-    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Academic/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
-    "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
-    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
-    "Academic/Seminars.md",
-    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
-    "Journals/Research Project Showcase.md",
-    "-Support/Graphics/cells-09-01986-g002 1.jpg",
-    "Academic/Academic notes/Project Showcase.md",
-    "Academic/Honours.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
+    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
+    "Academic/Academic notes/SOMS4102.md",
+    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "Academic/Academic notes/Project Showcase.md",
+    "Academic/Academic notes/PRM.md",
+    "Academic/Academic notes/MaxQuant and Byonic.md",
+    "Academic/Academic notes/DDA.md",
+    "-Support/Graphics/cells-09-01986-g002 1.jpg",
+    "Academic/Literature Notes/ETD.md",
+    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+    "cells-09-01986-g002.jpg",
     "-Support/Graphics/cells-09-01986-g002.jpg",
-    "Pasted image 20240428200421.png",
-    "Pasted image 20240428200327.png",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
@@ -258,6 +258,7 @@
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "-Support/Graphics/Pasted image 20240403111056.png",
+    "-Support/Graphics/Pasted image 20240403111031.png",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",

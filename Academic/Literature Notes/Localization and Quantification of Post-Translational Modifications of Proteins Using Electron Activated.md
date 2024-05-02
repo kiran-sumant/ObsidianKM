@@ -1,1 +1,0 @@
-# Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer
