@@ -54,11 +54,11 @@
 
 6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
 
-7. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer]]
+7. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated]]
 
 8. [[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]
 
-9. [[ Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
+9. [[Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
 ## Notch Signalling Pathway
 
