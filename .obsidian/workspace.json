@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md"
+                "file": "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md"
               }
             }
           },
@@ -220,8 +220,18 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
+    "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
+    "Academic/Literature Notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
+    "Academic/Academic notes/synthetic condensates.md",
+    "Academic/Academic notes/notch signalling.md",
+    "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
+    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
+    "Academic/Literature Notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry 1.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
@@ -229,25 +239,15 @@
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
-    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Research Larance Lab.md",
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Academic notes/SOMS4102.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
-    "Academic/Academic notes/Project Showcase.md",
-    "Academic/Academic notes/PRM.md",
-    "Academic/Academic notes/MaxQuant and Byonic.md",
-    "Academic/Academic notes/DDA.md",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
-    "Academic/Literature Notes/ETD.md",
-    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "cells-09-01986-g002.jpg",
     "-Support/Graphics/cells-09-01986-g002.jpg",
     "-Support/Graphics/Pasted image 20240417102304.png",
