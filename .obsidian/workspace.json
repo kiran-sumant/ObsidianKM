@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md"
               }
             }
           },
@@ -218,10 +218,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
