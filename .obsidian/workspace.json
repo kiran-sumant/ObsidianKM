@@ -37,14 +37,17 @@
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "re-inves",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
               }
             }
           },
@@ -215,15 +218,21 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
-    "Academic/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Academic/Literature Review.md",
-    "Academic/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
-    "Academic/Research Larance Lab.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
+    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
+    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation Fragmentation on a Fast-Acquisition Time-of-Flight Mass Spectrometer.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
-    "Academic/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
+    "Academic/Literature Review.md",
+    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
+    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Academic notes/SOMS4102.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Academic notes/Project Showcase.md",
@@ -241,11 +250,6 @@
     "Academic/Literature Notes/IM-MS.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "-Support/Graphics/cells-09-01986-g002.jpg",
-    "Projects/Project(s).md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Projects/Physical.md",
-    "Projects/Financial.md",
-    "Projects/Addiction.md",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
     "-Support/Graphics/Pasted image 20240416153514.png",
