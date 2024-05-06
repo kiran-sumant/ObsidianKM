@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 336.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md"
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md"
               }
             }
           },
@@ -220,10 +220,12 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
+    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
-    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Literature Notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Academic notes/synthetic condensates.md",
@@ -240,13 +242,11 @@
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
-    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
     "-Support/Graphics/cells-09-01986-g002.jpg",
