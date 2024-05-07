@@ -1,6 +1,7 @@
 # Main Idea of Thesis
 
-Mass spec investigation type discussed is ==[[IMS|Image Mass Spectrometry]]
+Mass spec investigation type discussed is ==[[IMS|Image Mass Spectrometry]]==.
+Article reviews the machine learning models developed for exploratory analysis of the data.
 
 #### Doc Link: [Unsupervised machine learning for **exploratory** data analysis in imaging **mass spectrometry**](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21602)
 
