@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Journals/Research Project Showcase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Journals/Research Project Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Journals/Research Project Showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
+                "file": "Journals/Research Project Showcase.md"
               }
             }
           },
@@ -220,7 +220,11 @@
   },
   "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
+    "Academic/Seminars.md",
     "Academic/Literature Review.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Literature Notes/IMS.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
@@ -235,7 +239,6 @@
     "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
@@ -243,9 +246,6 @@
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry 1.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
-    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
