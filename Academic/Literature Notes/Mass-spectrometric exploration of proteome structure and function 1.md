@@ -15,9 +15,9 @@ Both methods are greatly accelerated by developments in mass spec technique.
 
 > [!quote]
 > "They can also **systematically identify** and **localize**
-> modified amino acids in the polypeptide chain as well as determine the
-> composition, stoichiometry and topology of the subunits of multiprotein
-> complexes and even contribute to determining their structure."
+> ==modified amino acids== in the polypeptide chain as well as **determine** the
+> ==composition, stoichiometry and topology== of the ==subunits== of multiprotein
+> ==complexes== and even contribute to ***determining their structure***."
 
 #### Doc Link: [**Mass**-**spectrometric exploration** of proteome structure and function](https://idp.nature.com/authorize/casa?redirect_uri=https://www.nature.com/articles/nature19949&casa_token=2cmgt7R3AI8AAAAA:9y54rK4FTSFBYxEokxM6zUpoRhBxX0KcLHPA-QK7tuiYboXcpFOA3HypGqxctm2F_RlOz43ug6-evY5R)
 
