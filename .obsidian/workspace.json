@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/IMS.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/IMS.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/IMS.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/IMS.md"
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
               }
             }
           },
@@ -218,11 +218,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "686594ac5ecdaa88",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Literature Notes/IMS.md",
-    "Academic/Literature Review.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",

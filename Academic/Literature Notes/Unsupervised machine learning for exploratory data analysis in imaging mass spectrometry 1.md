@@ -15,6 +15,7 @@ Article reviews the machine learning models developed for exploratory analysis o
 
 
 ## Related Links
+[Sample Preparation and Analysis for Imaging Mass Spectrometry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7547848/)
 
 ## Related Reading
 
