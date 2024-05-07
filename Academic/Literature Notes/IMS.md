@@ -9,7 +9,12 @@ Requires methods for:
 - Spetral preprocessing,
 - Data format/reformatting
 - [[Dimensionality Reduction|dimensionality reduction]]
-- 
+- Spatial Registration
+- sample classification
+- differential analysis between experiments
+- **data-driven fusion methods** to "extract patterns corroborated by both IMS and other imaging modalities".
+
+
 
 
 #mass-spectrometry #analysis #imaging
