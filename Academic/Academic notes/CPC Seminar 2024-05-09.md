@@ -64,18 +64,28 @@ Was able to reliably classify for edge cases with confidence.
 
 ## What was the seminar about?
 
-Multi-modal computation in biology, in order to process medical images, link conditions with symptoms, classify
+Multi-modal computation in biology, in order to process medical images, link conditions with symptoms, classify based on imaging, etc etc.
+
+ultimate combo for data acquisition would be Medical Imaging/Electronic Health Record/Mass spectrometry
 
 ## What were the major methods used?
+
+Workflow:
+1. Image Acquisition
+2. ROI segmentation
+3. Feature Extraction
+4. Statistical Analysis
+
 
 
 ## What did the speaker discover?
 
+Feeding text into models for image processing gives a MASSIVE boost to performance of classification models (as per accuracy)
 
 ## What question did you ask and what was the answer?
 
 > [!info] Title
-> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability
+> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources that may no
 
 
 
