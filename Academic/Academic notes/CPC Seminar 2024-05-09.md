@@ -13,8 +13,8 @@
 ## What did the speaker discover?
 
 
-> [!Reference] What question did you ask and what was the answer?
-> <text>
+> [!info] What question did you ask and what was the answer?
+> <\text>
 
 
 # Professor Jinman Kim | Multi-modal learning for biomedical image analysis and visualisation

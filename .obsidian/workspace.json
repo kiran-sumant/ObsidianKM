@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2253277d7dc07b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md"
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
               }
             }
           },
@@ -219,20 +231,22 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "686594ac5ecdaa88",
+  "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Journals/Research Project Showcase.md",
+    "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Cheat Sheet.md",
     "Academic/Seminars.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Academic notes/DDA.md",
     "Academic/Academic notes/DIA.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Academic notes/CPC Seminar 2024-05-09.md",
-    "Academic/Literature Review.md",
     "Academic/Honours.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Academic notes/MRM.md",
     "Academic/Academic notes/PRM.md",
-    "Journals/Research Project Showcase.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Research Larance Lab.md",
     "Academic/Literature Notes/IMS.md",
@@ -245,8 +259,6 @@
     "Academic/Literature Notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Academic notes/synthetic condensates.md",
     "Academic/Academic notes/notch signalling.md",
-    "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
-    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
