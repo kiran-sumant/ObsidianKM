@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Review.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Review.md"
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
               }
             }
           },
@@ -220,8 +220,8 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Review.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Honours.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Academic notes/MRM.md",

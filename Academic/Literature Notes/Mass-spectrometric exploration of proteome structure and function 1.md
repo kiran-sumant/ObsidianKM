@@ -7,18 +7,6 @@ Another review **bruh**
 > the complete and quantitative proteome as well as its structure,
 > function and dynamics is a central and fundamental challenge of biology."
 
-Two strategies exist for proteome exploration:
-1. *Conventional method* - protein isolation, followed by analysis relevant to proposed structure and function (biochemical analysis).
-2. **Large scale, systematic proteome database generation**, can be also combined in analysis with other multi-omic data.
-
-Both methods are greatly accelerated by developments in mass spec technique.
-
-> [!quote]
-> "They can also **systematically identify** and **localize**
-> ==modified amino acids== in the polypeptide chain as well as **determine** the
-> ==composition, stoichiometry and topology== of the ==subunits== of multiprotein
-> ==complexes== and even contribute to ***determining their structure***."
-
 ## What got covered:
 
 - Systematic Cataloging of proteins and their transformation into high-specificity assays to quantify components
