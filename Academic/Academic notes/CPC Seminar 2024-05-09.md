@@ -106,11 +106,11 @@ Can use many different methods to train a machine model on a text+image based da
 
 > [!info] Title
 > - (Q) *In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters*
-> - (A) 
+> - (A) If they should be the same, look for difference of different characteristics. Or take into account huge amounts of data so that the variability is automatically considered in the dataset based on ML hyperparameters.
 
 or:
 Ask based on adjusting a model for operating between diferent machines and normalise training data based on statistical metadata.
 
-
+Normalisation.
 
 ## General comments:
