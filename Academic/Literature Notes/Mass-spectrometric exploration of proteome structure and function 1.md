@@ -33,10 +33,14 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 > [!statement] Data Dependent Acquisition ([[DDA]])
 > - Unbiased; free from hypothesis due to not necessarily needing to identify proteins in advance.
 > - All proteins can be interrogated at once
-> - 
+> 
 > >[!quote]-
 > >
 
+> [!statement] 
+> 
+> 
+> >[!quote]-
 
 
 
