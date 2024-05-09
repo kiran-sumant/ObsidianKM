@@ -40,7 +40,7 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 > [!example] PTMs and Cell Signalling
 > - We are able to analyse and identify most PTMs
 > - Discovery shows **more diversity, abundance** of PTMs, and their involvement/influence in cellular regulation/==cell signalling==
-> - PTMs are **highly labile**
+> - PTMs are **highly [[labile]]**
 > 
 > >[!quote]-
 

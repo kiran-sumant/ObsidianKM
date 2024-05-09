@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
+                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md"
               }
             }
           },
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,17 +232,18 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Academic/Honours.md",
+    "Academic/Literature Notes/labile.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Journals/Research Project Showcase.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
-    "Academic/Seminars.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Academic notes/DDA.md",
     "Academic/Academic notes/DIA.md",
-    "Academic/Honours.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Academic notes/MRM.md",
     "Academic/Academic notes/PRM.md",
@@ -258,7 +258,6 @@
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
     "Academic/Literature Notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "Academic/Academic notes/synthetic condensates.md",
-    "Academic/Academic notes/notch signalling.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
