@@ -1,4 +1,5 @@
 Data Dependent Acquisition
+
 not to be confused with [[DIA]], as DDA is **more identification focused** while DIA is more **quantitation-focused**
 
 - Used fragment ions targeted at random

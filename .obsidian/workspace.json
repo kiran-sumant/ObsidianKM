@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/DDA.md",
+                "file": "Academic/Academic notes/DIA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/DDA.md",
+                "file": "Academic/Academic notes/DIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/DDA.md",
+                "file": "Academic/Academic notes/DIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/DDA.md"
+                "file": "Academic/Academic notes/DIA.md"
               }
             }
           },
@@ -220,6 +220,8 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
+    "Academic/Academic notes/DDA.md",
+    "Academic/Academic notes/DIA.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "2024-05-09.md",
     "Academic/Literature Review.md",
@@ -228,7 +230,6 @@
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
     "Academic/Academic notes/MRM.md",
     "Academic/Academic notes/PRM.md",
-    "Academic/Academic notes/DDA.md",
     "Journals/Research Project Showcase.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Seminars.md",
@@ -245,7 +246,6 @@
     "Academic/Academic notes/notch signalling.md",
     "Academic/Literature Notes/A Validated Smartphone-Based Assessment of Gait and Gait Variability in Parkinson’s Disease.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Academic/Literature Notes/Analysis of the Healthy Platelet Proteome Identifies a New Form of Domain-Specific O-Fucosylation.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
