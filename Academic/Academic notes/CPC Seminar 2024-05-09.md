@@ -24,12 +24,21 @@ Looking at unstructured data, through ==video analysis and summarisation==
 
 ## What were the major methods used?
 
+Workflow as follows:
+1. Input Video
+2. Generate snippets (attention enhanced DD + Parameter sharing)
+3. Extract features 
+4. **Task-specific branches** (Classification+ regression)
+5. Consensus layer (Classification and regression concessions)
+6. Output (Parameters, Loss, data visualised and classified)
+
+Also developed video summari
 
 ## What did the speaker discover?
 
 
 > [!info] What question did you ask and what was the answer?
-> <\text>
+> - Question: *what pipeline was used in order to *
 
 
 # Professor Jinman Kim | Multi-modal learning for biomedical image analysis and visualisation
