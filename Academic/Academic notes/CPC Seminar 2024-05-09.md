@@ -53,7 +53,7 @@ Was able to reliably classify for edge cases with confidence.
 
 
 > [!info] What question did you ask and what was the answer?
-> - Question: *what pipeline was used in order to *
+> no question asked in first half
 
 
 # Professor Jinman Kim | Multi-modal learning for biomedical image analysis and visualisation
@@ -72,6 +72,10 @@ Was able to reliably classify for edge cases with confidence.
 
 
 ## What question did you ask and what was the answer?
+
+> [!info] Title
+> In the case of Imaging mass spectrometric ([[IMS]]) methods involving heavy rates of control 
+
 
 
 ## General comments:
