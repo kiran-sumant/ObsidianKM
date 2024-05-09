@@ -20,9 +20,16 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 
 # Details/Quotes
 
-> [!statement] 
+> [!example] Proteome Exploration 
+> Two strategies exist for proteome exploration:
+> 1. *Conventional method* - protein isolation, followed by analysis relevant to proposed structure and function (biochemical analysis).
+> 2. **Large scale, systematic proteome database generation**, can be also combined in analysis with other multi-omic data.
+> 
+> Both methods are greatly accelerated by developments in mass spec technique.
 > 
 > >[!quote]
+> > "They can also **systematically identify** and **localize** ==modified amino acids== in the polypeptide chain as well as **determine** the ==composition, stoichiometry and topology== of the ==subunits== of multiprotein ==complexes== and even contribute to ***determining their structure***."
+
 
 
 
