@@ -68,6 +68,16 @@ Multi-modal computation in biology, in order to process medical images, link con
 
 ultimate combo for data acquisition would be Medical Imaging/Electronic Health Record/Mass spectrometry
 
+Major innovations seen in multi-modal learning:
+
+Multi-scale and multi-granularity features
+
+Multi-modal dataset curation and pretraining
+
+Medical Knowledge through UMLS
+
+Multi-pretask pretraining/==Foundation models==
+
 ## What were the major methods used?
 
 Workflow:
@@ -76,6 +86,10 @@ Workflow:
 3. Feature Extraction
 4. Statistical Analysis
 
+for **Radiation-enhanced medical image-text contrastive learning**:
+- Inter-matching relation-enhanced contrastive learning framework
+- Semantic relation modelling (correlate semantic data/local matches)
+- Importance relation modelling (focused on critical local-matchings)
 
 
 ## What did the speaker discover?
@@ -85,7 +99,7 @@ Feeding text into models for image processing gives a MASSIVE boost to performan
 ## What question did you ask and what was the answer?
 
 > [!info] Title
-> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources that may no
+> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters
 
 
 
