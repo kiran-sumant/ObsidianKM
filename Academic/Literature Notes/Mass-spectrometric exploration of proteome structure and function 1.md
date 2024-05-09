@@ -31,7 +31,9 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 > > "They can also **systematically identify** and **localize** ==modified amino acids== in the polypeptide chain as well as **determine** the ==composition, stoichiometry and topology== of the ==subunits== of multiprotein ==complexes== and even contribute to ***determining their structure***."
 
 > [!statement] Data Dependent Acquisition ([[DDA]])
-> 
+> - Unbiased; free from hypothesis due to not necessarily needing to identify proteins in advance.
+> - All proteins can be interrogated at once
+> - 
 > >[!quote]-
 > >
 
