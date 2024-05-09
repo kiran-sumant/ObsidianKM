@@ -3,7 +3,6 @@ Multiple reaction monitoring
 #### see also **selective reaction monitoring (SRM)**, and ==Parallel Reaction Monitoring ([[PRM]])==
 
 - highly specific, sensitive technique
-- Robust and high throughput, but have a lower dynamic range compared to hother hi-res analysers.
 - used to ==selectively quantify compounds== in complex mixtures
 - uses ==QQQ MS==
 - works as follows
