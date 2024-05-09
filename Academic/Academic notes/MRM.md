@@ -1,6 +1,6 @@
-Multiple reaction monitoring; also ==Parallel Reaction Monitoring (PRM)==
+Multiple reaction monitoring
 
-#### see also **selective reaction monitoring (SRM)**.
+#### see also **selective reaction monitoring (SRM)**, and ==Parallel Reaction Monitoring ([[PRM]])==
 
 - highly specific, sensitive technique
 - used to ==selectively quantify compounds== in complex mixtures
