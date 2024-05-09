@@ -1,4 +1,4 @@
-Data Indepepndent Analysis
+Data Independent Acquisition
 
 not to be confused with [[DDA]]
 
@@ -9,3 +9,5 @@ not to be confused with [[DDA]]
 	1. Peptides from LC all selected as relased from chromatogram
 	2. All peptides fragmented in order of LC release
 	3. Data obtained and proteins identified and quantified.
+
+#mass-spectrometry #ms-ms 
