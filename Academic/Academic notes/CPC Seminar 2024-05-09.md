@@ -64,6 +64,7 @@ Was able to reliably classify for edge cases with confidence.
 
 ## What was the seminar about?
 
+Multi-modal computation in biology, in order to process medical images, link conditions with symptoms, classify
 
 ## What were the major methods used?
 
@@ -74,7 +75,7 @@ Was able to reliably classify for edge cases with confidence.
 ## What question did you ask and what was the answer?
 
 > [!info] Title
-> In the case of Imaging mass spectrometric ([[IMS]]) methods involving heavy rates of control 
+> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability
 
 
 
