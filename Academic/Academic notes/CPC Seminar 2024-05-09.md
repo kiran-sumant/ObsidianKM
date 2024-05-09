@@ -91,6 +91,10 @@ for **Radiation-enhanced medical image-text contrastive learning**:
 - Semantic relation modelling (correlate semantic data/local matches)
 - Importance relation modelling (focused on critical local-matchings)
 
+**Contrastive-guided reconstruction framework** for developing ML imaging models
+- Cohesion of contrastive-based and generative-based methods
+- Masking semantic-important tokens in both image and text.
+
 
 ## What did the speaker discover?
 
@@ -99,7 +103,7 @@ Feeding text into models for image processing gives a MASSIVE boost to performan
 ## What question did you ask and what was the answer?
 
 > [!info] Title
-> In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters
+> - In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters
 
 
 
