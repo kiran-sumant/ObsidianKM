@@ -32,9 +32,14 @@ Workflow as follows:
 5. Consensus layer (Classification and regression concessions)
 6. Output (Parameters, Loss, data visualised and classified)
 
-Also developed video summari
+Also developed video summarisation method callsed Unsupervides Topic-Guided Co-Attention Transformer for Extreme Multimodal Summarisation. (***TopicCAT***)
+- Unimodal learning followed by Multimodal learning from unimodal learning results and training data.
 
 ## What did the speaker discover?
+
+Used and implemented for weakly supervised classification task; **Freezing of Gait (FoG) detection in Parkinson's patients.**
+
+
 
 
 > [!info] What question did you ask and what was the answer?
