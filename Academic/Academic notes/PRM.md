@@ -6,7 +6,7 @@ Parallel Reaction Monitoring
 - Wors as follows:
 	1.  Precursor selected
 	2. Precursor fragmented
-	3. All 
+	3. All daughter ions of precursor quantitated
 
 
 #mass-spectrometry #ms-ms 

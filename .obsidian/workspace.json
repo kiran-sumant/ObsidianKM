@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/PRM.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/PRM.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/PRM.md",
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/PRM.md"
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md"
               }
             }
           },
@@ -217,14 +218,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Academic notes/MRM.md",
     "Academic/Academic notes/PRM.md",
     "Academic/Academic notes/DDA.md",
     "Journals/Research Project Showcase.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1.md",
-    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Seminars.md",
     "Academic/Literature Review.md",
