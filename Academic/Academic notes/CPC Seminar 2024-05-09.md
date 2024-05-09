@@ -100,10 +100,13 @@ for **Radiation-enhanced medical image-text contrastive learning**:
 
 Feeding text into models for image processing gives a MASSIVE boost to performance of classification models (as per accuracy)
 
+Can use many different methods to train a machine model on a text+image based dataset, including GPT paraphrasing and image reconstruction.
+
 ## What question did you ask and what was the answer?
 
 > [!info] Title
-> - In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters
+> - (Q) *In the case of Imaging mass spectrometric ([[IMS]]) methods involving extensive controlling of FDR in post processing of data, how would we go about navigating FDR and other metadata statistics if we wish to create a meta-analysis to report on reproducability or begin training models on data from multiple sources and sort based on parameters*
+> - (A) 
 
 
 
