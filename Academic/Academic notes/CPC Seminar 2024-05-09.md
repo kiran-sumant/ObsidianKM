@@ -5,6 +5,14 @@
 **Speaker(s):** Professor Zhiyong Wang
 
 ## What was the seminar about?
+Sydney Informatics Hub director, Prof. Zhiyoung Wang
+Focused on interdisciplinary multi-media content creation, computing in many areas including agriculture, data science etc.
+
+
+> [!Example] The gist
+> - Multimedia is the **foundation of human communication**
+> - 
+
 
 
 ## What were the major methods used?
