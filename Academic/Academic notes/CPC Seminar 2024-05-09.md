@@ -35,11 +35,21 @@ Workflow as follows:
 Also developed video summarisation method callsed Unsupervides Topic-Guided Co-Attention Transformer for Extreme Multimodal Summarisation. (***TopicCAT***)
 - Unimodal learning followed by Multimodal learning from unimodal learning results and training data.
 
+> [!example] Motion control
+> - Developing gaps between keyframes for systematic complex movement such as anatomically correct locomotion.
+> - How to relate to biology?
+
+
+
 ## What did the speaker discover?
 
 Used and implemented for weakly supervised classification task; **Freezing of Gait (FoG) detection in Parkinson's patients.**
 
+Multimedia includes:
+- Video
+- Footstep pressure map
 
+Was able to reliably classify for edge cases with confidence.
 
 
 > [!info] What question did you ask and what was the answer?
