@@ -44,7 +44,7 @@
 
 1. [[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1]] $\checkmark$ 
 
-2. [[Mass-spectrometric exploration of proteome structure and function 1]] 
+2. [[Mass-spectrometric exploration of proteome structure and function 1]] $\checkmark$ 
 
 3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]]
 

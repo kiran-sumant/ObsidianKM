@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+                "file": "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
+                "file": "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md"
               }
             }
           },
@@ -218,12 +218,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
-    "-Support/Graphics/Pasted image 20240513114835.png",
     "Academic/Literature Review.md",
-    "Journals/Research Project Showcase.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+    "-Support/Graphics/Pasted image 20240513114835.png",
+    "Journals/Research Project Showcase.md",
     "Academic/Honours.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
@@ -258,7 +258,6 @@
     "Pasted image 20240403115422.png",
     "Pasted image 20240403115409.png",
     "-Support/Graphics/Pasted image 20240403111056.png",
-    "-Support/Graphics/Pasted image 20240403111031.png",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
