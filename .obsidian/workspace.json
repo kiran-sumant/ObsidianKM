@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +218,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
