@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +217,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Academic/Literature Notes/ESI.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
