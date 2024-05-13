@@ -8,23 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87d57a90b10f4d89",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Academic/Honours.md",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "371c24f44045e46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md"
+              }
             }
           },
           {
@@ -224,10 +217,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "87d57a90b10f4d89",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Literature Review.md",
+    "Journals/Research Project Showcase.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "Academic/Honours.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
@@ -236,7 +230,6 @@
     "Academic/Seminars.md",
     "Academic/Literature Notes/labile.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Journals/Research Project Showcase.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/DDA.md",
