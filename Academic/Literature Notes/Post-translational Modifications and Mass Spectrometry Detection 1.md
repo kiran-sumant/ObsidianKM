@@ -27,12 +27,13 @@ Another Lit review BRUHH
 
 > [!example] Soft ionization techniques
 > - Helps analyze unstable compounds that react with aggressive ionisation techniques. 
+> - Electro-spray ionisation ([[ESI]]) and 
 > - ESI favours hydrophobic peptides  [22](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib22), [23](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib23), MALDI favours basic and aromatic peptides  [22](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib22), [24](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib24), [25](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib25)
 > 
 > >[!quote]-
 > >capable of ionizing non-volatile and thermo-unstable biological compounds, namely [electrospray ionization](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/electrospray-ionization "Learn more about electrospray ionization from ScienceDirect's AI-generated Topic Pages") (ESI) [17](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib17) and matrix-assisted laser desorption/ionization (MALDI)
 > 
-> 
+> &emsp;
 > >[!warning] Issues with soft Ionisation techniques
 > > - Ion suppression; occurs due to **cross-talk** from sample matrix, co-eluting compounds and contaminants that interact with ions.
 > > - Has ==deletorious effects==.
