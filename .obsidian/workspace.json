@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/top-down proteomics.md",
+                "file": "Academic/Literature Notes/bottom-up proteomics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/top-down proteomics.md",
+                "file": "Academic/Literature Notes/bottom-up proteomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/top-down proteomics.md",
+                "file": "Academic/Literature Notes/bottom-up proteomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/top-down proteomics.md"
+                "file": "Academic/Literature Notes/bottom-up proteomics.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Academic notes/PGC-LC-MSMS.md",
     "Academic/Literature Notes/bottom-up proteomics.md",
     "Academic/Literature Notes/top-down proteomics.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
@@ -246,7 +247,6 @@
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Research Larance Lab.md",
     "Academic/Literature Notes/IMS.md",
-    "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
