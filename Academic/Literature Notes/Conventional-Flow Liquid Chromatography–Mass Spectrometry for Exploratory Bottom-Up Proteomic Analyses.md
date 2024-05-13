@@ -8,7 +8,7 @@
 
 # Details/Quotes
 
-> [!statement] 
+> [!example] Results 
 > 
 > >[!quote]
 
