@@ -55,8 +55,11 @@ Another Lit review BRUHH
 > - [[CID]] is the main method of dissociation used to fragment molecules in mass spec.
 > - However peptides containing multiple PTMs with **have different fragmentation pathways** compared to unmodded peptides.
 > - Many essential PTMs are ==labile==, so are the first removed during dissociation using CID, -> **[[neutral loss]]**.
-> - ECD helps 
+> - [[ECD]] improves the analysis of "sulfated [58], glycosylated [59] and phosphorylated [60] peptides."
+> - [[ETD]] induces fragmentation via electron transfer to **multiply protonated peptides.
+> 
 > >[!quote]-
+> >Similarly to ECD, the neutral loss of labile PTMs is not the preferred fragmentation pathway (reviewed in [63]), particularly in phosphorylated and glycated peptides [64]. Several studies have shown that there is little overlap in peptide identifications between ETD and CID.
 
 
 
