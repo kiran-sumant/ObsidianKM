@@ -11,12 +11,10 @@
             "id": "87d57a90b10f4d89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Academic/Honours.md",
+                "staged": false
               }
             }
           },
@@ -139,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -232,14 +226,15 @@
   },
   "active": "87d57a90b10f4d89",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+    "Academic/Literature Review.md",
+    "Academic/Honours.md",
+    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Projects/Project(s).md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "Academic/Seminars.md",
-    "Academic/Honours.md",
     "Academic/Literature Notes/labile.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Journals/Research Project Showcase.md",
     "Self Learning/Learn Notes/Callout list.md",
@@ -253,7 +248,6 @@
     "Academic/Research Larance Lab.md",
     "Academic/Literature Notes/IMS.md",
     "Academic/Academic notes/Glycoscience Mass Spectrometry-Based Methodology.md",
-    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
