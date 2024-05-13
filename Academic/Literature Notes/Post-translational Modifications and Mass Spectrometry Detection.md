@@ -51,10 +51,12 @@ Another Lit review BRUHH
 > >[!quote]-
 > >Nevertheless, it is now considered that high resolving power and mass accuracy are essential for proteomics and PTM analysis [43](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib43), [44](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib44). This limits the instruments to three principal [tandem mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tandem-mass-spectrometry "Learn more about tandem mass spectrometry from ScienceDirect's AI-generated Topic Pages") platforms: quadrupole time-of-flight (QqTOF), time-of-flight/time-of-flight (TOF/TOF) and ion trap/orbitrap (IT/orbitrap) mass spectrometers.
 
-> [!info] 
-> 
-> > [!summary]- Reference
-
+> [!statement] PTM discovery with Fragmentation
+> - [[CID]] is the main method of dissociation used to fragment molecules in mass spec.
+> - However peptides containing multiple PTMs with **have different fragmentation pathways** compared to unmodded peptides.
+> - Many essential PTMs are ==labile==, so are the first removed during dissociation using CID, -> **[[neutral loss]]**.
+> - ECD helps 
+> >[!quote]-
 
 
 
