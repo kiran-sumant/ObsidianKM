@@ -43,8 +43,9 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 > - PTMs are **highly [[labile]]**
 > 
 > >[!quote]-
+> >For these, present technology enables the identification of thousands of sites of modification and their accurate quantification between proteomic states[29](https://www.nature.com/articles/nature19949#ref-CR29 "Doll, S. & Burlingame, A. L. Mass spectrometry-based detection and assignment of protein posttranslational modifications. ACS Chem. Biol. 10, 63–71 (2015)."). The main surprise has been the number and diversity of these post-translational modifications as well as how many of them seem to be involved in cellular regulation. For example, more than 50,000 phosphorylation events on at least 75% of the proteome have been documented in a single cell line[30](https://www.nature.com/articles/nature19949#ref-CR30 "Sharma, K. et al. Ultradeep human phosphoproteome reveals a distinct regulatory nature of Tyr and Ser/Thr-based signaling. Cell Rep. 8, 1583–1594 (2014).").
 
-
+![[Pasted image 20240513114835.png]]
 
 
 

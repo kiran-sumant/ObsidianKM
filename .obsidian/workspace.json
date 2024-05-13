@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +212,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "janitor:Janitor: scan vault": false
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
+    "-Support/Graphics/Pasted image 20240513114835.png",
     "Academic/Literature Review.md",
     "Journals/Research Project Showcase.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
@@ -244,7 +246,6 @@
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
     "Academic/Academic notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Literature Notes/Foldclass and Merizo-search embedding-based deep learning tools for protein domain segmentation, fold recognition and comparison.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
