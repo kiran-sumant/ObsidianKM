@@ -51,6 +51,13 @@ Another Lit review BRUHH
 > >[!quote]-
 > >Nevertheless, it is now considered that high resolving power and mass accuracy are essential for proteomics and PTM analysis [43](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib43), [44](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib44). This limits the instruments to three principal [tandem mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tandem-mass-spectrometry "Learn more about tandem mass spectrometry from ScienceDirect's AI-generated Topic Pages") platforms: quadrupole time-of-flight (QqTOF), time-of-flight/time-of-flight (TOF/TOF) and ion trap/orbitrap (IT/orbitrap) mass spectrometers.
 
+> [!info] 
+> 
+> > [!summary]- Reference
+
+
+
+
 
 ## Related Links
 
