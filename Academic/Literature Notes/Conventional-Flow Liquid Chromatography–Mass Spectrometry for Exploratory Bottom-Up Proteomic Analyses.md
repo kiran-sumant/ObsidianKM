@@ -9,7 +9,7 @@
 # Details/Quotes
 
 > [!example] Results 
-> 
+> 1. Evidence of peak width decrease with increase in elution speed seen (2.1s to 2.0s from 102-136)
 > >[!quote]
 
 
