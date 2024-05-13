@@ -46,7 +46,7 @@
 
 2. [[Mass-spectrometric exploration of proteome structure and function 1]] $\checkmark$ 
 
-3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]]
+3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]] $\checkmark$ 
 
 4. [[Post-translational Modifications and Mass Spectrometry Detection 1]]
 

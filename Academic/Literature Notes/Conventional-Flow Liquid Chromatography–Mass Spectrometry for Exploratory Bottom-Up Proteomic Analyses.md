@@ -21,8 +21,7 @@
 > >4. "Superior stability of the conventional-flow LC–MS system in terms of both retention time and MS response allowed reliable quantitation of proteins even with one order concentration differences using a label-free approach. In addition, the iTRAQ quantification showed itself to be rather less burdened by the precursor coisolation issue in comparing to results obtained earlier using nanoLC–MS."
 
 
-**Conclusion**: Conventional flow, with adjustments, can match performance of NanoLC-MS. This is important because the NanoLC system + add-ons racks up large expenses, when 
-
+**Conclusion**: Conventional-flow, with adjustments, can **match performance** of NanoLC-MS. This is important because the NanoLC system + add-ons racks up large expenses, when regular hardware can produce similar results. All a question of budget and time, but ==adjustments can be made in accordance to what the experiment/research question demands.==
 
 ## Related Links
 
