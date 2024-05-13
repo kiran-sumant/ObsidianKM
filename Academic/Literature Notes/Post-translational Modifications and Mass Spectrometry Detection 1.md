@@ -25,6 +25,12 @@ Another Lit review BRUHH
 > [!quote]
 > Tandem mass spectrometers have the additional capability of selecting an ion and fragmenting it in order to obtain structural information (MS/MS).
 
+> [!example] Soft ionization techniques
+> - Helps analyze unstable compounds that react with aggressive ionisation techniques. 
+> - ESI favours hydrophobic peptides  [[22]](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib22), [[23]](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib23), MALDI favours basic and aromatic peptides
+> 
+> >[!quote]-
+> >capable of ionizing non-volatile and thermo-unstable biological compounds, namely [electrospray ionization](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/electrospray-ionization "Learn more about electrospray ionization from ScienceDirect's AI-generated Topic Pages") (ESI) [[17]](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib17) and matrix-assisted laser desorption/ionization (MALDI)
 
 
 ## Related Links
