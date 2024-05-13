@@ -6,5 +6,7 @@ Intact proteins are first **digested** into smallter peptide sequences based on 
 
 ==High-throughput method==, helps form larger number of identification results in less time than top-down proteomics.
 
+Limitation on bottom-up methods is that there is a **low-percentage coverage** of the **protein sequence** in result data due to the limits of 
+
 
 #mass-spectrometry #proteomics #definition 
