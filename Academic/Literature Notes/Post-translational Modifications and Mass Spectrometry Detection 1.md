@@ -27,7 +27,7 @@ Another Lit review BRUHH
 
 > [!example] Soft ionization techniques
 > - Helps analyze unstable compounds that react with aggressive ionisation techniques. 
-> - Electro-spray ionisation ([[ESI]]) and 
+> - Electro-spray ionisation ([[ESI]]) and matrix-assisted laser desorption/ionization ([[MALDI-ToF|MALDI]])
 > - ESI favours hydrophobic peptides  [22](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib22), [23](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib23), MALDI favours basic and aromatic peptides  [22](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib22), [24](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib24), [25](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib25)
 > 
 > >[!quote]-
@@ -38,6 +38,18 @@ Another Lit review BRUHH
 > > - Ion suppression; occurs due to **cross-talk** from sample matrix, co-eluting compounds and contaminants that interact with ions.
 > > - Has ==deletorious effects==.
 > > - "Nevertheless, nowadays most proteomics experimental approaches include a sample pre-fractionation step for peptide separation, with the aim of maximizing sensitivity."
+
+> [!statement] Things to Consider for PTM detection
+> 1. Speed of aquisition
+> 2. Resolving power
+> 3. mass accuracy
+> 4. sensitivity
+> 5. dynamic range
+> 6. methods of fragmentation
+> 7. available software packages
+> 
+> >[!quote]-
+> >Nevertheless, it is now considered that high resolving power and mass accuracy are essential for proteomics and PTM analysis [43](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib43), [44](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib44). This limits the instruments to three principal [tandem mass spectrometry](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/tandem-mass-spectrometry "Learn more about tandem mass spectrometry from ScienceDirect's AI-generated Topic Pages") platforms: quadrupole time-of-flight (QqTOF), time-of-flight/time-of-flight (TOF/TOF) and ion trap/orbitrap (IT/orbitrap) mass spectrometers.
 
 
 ## Related Links
