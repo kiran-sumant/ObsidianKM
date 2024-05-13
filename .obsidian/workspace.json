@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Literature Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -217,21 +217,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+    "Academic/Literature Review.md",
+    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/ESI.md",
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection 1.md",
     "Academic/Academic notes/MALDI-ToF.md",
     "Academic/Literature Notes/MALDI.md",
     "Academic/Academic notes/IMS.md",
     "Academic/Literature Notes/25.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Literature Notes/bottom-up proteomics.md",
     "Academic/Academic notes/PGC-LC-MSMS.md",
     "Academic/Literature Notes/top-down proteomics.md",
     "Academic/Academic notes/proteoforms.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "Journals/Research Project Showcase.md",
     "Academic/Honours.md",
@@ -243,9 +246,6 @@
     "Academic/Academic notes/labile.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "-Support/Cheat Sheet.md",
-    "Academic/Academic notes/DDA.md",
-    "Academic/Academic notes/DIA.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",

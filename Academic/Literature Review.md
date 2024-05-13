@@ -42,23 +42,23 @@
 
 [[Protein glycosylation investigated by mass spectrometry an overview]] $\checkmark$ 
 
-1. [[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry 1]] $\checkmark$ 
+1. [[Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry]] $\checkmark$ 
 
-2. [[Mass-spectrometric exploration of proteome structure and function 1]] $\checkmark$ 
+2. [[Mass-spectrometric exploration of proteome structure and function]] $\checkmark$ 
 
 3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]] $\checkmark$ 
 
-4. [[Post-translational Modifications and Mass Spectrometry Detection 1]]
+4. [[Post-translational Modifications and Mass Spectrometry Detection]]
 
 5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
 
-6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes 1]]
+6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
 
 8. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation]]
 
 9. [[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]
 
-10. [[Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry 1]]
+10. [[Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
 ## Notch Signalling Pathway
 
