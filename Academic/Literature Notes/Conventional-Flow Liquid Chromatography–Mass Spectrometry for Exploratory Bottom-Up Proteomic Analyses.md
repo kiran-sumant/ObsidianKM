@@ -10,7 +10,11 @@
 
 > [!example] Results 
 > 1. Evidence of peak width decrease with increase in elution speed seen (2.1s to 2.0s from 102-136μL/min), *but* **peak intensities decrease** with faster flow rates.
+> 2. Increase in column length yielded above-benchmark performance in data, allowing for analysis identifying more proteins.
+> 3. 
+> 
 > >[!quote]
+> >1. "The trend suggested that the separation efficiency could be further improved. On the other hand, despite adjusted desolvation parameters, the peak MS intensities decreased with faster flow rates due to the concentration-dependent behavior of the HESI-II source."
 
 
 
