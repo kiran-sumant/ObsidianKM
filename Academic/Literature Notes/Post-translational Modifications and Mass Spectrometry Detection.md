@@ -86,6 +86,8 @@ Another Lit review BRUHH
 > >[!quote]-
 > >Depending on the purpose of the enrichment technique, two main approaches have been used ([Fig. 1](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#f0005)): enrichment at the protein level, or enrichment at the peptide level after digestion of whole [protein lysates](https://www.sciencedirect.com/topics/medicine-and-dentistry/protein-hydrolysate "Learn more about protein lysates from ScienceDirect's AI-generated Topic Pages") with [proteases](https://www.sciencedirect.com/topics/medicine-and-dentistry/proteinase "Learn more about proteases from ScienceDirect's AI-generated Topic Pages").
 
+## Glycosylation
+- 
 
 
 ## Related Links
