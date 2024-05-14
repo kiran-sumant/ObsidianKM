@@ -69,8 +69,19 @@ Another Lit review BRUHH
 > 
 > > [!quote]-
 > > "Unless targeted approaches are used, the characterization of PTMs using MS/MS data involves exhaustive searches of all potential combinations of mass shift for each identified peptide from a [protein database](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protein-database "Learn more about protein database from ScienceDirect's AI-generated Topic Pages") [102](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib102), [103](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib103),[104](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib104)."
+> > 
 > > "Other approaches use consensus-based approaches, combining several signature recognition methods to scan a given query protein sequence against observed protein signatures [104](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib104)."
 
+> [!quote] 
+> "Advances in proteomics offer much to biological discovery. However, the realization of the full potential of technological advances will require concurrent intensive efforts on the computational front."
+> > [!summary]- Reference
+> > [Data analysis—the Achilles heel of proteomics](https://www.nature.com/articles/nbt0303-221)
+> > *Patterson, S. D. (2003). Data analysis—the Achilles heel of proteomics. _Nature biotechnology_, _21_(3), 221-222.*
+
+> [!example] Chemical Proteomics for PTM Analysis
+> 
+> >[!quote]-
+> >
 
 
 
