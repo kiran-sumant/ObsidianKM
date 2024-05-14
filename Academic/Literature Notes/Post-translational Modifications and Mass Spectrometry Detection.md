@@ -63,8 +63,12 @@ Another Lit review BRUHH
 
 > [!example] Data analysis for PTM detection
 > - (High-throughput) gives access to **simultaneous identification** of 1000s of ==modded peptides==
+> - Workflow tasks include: **data processing, analysis, presentation**.
+> - (*unless using targetred approach*) Usuallt **all PTM/peptide/residue* mass shifts** are searched for reach identified peptide in a protein database; ==computationally heavy==.
 > - 
+> 
 > > [!quote]-
+> > "Unless targeted approaches are used, the characterization of PTMs using MS/MS data involves exhaustive searches of all potential combinations of mass shift for each identified peptide from a [protein database](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/protein-database "Learn more about protein database from ScienceDirect's AI-generated Topic Pages") [102](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib102), [103](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib103),[104](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib104)."
 
 
 
