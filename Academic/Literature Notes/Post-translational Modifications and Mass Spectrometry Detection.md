@@ -62,7 +62,8 @@ Another Lit review BRUHH
 > >Similarly to ECD, the neutral loss of labile PTMs is not the preferred fragmentation pathway (reviewed in [63]), particularly in phosphorylated and glycated peptides [64]. Several studies have shown that there is little overlap in peptide identifications between ETD and CID.
 
 > [!example] Data analysis for PTM detection
-> 
+> - (High-throughput) gives access to **simultaneous identification** of 1000s of ==modded peptides==
+> - 
 > > [!quote]-
 
 
