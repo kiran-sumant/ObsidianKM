@@ -79,7 +79,7 @@ Another Lit review BRUHH
 > > *Patterson, S. D. (2003). Data analysis—the Achilles heel of proteomics. _Nature biotechnology_, _21_(3), 221-222.*
 
 > [!example] Chemical Proteomics for PTM Analysis
-> 
+> - Sample complexity in bottom-down proteomics results in 
 > >[!quote]-
 > >
 
