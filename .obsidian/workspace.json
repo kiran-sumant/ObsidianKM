@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+                "file": "Academic/Seminars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+                "file": "Academic/Seminars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md",
+                "file": "Academic/Seminars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-05-09.md"
+                "file": "Academic/Seminars.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "Academic/Seminars.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
@@ -244,7 +245,6 @@
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Projects/Project(s).md",
-    "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "Academic/Academic notes/labile.md",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
