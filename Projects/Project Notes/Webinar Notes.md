@@ -37,14 +37,19 @@ Translating my academic skills to a non-academic career interview:
 | Time is for gathering<br>publishable data or<br>exploratory research | Decisions made taking into<br>account the bigger picture &<br>business goals of organisation |
 | Collegiate, knowledge sharing                                        | Commercial-in-confidence                                                                     |
 
-## Behavoural Question
+## Behavoural Questions
 
 - Describe a situation when you needed to persuade others to take up your idea? How did you convince them to agree with you?
 - Can you give an example when you have taken the initiative to make an improvement to a process?
 - Tell us about a situation in which you had to adjust to changes over which you had no control. How did you handle it?
 - Describe a situation where you were faced with competing demands to multiple deadlines. How did you manage your workload?
 
+## Situational Questions (most common in finance)
 
+- Questions are developed around the **competencies being assessed**
+- ==Take your time== to think about your answer
+- Tell the interviewer what **assumptions** you are **making**
+- In your answer include ==WHAT== you would do and ==WHY== you would do it that way
 
 
 
