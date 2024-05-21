@@ -29,13 +29,13 @@ Translating my academic skills to a non-academic career interview:
 ![[Pasted image 20240521133000.png]]
 
 
-| Academic environment<br><br><br><br>- Innovation time sensitive, first to<br>market, ahead of the curve<br>- Using data as actionable<br>intelligence<br>- Projects aimed at generating<br>revenue<br><br>- Decisions made taking into<br>account the bigger picture &<br>business goals of organisation<br> | Industry environment       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| - Long innovation cycles                                                                                                                                                                                                                                                                                     |                            |
-| - Using data to support<br>hypothesis                                                                                                                                                                                                                                                                        |                            |
-| - Projects (usually) aimed at<br>generating knowledge, not<br>revenue                                                                                                                                                                                                                                        |                            |
-| - Time is for gathering<br>publishable data or<br>exploratory research<br>- Collegiate, knowledge sharing                                                                                                                                                                                                    |                            |
-|                                                                                                                                                                                                                                                                                                              | - Commercial-in-confidence |
+| Academic environment                                                 | Industry environment                                                                         |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Long innovation cycles                                               | Innovation time sensitive, first to<br>market, ahead of the curve                            |
+| Using data to support<br>hypothesis                                  | Using data as actionable<br>intelligence                                                     |
+| Projects (usually) aimed at<br>generating knowledge, not<br>revenue  | Projects aimed at generating<br>revenue                                                      |
+| Time is for gathering<br>publishable data or<br>exploratory research | Decisions made taking into<br>account the bigger picture &<br>business goals of organisation |
+| Collegiate, knowledge sharing                                        | Commercial-in-confidence                                                                     |
 
 
 
