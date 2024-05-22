@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+                "file": "Academic/Academic notes/Post-hoc analyses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+                "file": "Academic/Academic notes/Post-hoc analyses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+                "file": "Academic/Academic notes/Post-hoc analyses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md"
+                "file": "Academic/Academic notes/Post-hoc analyses.md"
               }
             }
           },
@@ -216,8 +216,11 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Self Learning/Data Science.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/Post-hoc analyses.md",
+    "Self Learning/Data Science.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Pasted image 20240521133000.png",
     "-Support/Graphics/Pasted image 20240521132153.png",
@@ -241,9 +244,6 @@
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
-    "Academic/Literature Notes/ESI.md",
-    "Academic/Academic notes/MALDI-ToF.md",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
