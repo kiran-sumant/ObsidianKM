@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Webinar Notes.md",
+                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Webinar Notes.md",
+                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Webinar Notes.md",
+                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/Webinar Notes.md"
+                "file": "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md"
               }
             }
           },
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +216,12 @@
   },
   "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
+    "Self Learning/Data Science.md",
+    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+    "Projects/Project Notes/Webinar Notes.md",
     "Pasted image 20240521133000.png",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "Projects/Project Notes/My Employment.md",
-    "Projects/Project Notes/Webinar Notes.md",
     "Projects/Project(s).md",
     "Journals/Research Project Showcase.md",
     "Journals/Mid-year Oral Presentation.md",
@@ -241,7 +244,6 @@
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "Academic/Literature Notes/ESI.md",
     "Academic/Academic notes/MALDI-ToF.md",
-    "Academic/Literature Notes/MALDI.md",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
@@ -253,7 +255,6 @@
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Pasted image 20240403115422.png",
-    "Pasted image 20240403115409.png",
     "Academic/Literature Notes",
     "PGC-LC-MS",
     "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
