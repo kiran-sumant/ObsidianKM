@@ -94,8 +94,10 @@ Another Lit review BRUHH
 
 
 > [!important] Glycosylation in Physiological States
-> Interrelation is still poorly understood.
-> Currently in the process of ==glycoprotein and glycopeptide characterisation==.
+> - Interrelation is still poorly understood.
+> - Currently in the process of ==glycoprotein and glycopeptide characterisation==.
+> - In this case, Physiological state refers to **internal** and **external** changes of the environment that affect the internal biochemistry of an organism/ cell system.
+> 
 > >[!quote]-
 > > the underlying interrelation between this PTM and [physiological states](https://www.sciencedirect.com/topics/medicine-and-dentistry/physiological-state "Learn more about physiological states from ScienceDirect's AI-generated Topic Pages") is still poorly understood and extensive research aimed at glycoprotein/glycopeptide characterization has been conducted, mainly with the aid of MS methodologies [144](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib144), [145](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib145), [146](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib146), [147](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib147).
 
