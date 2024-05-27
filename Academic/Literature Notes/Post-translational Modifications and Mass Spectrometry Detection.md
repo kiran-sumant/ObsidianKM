@@ -111,6 +111,15 @@ Another Lit review BRUHH
 | β-1,4 glycosidic bond                                                                                     | α-O-glycosidic bond                                                                                            |
 | ==Co-translational Modification==, occurs **during protein synth**                                        | ==Post-translational Modification==, occurs **after protein synth** and sometimes even *after protein folding* |
 | Functions usually for protein ==localisation== and ==secretion==. also immunogenicity and immune response | Involved in inter-cellular interactions, ==signal transduction== and sometimes in response to viral infection. |
+| Analysis based on **hydrazide chemistry**                                                                 | Largely utilises **lectins** for characterisation, bound to sepharose, agarose etc.                            |
+
+
+> [!quote]
+> 
+
+
+In the case of glycosylation PTMs, ==enrichment method== is **highly dependent** on the ==type of glycan being studied.==
+
 
 
 ## Related Links
