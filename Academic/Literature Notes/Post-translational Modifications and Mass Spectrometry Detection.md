@@ -107,7 +107,7 @@ Another Lit review BRUHH
 | Sugar molecule is covalently attached to the **nitrogen atom** of an ==asparagine residue== | Sugar molecule is covalently attached to the **oxygen atom** of a ==serine== or ==threonine== residue |
 | Process usually happens in the ==ER== and ==Golgi apparatus==.                              | Process occurs mostly within the ==Golgi apparatus== (FUT10 and FUT11 excluded)                       |
 | Sugar core stucture is ==high mannose core==                                                | More diverse core stuctures seen (core 1,2,3)                                                         |
-|                                                                                             | Usually only a                                                                                        |
+| Protein can exhibit **multiple glycan structures**                                          | Usually only a **single sugar residue added** to the ==AA residue==                                   |
 
 
 ## Related Links
