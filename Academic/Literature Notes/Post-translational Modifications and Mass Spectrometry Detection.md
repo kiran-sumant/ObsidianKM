@@ -90,7 +90,15 @@ Another Lit review BRUHH
 
 - One of most complex PTMs
 - Plays roles in **protein stability, folding, solubility**
-- Instrumental in some **Cell process modulation** ()
+- Instrumental in some **Cell process modulation** (e.g- ==cell adhesion, differentiation==)
+
+
+> [!important] Glycosylation in Physiological States
+> Interrelation is still poorly understood.
+> Currently in the process of ==glycoprotein and glycopeptide characterisation==.
+> >[!quote]-
+> > the underlying interrelation between this PTM and [physiological states](https://www.sciencedirect.com/topics/medicine-and-dentistry/physiological-state "Learn more about physiological states from ScienceDirect's AI-generated Topic Pages") is still poorly understood and extensive research aimed at glycoprotein/glycopeptide characterization has been conducted, mainly with the aid of MS methodologies [144](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib144), [145](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib145), [146](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib146), [147](https://www.sciencedirect.com/science/article/pii/S089158491300587X?casa_token=Ex3_B9syPoUAAAAA:5UB5T-5fddnUqjoK87fSncyZkz_o63vWzHbsg7micJ5ycmj5meaGtNoTy9PXJnfzHeyGA4dI#bib147).
+
 
 
 ## Related Links
