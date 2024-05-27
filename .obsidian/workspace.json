@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Post-hoc analyses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Post-hoc analyses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Academic/Academic notes/Post-hoc analyses.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,12 +210,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "686594ac5ecdaa88",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
+    "Academic/Academic notes/Post-hoc analyses.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Academic/Academic notes/Post-hoc analyses.md",
     "Self Learning/Data Science.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Pasted image 20240521133000.png",
