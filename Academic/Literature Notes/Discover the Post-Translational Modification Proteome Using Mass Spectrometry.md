@@ -33,8 +33,11 @@
 > - Easy to elucidate glycan structure
 > - Hard to find glycosylation sites in relation to protein sequence
 > - ETD-MS methods help here
-> - 
+> - Using ==mass defect labels== to indigate desired target groups can help with **targeted fragmentation** of low-abundance glycopeptide types.
+> 
 > >[!quote]-
+> >- "Therefore, intact glycopeptide analysis is essential to enable comprehensively profile N-glycoproteome. Recently, we developed an efficient ETD-MS approach to achieve site-specific and comprehensive N-glycosylation analysis.[34](https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.202000515?casa_token=DDRr73PXckgAAAAA%3A-AG2zXpbYebTHEB-LRE-wa5mtyibzf5lRUBx7jjq-YlI9ILLG7DkQvq_sQ-DLLSuLI1kFCrB3Yyjrf4#cjoc202000515-bib-0034)"
+> >- "Moreover, using a mass defect- label to indicate the sialylglycopeptides (SGPs), we achieved targeted fragmentation of these extremely low abundance SGPs in serum sample, making the ultrasensitive identification of intact SGPs possible.[35](https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.202000515?casa_token=DDRr73PXckgAAAAA%3A-AG2zXpbYebTHEB-LRE-wa5mtyibzf5lRUBx7jjq-YlI9ILLG7DkQvq_sQ-DLLSuLI1kFCrB3Yyjrf4#cjoc202000515-bib-0035)"
 
 
 ## Related Links
