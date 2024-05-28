@@ -48,7 +48,7 @@
 
 3. [[Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses]] $\checkmark$ 
 
-4. [[Post-translational Modifications and Mass Spectrometry Detection]]
+4. [[Post-translational Modifications and Mass Spectrometry Detection]] $\checkmark$ 
 
 5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
 
