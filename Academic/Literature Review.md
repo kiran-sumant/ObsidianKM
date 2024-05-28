@@ -52,7 +52,7 @@
 
 5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]] $\checkmark$ 
 
-6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
+6. ~~[[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]~~
 
 8. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation]]
 
