@@ -21,9 +21,12 @@
 
 > [!example] Limitations in context of PTMs
 > - PTMs characterised by **low abundance, low stoichiometry** and **wide dynamic range**
-> - -> PRM main challenge is our confidence to identify and utilise them
-> - 
+> - -> PTM main challenge is our confidence to identify them, due to **interference**
+> - Low abundance PTMs need better MS methods for quant and qual analysis.
+> - Also PTM proteome can be **enriched** based on PTM category properties (==hydrophobicity, charge density, lability==)
+> 
 > > [!quote]- 
+> > "Due to the low abundance of most PTMs proteins/peptides, the analysis of modified proteins/peptides is usually interfered by non-modified proteins/peptides. Therefore, it is still urgent to develop new mass spectrometry related methods to achieve more reliable qualitative and quantitative analysis of low abundance PTMs.[7](https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.202000515?casa_token=DDRr73PXckgAAAAA%3A-AG2zXpbYebTHEB-LRE-wa5mtyibzf5lRUBx7jjq-YlI9ILLG7DkQvq_sQ-DLLSuLI1kFCrB3Yyjrf4#cjoc202000515-bib-0007)"
 > > 
 
 
