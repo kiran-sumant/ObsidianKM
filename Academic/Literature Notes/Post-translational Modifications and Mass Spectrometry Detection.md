@@ -125,7 +125,7 @@ In the case of glycosylation PTMs, ==enrichment method== is **highly dependent**
 # Conclusion
 - Although current technology is still unable to offer a cimplete view of the modified proteome, recent experimental advances -> exploring interrelationships between PTMs and functions in systems.
 - **Simultaneous large scale proteomic identification** may be necessary for studying the role of PTMs in global physiology. Best to investigate for ==pathophysiologies== to **address data deficiencies.**
-- Need platforms for integrating information, curating data and centralising PTM information in order to organise and apply exis
+- Need platforms for integrating information, curating data and centralising PTM information in order to organise and apply existing PTM findings and characterisations.
 
 ## Related Links
 
