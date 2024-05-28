@@ -30,7 +30,10 @@
 > > 
 
 > [!example] Glycosylation/Glycomics 
-> 
+> - Easy to elucidate glycan structure
+> - Hard to find glycosylation sites in relation to protein sequence
+> - ETD-MS methods help here
+> - 
 > >[!quote]-
 
 
