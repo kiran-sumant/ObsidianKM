@@ -19,6 +19,13 @@
 > > </br>
 > >- "The development of proteomics technology, especially the improvement in sensitivity, speed, and throughput of mass spectrometry, has now enabled proteome-wide characterization of some types of PTMs, and shed light on the importance of many PTMs in controlling protein functions and signaling networks.[5](https://onlinelibrary.wiley.com/doi/full/10.1002/cjoc.202000515?casa_token=DDRr73PXckgAAAAA%3A-AG2zXpbYebTHEB-LRE-wa5mtyibzf5lRUBx7jjq-YlI9ILLG7DkQvq_sQ-DLLSuLI1kFCrB3Yyjrf4#cjoc202000515-bib-0005)"
 
+> [!example] Limitations in context of PTMs
+> - PTMs characterised by **low abundance, low stoichiometry** and **wide dynamic range**
+> - -> PRM main challenge is our confidence to identify and utilise them
+> - 
+> > [!quote]- 
+> > 
+
 
 
 
