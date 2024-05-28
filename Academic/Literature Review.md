@@ -50,7 +50,7 @@
 
 4. [[Post-translational Modifications and Mass Spectrometry Detection]] $\checkmark$ 
 
-5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]]
+5. [[Discover the Post-Translational Modification Proteome Using Mass Spectrometry]] $\checkmark$ 
 
 6. [[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]
 
