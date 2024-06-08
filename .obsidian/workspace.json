@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/ETD vs EAD vs CID vs CAD.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/ETD vs EAD vs CID vs CAD.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/ETD vs EAD vs CID vs CAD.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/ETD vs EAD vs CID vs CAD.md"
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md"
               }
             }
           },
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +221,7 @@
   "lastOpenFiles": [
     "Academic/Academic notes/ETD.md",
     "Academic/Literature Notes/EAD.md",
-    "Academic/Literature Notes/ETD vs EAD vs CID vs CAD.md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "-Support/Templates/Key Differences.md",
     "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
