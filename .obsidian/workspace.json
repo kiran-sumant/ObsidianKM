@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Self Learning/Learn Notes/Callout list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Self Learning/Learn Notes/Callout list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md"
+                "file": "Self Learning/Learn Notes/Callout list.md"
               }
             }
           },
@@ -218,11 +219,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "2253277d7dc07b73",
   "lastOpenFiles": [
+    "Journals/Research Project Showcase.md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Academic notes/ECD.md",
     "Academic/Literature Notes/EAD.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Academic notes/ETD.md",
     "-Support/Templates/Key Differences.md",
     "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
@@ -232,7 +234,6 @@
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/glycosylation.md",
-    "Journals/Research Project Showcase.md",
     "Academic/Academic notes/Project Showcase.md",
     "Academic/Academic notes/Post-hoc analyses.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
