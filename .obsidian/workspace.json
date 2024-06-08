@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Notes/EAD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "showcase",
+                "query": "eieio",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md"
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md"
               }
             }
           },
@@ -219,23 +218,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2253277d7dc07b73",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
-    "Journals/Research Project Showcase.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
-    "Academic/Academic notes/ECD.md",
     "Academic/Literature Notes/EAD.md",
+    "Academic/Academic notes/Post-hoc analyses.md",
+    "Academic/Academic notes/Project Showcase.md",
+    "Journals/Research Project Showcase.md",
+    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Academic/Academic notes/ECD.md",
     "Academic/Academic notes/ETD.md",
     "-Support/Templates/Key Differences.md",
     "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
-    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/glycosylation.md",
-    "Academic/Academic notes/Project Showcase.md",
-    "Academic/Academic notes/Post-hoc analyses.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
@@ -248,7 +248,6 @@
     "Journals/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
-    "Projects/Addiction.md",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
