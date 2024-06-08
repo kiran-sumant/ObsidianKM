@@ -6,7 +6,13 @@ PTM analysis remains challenging in 2023 due to potential low PTM stoichiometry,
 
 CID is commonly used, but results in ==neutral loss== and ==incomplete peptide sequencing==.
 
-Article focuses on [[EAD]] 
+Article focuses on [[EAD]] for PTM characterisation, site localisaiton, and peptide quantification.
+
+Uses PRM for final analyses.
+
+Finds "electron-based fragmentation preserves the malonyl group from neutral losses" where malonyl is a highly labile PTM.
+
+
 
 
 
