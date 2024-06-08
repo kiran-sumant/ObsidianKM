@@ -1,10 +1,11 @@
-| ETD                                                                                                                        | EAD | CID | ECD |
-| -------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-| Interactions btwn ==gas-phase ions== and ==free low-energy electrons==. Fragmentation induced by electron energy transfer. |     |     |     |
-| Commonly used for **PTM analysis**, glycopeptide characterisation, and **protein sequencing**                              |     |     |     |
-| Problematic for small molecules/singly charged ions.                                                                       |     |     |     |
-|                                                                                                                            |     |     |     |
-|                                                                                                                            |     |     |     |
+| CID                                                                                   | ECD | ETD                                                                                                                        | EAD |
+| ------------------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------------------------------------- | --- |
+| Collision-Induced Dissociation/ *collision activated dissociation*                    |     |                                                                                                                            |     |
+|                                                                                       |     | Interactions btwn ==gas-phase ions== and ==free low-energy electrons==. Fragmentation induced by electron energy transfer. |     |
+| Commonly used in **omics** and **peptide mapping**.                                   |     | Commonly used for **PTM analysis**, glycopeptide characterisation, and **protein sequencing**                              |     |
+| MS spectra pased off trypsin digests tend to be ==dominated== by **==y-ion series==** |     |                                                                                                                            |     |
+|                                                                                       |     | Problematic for small molecules/singly charged ions.                                                                       |     |
+
 
 
 #definition #mass-spectrometry 
