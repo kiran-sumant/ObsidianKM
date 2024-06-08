@@ -2,7 +2,11 @@
 
 PTMs are "diverse, dynamic and cruicial to large variety of cellular processes and signalling".
 
-PTM analysis remains challenging in 2023 due to potential low PTM stoichiometry, neutral loss, iso
+PTM analysis remains challenging in 2023 due to potential low PTM stoichiometry, neutral loss, multiple PTMs per proteolytic peptide.
+
+CID is commonly used, but results in ==neutral loss== and ==incomplete peptide sequencing==.
+
+Article focuses on [[EAD]] 
 
 
 
