@@ -54,9 +54,9 @@
 
 6. ~~[[Mass spectrometry-based candidate substrate and site identification of PTM enzymes]]~~
 
-8. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation]]
+8. [[Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation]] $\checkmark$ 
 
-9. [[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]
+9. ~~[[Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis]]~~
 
 10. [[Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry]]
 
