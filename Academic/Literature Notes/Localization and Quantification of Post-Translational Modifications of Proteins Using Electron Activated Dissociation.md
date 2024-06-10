@@ -23,8 +23,8 @@ Demonstrates high reproducability, quantification accuracy and stronger peptide 
 
 ![[Pasted image 20240610123145.png]]
 
-> [!statement] 
-> 
+> [!statement] Introduction
+> EAD fragmentation on a quadrupole-time-of-flight [[Q-ToF]] Mass spec, analysing peptides with following PTMs: malonyl,succinate
 > >[!quote]
 
 
