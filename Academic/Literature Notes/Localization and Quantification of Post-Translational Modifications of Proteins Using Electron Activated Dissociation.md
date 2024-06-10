@@ -36,10 +36,14 @@ ZenoTOF 7600 mentioned!!!!!!!!!!!! REEEEEEEEEEEEE
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Preservation of Labile PTMs and Neutral Loss mitigation | Used a ==synthetic malonylated peptide==, position known at K-192, compared analysis between **EAD-PRM** and **CID PRM** | ==EAD== did **not** have significant neutral loss ***->*** **confident PTM site ID**. CID though sig **loss CO2** ***->*** malonyl decarboxylation ***->*** **mistakes malonyl for acetyl** (malonyl-44m/z) |
 | Optimisation of EAD fragmentation                       | Malonyl peptide fragmentation performed with KE ranging 0-11 eV.                                                         | KE 5 eV showed most strongest intact PTM intensity of site-spectific ions, with minimal noise. over 8 eV showed CO2 neutral loss from malonyl.                                                              |
-| Quantification of Phosphopeptide Isomers                | Used two isomeric phosphopeptides with different phosphate locations (S-56 and S)                                        |                                                                                                                                                                                                             |
+| Quantification of Phosphopeptide Isomers                | Used two isomeric phosphopeptides with different phosphate locations (S-56 and S-59)                                     |                                                                                                                                                                                                             |
 
 > [!info] Note
 > While [[EAD]] can tune electron kinetic energy, [[ETD]] ==does not and can not==. Speaks to versatility.
+
+
+> [!info] Note for CID
+> When **PTM site** is ==closer== to the ==C-terminus== (higher residue number), there are ==less peptides available== to identify and locate the PTM site. as **y-ions are the only ions with reliable info** in **CID** -> PTM closer to C-terminus more difficult to detect with confidence. 
 
 
 
