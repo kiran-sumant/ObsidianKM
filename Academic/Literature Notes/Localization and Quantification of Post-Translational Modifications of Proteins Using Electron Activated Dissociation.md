@@ -12,7 +12,7 @@ Uses PRM for final analyses.
 
 Finds "electron-based fragmentation preserves the malonyl group from neutral losses" where malonyl is a highly labile PTM.
 
-
+Demonstrates high reproducability, quantification accuracy and stronger peptide sequence coverage.
 
 
 
@@ -20,6 +20,8 @@ Finds "electron-based fragmentation preserves the malonyl group from neutral los
 
 
 # Details/Quotes
+
+![[Pasted image 20240610123145.png]]
 
 > [!statement] 
 > 
