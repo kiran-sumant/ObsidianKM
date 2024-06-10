@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Literature Notes/EAD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md"
+                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md"
               }
             }
           },
@@ -200,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +217,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "686594ac5ecdaa88",
+  "active": "371c24f44045e46e",
   "lastOpenFiles": [
-    "Pasted image 20240610133820.png",
     "Academic/Literature Notes/EAD.md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+    "Pasted image 20240610133820.png",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
@@ -230,7 +229,6 @@
     "Academic/Academic notes/Post-hoc analyses.md",
     "Academic/Academic notes/Project Showcase.md",
     "Journals/Research Project Showcase.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Academic notes/ECD.md",
     "Academic/Academic notes/ETD.md",
     "-Support/Templates/Key Differences.md",
@@ -257,7 +255,6 @@
     "-Support/Graphics/cells-09-01986-g002.jpg",
     "-Support/Graphics/Pasted image 20240417102304.png",
     "-Support/Graphics/Pasted image 20240416154656.png",
-    "-Support/Graphics/Pasted image 20240416153514.png",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes",
