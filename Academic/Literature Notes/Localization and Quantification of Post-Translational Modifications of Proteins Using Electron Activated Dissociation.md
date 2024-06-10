@@ -38,7 +38,7 @@ ZenoTOF 7600 mentioned!!!!!!!!!!!! REEEEEEEEEEEEE
 | Optimisation of EAD fragmentation                       | Malonyl peptide fragmentation performed with KE ranging 0-11 eV.                                                         | KE 5 eV showed most strongest intact PTM intensity of site-spectific ions, with minimal noise. over 8 eV showed CO2 neutral loss from malonyl.                                                              |
 
 > [!info] Note
-> While [[EAD]] can tune electron kinetic energy, [[ETD]] ==does not and can not==
+> While [[EAD]] can tune electron kinetic energy, [[ETD]] ==does not and can not==. Speaks to versatility.
 
 
 
