@@ -1,3 +1,5 @@
+# Method Table
+
 | CID                                                                                                                                | HCD                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Collision-Induced Dissociation/ *collision activated dissociation*                                                                 | Higher energy C-trap Dissociation                                                                                                             |
@@ -17,5 +19,10 @@
 | Slower scan-rate compared to CID. **Inefficient due to sensitivity limitations**. Slower and lower signal due to large array of fragments created.                                        | Utilised in **Time-of-Flight** systems                                                                                                              | Zeno-ToF 7600                                                                                                              |
 
 [[EAD]] is [[ECD]]
+
+# abc/xyz ions
+
+
+
 
 #definition #mass-spectrometry 

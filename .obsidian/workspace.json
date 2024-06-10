@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/EAD.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md"
+                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md"
               }
             }
           },
@@ -218,13 +219,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "686594ac5ecdaa88",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Callout list.md",
+    "Academic/Literature Notes/EAD.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
-    "Academic/Literature Notes/EAD.md",
     "Academic/Academic notes/Post-hoc analyses.md",
     "Academic/Academic notes/Project Showcase.md",
     "Journals/Research Project Showcase.md",
