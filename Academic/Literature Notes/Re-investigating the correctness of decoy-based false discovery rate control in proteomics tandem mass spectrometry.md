@@ -1,6 +1,8 @@
 # Main Idea of Thesis
 
-Open modification database search strategies
+Open modification database search strategy:- Relaxes the rigidity of peptide mass matching to observed precursor.
+
+Based on 
 
 
 
