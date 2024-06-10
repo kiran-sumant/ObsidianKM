@@ -24,11 +24,11 @@
 
 ![[Pasted image 20240610133820.png]]
 
-**a/x:** Fragments at bond between 
+**a/x:** Fragments at ==bond== between **$\alpha$-carbon** and **carboxyl carbon**
 
-**b/y:** Fragments at peptide bond
+**b/y:** Fragments at ==peptide bond==
 
-**c/z:**
+**c/z:** Fragments at ==bond== between **$\alpha$-carbon** and **amine nitrogen**
 
 
 #definition #mass-spectrometry 
