@@ -12,7 +12,10 @@ Finds that "==GPAGPOGPX== sequences ==in== **collagens I, II, and III**" enhance
 
 > [!example] Methods 
 > - Blood collection
-> - Glycoprot analysis: used SDS-pPAGE
+> - Glycoprotein analysis: used SDS-PAGE and ELISA.
+> - Intravital microscopy
+> - Recombinant MMRN1
+> - Protein Binding Assays: testing ==binding of rMMRN1== to ==immobilised human fibrinogen (FG)== (with and without thrombin pretreatment to induce fibrin formation)
 > >[!quote]
 
 
