@@ -35,7 +35,11 @@ ZenoTOF 7600 mentioned!!!!!!!!!!!! REEEEEEEEEEEEE
 | What is Investigated                                    | How it's Investigated                                                                                                    | Result                                                                                                                                                                                                      |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Preservation of Labile PTMs and Neutral Loss mitigation | Used a ==synthetic malonylated peptide==, position known at K-192, compared analysis between **EAD-PRM** and **CID PRM** | ==EAD== did **not** have significant neutral loss ***->*** **confident PTM site ID**. CID though sig **loss CO2** ***->*** malonyl decarboxylation ***->*** **mistakes malonyl for acetyl** (malonyl-44m/z) |
-| Optimisation of EAD fragmentation                       | Malonyl peptide                                                                                                          |                                                                                                                                                                                                             |
+| Optimisation of EAD fragmentation                       | Malonyl peptide fragmentation performed with KE ranging 0-11 eV.                                                         | KE 5 eV showed most strongest intact PTM intensity of site-spectific ions, with minimal noise. over 8 eV showed CO2 neutral loss from malonyl.                                                              |
+
+> [!info] Note
+> While [[EAD]] can tune electron kinetic energy, [[ETD]] ==does not and can not==
+
 
 
 
