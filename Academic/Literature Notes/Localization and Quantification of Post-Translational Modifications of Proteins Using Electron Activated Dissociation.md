@@ -32,6 +32,10 @@ Demonstrates high reproducability, quantification accuracy and stronger peptide 
 ZenoTOF 7600 mentioned!!!!!!!!!!!! REEEEEEEEEEEEE
 
 
+| What is Investigated                                    | How it's Investigated                                                                                                    | Result                                                                                                                                                                            |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preservation of Labile PTMs and Neutral Loss mitigation | Used a ==synthetic malonylated peptide==, position known at K-192, compared analysis between **EAD-PRM** and **CID PRM** | ==EAD== did **not** have significant neutral loss -> **confident PTM site ID**. CID though sig loss CO2 -> malonyl decarboxylation -> mistakes malonyl for acetyl (malonyl-44m/z) |
+
 
 
 ## Related Links
