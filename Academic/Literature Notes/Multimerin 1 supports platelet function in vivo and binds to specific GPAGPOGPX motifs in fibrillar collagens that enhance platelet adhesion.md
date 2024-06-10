@@ -12,10 +12,15 @@ Finds that "==GPAGPOGPX== sequences ==in== **collagens I, II, and III**" enhance
 
 > [!example] Methods 
 > - Blood collection
-> - Glycoprotein analysis: used SDS-PAGE and ELISA.
+> - **Glycoprotein analysis**: used SDS-PAGE and ELISA.
 > - Intravital microscopy
 > - Recombinant MMRN1
-> - Protein Binding Assays: testing ==binding of rMMRN1== to ==immobilised human fibrinogen (FG)== (with and without thrombin pretreatment to induce fibrin formation)
+> - **Protein Binding Assays**: testing ==binding of rMMRN1== to ==immobilised human fibrinogen (FG)== (with and without thrombin pretreatment to induce fibrin formation)
+> - Platelet adhesion under shear assay
+> - mouse platelet aggregation
+> - peptide synth
+> - static platelet adhesion assays
+> - **Statistical analysis**: 2-tail independent/paired Student's t-test for normal distributions. **Mann-Whitney U-test** used for ==non-normal distributions==.
 > >[!quote]
 
 
