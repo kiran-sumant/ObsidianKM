@@ -24,8 +24,12 @@ Demonstrates high reproducability, quantification accuracy and stronger peptide 
 ![[Pasted image 20240610123145.png]]
 
 > [!statement] Introduction
-> EAD fragmentation on a quadrupole-time-of-flight [[Q-ToF]] Mass spec, analysing peptides with following PTMs: malonyl,succinate
-> >[!quote]
+> EAD fragmentation on a quadrupole-time-of-flight [[Q-ToF]] Mass spec, analysing peptides with following PTMs: malonyl, succinyl, double malonyl acetyl, phosphate. 
+> Peptides are **identified**, PTM sites are **localised and quantified**. Results derived from ==PRM method==. 
+> >[!quote]-
+> >In this study, we present a first proof-of-concept of EAD fragmentation performed on a novel QqTOF mass spectrometer to analyze malonylated, succinylated, doubly malonylated-acetylated, and phosphorylated peptides. We assessed the performances of EAD versus CID to confidently and accurately identify, site localize, and quantify PTMs using the same MS platform to limit the varying factors to the fragmentation type. We analyzed a series of biologically relevant synthetic modified peptides using targeted parallel reaction monitoring (PRM or MRMHR) assays (32) performed on a QqTOF system ([Figure 1](https://pubs.acs.org/doi/full/10.1021/jasms.3c00144?casa_token=FSrZ2lIcPxMAAAAA%3AWptDQFWiwNZM34clc8Hxfn1crqskfTV0lWNWmtjiltMYg60eruKyTyU5ZuQGcH7DRY0LjFsOweFqwHA#fig1)). We explored a range of EAD KE values to determine optimal values, which keep labile modifications intact and provide comprehensive peptide fragmentation coverage, that generates strong PTM site-localizing ions, with a particular focus on malonylation and phosphorylation. We also investigated the capabilities of the trap-and-release technology to increase sensitivity when combined with EAD fragmentation.
+
+ZenoTOF 7600 mentioned!!!!!!!!!!!! REEEEEEEEEEEEE
 
 
 
