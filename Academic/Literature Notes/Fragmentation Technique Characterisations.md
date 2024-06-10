@@ -20,9 +20,15 @@
 
 [[EAD]] is [[ECD]]
 
-# abc/xyz ions
+# [[abc/xyz ions]]
 
+![[Pasted image 20240610133820.png]]
 
+**a/x:** Fragments at bond between 
+
+**b/y:** Fragments at peptide bond
+
+**c/z:**
 
 
 #definition #mass-spectrometry 
