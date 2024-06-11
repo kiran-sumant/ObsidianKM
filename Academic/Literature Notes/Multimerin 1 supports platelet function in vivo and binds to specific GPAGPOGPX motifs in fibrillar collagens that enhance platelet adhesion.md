@@ -21,7 +21,9 @@ Finds that "==GPAGPOGPX== sequences ==in== **collagens I, II, and III**" enhance
 > - peptide synth
 > - static platelet adhesion assays
 > - **Statistical analysis**: 2-tail independent/paired Student's t-test for normal distributions. **Mann-Whitney U-test** used for ==non-normal distributions==.
-> >[!quote]
+> 
+> >[!quote]-
+> >rMMRN1 binding to immobilized human FG (±pre‐treatment with 0.2 U/mL thrombin to induce fibrin formation), FN, or triple‐helical collagen peptides was evaluated based on methods described, [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7898486/#jth15171-bib-0006) using Immulon 2 HB flat‐bottom plates (Thermo Fisher Scientific) coated (overnight, 4°C) with 1 µg/well protein or peptide.
 
 
 
