@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "371c24f44045e46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "686594ac5ecdaa88",
             "type": "leaf",
             "state": {
@@ -71,8 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75f95d599478cf20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Research Project Showcase.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+                "file": "Journals/Research Project Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+                "file": "Journals/Research Project Showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md"
+                "file": "Journals/Research Project Showcase.md"
               }
             }
           },
@@ -243,20 +244,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "371c24f44045e46e",
+  "active": "75f95d599478cf20",
   "lastOpenFiles": [
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Journals/Deadlines.md",
+    "Academic/Honours.md",
     "Academic/Literature Review.md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+    "Academic/Literature Notes/EAD.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+    "-Support/Graphics/Pasted image 20240610133820.png",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Notes/EAD.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
-    "Pasted image 20240610133820.png",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
     "Academic/Academic notes/Post-hoc analyses.md",
@@ -272,8 +275,6 @@
     "Academic/Literature Notes/glycosylation.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Academic/Academic notes/Bonferroni.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Self Learning/Data Science.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
