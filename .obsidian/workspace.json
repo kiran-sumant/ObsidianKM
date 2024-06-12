@@ -226,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,9 +247,10 @@
   },
   "active": "75f95d599478cf20",
   "lastOpenFiles": [
+    "Academic/Literature Review.md",
+    "Journals/Research Project Showcase.md",
     "Journals/Deadlines.md",
     "Academic/Honours.md",
-    "Academic/Literature Review.md",
     "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Literature Notes/EAD.md",
     "Self Learning/Learn Notes/Callout list.md",
@@ -264,7 +266,6 @@
     "-Support/Graphics/Pasted image 20240521133000.png",
     "Academic/Academic notes/Post-hoc analyses.md",
     "Academic/Academic notes/Project Showcase.md",
-    "Journals/Research Project Showcase.md",
     "Academic/Academic notes/ECD.md",
     "Academic/Academic notes/ETD.md",
     "-Support/Templates/Key Differences.md",
