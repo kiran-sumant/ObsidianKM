@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "686594ac5ecdaa88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877b210910726e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831a5f0121d962ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2253277d7dc07b73",
             "type": "leaf",
             "state": {
@@ -65,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Review.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e950f0a7103338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2554952c1f063356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f33333ebe72f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Research Project Showcase.md"
+                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md"
               }
             }
           },
@@ -245,9 +245,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "75f95d599478cf20",
+  "active": "2554952c1f063356",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Literature Review.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
     "Journals/Research Project Showcase.md",
     "Journals/Deadlines.md",
     "Academic/Honours.md",
@@ -273,9 +276,6 @@
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
-    "Academic/Literature Notes/glycosylation.md",
-    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Academic/Academic notes/Bonferroni.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
