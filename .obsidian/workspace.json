@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+                "file": "Academic/Literature Review.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -246,6 +246,7 @@
   },
   "active": "75f95d599478cf20",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
@@ -263,7 +264,6 @@
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
-    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
     "Academic/Academic notes/Post-hoc analyses.md",
