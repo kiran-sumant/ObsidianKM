@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+                "file": "Journals/Research Project Showcase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eieio",
+                "query": "hypothe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+                "file": "Journals/Research Project Showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+                "file": "Journals/Research Project Showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md"
+                "file": "Journals/Research Project Showcase.md"
               }
             }
           },
@@ -220,12 +220,14 @@
   },
   "active": "be33c2bee1d77287",
   "lastOpenFiles": [
+    "Journals/Honours Aims and Hypotheses.md",
+    "Journals/Research Project Showcase.md",
+    "Journals/Mid-year Oral Presentation.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
-    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
-    "Journals/Research Project Showcase.md",
     "Journals/Deadlines.md",
     "Academic/Honours.md",
     "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
@@ -247,8 +249,6 @@
     "-Support/Templates/Key Differences.md",
     "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
     "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
-    "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
