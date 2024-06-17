@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Literature Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Research Project Showcase.md"
+                "file": "Academic/Literature Review.md"
               }
             }
           },
@@ -218,10 +218,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "be33c2bee1d77287",
+  "active": "75f95d599478cf20",
   "lastOpenFiles": [
-    "Journals/Honours Aims and Hypotheses.md",
     "Journals/Research Project Showcase.md",
+    "Journals/Honours Aims and Hypotheses.md",
     "Journals/Mid-year Oral Presentation.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Review.md",
