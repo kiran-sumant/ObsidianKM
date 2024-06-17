@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Fragmentation Technique Characterisations.md"
+                "file": "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md"
               }
             }
           },
@@ -221,6 +221,8 @@
   "active": "75f95d599478cf20",
   "lastOpenFiles": [
     "Academic/Literature Review.md",
+    "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "Journals/Research Project Showcase.md",
     "Journals/Honours Aims and Hypotheses.md",
@@ -231,7 +233,6 @@
     "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
     "Journals/Deadlines.md",
     "Academic/Honours.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Literature Notes/EAD.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
@@ -248,7 +249,6 @@
     "Academic/Academic notes/ETD.md",
     "-Support/Templates/Key Differences.md",
     "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",

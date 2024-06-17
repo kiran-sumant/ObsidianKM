@@ -15,6 +15,8 @@
 
 [[Protein glycosylation investigated by mass spectrometry an overview]]$\checkmark$ 
 
+[[Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11)]]
+
 **Reference for branch fucosylation products (see biorender figure)**: Fujita, Kazutoshi & Hatano, Koji & Hashimoto, Mamoru & Tomiyama, Eisuke & Miyoshi, Eiji & Nonomura, Norio & Uemura, Hirotsugu. (2021). Fucosylation in Urological Cancers. International Journal of Molecular Sciences. 22. 13333. 10.3390/ijms222413333. 
 
 ## [[Elastin Microfibril Interface (EMI)]]
