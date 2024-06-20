@@ -53,6 +53,12 @@ Simnple: ***direct generation of ozone and feeding into the ion trap***. LTQ, ca
 Ozone injection is a slow-low-tech experiment; ==***but it works***== : D
 Shows multiple isomers with different double bond locations. Three separate isomers for a lipid in human ocular lens tissue.
 
+We find that different methods of lipidome analysis have significantly different variance in quantification of lipid abundances of isomers.
+
+Tm (melting temp) was used in meta-analysis between isomers to compare properties
+
+Resolving sn-isomers; CID results in loss of the ??? group lmao
+if we cleave with ozonolysis shows structural locations of fatty acid chains in a phospholipi
 
 # What question did you ask and what was the answer?
 
