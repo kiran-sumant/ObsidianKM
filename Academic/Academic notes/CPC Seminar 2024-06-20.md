@@ -34,9 +34,12 @@ ESI-CID lipid isomer resolution: can still have same combo of fatty acids in a d
 
 Also having different stereochemistry? bruh.
 
-
+Activating C-C bonds to dissociation is the key to effective lipid structure elucidation. selective activation is what has to be researched
 
 ## What were the major methods used?
+ESI mass spec and ESI-CID-MS/MS
+Bridge the gap: move from partial view to individual and explicit molecular structure.
+
 
 
 ## What did the speaker discover?
