@@ -34,12 +34,17 @@ ESI-CID lipid isomer resolution: can still have same combo of fatty acids in a d
 
 Also having different stereochemistry? bruh.
 
-Activating C-C bonds to dissociation is the key to effective lipid structure elucidation. selective activation is what has to be researched
+Activating C-C bonds to dissociation is the key to effective lipid structure elucidation. selective activation is what has to be researched.
 
 ## What were the major methods used?
 ESI mass spec and ESI-CID-MS/MS
 Bridge the gap: move from partial view to individual and explicit molecular structure.
+***==Ozonolysis==***: attaches to double bonds, helps separate branches around a C=C. but how to figure out the original lipid?
 
+Simnple: ***direct generation of ozone and feeding into the ion trap***. LTQ, can change the time in exposure of ionised lipids. ==10 seconds is the magic reaction time==!
+
+Slow-low-tech experiment; ==***but it works***== : D
+Shows multiple isomers with different double bond locations. Three separate isomers for a lipid in human 
 
 
 ## What did the speaker discover?
