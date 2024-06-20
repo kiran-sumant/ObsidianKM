@@ -18,9 +18,17 @@ Aim: being able to ==differentiate== between all
 difficulty:
 genome doesnt predict lipid structure. so we need to rely almost entirely on LC/MS to elucidate lipid structures.
 
+Proteome has interactions btwn glycome, lipidome, and proteome. these interactions are studied in ==metabolomics== 
 
+Lipid Maps is most up to date structure database for lipids.
+48000 lipid discoveries recorded on the site; milestone recently passed
 
+Limited in MS to elucidate differences between isomers; there are so. many. isomers.
 
+Lipid variability comes mainly from glycerophospholipids.
+40 common fatty acids building blocks.
+
+with ESI-MS and
 
 ## What were the major methods used?
 
