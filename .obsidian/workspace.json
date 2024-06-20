@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "d63d1c7467baab61",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f61d9130be6de06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2253277d7dc07b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be33c2bee1d77287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Research Project Showcase.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e23911ee07fb17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fe9f87996c6f030",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb6c153e2f68fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34a1ffaf4c277d28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "732fa64c6c86c033",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "b/y",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fad33ff195624eed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e596113cbcf3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "31129330a3e5467e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe264a3c62864c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3af6764bc6b561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f485970caf03c75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "965b17fd74b3328a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "557c4e6e86dbac35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md"
+              }
+            }
+          },
+          {
+            "id": "acb2cc20f07d8589",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e76f2a64bf269f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "984c7fc1f6e10175",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "9e23911ee07fb17f",
+  "lastOpenFiles": [
+    "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+    "Academic/Literature Review.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
+    "Academic/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
+    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
+    "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
+    "Journals/Research Project Showcase.md",
+    "Journals/Honours Aims and Hypotheses.md",
+    "Journals/Mid-year Oral Presentation.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
+    "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
+    "Journals/Deadlines.md",
+    "Academic/Honours.md",
+    "Academic/Literature Notes/EAD.md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "-Support/Graphics/Pasted image 20240610133820.png",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
+    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
+    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
+    "-Support/Graphics/Pasted image 20240610123145.png",
+    "-Support/Graphics/Pasted image 20240521133000.png",
+    "Academic/Academic notes/Post-hoc analyses.md",
+    "Academic/Academic notes/Project Showcase.md",
+    "Academic/Academic notes/ECD.md",
+    "-Support/Graphics/Pasted image 20240521132153.png",
+    "-Support/Graphics/Pasted image 20240513114835.png",
+    "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
+    "-Support/Graphics/cells-09-01986-g002 1.jpg",
+    "cells-09-01986-g002.jpg",
+    "-Support/Graphics/cells-09-01986-g002.jpg",
+    "-Support/Graphics/Pasted image 20240417102304.png",
+    "-Support/Graphics/Pasted image 20240416154656.png",
+    "Academic/Academic notes/Literature Review Canvas.canvas",
+    "Academic/Literature Notes",
+    "PGC-LC-MS",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
+    "Poisson",
+    "-Support/Reading/Tumour gene expression signature in primary melanoma predicts long-term outcomes.pdf",
+    "CRISPR",
+    "RNAi (siRNA",
+    "-Support/Reading/Suboptimal use of chemical probes in biomedical research..pdf",
+    "Academic/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
