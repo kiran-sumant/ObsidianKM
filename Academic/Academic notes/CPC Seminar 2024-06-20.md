@@ -69,9 +69,7 @@ Textbook polyunsaturated fats say only arranged in a single position, it had bee
 
 
 Electron Activated dissociation has demonstrated some effect in double bond localisation and cis/trans isomer differentiation. have you considered how Ozonolysis be compared in performance and advantages to EAD, considering EAD's relatively high throughput rate?
-
-
-
+Hard to get EAD to quantify 3 separate isomers, and elucidate/determine structure accurately.
 
 
 ## General comments:
