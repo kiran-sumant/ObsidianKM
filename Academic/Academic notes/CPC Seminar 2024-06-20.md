@@ -58,13 +58,19 @@ We find that different methods of lipidome analysis have significantly different
 Tm (melting temp) was used in meta-analysis between isomers to compare properties
 
 Resolving sn-isomers; CID results in loss of the ??? group lmao
-if we cleave with ozonolysis shows structural locations of fatty acid chains in a phospholipid.
+apocromer vs canonomer
+if we cleave with ozonolysis shows structural locations of fatty acid chains in a glycerol backbone.
+
+Textbook polyunsaturated fats say only arranged in a single position, it had been demonstrated otherwise.
+
 
 
 # What question did you ask and what was the answer?
 
 
-Electron Activated dissociation has demonstrated some effect in double bond localisation and cis/trans isomer differentiation. How may Ozonolysis be compared in performance and advantages to EAD, considering EAD's relatively high throughput rate?
+Electron Activated dissociation has demonstrated some effect in double bond localisation and cis/trans isomer differentiation. have you considered how Ozonolysis be compared in performance and advantages to EAD, considering EAD's relatively high throughput rate?
+
+
 
 
 
