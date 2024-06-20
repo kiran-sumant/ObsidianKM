@@ -5,6 +5,21 @@
 **Speaker(s):** Professor Stephen Blanksby
 
 ## What was the seminar about?
+Interest in structure of molecules in cellular structures.
+
+FInctions of lipids:
+- Cellular structures
+- Inter/Inter-cellular comms
+- Energy homeostasis
+
+Emerging: **diversity of molecular structures** that carry out these functions.
+
+Aim: being able to ==differentiate== between all 
+difficulty:
+genome doesnt predict lipid structure. so we need to rely almost entirely on LC/MS to elucidate lipid structures.
+
+
+
 
 
 ## What were the major methods used?
