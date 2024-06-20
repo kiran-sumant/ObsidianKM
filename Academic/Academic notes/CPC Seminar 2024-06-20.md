@@ -28,7 +28,13 @@ Limited in MS to elucidate differences between isomers; there are so. many. isom
 Lipid variability comes mainly from glycerophospholipids.
 40 common fatty acids building blocks.
 
-with ESI-MS and
+with ESI-MS gives m/z but lipids vaiability means like 16+ lipids for a single mass entry with very slight different m/z. **multiple isomeric components across lipids**
+
+ESI-CID lipid isomer resolution: can still have same combo of fatty acids in a different structural configuration that gives the same fragments.
+
+Also having different stereochemistry? bruh.
+
+
 
 ## What were the major methods used?
 
