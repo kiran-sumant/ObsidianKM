@@ -43,13 +43,18 @@ Bridge the gap: move from partial view to individual and explicit molecular stru
 
 Simnple: ***direct generation of ozone and feeding into the ion trap***. LTQ, can change the time in exposure of ionised lipids. ==10 seconds is the magic reaction time==!
 
-Slow-low-tech experiment; ==***but it works***== : D
-Shows multiple isomers with different double bond locations. Three separate isomers for a lipid in human 
+
+
+
 
 
 ## What did the speaker discover?
 
+Ozone injection is a slow-low-tech experiment; ==***but it works***== : D
+Shows multiple isomers with different double bond locations. Three separate isomers for a lipid in human ocular lens tissue.
+
 
 # What question did you ask and what was the answer?
+Electron Activated dissociation has demonstrated some effect in 
 
 ## General comments:
