@@ -58,7 +58,8 @@ We find that different methods of lipidome analysis have significantly different
 Tm (melting temp) was used in meta-analysis between isomers to compare properties
 
 Resolving sn-isomers; CID results in loss of the ??? group lmao
-if we cleave with ozonolysis shows structural locations of fatty acid chains in a phospholipi
+if we cleave with ozonolysis shows structural locations of fatty acid chains in a phospholipid.
+
 
 # What question did you ask and what was the answer?
 
