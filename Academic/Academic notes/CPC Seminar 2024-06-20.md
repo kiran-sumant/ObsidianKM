@@ -63,13 +63,10 @@ if we cleave with ozonolysis shows structural locations of fatty acid chains in 
 
 Textbook polyunsaturated fats say only arranged in a single position, it had been demonstrated otherwise.
 
-
-
 # What question did you ask and what was the answer?
 
-
 Electron Activated dissociation has demonstrated some effect in double bond localisation and cis/trans isomer differentiation. have you considered how Ozonolysis be compared in performance and advantages to EAD, considering EAD's relatively high throughput rate?
-Hard to get EAD to quantify 3 separate isomers, and elucidate/determine structure accurately.
+Hard to get EAD to quantify 3 separate isomers, and elucidate/determine structure accurately. 
 
 
 ## General comments:
