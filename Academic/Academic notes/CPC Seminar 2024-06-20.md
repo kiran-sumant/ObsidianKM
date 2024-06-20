@@ -55,6 +55,10 @@ Shows multiple isomers with different double bond locations. Three separate isom
 
 
 # What question did you ask and what was the answer?
-Electron Activated dissociation has demonstrated some effect in 
+
+
+Electron Activated dissociation has demonstrated some effect in double bond localisation and cis/trans isomer differentiation. How may Ozonolysis be compared in performance and advantages to EAD, considering EAD's relatively high throughput rate?
+
+
 
 ## General comments:
