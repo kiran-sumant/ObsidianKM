@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+                "file": "Academic/CPC Seminar 2024-06-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+                "file": "Academic/CPC Seminar 2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+                "file": "Academic/CPC Seminar 2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md"
+                "file": "Academic/CPC Seminar 2024-06-20.md"
               }
             }
           },
@@ -220,6 +220,9 @@
   },
   "active": "9e23911ee07fb17f",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Academic/CPC Seminar 2024-06-20.md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
     "Academic/Literature Notes/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.md",
@@ -242,14 +245,11 @@
     "Academic/Literature Notes/EAD.md",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
-    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
-    "Academic/Academic notes/Post-hoc analyses.md",
-    "Academic/Academic notes/Project Showcase.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
