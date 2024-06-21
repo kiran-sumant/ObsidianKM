@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +218,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "9e23911ee07fb17f",
   "lastOpenFiles": [
     "Academic/Seminars.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
