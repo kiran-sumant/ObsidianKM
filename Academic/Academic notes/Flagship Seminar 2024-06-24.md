@@ -8,10 +8,14 @@
 Based man talking about vaccinia virus.
 wants to identify how human genes and proteins are up/downregulated in the prescence of viral proteins.
 
+Specific study targets monkeypox virus. we care about it because it had an outbreak in aus, not because of the raging epidemic in East africa killing tens of thousands of people.
 ## What were the major methods used?
 Quantifying viral isotopes:
 Lyse and purify virus infection, absolute quantification, fractionation with RP-HPLC then coutpled RP-HPLC-QQQ-MS. this is done in multiple cell lines and compared.
-Presentation DOES differ between cell types
+Presentation DOES differ between cell types.
+on a single epitope level, does presentation differ between cell types? well yes but actually no.
+all cell lines generally present well/equally.
+do all cells become a bag of virus/virus factor/ specialise into virus factor? NO, they maintain their own cell identity. 
 
 ## What did the speaker discover?
 
