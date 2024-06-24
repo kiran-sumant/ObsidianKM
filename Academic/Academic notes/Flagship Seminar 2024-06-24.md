@@ -45,7 +45,7 @@ Now we want to push towards human t cell response and human viral infection as o
 
 # What question did you ask and what was the answer?
 
-Could you please clarify what are the current limitations of MS technology that need to be addressed for more effective investigation?
+Could you please clarify or reiterate what are the current limitations of MS technology that need to be addressed for more effective investigation?
 
 
 ## General comments:
