@@ -22,8 +22,14 @@ abundant proteins do not appear to produce more epitopes -> implied viral prot p
 
 **Immunogenicity:** infect mouse, after seven days coculture
 Presentation levels do not predict immunogenicity.
-In-vitro design
+In-vitro design: is it a sensible experiment for modelling immunogenicity.
+Mouse hyperinfection: 24h take spleen sample, then MRM MS
+same thing with : 7d take spleen sample, then ICS
+- changed the infection route.
+- measuring abundance of epitopes in vivo.
 ## What did the speaker discover?
+Matching presentation with T-cells
+presentation levels **==in-vivo==** predicts immunogenicity!
 
 
 # What question did you ask and what was the answer?
