@@ -34,7 +34,11 @@ something drives correlation significance with in-vivo and the specific cell typ
 
 are all viruses the same?
 what happens if dendritic cells aren't infected by a particular virus?
-***cross presentation*** helps 
+***cross presentation*** helps in dendritic cells, but if non canonical and canonical mechanisms of presentation are different, brings in more implications for viral infection.
+
+Antibody production is wasteful; large number are ineffective; what if it's the same for T-cells?
+
+we find that number of peptides with related immunogenicity **differ btwn HSV and Vaccinia**.
 
 
 # What question did you ask and what was the answer?
