@@ -10,7 +10,7 @@ wants to identify how human genes and proteins are up/downregulated in the presc
 
 Specific study targets monkeypox virus. we care about it because it had an outbreak in aus, not because of the raging epidemic in East africa killing tens of thousands of people.
 ## What were the major methods used?
-Quantifying viral isotopes:
+Quantifying viral [[epitope]]s:
 Lyse and purify virus infection, absolute quantification, fractionation with RP-HPLC then coutpled RP-HPLC-QQQ-MS. this is done in multiple cell lines and compared.
 Presentation DOES differ between cell types.
 on a single epitope level, does presentation differ between cell types? well yes but actually no.
@@ -21,7 +21,7 @@ everything from translation to presentation of viral proteins is a black box. al
 abundant proteins do not appear to produce more epitopes -> implied viral prot production in parallel with translation.
 
 **Immunogenicity:** infect mouse, after seven days coculture
-Presentation levels do not predict immunogenicity.
+Presentation in-vitro levels do not predict immunogenicity.
 In-vitro design: is it a sensible experiment for modelling immunogenicity.
 Mouse hyperinfection: 24h take spleen sample, then MRM MS
 same thing with : 7d take spleen sample, then ICS
@@ -30,6 +30,7 @@ same thing with : 7d take spleen sample, then ICS
 ## What did the speaker discover?
 Matching presentation with T-cells
 presentation levels **==in-vivo==** predicts immunogenicity!
+something drives correlation significance with in-vivo and the specific cell types.
 
 
 # What question did you ask and what was the answer?
