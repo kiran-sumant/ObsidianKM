@@ -40,7 +40,12 @@ Antibody production is wasteful; large number are ineffective; what if it's the 
 
 we find that number of peptides with related immunogenicity **differ btwn HSV and Vaccinia**.
 
+Now we want to push towards human t cell response and human viral infection as opposed to in vivo and mice.
+
 
 # What question did you ask and what was the answer?
+
+Could you please clarify what are the current limitations of MS technology that need to be addressed for more effective investigation?
+
 
 ## General comments:
