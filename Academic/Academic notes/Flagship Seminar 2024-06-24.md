@@ -32,6 +32,10 @@ Matching presentation with T-cells
 presentation levels **==in-vivo==** predicts immunogenicity!
 something drives correlation significance with in-vivo and the specific cell types.
 
+are all viruses the same?
+what happens if dendritic cells aren't infected by a particular virus?
+***cross presentation*** helps 
+
 
 # What question did you ask and what was the answer?
 
