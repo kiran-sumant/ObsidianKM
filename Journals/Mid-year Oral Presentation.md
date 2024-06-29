@@ -19,6 +19,10 @@ Oral presentation skills:
 Rubric:
 ![[SOMS 4102 2024 (S2) Oral Presentation Marking Rubric-1.pdf]]
 
+Keep note: need to make suggestions for alternative methods!!
+
+
+
 # Methodology Critique
 
 ## Hek293 Cell Models
