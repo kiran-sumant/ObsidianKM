@@ -47,6 +47,16 @@ What does the audience ***need*** to know? consider the research gap and other a
 
 - ==make the problem real, especially chronic illnesses.==
 
+- Aims should be logical and perfectly described
+- Link to each other and to background material
+> [!warning] 
+> Dont just  state the hypotheses, you need to **present them** (add glitter for effect)
+> can use contrast colours (minor innovation)
+> Aims can come with associated diagrams
+
+
+
+
 # Methodology Critique
 
 ## Hek293 Cell Models
