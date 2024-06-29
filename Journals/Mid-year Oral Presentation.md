@@ -86,3 +86,15 @@ Try not to finish too abruptly, give **2 slides** for the ==summary==.
 - w/ complex visual presentation, use highlighting to focus visual of audience.
 
 ***be confident in your slides***. avoid excessive text. avoid mixing photos and text.
+
+in practicing, go slow and see how fast it goes.
+audience engagement, get in the middle of the room, walk around, rizz 'em with the 'tism.
+
+==***never read script***==
+
+# Answering questions
+
+- ask to clarify questions, if you ==don't know the answer== **say so and move on**
+- Refer to literature or unpublished work from lab.
+- ![[Pasted image 20240629200719.jpg]], don't waffle
+- 
