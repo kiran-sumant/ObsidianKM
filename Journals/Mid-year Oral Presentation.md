@@ -101,6 +101,7 @@ audience engagement, get in the middle of the room, walk around, rizz 'em with t
 # Formatting
 - referencing: 10-12 pt size
 - Only refer to work of others shown in the presentation, aka diagrams.
+- no bibliography slide, put ref in footnote at like 10pt size
 
 # Acknowledgement slide
 1. Institute logos
@@ -113,4 +114,4 @@ Check details
 Arrive early
 Familiarise yourself with pointer
 bring pptx on drive
-ontroduce
+==introduce yourself to chair of session==
