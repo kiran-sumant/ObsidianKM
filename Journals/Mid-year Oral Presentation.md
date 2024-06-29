@@ -83,3 +83,6 @@ Try not to finish too abruptly, give **2 slides** for the ==summary==.
 
 - Medical science students in similar/adjacent fields, + supervisors.
 - ==No need to over-de-technicalisation==, but need to identify niche etymology that'll need to be expanded on.
+- w/ complex visual presentation, use highlighting to focus visual of audience.
+
+***be confident in your slides***. avoid excessive text. avoid mixing photos and text.
