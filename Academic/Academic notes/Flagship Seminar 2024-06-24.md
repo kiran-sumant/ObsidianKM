@@ -46,6 +46,9 @@ Now we want to push towards human t cell response and human viral infection as o
 # What question did you ask and what was the answer?
 
 Could you please clarify or reiterate what are the current limitations of MS technology that need to be addressed for more effective investigation?
+The methods used in epitope searches is DIA, for faster confident throughput through large amounts of sample. 
+In this case, DIA speed is still an issue, as efficiency can still potentially be increased by registering precursor ions that have been sequences before from previous sample runs. This would be ideal as a single sample goes though an initial HPLC fractionation before LC-MS/MS, so multiple sample runs correspond to a single sample. 
+Currently MRM is our best method of Acquisition for known eppitopes but quantification in the discovery of new epitopes still needs more advancements before methods are optimised.
 
 
 ## General comments:

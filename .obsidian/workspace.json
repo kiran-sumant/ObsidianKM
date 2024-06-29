@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Research Project Showcase.md",
+                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md"
+                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md"
               }
             }
           },
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +218,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9e23911ee07fb17f",
+  "active": "be33c2bee1d77287",
   "lastOpenFiles": [
-    "Academic/Academic notes/SOMS 4102 Oral Presentation Workshop 2024-06-29.md",
     "Academic/Seminars.md",
+    "Journals/Research Project Showcase.md",
+    "Journals/Mid-year Oral Presentation.md",
+    "Academic/Academic notes/SOMS 4102 Oral Presentation Workshop 2024-06-29.md",
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Academic notes/SOMS4102.md",
     "Academic/Honours.md",
@@ -241,9 +242,7 @@
     "Academic/Literature Notes/Fucosyltransferases 10, 11. GDP-Fucose _N_-Glycan Core α1,3-Fucosyltransferases (FUT10, FUT11).md",
     "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
-    "Journals/Research Project Showcase.md",
     "Journals/Honours Aims and Hypotheses.md",
-    "Journals/Mid-year Oral Presentation.md",
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
