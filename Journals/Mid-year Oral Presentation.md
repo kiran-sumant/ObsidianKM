@@ -1,4 +1,4 @@
-25% of SOMS
+25% of SOMS4102 grade (1/16th of final grade)
 # [[Honours Aims and Hypotheses]]
 
 # Methodology Critique
