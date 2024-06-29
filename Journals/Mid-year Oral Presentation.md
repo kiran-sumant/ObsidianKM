@@ -63,17 +63,18 @@ What does the audience ***need*** to know? consider the research gap and other a
 
 
 
-# Methodology Critique
+Methodology Critique
 
-## Hek293 Cell Models
+- Hek293 Cell Models
 
-## Colabfold, Foldclass, Foldseek
+- Colabfold, Foldclass, Foldseek
 
-## Liquid chromatogram type
+- Liquid chromatogram type
 
-## Mass Spec DDA and PRM
-
-## Byonic/Maxquant use
+- ==Mass Spec DDA and PRM== In-depth
+	- stengths, weaknesses
+	- alternatives?
+- Byonic/Maxquant use
 
 
 
