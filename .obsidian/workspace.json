@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +219,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9e23911ee07fb17f",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "-Support/Graphics/Pasted image 20240629200719.jpg",
     "Journals/Mid-year Oral Presentation.md",
