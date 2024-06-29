@@ -21,6 +21,9 @@ Rubric:
 
 Keep note: need to make suggestions for alternative methods!!
 
+Average mark of 2-3 assessors is the final result.
+After 4 talks, assessors discuss then give feedback.
+
 
 
 # Methodology Critique
