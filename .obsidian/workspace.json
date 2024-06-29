@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,6 +220,7 @@
   },
   "active": "9e23911ee07fb17f",
   "lastOpenFiles": [
+    "-Support/Slides/SOMS 4102 2024 (S2) Oral Presentation Marking Rubric-1.pdf",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Seminars.md",
     "Journals/Research Project Showcase.md",
@@ -247,7 +247,6 @@
     "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Notes/Conventional-Flow Liquid Chromatography–Mass Spectrometry for Exploratory Bottom-Up Proteomic Analyses.md",
-    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",

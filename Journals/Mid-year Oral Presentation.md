@@ -16,7 +16,8 @@ Oral presentation skills:
 - Delivery, oratory performance
 - Question responses
 
-
+Rubric:
+![[SOMS 4102 2024 (S2) Oral Presentation Marking Rubric-1.pdf]]
 
 # Methodology Critique
 
