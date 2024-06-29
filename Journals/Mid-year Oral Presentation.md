@@ -32,10 +32,20 @@ After 4 talks, assessors discuss then give feedback.
 > - ==Aims + hyp==
 > - Research Plan
 > - ***==Detailed critique of methods used, and alternative methods==***
-> - Data generated so far (confirm MFAP2 O-fucosylation, optional though)
+> - Data generated so far (confirm MFAP2 O-fucosylation, optional though) can include as demonstration of methods
 
+- ==Leave some stuff out==
+- Pick details that best tells your "story" (quantity, quality, context)
 
+What does the audience ***need*** to know? consider the research gap and other aspects of the showcase project.
 
+## Table of contents:
+
+| Section    | Time     |
+| ---------- | -------- |
+| Background | 3-5 mins |
+
+- ==make the problem real, especially chronic illnesses.==
 
 # Methodology Critique
 

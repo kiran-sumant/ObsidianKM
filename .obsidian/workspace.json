@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,7 +218,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "9e23911ee07fb17f",
   "lastOpenFiles": [
     "-Support/Slides/SOMS 4102 2024 (S2) Oral Presentation Marking Rubric-1.pdf",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
