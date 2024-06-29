@@ -77,6 +77,9 @@ Methodology Critique
 - Byonic/Maxquant use
 
 
+Try not to finish too abruptly, give **2 slides** for the ==summary==.
 
+# Addressing Target audience
 
-
+- Medical science students in similar/adjacent fields, + supervisors.
+- ==No need to over-de-technicalisation==, but need to identify niche etymology that'll need to be expanded on.
