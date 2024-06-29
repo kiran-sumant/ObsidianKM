@@ -55,6 +55,12 @@ What does the audience ***need*** to know? consider the research gap and other a
 > Aims can come with associated diagrams
 
 
+> [!summary] Idea for Hypothesis and aims
+> - Overview of O-fucosylation in diagram
+> - {==zoom in==} Target the specific FUT10/11 pathway/mechanism
+> - Highlight parts of the process we are investigating with associated aim/hypothesis 
+
+
 
 
 # Methodology Critique
