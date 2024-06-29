@@ -5,7 +5,18 @@ Date of Presentation: **1st August**
 Need to attend the ==whole day of talks==.
 
 # Purpose of this Presentation
-Introduce project and research plan, **critique methodologie**
+Introduce project and research plan, **critique methodologies**.
+
+Oral presentation skills:
+- Appropriate introduction.
+- Aims and Hypotheses stated correctly
+- Slide quality/multimedia/animations
+- Structure and organisation
+- Adressing Target audience
+- Delivery, oratory performance
+- Question responses
+
+
 
 # Methodology Critique
 
