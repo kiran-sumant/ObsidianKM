@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-06-24.md"
+                "file": "Journals/Mid-year Oral Presentation.md"
               }
             }
           },
@@ -219,8 +219,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "9e23911ee07fb17f",
   "lastOpenFiles": [
+    "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Seminars.md",
     "Journals/Research Project Showcase.md",
     "Journals/Mid-year Oral Presentation.md",
@@ -228,7 +229,6 @@
     "Academic/Academic notes/SOMS Workshop 2024-04-23.md",
     "Academic/Academic notes/SOMS4102.md",
     "Academic/Honours.md",
-    "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Academic notes/epitope.md",
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
