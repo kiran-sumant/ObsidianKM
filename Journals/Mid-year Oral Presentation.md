@@ -1,3 +1,4 @@
+25% of SOMS
 # [[Honours Aims and Hypotheses]]
 
 # Methodology Critique
