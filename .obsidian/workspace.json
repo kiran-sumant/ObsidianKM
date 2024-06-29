@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +219,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "be33c2bee1d77287",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Academic/Seminars.md",
     "Journals/Research Project Showcase.md",
