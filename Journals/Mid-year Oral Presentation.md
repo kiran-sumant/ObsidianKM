@@ -26,6 +26,15 @@ After 4 talks, assessors discuss then give feedback.
 
 ==***PRACTICE PRACTICE***==
 
+> [!important] Presentation Structure
+> - Overall significance
+> - Relevant Background
+> - ==Aims + hyp==
+> - Research Plan
+> - ***==Detailed critique of methods used, and alternative methods==***
+> - Data generated so far (confirm MFAP2 O-fucosylation, optional though)
+
+
 
 
 # Methodology Critique
