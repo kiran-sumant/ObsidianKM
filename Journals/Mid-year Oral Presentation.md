@@ -96,5 +96,21 @@ audience engagement, get in the middle of the room, walk around, rizz 'em with t
 
 - ask to clarify questions, if you ==don't know the answer== **say so and move on**
 - Refer to literature or unpublished work from lab.
-- ![[Pasted image 20240629200719.jpg]], don't waffle
-- 
+- ![[Pasted image 20240629200719.jpg]], **don't waffle**
+
+# Formatting
+- referencing: 10-12 pt size
+- Only refer to work of others shown in the presentation, aka diagrams.
+
+# Acknowledgement slide
+1. Institute logos
+2. names of lab members
+3. collaborators
+4. personal touch (? we should get a lab group photo heh)
+
+# ==OTD==
+Check details
+Arrive early
+Familiarise yourself with pointer
+bring pptx on drive
+ontroduce
