@@ -8,68 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "371c24f44045e46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ac2f54c5e2d1e1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "686594ac5ecdaa88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "877b210910726e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "831a5f0121d962ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2253277d7dc07b73",
             "type": "leaf",
             "state": {
@@ -80,6 +18,14 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "de44e77cb3ffbf28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -250,8 +196,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "53ac2f54c5e2d1e1",
+  "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Callout list.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "conflict-files-obsidian-git.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
@@ -265,7 +212,6 @@
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Pasted image 20240610133820.png",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
     "Academic/Academic notes/Post-hoc analyses.md",
