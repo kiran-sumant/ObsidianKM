@@ -35,7 +35,7 @@ From this it is possible to ==uncover systemic malfunctions== in protein chemist
 > - All proteins can be interrogated at once
 > 
 > >[!quote]-
-> >
+> >"Whereas the first description of a complete model proteome[6](https://www.nature.com/articles/nature19949#ref-CR6 "de Godoy, L. M. F. et al. Comprehensive mass-spectrometry-based proteome quantification of haploid versus diploid yeast. Nature 455, 1251–1254 (2008). This paper demonstrates that complete proteomes of a model organism can be obtained and quantified in different biological states.") and the identification of more than 10,000 different proteins in human cell lines[7](https://www.nature.com/articles/nature19949#ref-CR7 "Beck, M. et al. The quantitative proteome of a human cell line. Mol. Syst. Biol. 7, 549 (2011)."),[8](https://www.nature.com/articles/nature19949#ref-CR8 "Nagaraj, N. et al. Deep proteome and transcriptome mapping of a human cancer cell line. Mol. Syst. Biol. 7, 548 (2011).") were technological tours de force, a similar depth of coverage can now be achieved within hours and with minimal sample-preparation steps[9](https://www.nature.com/articles/nature19949#ref-CR9 "Hebert, A. S. et al. The one hour yeast proteome. Mol. Cell. Proteomics 13, 339–347 (2014)."),[10](https://www.nature.com/articles/nature19949#ref-CR10 "Kulak, N. A., Pichler, G., Paron, I., Nagaraj, N. & Mann, M. Minimal, encapsulated proteomic-sample processing applied to copy-number estimation in eukaryotic cells. Nature Methods 11, 319–324 (2014).")."
 
 > [!example] PTMs and Cell Signalling
 > - We are able to analyse and identify most PTMs
