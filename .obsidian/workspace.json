@@ -24,8 +24,13 @@
             "id": "de44e77cb3ffbf28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journals/Mid-year Oral Presentation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -109,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journals/Mid-year Oral Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journals/Mid-year Oral Presentation.md"
+              }
             }
           },
           {
@@ -198,6 +207,9 @@
   },
   "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "Academic/Academic notes/SOMS 4102 Oral Presentation Workshop 2024-06-29.md",
+    "Academic/Seminars.md",
+    "Projects/Project Notes/Webinar Notes.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
     "conflict-files-obsidian-git.md",
@@ -225,9 +237,6 @@
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/glycosylation.md",
-    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Academic/Academic notes/Bonferroni.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
