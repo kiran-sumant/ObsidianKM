@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2253277d7dc07b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de44e77cb3ffbf28",
             "type": "leaf",
             "state": {
@@ -32,9 +19,40 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2253277d7dc07b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a06d76f1ed80e1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9f747d71198795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 219.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -114,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md",
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/VCAN.md"
+                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
               }
             }
           },
@@ -205,8 +223,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de44e77cb3ffbf28",
+  "active": "ea9f747d71198795",
   "lastOpenFiles": [
+    "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/worker.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Literature Notes/Non-kinase targets of protein kinase inhibitors..md",
@@ -233,7 +252,6 @@
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
-    "Academic/Literature Notes/Fragmentation Technique Characterisations.md",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
