@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eieio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 366.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/Mid-year Oral Presentation.md"
+                "file": "Academic/Academic notes/VCAN.md"
               }
             }
           },
@@ -207,6 +207,18 @@
   },
   "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "Academic/Academic notes/worker.md",
+    "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Literature Notes/Non-kinase targets of protein kinase inhibitors..md",
+    "Academic/Literature Notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
+    "Academic/Literature Notes/Suboptimal use of chemical probes in biomedical research..md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+    "Academic/Literature Notes/Ultra-sensitive platelet proteome maps the O-glycosylation landscape and charts the response to thrombin dosage.md",
+    "Academic/Literature Notes/Unsupervised machine learning for exploratory data analysis in imaging mass spectrometry.md",
+    "Academic/Academic notes/top-down proteomics.md",
+    "Journals/Mid-year Oral Presentation.md",
     "Academic/Academic notes/SOMS 4102 Oral Presentation Workshop 2024-06-29.md",
     "Academic/Seminars.md",
     "Projects/Project Notes/Webinar Notes.md",
@@ -216,9 +228,8 @@
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
     "Academic/Literature Review.md",
-    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Literature Notes/EAD.md",
+    "Academic/Academic notes/EAD.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
     "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
@@ -226,17 +237,6 @@
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
-    "Academic/Academic notes/Post-hoc analyses.md",
-    "Academic/Academic notes/Project Showcase.md",
-    "Journals/Research Project Showcase.md",
-    "Academic/Academic notes/ECD.md",
-    "Academic/Academic notes/ETD.md",
-    "-Support/Templates/Key Differences.md",
-    "Academic/Literature Notes/One-tailed vs Two-tailed Hypothesis testing.md",
-    "Academic/Literature Notes/Mass spectrometry-based candidate substrate and site identification of PTM enzymes.md",
-    "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
-    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
-    "Academic/Literature Notes/glycosylation.md",
     "-Support/Graphics/Pasted image 20240521132153.png",
     "-Support/Graphics/Pasted image 20240513114835.png",
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
