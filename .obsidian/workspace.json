@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Self Learning/Data Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Self Learning/Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
+                "file": "Self Learning/Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Elastin Microfibril Interface (EMI).md"
+                "file": "Self Learning/Data Science.md"
               }
             }
           },
@@ -225,6 +225,15 @@
   },
   "active": "ea9f747d71198795",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+    "Academic/Academic notes/Bonferroni.md",
+    "Self Learning/Learn Notes/Benjamini-Hochberg.md",
+    "Academic/Academic notes/ANOVA.md",
+    "Self Learning/Data Science.md",
+    "Self Learning/Learn Notes/Illustrator.md",
+    "Self Learning/Adobe.md",
+    "Projects/Project(s).md",
+    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/worker.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
@@ -242,16 +251,7 @@
     "Academic/Seminars.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Literature Notes/Multimerin 1 supports platelet function in vivo and binds to specific GPAGPOGPX motifs in fibrillar collagens that enhance platelet adhesion.md",
-    "conflict-files-obsidian-git.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
-    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/Microfibril-associated glycoproteins MAGP-1 and MAGP-2 in disease.md",
-    "Academic/Academic notes/EAD.md",
-    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Academic/Literature Notes/Re-investigating the correctness of decoy-based false discovery rate control in proteomics tandem mass spectrometry.md",
-    "Academic/Literature Notes/Localization and Quantification of Post-Translational Modifications of Proteins Using Electron Activated Dissociation.md",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
     "-Support/Graphics/Pasted image 20240521133000.png",
