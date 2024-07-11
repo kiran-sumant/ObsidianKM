@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
+                "file": "Academic/Academic notes/VCAN.md"
               }
             }
           },
@@ -223,8 +223,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1e596113cbcf3ed5",
+  "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/VCAN.md",
     "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
@@ -249,8 +251,6 @@
     "Self Learning/Data Science.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Obsidian Wrangling.md",
-    "Projects/Financial.md",
-    "Projects/Project Notes/Webinar Notes.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
