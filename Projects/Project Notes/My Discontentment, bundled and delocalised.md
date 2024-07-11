@@ -13,5 +13,10 @@ My discontentment:
 	4. Sleeping late 
 	5. Bingeing and giving into insta/youtube/internet addiction
 	6. Not being able to control my own fingers due to the muscle memory of access to addiction apps on my phone.
-- Not being able to separate my "self" from my mind. **The reason I am struggling to move forward.**
+- Not being able to separate my "self" from my mind. **The reason I am struggling to move forward?**
+
+My current takeaway:
+
+- All of what I do stems from **escape.** It is the **reason** I **==keep falling into old habits**==
+- Escape from an ==emotion==. 
 
