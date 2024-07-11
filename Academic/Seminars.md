@@ -6,6 +6,7 @@
 [[CPC Seminar 2024-05-09]]
 [[CPC Seminar 2024-06-20]]
 [[Flagship Seminar 2024-06-24]]
+[[CPC Seminar 2024-07-11]]
 
 # Workshops
 
