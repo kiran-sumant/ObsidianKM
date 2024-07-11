@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 288.5
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/My Discontentment, bundled and delocalised.md"
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md"
               }
             }
           },
@@ -223,34 +223,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ea9f747d71198795",
+  "active": "1e596113cbcf3ed5",
   "lastOpenFiles": [
-    "Projects/Addiction.md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
-    "Projects/Project Notes/Avatar Game Storyboard.md",
-    "Projects/Project Notes/My Employment.md",
-    "Projects/Project(s).md",
-    "Projects/Financial.md",
-    "Projects/Physical.md",
-    "Projects/Project Notes/Webinar Notes.md",
+    "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Literature Notes/Science Forum; Donated chemical probes for open science..md",
+    "Academic/Literature Notes/Protein O-fucosylation structure and function.md",
+    "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function.md",
+    "Academic/Literature Notes/Mass-spectrometric exploration of proteome structure and function 1.md",
+    "Academic/Literature Notes/Fast and accurate protein structure search with Foldseek.md",
+    "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
+    "Academic/Academic notes/bottom-up proteomics.md",
+    "Academic/Academic notes/Fragmentation Technique Characterisations.md",
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Academic/Academic notes/One-tailed vs Two-tailed Hypothesis testing.md",
+    "Academic/Literature Notes/Non-kinase targets of protein kinase inhibitors..md",
+    "Journals/List Of Entries.md",
+    "Academic/Academic notes/Deadlines.md",
+    "Academic/Academic notes/Research Project Showcase.md",
+    "Academic/Academic notes/Honours Aims and Hypotheses.md",
+    "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Self Learning/Adobe.md",
     "Self Learning/Data Science.md",
-    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Academic/Academic notes/Bonferroni.md",
-    "Self Learning/Learn Notes/Benjamini-Hochberg.md",
-    "Academic/Academic notes/ANOVA.md",
-    "Self Learning/Learn Notes/Illustrator.md",
-    "Academic/Academic notes/Elastin Microfibril Interface (EMI).md",
-    "Academic/Academic notes/VCAN.md",
-    "Academic/Academic notes/worker.md",
-    "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "Academic/Literature Notes/Non-kinase targets of protein kinase inhibitors..md",
-    "Academic/Literature Notes/Semi-automated fact-checking of nucleotide sequence reagents in biomedical research publications; the Seek & Blastn tool..md",
-    "Academic/Literature Notes/Suboptimal use of chemical probes in biomedical research..md",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
-    "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
-    "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
+    "Self Learning/Philosophy.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Projects/Financial.md",
+    "Projects/Project Notes/Webinar Notes.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
