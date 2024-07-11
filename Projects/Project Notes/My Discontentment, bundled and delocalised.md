@@ -18,5 +18,13 @@ My discontentment:
 My current takeaway:
 
 - All of what I do stems from **escape.** It is the **reason** I **==keep falling into old habits**==
-- Escape from an ==emotion==. 
+- Escape from an ==emotion==. ~~Exactly which one cannot be identified.~~
+- associated emotions:
+	1. Dread
+	2. Anxiety
+	3. Exhaustion
+	4. **Frustration**
+	5. ==***Spite***==
 
+~~NVM WE MIGHT HAVE JUST FOUND THEM LMAO~~
+# Frustration and Spite
