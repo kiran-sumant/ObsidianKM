@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-07-11.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,6 +27,25 @@
               "type": "markdown",
               "state": {
                 "file": "Self Learning/Learn Notes/Callout list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a06d76f1ed80e1f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9f747d71198795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-07-11.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-07-11.md",
+                "file": "Academic/Academic notes/VCAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/CPC Seminar 2024-07-11.md"
+                "file": "Academic/Academic notes/VCAN.md"
               }
             }
           },
@@ -206,10 +225,9 @@
   },
   "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
-    "Academic/Seminars.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
-    "Academic/Academic notes/VCAN.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/VCAN.md",
     "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
     "Academic/Literature Notes/The microfibril-associated glycoproteins (MAGPs) and the microfibrillar niche.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
@@ -232,6 +250,7 @@
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Self Learning/Adobe.md",
     "Self Learning/Data Science.md",
+    "Self Learning/Philosophy.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
