@@ -16,7 +16,7 @@ Hold A to select all objects
 
 Hold R to rotato fasta banana
 
-
+Hold S to increase the scale of objects
 
 # Import Protein Files
 
