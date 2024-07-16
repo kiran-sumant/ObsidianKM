@@ -14,6 +14,10 @@ Right click for tools
 
 Hold A to select all objects
 
+Hold R to rotato fasta banana
+
+
+
 # Import Protein Files
 
 From ChimeraX:
