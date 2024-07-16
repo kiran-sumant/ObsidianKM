@@ -10,3 +10,10 @@
 
 From ChimeraX:
 1. Design protein as desired
+2. Save
+3. Select file type as VRML/VRML2
+
+In Blender:
+==File > Import > X3D Extensible (.wrl)==
+
+
