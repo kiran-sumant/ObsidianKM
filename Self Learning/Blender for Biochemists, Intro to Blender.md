@@ -6,6 +6,13 @@
 | middle mouse + ctrl  | zoom in/ out                         |
 | middle mouse + shift | move pov on perpendicular plane      |
 
+# Shortcuts
+
+Hold G to move object, + X,Y,Z to move along axes.
+
+Right click for tools
+
+
 # Import Protein Files
 
 From ChimeraX:
