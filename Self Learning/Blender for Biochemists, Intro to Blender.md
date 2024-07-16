@@ -12,6 +12,7 @@ Hold G to move object, + X,Y,Z to move along axes.
 
 Right click for tools
 
+Hold A to select all objects
 
 # Import Protein Files
 
