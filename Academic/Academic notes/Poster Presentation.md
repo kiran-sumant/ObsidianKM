@@ -53,9 +53,12 @@ Captions must be well planned; **active conclusion statement**, *clear take home
 # Sections
 ## Aims
 - Numbered aims/hypotheses
-- 
+- ==Specific, simple==
 
 ## Methods
-
+- Replace any potential text with pictures
+- Flow charts welcome
 
 ## Results
+- Key results relevant to flow of poster story.
+- ==Consider pictorial representation==
