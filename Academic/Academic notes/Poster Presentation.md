@@ -46,3 +46,8 @@ Stark colour styles can be used to **separate sections**, however ==us similarly
 Compress; doesn't need to be detailed.
 Kinda good to have a hook.
 Memorable, interesting, uncomplicated.
+
+## Figures
+Captions must be well planned; **active conclusion statement**, *clear take home message.*
+
+## Methods
