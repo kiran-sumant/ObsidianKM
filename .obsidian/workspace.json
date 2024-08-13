@@ -15,7 +15,7 @@
               "state": {
                 "file": "Academic/Academic notes/VCAN.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -28,7 +28,7 @@
               "state": {
                 "file": "Self Learning/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -41,7 +41,7 @@
               "state": {
                 "file": "Academic/Academic notes/Poster Presentation.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -54,8 +54,18 @@
               "state": {
                 "file": "Self Learning/Learn Notes/Illustrator.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "cd79a392ee79a696",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -87,14 +97,14 @@
             }
           },
           {
-            "id": "732fa64c6c86c033",
+            "id": "ceb90ba24bfc08ea",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -102,15 +112,7 @@
             }
           },
           {
-            "id": "fad33ff195624eed",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "1e596113cbcf3ed5",
+            "id": "bc060ad8ed63fa3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,9 +120,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "17389cd3a182f4ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,56 +143,6 @@
         "id": "5fe264a3c62864c7",
         "type": "tabs",
         "children": [
-          {
-            "id": "ad3af6764bc6b561",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Self Learning/Learn Notes/Illustrator.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5f485970caf03c75",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Self Learning/Learn Notes/Illustrator.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "965b17fd74b3328a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "557c4e6e86dbac35",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Self Learning/Learn Notes/Illustrator.md"
-              }
-            }
-          },
           {
             "id": "acb2cc20f07d8589",
             "type": "leaf",
@@ -207,9 +166,70 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "7768d53d5d7da1e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ba963dfcbabd88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "e002e99edb484e51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Self Learning/Learn Notes/Illustrator.md"
+              }
+            }
+          },
+          {
+            "id": "62d7da9fc616c25e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Self Learning/Learn Notes/Illustrator.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d31596b2a3060d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Self Learning/Learn Notes/Illustrator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,23 +237,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "janitor:Janitor: scan vault": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "janitor:Janitor: scan vault": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "publish:Publish changes...": false,
+      "markdown-importer:Open format converter": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "156bb9f04b072697",
   "lastOpenFiles": [
     "Academic/Academic notes/Poster Presentation.md",
+    "Self Learning/Learn Notes/Illustrator.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
@@ -258,7 +282,6 @@
     "Academic/Literature Notes/ColabFold making protein folding accessible to all.md",
     "Academic/Academic notes/bottom-up proteomics.md",
     "Academic/Academic notes/Fragmentation Technique Characterisations.md",
-    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
