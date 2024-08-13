@@ -69,4 +69,9 @@ Captions must be well planned; **active conclusion statement**, *clear take home
 - Develop your ***Take Home Messages***
 - Positive findings first
 - Findings *Significance*
-- Emphasize how your research **exte
+- Emphasize how your research **extends current understanding** and it's ==real-world relevance==.
+
+for speaking to guests at poster pres:
+- Take through main aims, results, outcomes
+- Practice key phrases to make yourself succinct
+- If session is busy, make sure to talk to as many people as possible.
