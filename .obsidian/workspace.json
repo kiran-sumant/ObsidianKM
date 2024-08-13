@@ -37,12 +37,10 @@
             "id": "1ad181f2069738c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "staged": false
               }
             }
           },
@@ -205,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,7 +212,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +223,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,6 +261,7 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Self Learning/Blender.md",
     "Academic/Academic notes/Poster Presentation.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
@@ -284,7 +279,6 @@
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
     "Academic/Seminars.md",
-    "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
