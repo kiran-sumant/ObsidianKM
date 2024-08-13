@@ -37,10 +37,12 @@
             "id": "1ad181f2069738c2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -203,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md"
+              }
             }
           },
           {
@@ -212,6 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,6 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
