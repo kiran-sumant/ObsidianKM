@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Mid-year Oral Presentation.md",
+                "file": "Self Learning/Blender for Scientists - Using 3D objects directly in powerpoint.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f10d57988ac41bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic/Academic notes/Poster Presentation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/Poster Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Mid-year Oral Presentation.md",
+                "file": "Academic/Academic notes/Poster Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Mid-year Oral Presentation.md"
+                "file": "Academic/Academic notes/Poster Presentation.md"
               }
             }
           },
@@ -205,17 +218,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2253277d7dc07b73",
+  "active": "2f10d57988ac41bf",
   "lastOpenFiles": [
     "Academic/Academic notes/Deadlines.md",
+    "Academic/Academic notes/Poster Presentation.md",
+    "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
-    "Academic/Literature Review.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/VCAN.md",
     "Self Learning/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Self Learning/Blender.md",
     "Self Learning/Blender for Biochemists, Intro to Blender.md",
     "Self Learning/Adobe.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Literature Notes/The MIQE guidelines; minimum information for publication of quantitative real-time PCR experiments..md",
@@ -231,8 +246,6 @@
     "Academic/Academic notes/bottom-up proteomics.md",
     "Academic/Academic notes/Fragmentation Technique Characterisations.md",
     "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
-    "Academic/Academic notes/One-tailed vs Two-tailed Hypothesis testing.md",
-    "Academic/Literature Notes/Non-kinase targets of protein kinase inhibitors..md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
