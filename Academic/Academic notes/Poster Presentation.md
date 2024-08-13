@@ -16,6 +16,6 @@ Use unique ==styles and elements== to make a memorable poster
 2. **story**
 3. specific, simple, descriptive
 
-[[Illustrator |Illustrator time]]
+[[Illustrator - Beginner|Illustrator time]]
 
 ## Skills for poster sessions
