@@ -62,3 +62,11 @@ Captions must be well planned; **active conclusion statement**, *clear take home
 ## Results
 - Key results relevant to flow of poster story.
 - ==Consider pictorial representation==
+
+
+## Workshop Takeaway
+
+- Develop your ***Take Home Messages***
+- Positive findings first
+- Findings *Significance*
+- Emphasize how your research **exte
