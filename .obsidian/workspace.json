@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,25 +212,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "3d31596b2a3060d7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Self Learning/Learn Notes/Illustrator.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -257,8 +242,9 @@
   },
   "active": "156bb9f04b072697",
   "lastOpenFiles": [
-    "Academic/Academic notes/Poster Presentation.md",
+    "Self Learning/Adobe.md",
     "Self Learning/Learn Notes/Illustrator.md",
+    "Academic/Academic notes/Poster Presentation.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
@@ -267,7 +253,6 @@
     "Self Learning/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Self Learning/Blender.md",
     "Self Learning/Blender for Biochemists, Intro to Blender.md",
-    "Self Learning/Adobe.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
