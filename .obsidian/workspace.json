@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Poster Presentation.md",
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Poster Presentation.md"
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Poster Presentation.md",
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Poster Presentation.md",
+                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,10 +267,10 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Illustrator - Beginner.md",
-    "Academic/Academic notes/Poster Presentation.md",
-    "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
     "Self Learning/Blender.md",
+    "Academic/Academic notes/Poster Presentation.md",
+    "Self Learning/Learn Notes/Illustrator - Beginner.md",
+    "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Literature Review.md",
