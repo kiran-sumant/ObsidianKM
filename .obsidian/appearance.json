@@ -1,6 +1,6 @@
 {
   "accentColor": "#ff0000",
-  "baseFontSize": 20,
+  "baseFontSize": 15,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Calibri",
   "monospaceFontFamily": "Cambria Math",
@@ -8,5 +8,6 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "styles"
-  ]
+  ],
+  "nativeMenus": false
 }
