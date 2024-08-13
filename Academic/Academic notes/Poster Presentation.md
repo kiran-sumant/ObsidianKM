@@ -50,4 +50,12 @@ Memorable, interesting, uncomplicated.
 ## Figures
 Captions must be well planned; **active conclusion statement**, *clear take home message.*
 
+# Sections
+## Aims
+- Numbered aims/hypotheses
+- 
+
 ## Methods
+
+
+## Results
