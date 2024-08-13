@@ -38,3 +38,7 @@ Fonts need to be easy to see and understand.
 
 ## Colour
 
+**Palettes** used to **highlight** details, aesthetically create emphasis
+
+Stark colour styles can be used to **separate sections**, however ==us similarly behaving palettes for each section==.
+
