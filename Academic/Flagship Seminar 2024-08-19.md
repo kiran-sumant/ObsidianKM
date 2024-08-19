@@ -44,6 +44,17 @@ answer: YES, abundantly expressed in the synaptic compartment.
 
 Fear conditioned animals show that with extinction learning, expression of certain lncRNA Gas5 is upregulated after EXT, heavily involved in stress response.
 
+Gas5 shown to bind to many synapse proteins, many of which are associated with RNA granule formation
+
+**CIRTS - CRISPR- inspired RNA targeting system** tool to manipulate RNA in a manner that is:
+1. ==cell specific==
+2. ==synapse-specific==
+3. ==state-dependent==
+
+mechanism proof of concept confirmed.
+
+Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus 
+
 ## What did the speaker discover?
 
 
