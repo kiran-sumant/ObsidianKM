@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Long noncoding RNAs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md"
+                "file": "Academic/Long noncoding RNAs.md"
               }
             }
           },
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Long noncoding RNAs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Long noncoding RNAs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,8 +262,10 @@
   },
   "active": "70d0fbfd5de2bc40",
   "lastOpenFiles": [
-    "Academic/Seminars.md",
     "Academic/Flagship Seminar 2024-08-19.md",
+    "Academic/Long noncoding RNAs.md",
+    "Academic/small non-coding RNAs.md",
+    "Academic/Seminars.md",
     "Academic/Literature Review.md",
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
@@ -286,8 +288,6 @@
     "Projects/Addiction.md",
     "Self Learning/Data Science.md",
     "Academic/Academic notes/Deadlines.md",
-    "Academic/Academic notes/Mid-year Oral Presentation.md",
-    "Academic/Honours.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
