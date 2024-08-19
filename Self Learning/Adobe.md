@@ -1,1 +1,6 @@
 [[Illustrator - Beginner]]
+[[Illustrator - Advanced]]
+[[Premier Pro - Beginner]]
+[[Premier Pro - Advanced]]
+[[Adobe Audition - Beginner]]
+[[Adobe Audition - Advanced]]
