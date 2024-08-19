@@ -42,6 +42,8 @@ Cool facts: RNA CaptureSeq shows stress can result in transgenerational traits t
 Research question: is lncRNA presenr in the synapse?
 answer: YES, abundantly expressed in the synaptic compartment. 
 
+## What did the speaker discover?
+
 Fear conditioned animals show that with extinction learning, expression of certain lncRNA Gas5 is upregulated after EXT, heavily involved in stress response.
 
 Gas5 shown to bind to many synapse proteins, many of which are associated with RNA granule formation
@@ -53,12 +55,11 @@ Gas5 shown to bind to many synapse proteins, many of which are associated with R
 
 mechanism proof of concept confirmed.
 
-Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus 
-
-## What did the speaker discover?
-
+Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus affecting inherent function in the synapse.
 
 # What question did you ask and what was the answer?
 Do you/have you seen any advancements in RNA therapeutics for Parkinsons, considering it's also a neurodegenerative disease?
 
 ## General comments:
+
+[[Circular RNA]] therapies have potential for long-term therapies.
