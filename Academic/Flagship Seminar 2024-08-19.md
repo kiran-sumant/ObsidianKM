@@ -28,11 +28,19 @@ we target **Gomafu**, which is shown to have multiple splicing functions dependi
 
 ## What were the major methods used?
 
+Molecular dissection of **Pavlovian fear conditioning**
+Also of **Extinction of Conditioned Fear**; key component of ==exposure therapy==.
+
+RNA CaptureSeq allows for extraction of targeted RNA, increases sensitivity for targeted RNA that are low expression.
+
+**ADRAM** is involved in extinction memory. drived it through direct interaction with a chaperone protein.
+
+Cool facts
 
 ## What did the speaker discover?
 
 
 # What question did you ask and what was the answer?
-
+Do you/have you seen any advancements in RNA therapeutics for Parkinsons, considering it's also a neurodegenerative disease?
 
 ## General comments:
