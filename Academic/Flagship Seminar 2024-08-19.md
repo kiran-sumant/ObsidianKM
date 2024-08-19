@@ -26,6 +26,8 @@ Found to play ==fundamental role== in ==gene regulation and **cellular metabolis
 
 we target **Gomafu**, which is shown to have multiple splicing functions depending on splicing pattern and extra-environmental conditions.
 
+
+
 ## What were the major methods used?
 
 Molecular dissection of **Pavlovian fear conditioning**
@@ -33,9 +35,14 @@ Also of **Extinction of Conditioned Fear**; key component of ==exposure therapy=
 
 RNA CaptureSeq allows for extraction of targeted RNA, increases sensitivity for targeted RNA that are low expression.
 
-**ADRAM** is involved in extinction memory. drived it through direct interaction with a chaperone protein.
+**ADRAM** is involved in extinction memory. driven through direct interaction with a chaperone protein.
 
-Cool facts
+Cool facts: RNA CaptureSeq shows stress can result in transgenerational traits through RNA cell signalling.
+
+Research question: is lncRNA presenr in the synapse?
+answer: YES, abundantly expressed in the synaptic compartment. 
+
+Fear conditioned animals show that with extinction learning, expression of certain lncRNA Gas5 is upregulated after EXT, heavily involved in stress response.
 
 ## What did the speaker discover?
 
