@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "70d0fbfd5de2bc40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "2f10d57988ac41bf",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "70d0fbfd5de2bc40",
   "lastOpenFiles": [
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
