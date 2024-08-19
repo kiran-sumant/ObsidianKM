@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Premier Pro - Advanced.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -61,25 +61,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "1fa8b3d03a613d3d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ba9c36a948638718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Premier Pro - Advanced.md"
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md"
               }
             }
           },
@@ -216,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Premier Pro - Advanced.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Premier Pro - Advanced.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,12 +248,12 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Illustrator - Advanced.md",
+    "Self Learning/Learn Notes/Premier Pro - Advanced.md",
     "Self Learning/Learn Notes/LaTeX lessons.md",
     "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
     "Self Learning/Adobe.md",
     "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
-    "Self Learning/Learn Notes/Premier Pro - Advanced.md",
-    "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Beginner.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
     "Self Learning/Blender.md",
