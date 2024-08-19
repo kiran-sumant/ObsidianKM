@@ -60,6 +60,8 @@ Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus
 # What question did you ask and what was the answer?
 Do you/have you seen any advancements in RNA therapeutics for Parkinsons, considering it's also a neurodegenerative disease?
 
+What quality control pathway is being used for the thing you talked about "fixing parts of the protein"?
+
 
 
 ## General comments:
