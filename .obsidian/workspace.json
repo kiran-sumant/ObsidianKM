@@ -50,9 +50,12 @@
             "id": "70d0fbfd5de2bc40",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -197,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md"
+                "file": "Academic/Flagship Seminar 2024-08-19.md"
               }
             }
           },
@@ -207,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,6 +262,9 @@
   },
   "active": "70d0fbfd5de2bc40",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Academic/Flagship Seminar 2024-08-19.md",
+    "Academic/Literature Review.md",
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
     "Self Learning/Learn Notes/LaTeX lessons.md",
@@ -274,7 +280,6 @@
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Academic notes/VCAN.md",
-    "Academic/Literature Review.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
@@ -283,8 +288,6 @@
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Honours.md",
-    "Academic/Seminars.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",

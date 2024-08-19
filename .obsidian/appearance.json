@@ -5,7 +5,7 @@
   "interfaceFontFamily": "Calibri",
   "monospaceFontFamily": "Cambria Math",
   "textFontFamily": "Ink Free",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "styles"
   ],

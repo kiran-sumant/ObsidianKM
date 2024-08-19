@@ -7,7 +7,7 @@
 [[CPC Seminar 2024-06-20]]
 [[Flagship Seminar 2024-06-24]]
 [[CPC Seminar 2024-07-11]]
-
+[[Flagship Seminar 2024-08-19]]
 # Workshops
 
 [[SOMS Workshop 2024-04-23]]
