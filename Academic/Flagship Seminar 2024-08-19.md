@@ -58,9 +58,9 @@ mechanism proof of concept confirmed.
 Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus affecting inherent function in the synapse.
 
 # What question did you ask and what was the answer?
-Do you/have you seen any advancements in RNA therapeutics for Parkinsons, considering it's also a neurodegenerative disease?
+Do you/have you seen any advancements in RNA therapeutics for Parkinson's, considering it's also a neurodegenerative disease?
 
-There is! some lncRNA have been identified to play a role/mark an indicative signal of parkinsons in
+There is! some lncRNA have been identified to play a role/mark an indicative signal of Parkinson's disease inflammation. identifying "toxic" and "essential" lncRNAs in the CNS in relation to Parkinson's neurodegeneration is the next, first step on the journey to potentially providing an RNA-based therapeutic for the neurodegenerative disease.
 
 What quality control pathway is being used for the thing you talked about "fixing parts of the protein"?
 
