@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Seminars.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md"
+                "file": "Academic/Seminars.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Seminars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Seminars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,15 +249,16 @@
   },
   "active": "2253277d7dc07b73",
   "lastOpenFiles": [
+    "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Seminars.md",
+    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+    "Academic/Academic notes/Circular RNA.md",
+    "Academic/Academic notes/Long noncoding RNAs.md",
+    "Academic/Academic notes/small non-coding RNAs.md",
     "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Academic/Academic notes/VCAN.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "conflict-files-obsidian-git.md",
-    "Academic/Circular RNA.md",
-    "Academic/small non-coding RNAs.md",
-    "Academic/Long noncoding RNAs.md",
-    "Academic/Flagship Seminar 2024-08-19.md",
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
     "Self Learning/Learn Notes/LaTeX lessons.md",
@@ -274,7 +275,6 @@
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
-    "Projects/Addiction.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
