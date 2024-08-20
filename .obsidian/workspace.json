@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Academic/Flagship Seminar 2024-08-19.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Academic/Flagship Seminar 2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,8 +247,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "bc060ad8ed63fa3a",
+  "active": "2253277d7dc07b73",
   "lastOpenFiles": [
+    "Academic/Seminars.md",
+    "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
+    "Academic/Academic notes/VCAN.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "conflict-files-obsidian-git.md",
     "Academic/Circular RNA.md",
@@ -265,16 +268,13 @@
     "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
     "Self Learning/Blender.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
-    "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
     "Academic/Academic notes/Poster Presentation.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Academic/Academic notes/VCAN.md",
     "Academic/Literature Review.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
     "Projects/Project Notes/Webinar Notes.md",
     "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "Projects/Addiction.md",
-    "Self Learning/Data Science.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
