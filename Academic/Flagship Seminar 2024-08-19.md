@@ -60,10 +60,13 @@ Gas5- CIRTS knockdown leads to dysregulation of proper protein recruitment, thus
 # What question did you ask and what was the answer?
 Do you/have you seen any advancements in RNA therapeutics for Parkinsons, considering it's also a neurodegenerative disease?
 
+There is! some lncRNA have been identified to play a role/mark an indicative signal of parkinsons in
 
 What quality control pathway is being used for the thing you talked about "fixing parts of the protein"?
 
+It hasn't been confirmed exactly what kind of pathway might exist, but in a similar manner to which chaperones are recruited to dysfunctional proteins in the cell, many enzymes have been seen clustered around cellular sites where proteins underwent "local correction". 
 
+Understanding the ways in which "multi-exonic micropeptides" are both regulated and expressed/localised will help give a better understanding of how such mechanisms function and dysfunction.
 
 ## General comments:
 
