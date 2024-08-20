@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,10 +247,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "2253277d7dc07b73",
+  "active": "ceb90ba24bfc08ea",
   "lastOpenFiles": [
-    "Academic/Academic notes/CPC Seminar 2024-07-11.md",
+    "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Academic/Seminars.md",
+    "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
+    "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Academic/Academic notes/Circular RNA.md",
     "Academic/Academic notes/Long noncoding RNAs.md",
@@ -273,8 +275,6 @@
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Academic/Literature Review.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
-    "Projects/Project Notes/Webinar Notes.md",
-    "Projects/Project Notes/Rudimentary Elemental Bending Interactions for VR.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
