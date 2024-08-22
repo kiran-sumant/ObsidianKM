@@ -16,7 +16,7 @@ Emerging: **diversity of molecular structures** that carry out these functions.
 
 Aim: being able to ==differentiate== between all 
 difficulty:
-genome doesnt predict lipid structure. so we need to rely almost entirely on LC/MS to elucidate lipid structures.
+genome doesn't predict lipid structure. so we need to rely almost entirely on LC/MS to elucidate lipid structures.
 
 Proteome has interactions btwn glycome, lipidome, and proteome. these interactions are studied in ==metabolomics== 
 
