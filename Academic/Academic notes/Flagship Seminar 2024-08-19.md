@@ -39,7 +39,7 @@ RNA CaptureSeq allows for extraction of targeted RNA, increases sensitivity for 
 
 Cool facts: RNA CaptureSeq shows stress can result in transgenerational traits through RNA cell signalling.
 
-Research question: is lncRNA presenr in the synapse?
+Research question: is lncRNA present in the synapse?
 answer: YES, abundantly expressed in the synaptic compartment. 
 
 ## What did the speaker discover?
