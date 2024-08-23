@@ -15,7 +15,7 @@ Lyse and purify virus infection, absolute quantification, fractionation with RP-
 Presentation DOES differ between cell types.
 on a single epitope level, does presentation differ between cell types? well yes but actually no.
 all cell lines generally present well/equally.
-do all cells become a bag of virus/virus factor/ specialise into virus factor? NO, they maintain their own cell identity, just being hijacked not convertedviral proteome presents similarly within cells, with primary bone marrow expresses viral proteome least while it has the most intense cell response to infection. (makes sense, it is bone marrow.)
+do all cells become a bag of virus/virus factor/ specialise into virus factor? NO, they maintain their own cell identity, just being hijacked not converted viral proteome presents similarly within cells, with primary bone marrow expresses viral proteome least while it has the most intense cell response to infection. (makes sense, it is bone marrow.)
 Slowest at processing viral peptides from proteins is fibroblasts.
 everything from translation to presentation of viral proteins is a black box. also it happens superfast, implying assays are problematic to create.
 abundant proteins do not appear to produce more epitopes -> implied viral prot production in parallel with translation.
