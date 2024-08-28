@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +246,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "ceb90ba24bfc08ea",
   "lastOpenFiles": [
     "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
