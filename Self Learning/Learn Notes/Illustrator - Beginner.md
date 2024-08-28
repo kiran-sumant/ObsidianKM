@@ -7,60 +7,60 @@
 | Command                       | Operation          |     | Command                              | Operation      |
 | ----------------------------- | ------------------ | --- | ------------------------------------ | -------------- |
 | Artboard                      | ⇧ + O              |     | Selection                            | V              |
-|                               |                    |     | Direct Selection                     | A              |
-|                               |                    |     | Magic Wand                           | Y              |
-|                               |                    |     | Lasso                                | Q              |
-|                               |                    |     | Pen                                  | P              |
-| Paste                         | Ctrl + V           |     | Add Anchor Point                     | =              |
-| Paste in Front                | Ctrl + F           |     | Delete Anchor Point                  | -              |
-| Paste in Back                 | Ctrl + B           |     | Anchor Point                         | ⇧ + C          |
-| Paste in Place                | ⇧ + Ctrl + V       |     | Curvature Tool                       | ⇧ + `          |
-|                               |                    |     | Type                                 | T              |
-| Check Spelling                | Ctrl + I           |     | Touch Type                           | ⇧ + T          |
-| Color Settings                | ⇧ + Ctrl + K       |     | Line Segment                         |                |
-| Select All                    | Ctrl + A           |     | Rectangle                            | M              |
-| Select All on Active Artboard | Alt + Ctrl + A     |     | Ellipse                              | L              |
-| Deselect                      | ⇧ + Ctrl + A       |     | Paintbrush                           | B              |
-| Reselect                      | Ctrl + 6           |     | Blob Brush                           | ⇧ + B          |
-| Next Object Above             | Alt + Ctrl + ]     |     | Pencil                               | N              |
-| Next Object Below             | Alt + Ctrl + [     |     | Eraser                               | ⇧ + E          |
-| Transform Again               | Ctrl + D           |     | Scissors                             | C              |
-| Move                          | ⇧ + Ctrl + M       |     | Rotate                               | R              |
-| Bring to Front                | ⇧ + Ctrl + ]       |     | Reflect                              | O              |
-| Bring Forward                 | Ctrl + ]           |     | Scale                                | S              |
-| Send Backward                 | Ctrl + [           |     | Width                                | ⇧ + W          |
-| Send to Back                  | ⇧ + Ctrl + [       |     | Warp                                 | ⇧ + R          |
-| Group                         | Ctrl + G           |     | Free Transform                       | E              |
-| Ungroup                       | ⇧ + Ctrl + G       |     | Shape Builder                        | ⇧ + M          |
-| Selection                     | Ctrl + 2           |     | Live Paint Bucket                    | K              |
-| Unlock All                    | Alt + Ctrl + 2     |     | Live Paint Selection                 | ⇧ + L          |
-| Selection                     | Ctrl + 3           |     | Perspective Grid                     | ⇧ + P          |
-| Show All                      | Alt + Ctrl + 3     |     | Perspective Selection                | ⇧ + V          |
-| Join                          | Ctrl + J           |     | Mesh                                 | U              |
-| Average                       | Alt + Ctrl + J     |     | Gradient                             | G              |
-| Edit Pattern                  | ⇧ + Ctrl + F8      |     | Eyedropper                           | I              |
-| Make                          | Alt + Ctrl + B     |     | Blend                                | W              |
-| Release                       | Alt + ⇧ + Ctrl + B |     | Symbol Sprayer                       | ⇧ + S          |
-| Make with Warp                | Alt + ⇧ + Ctrl + W |     | CC Charts Tool                       | J              |
-| Make with Mesh                | Alt + Ctrl + M     |     | Slice                                | ⇧ + K          |
-| Make with Top Object          | Alt + Ctrl + C     |     | Hand                                 | H              |
-| Make                          | Alt + Ctrl + X     |     | Zoom                                 | Z              |
-| Make                          | Ctrl + 7           |     | Toggle Fill/Stroke                   | X              |
-| Release                       | Alt + Ctrl + 7     |     | Default                              | D              |
-| Make                          | Ctrl + 8           |     | Swap Fill/Stroke                     | ⇧ + X          |
-| Release                       | Alt + ⇧ + Ctrl + 8 |     | Color                                | ,              |
-| Create Outlines               | ⇧ + Ctrl + O       |     | Gradient                             | .              |
-| Show Hidden Characters        | Alt + Ctrl + I     |     | None                                 | /              |
-| Apply Last Effect             | ⇧ + Ctrl + E       |     | Toggle Screen Mode                   | F              |
-| Last Effect                   | Alt + ⇧ + Ctrl + E |     | Show/Hide All Palettes               | Tab            |
-| Preview                       | Ctrl + Y           |     | Show/Hide All But Toolbox            | ⇧ + Tab        |
-| GPU Preview                   | Ctrl + E           |     | Increase Diameter                    | ]              |
-| Overprint Preview             | Alt + ⇧ + Ctrl + Y |     | Decrease Diameter                    | [              |
-| Pixel Preview                 | Alt + Ctrl + Y     |     | Symbolism Tools - Increase Intensity | ⇧ + }          |
-| Zoom In                       | Ctrl + =           |     | Symbolism Tools - Decrease Intensity | ⇧ + {          |
-| Zoom Out                      | Ctrl + -           |     | Toggle Drawing Mode                  | ⇧ + D          |
-| Fit Artboard in Window        | Ctrl + 0           |     | Fit All in Window                    | Alt + Ctrl + 0 |
-| Actual Size                   | Ctrl + 1           |     |                                      |                |
+| Paste                         | Ctrl + V           |     | Direct Selection                     | A              |
+| Paste in Front                | Ctrl + F           |     | Magic Wand                           | Y              |
+| Paste in Back                 | Ctrl + B           |     | Lasso                                | Q              |
+| Paste in Place                | ⇧ + Ctrl + V       |     | Pen                                  | P              |
+| Check Spelling                | Ctrl + I           |     | Add Anchor Point                     | =              |
+| Color Settings                | ⇧ + Ctrl + K       |     | Delete Anchor Point                  | -              |
+| Select All                    | Ctrl + A           |     | Anchor Point                         | ⇧ + C          |
+| Select All on Active Artboard | Alt + Ctrl + A     |     | Curvature Tool                       | ⇧ + `          |
+| Deselect                      | ⇧ + Ctrl + A       |     | Type                                 | T              |
+| Reselect                      | Ctrl + 6           |     | Touch Type                           | ⇧ + T          |
+| Next Object Above             | Alt + Ctrl + ]     |     | Line Segment                         | \\             |
+| Next Object Below             | Alt + Ctrl + [     |     | Rectangle                            | M              |
+| Transform Again               | Ctrl + D           |     | Ellipse                              | L              |
+| Move                          | ⇧ + Ctrl + M       |     | Paintbrush                           | B              |
+| Bring to Front                | ⇧ + Ctrl + ]       |     | Blob Brush                           | ⇧ + B          |
+| Bring Forward                 | Ctrl + ]           |     | Pencil                               | N              |
+| Send Backward                 | Ctrl + [           |     | Eraser                               | ⇧ + E          |
+| Send to Back                  | ⇧ + Ctrl + [       |     | Scissors                             | C              |
+| Group                         | Ctrl + G           |     | Rotate                               | R              |
+| Ungroup                       | ⇧ + Ctrl + G       |     | Reflect                              | O              |
+| Selection                     | Ctrl + 2           |     | Scale                                | S              |
+| Unlock All                    | Alt + Ctrl + 2     |     | Width                                | ⇧ + W          |
+| Selection                     | Ctrl + 3           |     | Warp                                 | ⇧ + R          |
+| Show All                      | Alt + Ctrl + 3     |     | Free Transform                       | E              |
+| Join                          | Ctrl + J           |     | Shape Builder                        | ⇧ + M          |
+| Average                       | Alt + Ctrl + J     |     | Live Paint Bucket                    | K              |
+| Edit Pattern                  | ⇧ + Ctrl + F8      |     | Live Paint Selection                 | ⇧ + L          |
+| Make                          | Alt + Ctrl + B     |     | Perspective Grid                     | ⇧ + P          |
+| Release                       | Alt + ⇧ + Ctrl + B |     | Perspective Selection                | ⇧ + V          |
+| Create Outlines               | ⇧ + Ctrl + O       |     | Mesh                                 | U              |
+| Show Hidden Characters        | Alt + Ctrl + I     |     | Gradient                             | G              |
+| Apply Last Effect             | ⇧ + Ctrl + E       |     | Eyedropper                           | I              |
+| Last Effect                   | Alt + ⇧ + Ctrl + E |     | Blend                                | W              |
+| Preview                       | Ctrl + Y           |     | Symbol Sprayer                       | ⇧ + S          |
+| GPU Preview                   | Ctrl + E           |     | CC Charts Tool                       | J              |
+| Overprint Preview             | Alt + ⇧ + Ctrl + Y |     | Slice                                | ⇧ + K          |
+| Pixel Preview                 | Alt + Ctrl + Y     |     | Hand                                 | H              |
+| Zoom In                       | Ctrl + =           |     | Zoom                                 | Z              |
+| Zoom Out                      | Ctrl + -           |     | Toggle Fill/Stroke                   | X              |
+| Fit Artboard in Window        | Ctrl + 0           |     | Default                              | D              |
+| Actual Size                   | Ctrl + 1           |     | Swap Fill/Stroke                     | ⇧ + X          |
+|                               |                    |     | Color                                | ,              |
+|                               |                    |     | Gradient                             | .              |
+|                               |                    |     | None                                 | /              |
+|                               |                    |     | Toggle Screen Mode                   | F              |
+|                               |                    |     | Show/Hide All Palettes               | Tab            |
+|                               |                    |     | Show/Hide All But Toolbox            | ⇧ + Tab        |
+|                               |                    |     | Increase Diameter                    | ]              |
+|                               |                    |     | Decrease Diameter                    | [              |
+|                               |                    |     | Symbolism Tools - Increase Intensity | ⇧ + }          |
+|                               |                    |     | Symbolism Tools - Decrease Intensity | ⇧ + {          |
+|                               |                    |     | Toggle Drawing Mode                  | ⇧ + D          |
+|                               |                    |     | Fit All in Window                    | Alt + Ctrl + 0 |
+|                               |                    |     |                                      |                |
 
 ==highlight==: Important, regularly used
 **bold**: Niche but saves a lot of time
