@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-08-19.md"
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,13 +246,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d35d8bf1021a4a4b",
+  "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
-    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
