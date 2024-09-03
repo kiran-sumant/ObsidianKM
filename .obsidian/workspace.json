@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,10 +246,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "ceb90ba24bfc08ea",
+  "active": "2f10d57988ac41bf",
   "lastOpenFiles": [
-    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+    "Self Learning/Adobe.md",
+    "Self Learning/Blender.md",
+    "Projects/Project(s).md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
+    "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
+    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
@@ -270,10 +274,6 @@
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
     "Self Learning/Learn Notes/LaTeX lessons.md",
-    "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
-    "Self Learning/Adobe.md",
-    "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
-    "Self Learning/Learn Notes/Premier Pro - Beginner.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
