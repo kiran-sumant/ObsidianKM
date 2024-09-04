@@ -13,9 +13,7 @@ ANOVA gives ==MSE==; MS error.
 
 should I use this? - ![[ANOVA#^faa453]]
 
-
 > [!attention] Note
-> Unequal sample sizes can use a modified version of the Tukey HSD called the **
-
+> Unequal sample sizes can use a modified version of the Tukey HSD called the **Tukey-Cramer method.** This factors in the estimated **sd** per pairwise comparison.
 
 #definition #data-science #analysis #statistics #post-hoc
