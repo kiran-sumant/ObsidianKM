@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,19 +42,6 @@
                 "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f10d57988ac41bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
-                "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -120,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,30 +237,30 @@
   "lastOpenFiles": [
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/ANOVA.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Academic notes/VCAN.md",
+    "Academic/Literature Review.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Seminars.md",
+    "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
+    "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
+    "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
+    "Projects/Project(s).md",
+    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
+    "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Non-parametric.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
-    "Academic/Academic notes/VCAN.md",
-    "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
-    "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
-    "Academic/Seminars.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
     "Academic/Academic notes/CPC Seminar 2024-04-08.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
     "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
-    "Academic/Academic notes/Circular RNA.md",
-    "Academic/Academic notes/Long noncoding RNAs.md",
-    "Academic/Academic notes/small non-coding RNAs.md",
-    "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
-    "conflict-files-obsidian-git.md",
-    "Self Learning/Learn Notes/Illustrator - Advanced.md",
-    "Self Learning/Learn Notes/Premier Pro - Advanced.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",

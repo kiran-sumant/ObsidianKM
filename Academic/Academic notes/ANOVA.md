@@ -23,12 +23,12 @@ Outcome variable is expressed as a function of explanatory variables.
 
 ## Post-Hoc analysis comparisons
 
-
-| Analysis |     |
-| -------- | --- |
-|          |     |
-|          |     |
-
+| Analysis    | Assumptions | Data suitability |
+| ----------- | ----------- | ---------------- |
+| Bonferroni  |             |                  |
+| Tukey's HSD |             |                  |
+| Scheffe     |             |                  |
+^faa453
 
 Alternative to ANOVA is **[[Kruskal-Wallis]]**, a **[[Non-parametric]]** analysis.
 
