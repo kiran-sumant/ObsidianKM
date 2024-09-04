@@ -21,6 +21,14 @@ Outcome variable is expressed as a function of explanatory variables.
 - **[[Tukey's HSD]]**
 - **[[Scheffe]]**
 
+## Post-Hoc analysis comparisons
+
+
+| Analysis |     |
+| -------- | --- |
+|          |     |
+|          |     |
+
 
 Alternative to ANOVA is **[[Kruskal-Wallis]]**, a **[[Non-parametric]]** analysis.
 

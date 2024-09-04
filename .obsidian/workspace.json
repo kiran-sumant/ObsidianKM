@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transform",
+                "query": "post",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +248,12 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Scheffe.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/Non-parametric.md",
+    "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
@@ -265,15 +271,9 @@
     "Academic/Academic notes/Long noncoding RNAs.md",
     "Academic/Academic notes/small non-coding RNAs.md",
     "Self Learning/Learn Notes/Blender for Scientists - Using 3D objects directly in powerpoint.md",
-    "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "conflict-files-obsidian-git.md",
     "Self Learning/Learn Notes/Illustrator - Advanced.md",
     "Self Learning/Learn Notes/Premier Pro - Advanced.md",
-    "Self Learning/Learn Notes/LaTeX lessons.md",
-    "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
-    "Self Learning/Adobe.md",
-    "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
-    "Self Learning/Learn Notes/Premier Pro - Beginner.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
