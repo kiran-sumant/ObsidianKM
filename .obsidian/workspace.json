@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md"
+                "file": "Academic/Academic notes/Tukey's HSD.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,10 +235,10 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Academic/Academic notes/Type 2 errors.md",
-    "Academic/Academic notes/Bonferroni.md",
-    "Academic/Academic notes/Type 1 errors.md",
     "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/Type 2 errors.md",
+    "Academic/Academic notes/Type 1 errors.md",
     "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
