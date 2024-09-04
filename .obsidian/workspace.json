@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post",
+                "query": "beta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md"
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,8 +235,8 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Callout list.md",
     "Academic/Academic notes/Bonferroni.md",
+    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/VCAN.md",
     "Academic/Academic notes/ANOVA.md",
