@@ -1,4 +1,4 @@
-
+Bonferroni test helps **adjust** test parameters that help prevent ==incorrect statistical significance== 
 
 should I use this? - ![[ANOVA#^faa453]]
 

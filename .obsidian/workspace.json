@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Seminars.md"
+                "file": "Academic/Academic notes/Bonferroni.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Seminars.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,17 +235,17 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Academic/Research Larance Lab.md",
-    "Academic/Literature Review.md",
-    "Academic/Honours.md",
-    "Self Learning/Obsidian Wrangling.md",
-    "Self Learning/Blender.md",
-    "Self Learning/Data Science.md",
-    "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Bonferroni.md",
+    "Self Learning/Data Science.md",
+    "Self Learning/Blender.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Academic/Honours.md",
+    "Academic/Literature Review.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Seminars.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Academic notes/VCAN.md",
-    "Academic/Seminars.md",
     "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
     "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
