@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md"
+                "file": "Academic/Academic notes/Bonferroni.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+                "file": "Academic/Academic notes/Bonferroni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +235,8 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
@@ -247,7 +249,6 @@
     "Academic/Literature Review.md",
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
     "Self Learning/Learn Notes/Adobe Audition - Advanced.md",
@@ -260,7 +261,6 @@
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
-    "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
