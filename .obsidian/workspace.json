@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Seminars.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md"
+                "file": "Academic/Seminars.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Seminars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Seminars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,12 +235,16 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Academic/Academic notes/ANOVA.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Literature Review.md",
+    "Academic/Honours.md",
+    "Self Learning/Obsidian Wrangling.md",
+    "Self Learning/Blender.md",
+    "Self Learning/Data Science.md",
     "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/ANOVA.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Academic/Academic notes/VCAN.md",
-    "Academic/Literature Review.md",
-    "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
@@ -257,10 +261,6 @@
     "Academic/Academic notes/CPC Seminar 2024-05-09.md",
     "Academic/Academic notes/CPC Seminar 2024-07-11.md",
     "Academic/Academic notes/Centenary Seminar 2024-04-16.md",
-    "Academic/Academic notes/CPC Seminar 2024-04-08.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-02.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-17.md",
-    "Academic/Academic notes/SOMS Seminar 2024-04-11.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
