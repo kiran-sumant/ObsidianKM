@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md"
+                "file": "Academic/Academic notes/Tukey's HSD.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Bonferroni.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,13 +235,15 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/Scheffe.md",
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
-    "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/VCAN.md",
-    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Data Science.md",
     "Self Learning/Blender.md",
     "Self Learning/Obsidian Wrangling.md",
@@ -255,8 +257,6 @@
     "Projects/Project(s).md",
     "Academic/Academic notes/Flagship Seminar 2024-08-19.md",
     "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
-    "Academic/Academic notes/Scheffe.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Non-parametric.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Academic/Academic notes/Flagship Seminar 2024-06-24.md",

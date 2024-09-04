@@ -3,10 +3,9 @@ Bonferroni test helps **adjust** test parameters that help prevent ==incorrect s
 > [!info] Definition of the ==Bonferroni adjustment/correction==:
 > "the p-value of each test **must be equal to** $\frac{\alpha}{n}$ , where $n$ is the ==number of tests performed.=="
 
-A **series of t-tests** is performed on each pair of groups
+A **series of t-tests** is performed on each pair of groups. 
 
-
+It's limited by bring conservative, as it risks failing to identify findings of significance within its parameters.
 
 should I use this? - ![[ANOVA#^faa453]]
-
 #definition #data-science #analysis #statistics #post-hoc
