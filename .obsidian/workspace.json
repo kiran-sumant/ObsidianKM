@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Literature Notes/The evolution of post-translational modifications.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -233,23 +233,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Bonferroni.md",
+    "Academic/Honours.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Type 2 errors.md",
     "Academic/Academic notes/Type 1 errors.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
-    "Academic/Literature Notes/The evolution of post-translational modifications.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/VCAN.md",
     "Self Learning/Data Science.md",
     "Self Learning/Blender.md",
     "Self Learning/Obsidian Wrangling.md",
-    "Academic/Honours.md",
     "Academic/Literature Review.md",
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
