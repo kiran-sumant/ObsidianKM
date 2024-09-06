@@ -4,6 +4,8 @@
 
 Outcome variable is expressed as a function of explanatory variables.
 
+[Willliams et al. (2010)](https://personal.utdallas.edu/~Herve/abdi-PostHoc2010-pretty.pdf) calls it an **F-test** and *omnibus test*. 
+
 ## Types
 1. One-way ANOVA
 
