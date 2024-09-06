@@ -30,11 +30,12 @@ Outcome variable is expressed as a function of explanatory variables.
 
 | Analysis    | Data suitability                                                                          |
 | ----------- | ----------------------------------------------------------------------------------------- |
-| Bonferroni  | **Set of comparisons**                                                                    |
+| Bonferroni  | **Set number of comparisons**                                                             |
 | Tukey's HSD | **Individual pairwise** comparisons, best for ==equal sample sizes==                      |
 | Scheffe     | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI== |
 
 ^faa453
+![[Pasted image 20240906162039.png]]
 
 Alternative to ANOVA is **[[Kruskal-Wallis]]**, a **[[Non-parametric]]** analysis.
 
