@@ -21,13 +21,19 @@ Outcome variable is expressed as a function of explanatory variables.
 - **[[Tukey's HSD]]**
 - **[[Scheffe]]**
 
+> [!info] Assumed for the base version of all tests:
+> - **Independence** between and within groups, 
+> - All groups are ==normally distributed==,
+> - Variance is ==homogeneous==
+
 ## Post-Hoc analysis comparisons
 
-| Analysis    | Assumptions                                                                                                      | Data suitability                                                 |
-| ----------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Bonferroni  |                                                                                                                  |                                                                  |
-| Tukey's HSD | **Independence** between and within groups, all groups are ==normally distributed==, variance is ==homogeneous== | Individual pairwise comparisons, best for ==equal sample sizes== |
-| Scheffe     |                                                                                                                  | All possible simple and complex means                            |
+| Analysis    | Data suitability                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| Bonferroni  | **Set of comparisons**                                                                    |
+| Tukey's HSD | **Individual pairwise** comparisons, best for ==equal sample sizes==                      |
+| Scheffe     | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI== |
+
 ^faa453
 
 Alternative to ANOVA is **[[Kruskal-Wallis]]**, a **[[Non-parametric]]** analysis.
