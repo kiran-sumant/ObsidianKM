@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Scheffe.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Scheffe.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Scheffe.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Scheffe.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,8 +235,8 @@
   },
   "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Scheffe.md",
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Honours.md",
