@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md"
+                "file": "Academic/Academic notes/Scheffe.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/Scheffe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/Scheffe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,11 +233,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Honours.md",
     "Academic/Literature Notes/The evolution of post-translational modifications.md",
