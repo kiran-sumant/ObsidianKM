@@ -31,7 +31,7 @@
 | **Unlock All**                | **Alt + Ctrl + 2** |     | Width                 | ⇧ + W     |
 | Selection                     | Ctrl + 3           |     | Warp                  | ⇧ + R     |
 | Show All                      | Alt + Ctrl + 3     |     | Free Transform        | E         |
-| Join                          | Ctrl + J           |     | Shape Builder         | ⇧ + M     |
+| Join                          | Ctrl + J           |     | ==Shape Builder==     | ==⇧ + M== |
 | Average                       | Alt + Ctrl + J     |     | Live Paint Bucket     | K         |
 | Edit Pattern                  | ⇧ + Ctrl + F8      |     | Live Paint Selection  | ⇧ + L     |
 | Make                          | Alt + Ctrl + B     |     | Perspective Grid      | ⇧ + P     |
