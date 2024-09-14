@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,9 +234,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d35d8bf1021a4a4b",
+  "active": "1ad181f2069738c2",
   "lastOpenFiles": [
     "Self Learning/Adobe.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Projects/Addiction.md",
     "Projects/Physical.md",
     "Projects/Project(s).md",
@@ -244,7 +247,6 @@
     "Academic/Honours.md",
     "Academic/Literature Review.md",
     "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "Academic/Academic notes/Bonferroni.md",
@@ -261,7 +263,6 @@
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
-    "Self Learning/Learn Notes/Blender for Biochemists, Fundamentals of 3D.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",

@@ -6,9 +6,9 @@
 
 | Command                       | Operation          |     | Command               | Operation |
 | ----------------------------- | ------------------ | --- | --------------------- | --------- |
-| Artboard                      | ⇧ + O              |     | Selection             | V         |
+| Artboard                      | ⇧ + O              |     | ==Selection==         | ==V==     |
 | Paste                         | Ctrl + V           |     | Direct Selection      | A         |
-| Paste in Front                | Ctrl + F           |     | Magic Wand            | Y         |
+| Paste in Front                | Ctrl + F           |     | ==Magic Wand==            | ==Y==         |
 | Paste in Back                 | Ctrl + B           |     | Lasso                 | Q         |
 | Paste in Place                | ⇧ + Ctrl + V       |     | Pen                   | P         |
 | Check Spelling                | Ctrl + I           |     | Add Anchor Point      | =         |
