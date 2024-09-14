@@ -51,7 +51,7 @@
 | Toggle Drawing Mode           | ⇧ + D              |     | Color                 | ,            |
 | **Fit All in Window**         | **Alt + Ctrl + 0** |     | Gradient              | .            |
 | Toggle Screen Mode            | F                  |     | None                  | /            |
-|                               |                    |     | Place                 | Ctrl + ⇧ + P |
+| Duplicate                     | Alt + ⇧            |     | Place                 | Ctrl + ⇧ + P |
 
 
 ==highlight==: Important, regularly used
