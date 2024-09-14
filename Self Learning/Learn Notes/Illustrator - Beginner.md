@@ -8,18 +8,18 @@
 | ----------------------------- | ------------------ | --- | --------------------- | --------- |
 | Artboard                      | ⇧ + O              |     | ==Selection==         | ==V==     |
 | Paste                         | Ctrl + V           |     | Direct Selection      | A         |
-| Paste in Front                | Ctrl + F           |     | ==Magic Wand==            | ==Y==         |
+| Paste in Front                | Ctrl + F           |     | ==Magic Wand==        | ==Y==     |
 | Paste in Back                 | Ctrl + B           |     | Lasso                 | Q         |
-| Paste in Place                | ⇧ + Ctrl + V       |     | Pen                   | P         |
+| Paste in Place                | ⇧ + Ctrl + V       |     | ==Pen==               | ==P==     |
 | Check Spelling                | Ctrl + I           |     | Add Anchor Point      | =         |
 | Color Settings                | ⇧ + Ctrl + K       |     | Delete Anchor Point   | -         |
 | Select All                    | Ctrl + A           |     | Anchor Point          | ⇧ + C     |
 | Select All on Active Artboard | Alt + Ctrl + A     |     | Curvature Tool        | ⇧ + `     |
-| Deselect                      | ⇧ + Ctrl + A       |     | Type                  | T         |
-| Reselect                      | Ctrl + 6           |     | Touch Type            | ⇧ + T     |
+| Deselect                      | ⇧ + Ctrl + A       |     | ==Type==              | ==T==     |
+| Reselect                      | Ctrl + 6           |     | ==Touch Type==        | ==⇧ + T== |
 | Next Object Above             | Alt + Ctrl + ]     |     | Line Segment          | \\        |
 | Next Object Below             | Alt + Ctrl + [     |     | Rectangle             | M         |
-| Transform Again               | Ctrl + D           |     | Ellipse               | L         |
+| Transform Again               | Ctrl + D           |     | **Ellipse**           | **L**     |
 | Move                          | ⇧ + Ctrl + M       |     | Paintbrush            | B         |
 | Bring to Front                | ⇧ + Ctrl + ]       |     | Blob Brush            | ⇧ + B     |
 | Bring Forward                 | Ctrl + ]           |     | Pencil                | N         |
