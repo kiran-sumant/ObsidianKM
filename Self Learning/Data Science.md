@@ -2,3 +2,4 @@
 [[RStudio Shortcuts]]
 [[GGPlot Cheatsheet]]
 [[Other Package Cheatsheets]]
+[[R Code assorted templates]]
