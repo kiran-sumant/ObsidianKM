@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/R Code assorted templates.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/R Code assorted templates.md"
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/R Code assorted templates.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/R Code assorted templates.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,9 @@
   },
   "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Academic/Academic notes/Machine Learning.md",
+    "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/ANOVA.md",
-    "Self Learning/R Code assorted templates.md",
     "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
     "Academic/Academic notes/t-test.md",
     "Self Learning/Data Science.md",
@@ -254,7 +255,6 @@
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Honours.md",
-    "Academic/Literature Review.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",

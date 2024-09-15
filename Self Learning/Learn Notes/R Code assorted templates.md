@@ -54,4 +54,12 @@
 ```
 
 ```
-## Reinforcement Learning
+## [[Reinforcement Learning]]
+### [[Q-learning]]
+```
+
+```
+### [[R-learning]]
+```
+
+```
