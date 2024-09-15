@@ -20,7 +20,6 @@
 ```
 
 # Visualisations
-
 ## [[Boxplot]]
 ```
 
@@ -33,5 +32,26 @@
 ```
 
 ```
+## [[Volcano Plot]]
+```
+```
 
 # Data Wrangling
+
+
+# Data Processing
+
+
+# [[Machine Learning]]
+## [[K-Means Cluster]]
+```
+```
+## [[Neural Network Regression]]
+```
+
+```
+## [[Support Vector Machines]]
+```
+
+```
+## Reinforcement Learning
