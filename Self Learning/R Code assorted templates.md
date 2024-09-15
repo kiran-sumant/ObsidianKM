@@ -19,3 +19,19 @@
 
 ```
 
+# Visualisations
+
+## [[Boxplot]]
+```
+
+```
+## [[Scatterplot|Scatterplot with regression]]
+```
+
+```
+## [[Time Series|Time series and forecasting]]
+```
+
+```
+
+# Data Wrangling
