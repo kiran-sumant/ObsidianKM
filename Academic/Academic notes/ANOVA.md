@@ -6,18 +6,13 @@ Outcome variable is expressed as a function of explanatory variables.
 
 [Willliams et al. (2010)](https://personal.utdallas.edu/~Herve/abdi-PostHoc2010-pretty.pdf) calls it an **F-test** and *omnibus test*. 
 
-## Types
+# Types
 1. One-way ANOVA
-
 2. Two-way ANOVA
-
 3. Repeated Measures ANOVA
 
-
-## Assumptions
-
-
-## Post-Hoc Analyses
+# Code: [[R Code assorted templates#ANOVA|Templates]]
+# Post-Hoc Analyses
 
 - **[[Bonferroni]]**
 - **[[Tukey's HSD]]**
@@ -36,7 +31,7 @@ Outcome variable is expressed as a function of explanatory variables.
 | Tukey's HSD | **Individual pairwise** comparisons, best for ==equal sample sizes==                      |
 | Scheffe     | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI== |
 
-
+## Post-Hoc decision flow
 ![[Pasted image 20240906162039.png]]
 
 Alternative to ANOVA is **[[Kruskal-Wallis]]**, a **[[Non-parametric]]** analysis.

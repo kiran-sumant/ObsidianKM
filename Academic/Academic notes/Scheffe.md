@@ -2,5 +2,5 @@ Offers similar to Bonferroni with additional correction for **complex mean compa
 
 While it has a **less narrow CI than Tukey's method for ==pairwise comparisons==,** 
 
-should I use this? - ![[ANOVA#^faa453]]
+should I use this? - ![[ANOVA#Post-Hoc analysis comparisons]]
 #definition #data-science #analysis #statistics #post-hoc
