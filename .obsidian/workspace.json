@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md"
+                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,6 +234,10 @@
   },
   "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "Self Learning/Data Science.md",
+    "Self Learning/GGPlot Cheatsheet.md",
+    "Self Learning/Learn Notes/RStudio Shortcuts.md",
+    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "Self Learning/Adobe.md",
@@ -245,7 +249,6 @@
     "Academic/Academic notes/Deadlines.md",
     "Academic/Honours.md",
     "Academic/Literature Review.md",
-    "Academic/Academic notes/ANOVA.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Scheffe.md",
@@ -255,12 +258,9 @@
     "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "-Support/Cheat Sheet.md",
     "Academic/Academic notes/VCAN.md",
-    "Self Learning/Data Science.md",
     "Self Learning/Blender.md",
     "Self Learning/Obsidian Wrangling.md",
     "Academic/Research Larance Lab.md",
-    "Academic/Seminars.md",
-    "Self Learning/Learn Notes/Adobe Audition - Beginner.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
