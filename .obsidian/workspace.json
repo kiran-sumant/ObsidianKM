@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
+                "file": "Self Learning/GGPlot Cheatsheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md"
+                "file": "Self Learning/GGPlot Cheatsheet.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
+                "file": "Self Learning/GGPlot Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/RStudio Shortcuts.md",
+                "file": "Self Learning/GGPlot Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,11 +232,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "de44e77cb3ffbf28",
+  "active": "bc060ad8ed63fa3a",
   "lastOpenFiles": [
+    "-Support/Graphics/Pasted image 20240915145855.png",
+    "-Support/Graphics/Pasted image 20240915145841.png",
     "Self Learning/Data Science.md",
-    "Self Learning/GGPlot Cheatsheet.md",
     "Self Learning/Learn Notes/RStudio Shortcuts.md",
+    "Self Learning/GGPlot Cheatsheet.md",
     "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
@@ -260,7 +262,6 @@
     "Academic/Academic notes/VCAN.md",
     "Self Learning/Blender.md",
     "Self Learning/Obsidian Wrangling.md",
-    "Academic/Research Larance Lab.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
@@ -270,7 +271,6 @@
     "-Support/Reading/Foldclass and Merizo-search embedding-based deep learning.pdf",
     "-Support/Graphics/cells-09-01986-g002 1.jpg",
     "cells-09-01986-g002.jpg",
-    "-Support/Graphics/cells-09-01986-g002.jpg",
     "-Support/Reading/FUT10 and FUT11 are novel protein O-fucosyltransferases that modify protein EMI domains.pdf",
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes",
