@@ -3,3 +3,5 @@
 [[GGPlot Cheatsheet]]
 [[Other Package Cheatsheets]]
 [[R Code assorted templates]]
+
+[[Regular Expressions]]

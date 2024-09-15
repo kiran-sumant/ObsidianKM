@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
+                "file": "Self Learning/Regular Expressions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf"
+                "file": "Self Learning/Regular Expressions.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf",
+                "file": "Self Learning/Regular Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf",
+                "file": "Self Learning/Regular Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,14 +230,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "6a5f724e631a7e38",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Self Learning/Data Science.md",
+    "Self Learning/Regular Expressions.md",
     "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
+    "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Machine Learning.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/t-test.md",
-    "Self Learning/Data Science.md",
     "Academic/Academic notes/Scheffe.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Tukey's HSD.md",
@@ -252,7 +254,6 @@
     "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Obsidian Wrangling.md",
     "Self Learning/Learn Notes/Other Package Cheatsheets.md",
-    "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Tidying with tidyr.pdf",
     "-Support/Reading/APIs with plumber.pdf",
@@ -264,7 +265,6 @@
     "Projects/Project(s).md",
     "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Academic notes/Deadlines.md",
-    "Academic/Honours.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
