@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "c841fd3254166014",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf"
-              }
-            }
-          },
-          {
             "id": "d35d8bf1021a4a4b",
             "type": "leaf",
             "state": {
@@ -56,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf"
+                "file": "Self Learning/GGPlot Cheatsheet.md"
               }
             }
           },
@@ -194,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf",
+                "file": "Self Learning/GGPlot Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Support/Reading/Data Visualisation with ggplot2.pdf",
+                "file": "Self Learning/GGPlot Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,14 +232,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c841fd3254166014",
+  "active": "de44e77cb3ffbf28",
   "lastOpenFiles": [
+    "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "Self Learning/GGPlot Cheatsheet.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Tidying with tidyr.pdf",
     "-Support/Reading/APIs with plumber.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
-    "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Graphics/Pasted image 20240915145855.png",
     "-Support/Graphics/Pasted image 20240915145841.png",
     "Self Learning/Data Science.md",
