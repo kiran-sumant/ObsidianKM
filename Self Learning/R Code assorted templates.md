@@ -1,14 +1,20 @@
-
-# [[T-test]]
+# Statistics 
+## [[T-test]]
 ```
 
 ```
-# 
-# [[ANOVA]]
+## [[Chi-square test]]
 ```
 
 ```
-## [[Bonferroni|Bonferroni post-hoc]]
+## [[2 Proportions Test]]
+```
+```
+## [[ANOVA]]
+```
+
+```
+### [[Bonferroni|Bonferroni post-hoc]]
 ```
 
 ```
