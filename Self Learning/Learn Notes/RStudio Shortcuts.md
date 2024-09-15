@@ -31,3 +31,4 @@
 | Show source code for function at cursor | F2                                       |     |
 | Find usages for symbol at cursor (C++)  | Ctrl+Alt+U                               |     |
 
+#cheatsheet

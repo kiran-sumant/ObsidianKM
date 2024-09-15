@@ -48,4 +48,4 @@ comment via \%%, either inline or block. comments are only visible in editing vi
 
 [[Obsidian and Zettelkasten - Edmund Gropl.pdf]]
 
-#### tags: #obsidian #markdown #zettelkasten #atomicnotes #syntax 
+#### tags: #obsidian #markdown #zettelkasten #atomicnotes #syntax #cheatsheet
