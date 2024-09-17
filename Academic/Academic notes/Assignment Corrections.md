@@ -37,6 +37,8 @@
 | Publisher/institution | ==Abbreviated or expanded==, confirm italicisation                                |
 | Location in Journal   | Edition, volume, issue number, page range                                         |
 
+# Finding syntax/grammatical errors
 # Any/All Reports
+
 
 #mistakes
