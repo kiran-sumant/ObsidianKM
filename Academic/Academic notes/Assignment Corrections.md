@@ -27,7 +27,7 @@
 - ==An aim should not be dependent on a previous aim's results==; otherwise provide an alternative approach if pursuing a dependent aim.
 - Linker words; **==read aloud the bloody thing before submission.==**
 - ==gene== = **expressed**, ==protein== = **translated**.
-- **Clearly distinguish** between **similar elements** like ==FUT10 and FUT11==; explain their ***specific roles** and **impacts***.
+- **Clearly distinguish** between **similar elements** like ==FUT10 and FUT11==; explain their *specific roles and impacts*.
 
 ## **PLEASE DONT FORGET TO CHECK THAT ALL ASPECTS OF REFERENCE ARE PRESENT** 😭
 
