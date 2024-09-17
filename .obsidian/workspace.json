@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
+                "file": "Self Learning/Learn Notes/Callout list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Regular Expressions.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "6a5f724e631a7e38",
+            "id": "1ad181f2069738c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Statistics",
+                "query": "beta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md"
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Self Learning/Learn Notes/Illustrator - Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,43 +233,42 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "6a5f724e631a7e38",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Self Learning/Regular Expressions.md",
+    "Self Learning/Learn Notes/RStudio Shortcuts.md",
+    "Self Learning/Learn Notes/R Code assorted templates.md",
+    "Self Learning/Learn Notes/Other Package Cheatsheets.md",
+    "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
+    "Academic/Academic notes/Machine Learning.md",
     "Academic/Academic notes/Exam Corrections.md",
     "Academic/Academic notes/Assignment Corrections.md",
-    "Academic/Academic notes/COQA1.md",
-    "Academic/Academic notes/Research Project Showcase.md",
-    "Academic/Academic notes/Corrections/Corrections.md",
-    "Academic/Academic notes/Corrections",
+    "Academic/Academic notes/ANOVA^faa453.md",
+    "-Support/Reading/R Apps with Shiny.pdf",
+    "-Support/Reading/Data Visualisation with ggplot2.pdf",
+    "-Support/Reading/Data Transformation with dplyr.pdf",
+    "-Support/Reading/Data Tidying with tidyr.pdf",
+    "-Support/Reading/APIs with plumber.pdf",
+    "-Support/Graphics/Pasted image 20240915145855.png",
+    "-Support/Graphics/Pasted image 20240915145841.png",
+    "Self Learning/Adobe.md",
+    "Projects/Addiction.md",
+    "Projects/Physical.md",
+    "Projects/Project(s).md",
+    "Academic/Academic notes/Mid-year Oral Presentation.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Honours.md",
     "Academic/Literature Review.md",
-    "-Support/Reading/Data Visualisation with ggplot2.pdf",
-    "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
-    "Self Learning/Regular Expressions.md",
-    "Self Learning/Data Science.md",
-    "Self Learning/Learn Notes/R Code assorted templates.md",
-    "Academic/Academic notes/Machine Learning.md",
     "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/t-test.md",
-    "Academic/Academic notes/Scheffe.md",
-    "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Tukey's HSD.md",
-    "Academic/Academic notes/ANOVA^faa453.md",
-    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Self Learning/Learn Notes/RStudio Shortcuts.md",
-    "Self Learning/Blender.md",
-    "Self Learning/Learn Notes/Blender for Biochemists, Intro to Blender.md",
-    "Self Learning/Adobe.md",
-    "Self Learning/Learn Notes/Illustrator - Beginner.md",
-    "-Support/Cheat Sheet.md",
-    "-Support/Reading/R Apps with Shiny.pdf",
-    "-Support/Reading/Data Tidying with tidyr.pdf",
-    "-Support/Reading/APIs with plumber.pdf",
-    "-Support/Reading/Data Transformation with dplyr.pdf",
-    "-Support/Graphics/Pasted image 20240915145855.png",
-    "-Support/Graphics/Pasted image 20240915145841.png",
+    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/Scheffe.md",
+    "Academic/Literature Notes/The evolution of post-translational modifications.md",
+    "Academic/Academic notes/Type 2 errors.md",
+    "Academic/Academic notes/Type 1 errors.md",
+    "Academic/Literature Notes/Biological functions of fucose in mammals.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
@@ -282,6 +281,7 @@
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes",
     "PGC-LC-MS",
+    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
