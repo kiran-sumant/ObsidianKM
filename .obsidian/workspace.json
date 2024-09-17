@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Research Project Showcase.md",
+                "file": "Academic/Academic notes/Assignment Corrections.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Research Project Showcase.md"
+                "file": "Academic/Academic notes/Assignment Corrections.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Research Project Showcase.md",
+                "file": "Academic/Academic notes/Assignment Corrections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Research Project Showcase.md",
+                "file": "Academic/Academic notes/Assignment Corrections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +235,12 @@
   },
   "active": "6a5f724e631a7e38",
   "lastOpenFiles": [
+    "Academic/Academic notes/Exam Corrections.md",
+    "Academic/Academic notes/Assignment Corrections.md",
+    "Academic/Academic notes/COQA1.md",
+    "Academic/Academic notes/Research Project Showcase.md",
+    "Academic/Academic notes/Corrections/Corrections.md",
+    "Academic/Academic notes/Corrections",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Honours.md",
     "Academic/Literature Review.md",
@@ -257,17 +263,12 @@
     "Self Learning/Adobe.md",
     "Self Learning/Learn Notes/Illustrator - Beginner.md",
     "-Support/Cheat Sheet.md",
-    "Self Learning/Learn Notes/Callout list.md",
-    "Self Learning/Obsidian Wrangling.md",
-    "Self Learning/Learn Notes/Other Package Cheatsheets.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Tidying with tidyr.pdf",
     "-Support/Reading/APIs with plumber.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
     "-Support/Graphics/Pasted image 20240915145855.png",
     "-Support/Graphics/Pasted image 20240915145841.png",
-    "Projects/Addiction.md",
-    "Projects/Physical.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
@@ -281,7 +282,6 @@
     "Academic/Academic notes/Literature Review Canvas.canvas",
     "Academic/Literature Notes",
     "PGC-LC-MS",
-    "-Support/Reading/Ultra-sensitive platelet proteome maps the O-glycosylation landscape.pdf",
     "Academic/Untitled.canvas",
     "Untitled.canvas"
   ]
