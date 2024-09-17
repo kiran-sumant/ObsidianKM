@@ -1,5 +1,5 @@
 # Research Showcase
-
+## Detailed Marking
 > [!NOTE]-  From Examiner 1: **Rebecca Poulos**
 > This Showcase is very well written. Kiran has done an excellent job of explaining a highly complex research topic and the proposed analyses. The work provides detailed information relating to the relevant background and associated experimental techniques. 
 > 
@@ -15,8 +15,15 @@
 > 4. It is not necessary to quote directly from a reference (see first paragraph of 3.2.1). A paraphrase is more customary.
 
 > [!NOTE]- From Examiner 2: **Frank Lovicu**
-> - The first page was hard to follow given a lot of assumed knowledge was expected. Acronyms were used but not expanded on first use. It was also not so clear what fucosylation was, in particular, its mode of activity. Given the above, while the aims were clear, what was not clear is how they related or how each different hypothesis was formulated. There was no indication by this first page that FUT10 acts any different to FUT11 on MFAP2. There was also no indication that the absence of 0-fucose impacts MFAP2 binding to fibrillin-1. In short, it was not until the Background that followed that this all made some sense. Also, proteins are better known to be translated and not expressed. The background was clear, and all acronyms were now defined, along with fucosylation that was lacking from first page. Similarly, the Research Plan was well written and covered. Phrases like 'we are proficient in' instilled some confidence in execution unless this was simply taken from lab heads grant application. Some sentences started with lower case, which was careless, and some statements missed linker words (e.g. the Outcomes on the last Page: "We MFAP2 to have a…..". Good use of diagrams to support methods. Presentation was overall very good. References appeared accurate but some had UPPER case text and others missed important details, substituting XXXX for Volume and Page numbers. Another oversight that was missed on review.
+> - The first page was hard to follow given a lot of assumed knowledge was expected. Acronyms were used but not expanded on first use. It was also not so clear what fucosylation was, in particular, its mode of activity. 
+> - Given the above, while the aims were clear, what was not clear is how they related or how each different hypothesis was formulated. 
+> - There was no indication by this first page that FUT10 acts any different to FUT11 on MFAP2. There was also no indication that the absence of 0-fucose impacts MFAP2 binding to fibrillin-1. 
+> - In short, it was not until the Background that followed that this all made some sense. Also, proteins are better known to be translated and not expressed. 
+> - The background was clear, and all acronyms were now defined, along with fucosylation that was lacking from first page. Similarly, the Research Plan was well written and covered. Phrases like 'we are proficient in' instilled some confidence in execution unless this was simply taken from lab heads grant application. 
+> - Some sentences started with lower case, which was careless, and some statements missed linker words (e.g. the Outcomes on the last Page: "We MFAP2 to have a…..". Good use of diagrams to support methods. Presentation was overall very good. References appeared accurate but some had UPPER case text and others missed important details, substituting XXXX for Volume and Page numbers. Another oversight that was missed on review.
 
+## Takeaways
+- 
 # Any/All Reports
 
 #mistakes
