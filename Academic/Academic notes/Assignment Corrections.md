@@ -25,12 +25,17 @@
 ## Takeaways
 - Spend more word count on **articulating** the ==basis for hypothesis==
 - ==An aim should not be dependent on a previous aim's results==; otherwise provide an alternative approach if pursuing a dependent aim.
-- **PLEASE DONT FORGET TO CHECK THAT ALL ASPECTS OF REFERENCE ARFE PRESENT** 😭
+- Linker words; **==read aloud the bloody thing before submission.==**
+- ==gene== = **expressed**, ==protein== = **translated**.
+- **Clearly distinguish** between **similar elements** like ==FUT10 and FUT11==; explain their ***specific roles** and **impacts***.
 
-| Reference element | Things to check for                                         |
-| ----------------- | ----------------------------------------------------------- |
-| Article title     | All caps, Lower case, are species emboldened or italicised? |
-| Publisher         |                                                             |
+## **PLEASE DONT FORGET TO CHECK THAT ALL ASPECTS OF REFERENCE ARE PRESENT** 😭
+
+| Reference element     | Things to check for                                                               |
+| --------------------- | --------------------------------------------------------------------------------- |
+| Article title         | ==First letter upper case==/all upper case, are species emboldened or italicised? |
+| Publisher/institution | ==Abbreviated or expanded==, confirm italicisation                                |
+| Location in Journal   | Edition, volume, issue number, page range                                         |
 
 # Any/All Reports
 
