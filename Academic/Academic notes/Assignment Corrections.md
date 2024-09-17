@@ -23,7 +23,15 @@
 > - Some sentences started with lower case, which was careless, and some statements missed linker words (e.g. the Outcomes on the last Page: "We MFAP2 to have a…..". Good use of diagrams to support methods. Presentation was overall very good. References appeared accurate but some had UPPER case text and others missed important details, substituting XXXX for Volume and Page numbers. Another oversight that was missed on review.
 
 ## Takeaways
-- 
+- Spend more word count on **articulating** the ==basis for hypothesis==
+- ==An aim should not be dependent on a previous aim's results==; otherwise provide an alternative approach if pursuing a dependent aim.
+- **PLEASE DONT FORGET TO CHECK THAT ALL ASPECTS OF REFERENCE ARFE PRESENT** 😭
+
+| Reference element | Things to check for                                         |
+| ----------------- | ----------------------------------------------------------- |
+| Article title     | All caps, Lower case, are species emboldened or italicised? |
+| Publisher         |                                                             |
+
 # Any/All Reports
 
 #mistakes
