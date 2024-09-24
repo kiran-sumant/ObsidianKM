@@ -27,18 +27,17 @@ Outcome variable is expressed as a function of explanatory variables.
 
 ## Post-Hoc analysis comparisons
 
-| Analysis           | Data suitability                                                                          |
-| ------------------ | ----------------------------------------------------------------------------------------- |
-| Bonferroni         | **Set number of comparisons**                                                             |
-| Tukey's HSD        | **Individual pairwise** comparisons, best for ==equal sample sizes==                      |
-| Scheffe            | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI== |
-| Duncan's MRT       |                                                                                           |
-| Dunn's MCT         |                                                                                           |
-| Fisher's LSD       |                                                                                           |
-| Newman-Keuls       |                                                                                           |
-| Rodger             |                                                                                           |
-| Dunnett            |                                                                                           |
-| Benjamini-Hichberg |                                                                                           |
+| Analysis           | Data suitability                                                                                |
+| ------------------ | ----------------------------------------------------------------------------------------------- |
+| Bonferroni         | **Set number of comparisons**                                                                   |
+| Tukey's HSD        | **Individual pairwise** comparisons, best for ==equal sample sizes==                            |
+| Scheffe            | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI==       |
+| Duncan's MRT       | Generates **q values** for identifying all **mean pairs** that are **statistically different.** |
+| Fisher's LSD       | Like MRT, but generates                                                                         |
+| Newman-Keuls       |                                                                                                 |
+| Rodger             |                                                                                                 |
+| Dunnett            |                                                                                                 |
+| Benjamini-Hichberg |                                                                                                 |
 
 ## Post-Hoc decision flow
 ![[Pasted image 20240906162039.png]]
