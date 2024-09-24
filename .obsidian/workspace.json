@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#mist",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +246,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b86698c515574c87",
+  "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/Assignment Corrections.md",
     "Academic/Honours.md",
     "Academic/Literature Review.md",
     "Academic/Research Larance Lab.md",
@@ -262,7 +266,6 @@
     "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
     "Academic/Academic notes/Machine Learning.md",
     "Academic/Academic notes/Exam Corrections.md",
-    "Academic/Academic notes/Assignment Corrections.md",
     "Academic/Academic notes/ANOVA^faa453.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
@@ -276,11 +279,8 @@
     "Projects/Physical.md",
     "Projects/Project(s).md",
     "Academic/Academic notes/Mid-year Oral Presentation.md",
-    "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
-    "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Scheffe.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
