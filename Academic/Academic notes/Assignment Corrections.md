@@ -30,6 +30,11 @@
 - **Clearly distinguish** between **similar elements** like ==FUT10 and FUT11==; explain their *specific roles and impacts*.
 - If little is known about the action of two similar elements like ==FUT10 and FUT11==, **explain why little is known;** ==research gap.==
 
+# Any/All Reports
+
+# Finding syntax/grammatical errors:
+- Use grammarly.
+- Starting sentence with simple case Use find function to locate start of every sentence easily. Search through to ensure no mistakes.
 ## **PLEASE DONT FORGET TO CHECK THAT ALL ASPECTS OF REFERENCE ARE PRESENT** 😭
 
 | Reference element     | Things to check for                                                               |
@@ -37,11 +42,6 @@
 | Article title         | ==First letter upper case==/all upper case, are species emboldened or italicised? |
 | Publisher/institution | ==Abbreviated or expanded==, confirm italicisation                                |
 | Location in Journal   | Edition, volume, issue number, page range                                         |
-
-# Finding syntax/grammatical errors:
-- Use grammarly.
-- Starting sentence with simple case Use find function to locate start of every sentence easily. Search through to ensure no mistakes.
-# Any/All Reports
 
 
 #mistakes
