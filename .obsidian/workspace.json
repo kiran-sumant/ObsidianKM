@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/q-value.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "q-value",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md"
+                "file": "Academic/Academic notes/q-value.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/q-value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/q-value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +248,10 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Academic/Academic notes/Assignment Corrections.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/q-value.md",
     "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Assignment Corrections.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/2 Proportions Test.md",
@@ -258,7 +260,6 @@
     "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/ordinal.md",
     "Academic/Academic notes/nominal.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Honours.md",
     "Academic/Literature Review.md",
     "Academic/Research Larance Lab.md",
@@ -280,7 +281,6 @@
     "-Support/Graphics/Pasted image 20240915145855.png",
     "-Support/Graphics/Pasted image 20240915145841.png",
     "Self Learning/Adobe.md",
-    "Projects/Addiction.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",

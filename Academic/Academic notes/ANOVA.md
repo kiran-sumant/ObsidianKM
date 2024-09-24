@@ -33,7 +33,7 @@ Outcome variable is expressed as a function of explanatory variables.
 | Tukey's HSD        | **Individual pairwise** comparisons, best for ==equal sample sizes==                            |
 | Scheffe            | **All possible simple** and complex mean comparisons; ==highly conservative, largest CI==       |
 | Duncan's MRT       | Generates **q values** for identifying all **mean pairs** that are **statistically different.** |
-| Fisher's LSD       | Like MRT, but generates                                                                         |
+| Fisher's LSD       | Like MRT, but generates **t values** instead.                                                   |
 | Newman-Keuls       |                                                                                                 |
 | Rodger             |                                                                                                 |
 | Dunnett            |                                                                                                 |

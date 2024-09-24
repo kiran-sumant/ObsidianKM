@@ -2,7 +2,7 @@ Tukey Test/procedure,  gives an ==Honest Significant Difference==, based on a **
 
 ANOVA gives ==MSE==; MS error.
 
-**q-value** is determined by the ==Q Table== using $k$ and $df$, which are number of groups and degrees of freedom, respectively.
+**[[q-value]]** is determined by the ==Q Table== using $k$ and $df$, which are number of groups and degrees of freedom, respectively.
 
 > [!info] Tukey Statistic
 > $T = q   \times \sqrt \frac{MSE}{n}$, where $n$ is the **number of items** in **one sample**
