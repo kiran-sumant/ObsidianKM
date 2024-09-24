@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Kruskal-Wallis.md",
+                "file": "Academic/Academic notes/nominal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Kruskal-Wallis.md"
+                "file": "Academic/Academic notes/nominal.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Kruskal-Wallis.md",
+                "file": "Academic/Academic notes/nominal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Kruskal-Wallis.md",
+                "file": "Academic/Academic notes/nominal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,6 +248,9 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/ordinal.md",
+    "Academic/Academic notes/nominal.md",
+    "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Tukey's HSD.md",
@@ -278,10 +281,7 @@
     "Projects/Addiction.md",
     "Projects/Physical.md",
     "Projects/Project(s).md",
-    "Academic/Academic notes/Mid-year Oral Presentation.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "-Support/Graphics/Pasted image 20240906162039.png",
-    "Academic/Academic notes/Scheffe.md",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",
     "-Support/Graphics/Pasted image 20240610123145.png",
