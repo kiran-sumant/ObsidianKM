@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/nominal.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/nominal.md"
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/nominal.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/nominal.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +248,11 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Non-parametric.md",
+    "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/ordinal.md",
     "Academic/Academic notes/nominal.md",
-    "Academic/Academic notes/Kruskal-Wallis.md",
-    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Bonferroni.md",
     "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/Assignment Corrections.md",
@@ -280,7 +281,6 @@
     "Self Learning/Adobe.md",
     "Projects/Addiction.md",
     "Projects/Physical.md",
-    "Projects/Project(s).md",
     "-Support/Graphics/Pasted image 20240906162039.png",
     "-Support/Graphics/Pasted image 20240610133820.png",
     "Pasted image 20240610133820.png",

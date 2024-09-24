@@ -6,6 +6,4 @@ It is a ==non-parametric test==, and uses **ranks** for individuals taken from s
 
 Data needs to be **[[ordinal]]**.
 
-
-
 #definition #data-science #analysis #statistics 
