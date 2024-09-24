@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/R Code assorted templates.md"
+                "file": "Academic/Academic notes/Assignment Corrections.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
+                "file": "Academic/Academic notes/Assignment Corrections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
+                "file": "Academic/Academic notes/Assignment Corrections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,13 +246,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "b86698c515574c87",
   "lastOpenFiles": [
-    "Academic/Academic notes/Bonferroni.md",
+    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
+    "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/2 Proportions Test.md",
     "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
-    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Non-parametric.md",
     "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/ordinal.md",
