@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b86698c515574c87",
+            "id": "1ad181f2069738c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Assignment Corrections.md",
+                "file": "Projects/Project Notes/Employer Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "1ad181f2069738c2",
+            "id": "c215e2edd0431ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Employer Database.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Project Notes/Employer Database.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Project Notes/Employer Database.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Project Notes/Employer Database.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +246,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "c215e2edd0431ffb",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
+    "Self Learning/Data Science.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Assignment Corrections.md",
     "Projects/Project Notes/Employer Database.md",
@@ -272,8 +274,6 @@
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Academic/Academic notes/Poster Presentation.md",
-    "Self Learning/Learn Notes/Illustrator - Beginner.md",
-    "Self Learning/Learn Notes/RStudio Shortcuts.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
