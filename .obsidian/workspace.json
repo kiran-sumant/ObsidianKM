@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/q-value.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -235,12 +235,12 @@
   },
   "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/q-value.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/p-value.md",
     "Academic/Academic notes/descriptive statistic.md",
     "Academic/Academic notes/Deadlines.md",
-    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Self Learning/Data Science.md",
     "Self Learning/Learn Notes/Regular Expressions.md",
