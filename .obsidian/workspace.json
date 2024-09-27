@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/p-value.md",
+                "file": "Academic/Academic notes/Tukey's HSD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/p-value.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/p-value.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/p-value.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,8 +233,9 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "a62304f4711facf7",
+  "active": "1ad181f2069738c2",
   "lastOpenFiles": [
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/q-value.md",
     "Academic/Academic notes/p-value.md",
     "Academic/Academic notes/descriptive statistic.md",
@@ -251,7 +252,6 @@
     "Projects/Project Notes/Job Stuff.md",
     "Projects/Project Notes/Resume redesign.md",
     "Projects/Financial.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/2 Proportions Test.md",
