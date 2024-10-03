@@ -23,5 +23,13 @@
       ],
       "key": "R"
     }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
