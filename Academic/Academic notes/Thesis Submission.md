@@ -6,8 +6,6 @@ Citation in Harvard format
 **all data, figures, tables and diagrams must be developed by me**. ==exception?== ==Literature review/introduction==, where if copied, ==must be attributed to source==. if possible, **reinterpret**.
 
 
-
-
 # Do's
 
 # Do Nots
