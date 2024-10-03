@@ -1,4 +1,7 @@
-# Flow
+# Contents
+
+Words - >10,000
+Count at start of each chapter; total wc at beginning under 
 
 # Do's
 
