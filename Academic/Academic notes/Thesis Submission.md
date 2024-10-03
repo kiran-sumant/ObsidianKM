@@ -36,4 +36,22 @@ Organise figures in Illustrator.
 All detail needed:
 1. Exp conditions
 2. Variable measured and how
-3. What statisticfs shown (boxplot, SEM, )
+3. sample number, perhaps justification
+4. What statistics shown (boxplot, SEM, p-values)
+
+# Discussion
+
+- ==Do  not restate results!!==
+- Rather, **begin** by relating results **back to aims**.
+- explain unexpected results, how they may relate to previous literature
+- related all results to previous literature
+
+> [!important] Consider for all sentences in discussion
+> **knowledge -> understanding -> argument-> critique**
+
+Use to develop previous understandings/ add to previous preconceptions in the field, develop current knowledge in a constructive manner.
+
+## Conclusion
+
+- take home messages.
+- **dont overstate your conclusions**, don't make claims on any sug
