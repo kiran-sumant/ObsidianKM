@@ -31,3 +31,9 @@ Materials can be **separated** or **integrated** (integrated is preferred)
 
 Organise figures in Illustrator.
 
+## Figure Legends
+
+All detail needed:
+1. Exp conditions
+2. Variable measured and how
+3. What statisticfs shown (boxplot, SEM, )
