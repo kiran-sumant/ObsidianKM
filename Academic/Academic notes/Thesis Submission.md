@@ -3,7 +3,7 @@
 Words - >10,000
 Count at start of each chapter; total wc at beginning under declaration
 Citation in Harvard format
-**all data, figures, tables and diagrams must be developed by me**. ==exception?== Literature review/introduction, where if copied, must be attributed to source. if possible, reinterpret.
+**all data, figures, tables and diagrams must be developed by me**. ==exception?== ==Literature review/introduction==, where if copied, ==must be attributed to source==. if possible, **reinterpret**.
 
 
 
