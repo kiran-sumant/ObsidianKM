@@ -54,4 +54,9 @@ Use to develop previous understandings/ add to previous preconceptions in the fi
 ## Conclusion
 
 - take home messages.
-- **dont overstate your conclusions**, don't make claims on any sug
+- **don't overstate your conclusions**, don't make claims on things suggested by data that aren't statistically significant.
+- suggestions to make on future directions to develop what still isn't known from your data. ==Try that EGFL7-MFAP2 interaction for size?==
+
+# references
+
+**use primary resources**
