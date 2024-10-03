@@ -8,10 +8,14 @@
 
 # Introduction and Aims
 
+
+> [!info] There is an ideal use case for the following type of preliminary data and how to refer to them:
+> 1. **Local Lab group**: "our preliminary data shows"
+> 2. **Collaborating Lab/individual**: "Haltiwanger's data indicates"
+
 # Methods
 Consider:
 - Sample size
-- Randomisation
 - Controls; positive, negative, comparative
 - ==All **relevant** experimental variables== per sample
 
