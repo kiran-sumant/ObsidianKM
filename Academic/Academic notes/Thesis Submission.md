@@ -4,7 +4,11 @@ Words - >10,000
 Count at start of each chapter; total wc at beginning under declaration
 Citation in Harvard format
 **all data, figures, tables and diagrams must be developed by me**. ==exception?== ==Literature review/introduction==, where if copied, ==must be attributed to source==. if possible, **reinterpret**.
-
+Chapters and approx. word counts:
+1. Intro - ==2200-2500==
+2. Methods - ==1200-1500==
+3. Results - ==2400-2700==
+4. Discussion - ==3000-3500==
 
 # Do's
 
