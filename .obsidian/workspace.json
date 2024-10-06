@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de44e77cb3ffbf28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d35d8bf1021a4a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Deadlines.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Notes/Employer Database.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,20 +34,19 @@
             }
           },
           {
-            "id": "c215e2edd0431ffb",
+            "id": "a62304f4711facf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/q-value.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md"
+                "file": "Academic/Academic notes/Thesis Submission.md"
               }
             }
           },
@@ -197,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/ANOVA.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,21 +231,26 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c215e2edd0431ffb",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Academic/Academic notes/Deadlines.md",
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Thesis Submission.md",
+    "Academic/Academic notes/q-value.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/p-value.md",
+    "Academic/Academic notes/descriptive statistic.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Self Learning/Data Science.md",
-    "Academic/Academic notes/Deadlines.md",
-    "Academic/Academic notes/Assignment Corrections.md",
+    "Self Learning/Learn Notes/Regular Expressions.md",
     "Projects/Project Notes/Employer Database.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
+    "Journals/Journal Entries/2024-01-08.md",
+    "Academic/Academic notes/Assignment Corrections.md",
     "Projects/Project Notes/Job Stuff.md",
     "Projects/Project Notes/Resume redesign.md",
     "Projects/Financial.md",
-    "Self Learning/Learn Notes/Regular Expressions.md",
-    "Academic/Academic notes/q-value.md",
-    "Academic/Academic notes/p-value.md",
-    "Academic/Academic notes/Tukey's HSD.md",
-    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/2 Proportions Test.md",
@@ -268,11 +259,6 @@
     "Academic/Academic notes/Kruskal-Wallis.md",
     "Academic/Academic notes/ordinal.md",
     "Academic/Academic notes/nominal.md",
-    "Academic/Honours.md",
-    "Academic/Literature Review.md",
-    "Academic/Research Larance Lab.md",
-    "Academic/Seminars.md",
-    "Academic/Academic notes/Poster Presentation.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
