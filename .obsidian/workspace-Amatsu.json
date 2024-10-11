@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Data Science.md",
+                "file": "Projects/Project Notes/Employer Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Data Science.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Data Science.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Data Science.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +229,10 @@
   "left-ribbon": {
     "hiddenItems": {
       "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "janitor:Janitor: scan vault": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
       "templates:Insert template": false,
@@ -239,41 +243,37 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false,
-      "janitor:Janitor: scan vault": false
+      "canvas:Create new canvas": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "c215e2edd0431ffb",
   "lastOpenFiles": [
-    "Self Learning/Obsidian Wrangling.md",
-    "Journals/Journal Entries/2024-01-08.md",
-    "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Projects/Addiction.md",
-    "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
-    "Projects/Project(s).md",
-    "Projects/Financial.md",
-    "Academic/Literature Review.md",
-    "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Projects/Project Notes/Employer Database.md",
-    "Academic/Academic notes/ANOVA.md",
-    "Academic/Academic notes/descriptive statistic.md",
-    "Academic/Academic notes/Thesis Submission.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
     "Self Learning/Data Science.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Assignment Corrections.md",
+    "Projects/Project Notes/Employer Database.md",
     "Projects/Project Notes/Job Stuff.md",
     "Projects/Project Notes/Resume redesign.md",
+    "Projects/Financial.md",
     "Self Learning/Learn Notes/Regular Expressions.md",
     "Academic/Academic notes/q-value.md",
     "Academic/Academic notes/p-value.md",
     "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/ANOVA.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Bonferroni.md",
     "Self Learning/Learn Notes/2 Proportions Test.md",
+    "Self Learning/Learn Notes/GGPlot Cheatsheet.md",
+    "Academic/Academic notes/Non-parametric.md",
+    "Academic/Academic notes/Kruskal-Wallis.md",
+    "Academic/Academic notes/ordinal.md",
+    "Academic/Academic notes/nominal.md",
+    "Academic/Honours.md",
+    "Academic/Literature Review.md",
+    "Academic/Research Larance Lab.md",
+    "Academic/Seminars.md",
+    "Academic/Academic notes/Poster Presentation.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
