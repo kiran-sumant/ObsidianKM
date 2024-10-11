@@ -47,6 +47,17 @@
             }
           },
           {
+            "id": "30f5b4d16663bad7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "c215e2edd0431ffb",
             "type": "leaf",
             "state": {
@@ -60,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self Learning/Data Science.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +217,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,8 +253,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "1ad181f2069738c2",
+  "active": "30f5b4d16663bad7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Self Learning/Data Science.md",
     "Self Learning/Obsidian Wrangling.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
@@ -262,7 +271,6 @@
     "Academic/Academic notes/descriptive statistic.md",
     "Academic/Academic notes/Thesis Submission.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Self Learning/Data Science.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Assignment Corrections.md",
     "Projects/Project Notes/Job Stuff.md",
@@ -273,7 +281,6 @@
     "Academic/Academic notes/Tukey's HSD.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
     "Academic/Academic notes/Bonferroni.md",
-    "Self Learning/Learn Notes/2 Proportions Test.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
