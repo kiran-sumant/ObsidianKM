@@ -39,21 +39,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Data Science.md",
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "30f5b4d16663bad7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
               }
             }
           },
@@ -71,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md"
+              }
             }
           },
           {
@@ -206,6 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,17 +246,18 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "30f5b4d16663bad7",
+  "active": "1ad181f2069738c2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Projects/Project(s).md",
+    "Projects/Physical.md",
+    "Projects/Financial.md",
+    "Projects/Addiction.md",
     "Self Learning/Data Science.md",
+    "conflict-files-obsidian-git.md",
     "Self Learning/Obsidian Wrangling.md",
     "Journals/Journal Entries/2024-01-08.md",
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
-    "Projects/Addiction.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
-    "Projects/Project(s).md",
-    "Projects/Financial.md",
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Projects/Project Notes/Employer Database.md",
@@ -280,7 +274,6 @@
     "Academic/Academic notes/p-value.md",
     "Academic/Academic notes/Tukey's HSD.md",
     "Self Learning/Learn Notes/R Code assorted templates.md",
-    "Academic/Academic notes/Bonferroni.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
