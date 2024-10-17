@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Tukey's HSD.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +235,7 @@
   },
   "active": "c215e2edd0431ffb",
   "lastOpenFiles": [
+    "Academic/Academic notes/Tukey's HSD.md",
     "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/Deadlines.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
@@ -260,7 +261,6 @@
     "Self Learning/Learn Notes/Regular Expressions.md",
     "Academic/Academic notes/q-value.md",
     "Academic/Academic notes/p-value.md",
-    "Academic/Academic notes/Tukey's HSD.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
