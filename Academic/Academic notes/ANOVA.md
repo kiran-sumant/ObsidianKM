@@ -37,7 +37,7 @@ Outcome variable is expressed as a function of explanatory variables.
 | Newman-Keuls       |                                                                                                 |
 | Rodger             |                                                                                                 |
 | Dunnett            |                                                                                                 |
-| Benjamini-Hichberg |                                                                                                 |
+| Benjamini-Hochberg |                                                                                                 |
 
 ## Post-Hoc decision flow
 ![[Pasted image 20240906162039.png]]
