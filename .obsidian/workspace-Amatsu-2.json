@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Academic notes/Deadlines.md"
+                "file": "Academic/Academic notes/ANOVA.md"
               }
             }
           },
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Academic notes/Deadlines.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Academic notes/Deadlines.md",
+                "file": "Academic/Academic notes/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,9 +233,11 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "d35d8bf1021a4a4b",
+  "active": "c215e2edd0431ffb",
   "lastOpenFiles": [
-    "Academic/Academic notes/ANOVA-Amatsu.md",
+    "Academic/Academic notes/Tukey's HSD.md",
+    "Academic/Academic notes/ANOVA.md",
+    "Academic/Academic notes/Deadlines.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Projects/Project(s).md",
     "Projects/Physical.md",
@@ -250,11 +252,9 @@
     "Academic/Literature Review.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
     "Projects/Project Notes/Employer Database.md",
-    "Academic/Academic notes/ANOVA.md",
     "Academic/Academic notes/descriptive statistic.md",
     "Academic/Academic notes/Thesis Submission.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Assignment Corrections.md",
     "Projects/Project Notes/Job Stuff.md",
     "Projects/Project Notes/Resume redesign.md",
