@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Deadlines.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlines"
+              "title": "Thesis Submission"
             }
           },
           {
@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md"
+                "file": "Academic/Academic notes/Thesis Submission.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Callout list"
+              "title": "Outline of Thesis Submission"
             }
           },
           {
@@ -222,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Callout list"
+              "title": "Outgoing links from Thesis Submission"
             }
           },
           {
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Learning/Learn Notes/Callout list.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Callout list"
+              "title": "Backlinks for Thesis Submission"
             }
           }
         ]
@@ -275,8 +275,9 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "df609515f0320862",
+  "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
+    "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/ANOVA-Amatsu.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Projects/Project(s).md",
@@ -296,7 +297,6 @@
     "Academic/Academic notes/descriptive statistic.md",
     "Academic/Academic notes/Thesis Submission.md",
     "Self Learning/Learn Notes/Mark's R Class 2024-05-22.md",
-    "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/Assignment Corrections.md",
     "Projects/Project Notes/Job Stuff.md",
     "Projects/Project Notes/Resume redesign.md",
