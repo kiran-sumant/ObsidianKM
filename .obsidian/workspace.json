@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Academic notes/Fragmentation Technique Characterisations.md",
+                "file": "Academic/Academic notes/Thesis Submission.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragmentation Technique Characterisations"
+              "title": "Thesis Submission"
             }
           },
           {
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -277,20 +277,21 @@
   },
   "active": "d35d8bf1021a4a4b",
   "lastOpenFiles": [
-    "abc/xyz ions.md",
+    "Academic/Academic notes/Deadlines.md",
+    "Academic/Honours.md",
+    "Academic/Literature Review.md",
+    "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
     "Academic/Academic notes/Fragmentation Technique Characterisations.md",
+    "abc/xyz ions.md",
     "abc",
     "Academic/Academic notes/EAD.md",
     "Academic/Literature Notes/Discover the Post-Translational Modification Proteome Using Mass Spectrometry.md",
     "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Academic notes/CID.md",
-    "Academic/Literature Review.md",
-    "Academic/Honours.md",
     "Academic/Research Larance Lab.md",
     "Academic/Seminars.md",
     "Projects/Addiction.md",
     "Academic/Academic notes/Thesis Submission.md",
-    "Academic/Academic notes/Deadlines.md",
     "Academic/Academic notes/ANOVA-Amatsu.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
     "Projects/Project(s).md",
@@ -303,7 +304,6 @@
     "Projects/Project Notes/Main differences between Good and Bad Habits that make Growth Hard.md",
     "Projects/Project Notes/My Discontentment, bundled and delocalised.md",
     "Academic/Literature Notes/Analysis of Tandem Mass Spectrometry Data with CONGA - Combining Open and Narrow Searches with Group-Wise Analysis.md",
-    "Projects/Project Notes/Employer Database.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
