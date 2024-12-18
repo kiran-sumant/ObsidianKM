@@ -6,5 +6,11 @@
 
 ## Details
 The Encyclopaedia of Domains (TED) database is a database created using "deep learning-based domain parsing and structure comparison algorithms to segment and classify domains" 
-On proteins in the AlphaFold database. Domains from
+On proteins in the AlphaFold database. Domains from the TED database can be used to construct a local database to classify queried domains against TED domains in order to determine structural homology and relations via classification.
+
+ >[!quote]- 
+ >We uncover over 10, 000 previously unseen structural interactions between superfamilies, expand domain coverage to over 1 million taxa, and unveil thousands of architectures and folds across the unexplored continuum of protein fold space. We expect TED to be a valuable resource that provides a functional interface to the AFDB, empowering it to be useful for a multitude of downstream analyses.
+
+the 
+
 - The script is run from the file 
