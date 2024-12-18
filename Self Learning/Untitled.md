@@ -18,5 +18,7 @@ We uncover over 10, 000 previously unseen structural interactions betwe
 I created this script to generate a folder of pdb. files downloaded from the TED API, to generate a database for running on a local computer, according to input data downloaded from UniProt (as an example, I used the SwissProt *homo sapiens* proteins as I wish to conduct a homology search across the human proteome for specific protein domains).
 
 # Instructions
-- Use [UniProtKB](https://www.uniprot.org/uniprotkb) to create a desired proteome script 
+1. Use [UniProtKB](https://www.uniprot.org/uniprotkb?query=*) to create a desired set of proteins, and narrow down the desired database to the proteins you wish to query that belong to the same species/ are reviewed/ have specific scores or sequence lengths, depending on your aims for searching. 
+2. Open the download sidebar, and choose the "JSON" from the format dropdown menu. Then, click the download button.
+3. Once downloaded, copy the location address of the .json file
 - The script is run from the file 
