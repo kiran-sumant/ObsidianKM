@@ -7,7 +7,7 @@
 - For larger .json file sizes (aka larger desired protein databases) I recommend dividing the data you wish to run into chunks that are <1GB.
 
 # Details
-The Encyclopaedia of Domains (TED) database is a database created using "deep learning-based domain parsing and structure comparison algorithms to segment and classify domains" 
+[The Encyclopaedia of Domains](https://www.science.org/doi/10.1126/science.adq4946) (TED) database is a database created using "deep learning-based domain parsing and structure comparison algorithms to segment and classify domains" 
 On proteins in the AlphaFold database. Domains from the TED database can be used to construct a local database to classify queried domains against TED domains in order to determine structural homology and relations via classification.
 
  >[!quote]
@@ -30,4 +30,6 @@ Please state the address of an EXISTING root folder for writing in the pdb file 
 6. Paste the previously copied addresses in for each prompt and click enter after submitting the address for each one. The addresses should not be within quotation marks. 
 7. If the json file address is incorrect the script will not run. If the folder file address is not correct the script will dump files into a folder created in the working directory called "ted_output"
 8. Once it is run, you should see all the .pdb files have populated the folder. If you cannot open the files, please restart your computer once and try again. 
-9. Additionally, a file called "null_ted_proteins.txt" will be generated, containing the proteins from your json file where the accession ID of the protein generated a 404 error as no domains have been generated on the TED database. 
+9. Additionally, a file called "null_ted_proteins.txt" will be generated, containing the proteins from your json file where the accession ID of the protein generated a 404 error as no domains have been generated on the TED database. This contains proteins that are either longer than a certain size set by DeepMind for distribution; or in the case of shorter sequences, the presence of missing/non-standard residues.
+
+If you have any further questions, please raise them in the Issues section.
