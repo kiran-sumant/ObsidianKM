@@ -28,4 +28,6 @@ Please state the address of Uniprot-downloaded json file for accession ID extrac
 Please state the address of an EXISTING root folder for writing in the pdb file database:
 ```
 6. Paste the previously copied addresses in for each prompt and click enter after submitting the address for each one. The addresses should not be within quotation marks. 
-7. If the json file address is incorrect the script will not run. If the folder file address is n
+7. If the json file address is incorrect the script will not run. If the folder file address is not correct the script will dump files into a folder created in the working directory called "ted_output"
+8. Once it is run, you should see all the .pdb files have populated the folder. If you cannot open the files, please restart your computer once and try again. 
+9. Additionally, a file called "null_ted_proteins.txt" will be generated, containing the proteins from your json file where the accession ID of the protein generated a 404 error as no domains have been generated on the TED database. 
