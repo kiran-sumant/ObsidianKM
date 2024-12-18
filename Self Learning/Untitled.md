@@ -3,7 +3,8 @@
 - Recommended minimum RAM: 16 GB (the bigger the better)
 - You will need to install all dependables via conda please download [Anaconda](https://www.anaconda.com/download) or Conda-mini before running this program.
 - Ideally run the script on [VScode](https://code.visualstudio.com/docs/setup/windows), as that is where I wrote and tested it, so I have ample knowledge of all the ways it can possibly go wrong in VScode specifically
-- DO NOT RUN JSON FILES LARGER THAN 1GB, it will crash your computer
+- ==DO NOT RUN JSON FILES LARGER THAN 1GB,== it will crash your computer due to the artifacts generated to run the code, and you will risk corrupting your hard drive. 
+- For larger .json file sizes (aka larger desired protein databases) I recommend dividing the data you wish to run into chunks that are <1GB.
 
 # Details
 The Encyclopaedia of Domains (TED) database is a database created using "deep learning-based domain parsing and structure comparison algorithms to segment and classify domains" 
@@ -17,4 +18,5 @@ We uncover over 10, 000 previously unseen structural interactions betwe
 I created this script to generate a folder of pdb. files downloaded from the TED API, to generate a database for running on a local computer, according to input data downloaded from UniProt (as an example, I used the SwissProt *homo sapiens* proteins as I wish to conduct a homology search across the human proteome for specific protein domains).
 
 # Instructions
+- Use [UniProtKB](https://www.uniprot.org/uniprotkb) to create a desired proteome script 
 - The script is run from the file 
