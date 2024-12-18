@@ -3,6 +3,7 @@
 - Recommended minimum RAM: 16 GB (the bigger the better)
 - You will need to install all dependables via conda please download [Anaconda](https://www.anaconda.com/download) or Conda-mini before running this program.
 - Ideally run the script on [VScode](https://code.visualstudio.com/docs/setup/windows), as that is where I wrote and tested it, so I have ample knowledge of all the ways it can possibly go wrong in VScode specifically
+- DO NOT RUN JSON FILES LARGER THAN 1GB, it will crash your computer
 
 # Details
 The Encyclopaedia of Domains (TED) database is a database created using "deep learning-based domain parsing and structure comparison algorithms to segment and classify domains" 
@@ -11,6 +12,9 @@ On proteins in the AlphaFold database. Domains from the TED database can be used
  >[!quote]
 We uncover over 10, 000 previously unseen structural interactions between superfamilies, expand domain coverage to over 1 million taxa, and unveil thousands of architectures and folds across the unexplored continuum of protein fold space. We expect TED to be a valuable resource that provides a functional interface to the AFDB, empowering it to be useful for a multitude of downstream analyses.
 
-[Merizo search](https://www.biorxiv.org/content/10.1101/2024.03.25.586696v2.full) and Foldclass can make use of databases constructed using data from the TED database for homology detection and detecting "per-domain similarities for complete chains". The efficacy of similar programs such as Foldseek
+[Merizo search](https://www.biorxiv.org/content/10.1101/2024.03.25.586696v2.full) and Foldclass can make use of databases constructed using data from the TED database for homology detection and detecting "per-domain similarities for complete chains". 
 
+I created this script to generate a folder of pdb. files downloaded from the TED API, to generate a database for running on a local computer, according to input data downloaded from UniProt (as an example, I used the SwissProt *homo sapiens* proteins as I wish to conduct a homology search across the human proteome for specific protein domains).
+
+# Instructions
 - The script is run from the file 
