@@ -20,5 +20,12 @@ I created this script to generate a folder of pdb. files downloaded from the TED
 # Instructions
 1. Use [UniProtKB](https://www.uniprot.org/uniprotkb?query=*) to create a desired set of proteins, and narrow down the desired database to the proteins you wish to query that belong to the same species/ are reviewed/ have specific scores or sequence lengths, depending on your aims for searching. 
 2. Open the download sidebar, and choose the "JSON" from the format dropdown menu. Then, click the download button.
-3. Once downloaded, copy the location address of the .json file
-- The script is run from the file 
+3. Once downloaded, copy the location address of the .json file and the address of the folder you wish the script to populate with .pdb files.
+4. The script is run from the file script_TED_files.py. Run this file only. 
+5. In the terminal, you will be greeted by the following prompts in succession:
+```
+Please state the address of Uniprot-downloaded json file for accession ID extraction:
+Please state the address of an EXISTING root folder for writing in the pdb file database:
+```
+6. Paste the previously copied addresses in for each prompt and click enter after submitting the address for each one. The addresses should not be within quotation marks. 
+7. If the json file address is incorrect the script will not run. If the folder file address is n
