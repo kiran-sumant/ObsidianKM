@@ -38,6 +38,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] [[War]]
 - [ ] [[Wealth]]
 - [ ] [[Wisdom]]
+- [ ] [[Youth]]
 
 # Sub-themes:
 

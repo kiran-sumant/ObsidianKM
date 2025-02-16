@@ -3,20 +3,11 @@
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
-# Satellite themes
-## [[Culture]]
-How-it-connects
-[[Example]]
+# Primary Satellite Themes
 
-## [[Family]]
-How-it-connects
-[[Example]]
 
-## [[Youth]]
-How-it-connects
-[[Example]]
 
-# Sub-theme
+# Sub-themes
 ## Subtheme1
 How-it-connects
 [[Example]]
@@ -38,7 +29,7 @@ How-it-connects
 [[Example]]
 
 
-
+# Satellite themes (can include other primary themes that are loosely associated)
 
 
 
