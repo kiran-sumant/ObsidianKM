@@ -39,3 +39,15 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] [[Wealth]]
 - [ ] [[Wisdom]]
 
+# Sub-themes:
+
+- [ ] Affirmative Action
+- [ ] Anarchy
+- [ ] Aristocratic
+- [ ] Authoritarian
+- [ ] Capitalism
+- [ ] Censorship
+- [ ] Communist
+- [ ] Democratic
+- [ ] Dystopia
+- [ ] Fascism
