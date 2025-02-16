@@ -10,6 +10,7 @@
           {
             "id": "41fad7da1e5474fb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "backlinks": true,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Philosophy"
             }
@@ -230,6 +232,246 @@
               },
               "icon": "lucide-file",
               "title": "Family"
+            }
+          },
+          {
+            "id": "2055f8445f4779ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Crime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crime"
+            }
+          },
+          {
+            "id": "d0586b0620912382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Poverty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poverty"
+            }
+          },
+          {
+            "id": "69b1d80f75b4b65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Wealth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wealth"
+            }
+          },
+          {
+            "id": "e853661a6eda9d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Religion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religion"
+            }
+          },
+          {
+            "id": "e92681ca980b7d15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Happiness.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Happiness"
+            }
+          },
+          {
+            "id": "92909c2bf439d1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Nature.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nature"
+            }
+          },
+          {
+            "id": "750e45fb04979110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Imagination.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imagination"
+            }
+          },
+          {
+            "id": "030f18ceac480f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Competition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Competition"
+            }
+          },
+          {
+            "id": "fb6112462e028f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Wisdom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wisdom"
+            }
+          },
+          {
+            "id": "d9f7502ffbf69c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Ambition.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambition"
+            }
+          },
+          {
+            "id": "6b6638d18456e2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Government.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Government"
+            }
+          },
+          {
+            "id": "7ed6fb57b40a748e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Culture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Culture"
+            }
+          },
+          {
+            "id": "a1645bde9fc710db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Freedom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freedom"
+            }
+          },
+          {
+            "id": "d374b81d5d127c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Co-operation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Co-operation"
+            }
+          },
+          {
+            "id": "3449880d8aceb7f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Hate and Bigotry.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hate and Bigotry"
+            }
+          },
+          {
+            "id": "8e544b0ac3bd9957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Communication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication"
             }
           }
         ]
@@ -444,8 +686,23 @@
   },
   "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
-    "Self Learning/Economics.md",
+    "Self Learning/Communication.md",
     "Self Learning/Philosophy.md",
+    "Self Learning/Hate and Bigotry.md",
+    "Self Learning/Co-operation.md",
+    "Self Learning/Freedom.md",
+    "Self Learning/Culture.md",
+    "Self Learning/Government.md",
+    "Self Learning/Ambition.md",
+    "Self Learning/Wisdom.md",
+    "Self Learning/Competition.md",
+    "Self Learning/Imagination.md",
+    "Self Learning/Nature.md",
+    "Self Learning/Happiness.md",
+    "Self Learning/Religion.md",
+    "Self Learning/Wealth.md",
+    "Self Learning/Poverty.md",
+    "Self Learning/Economics.md",
     "Self Learning/Humour.md",
     "Self Learning/Science.md",
     "Self Learning/Technology.md",
@@ -455,21 +712,6 @@
     "Self Learning/War.md",
     "Self Learning/Politics.md",
     "Self Learning/Idealism.md",
-    "Self Learning/Identity.md",
-    "Self Learning/Gratitude.md",
-    "Self Learning/Food.md",
-    "Self Learning/Family.md",
-    "Self Learning/Crime.md",
-    "Self Learning/Poverty.md",
-    "Self Learning/Wealth.md",
-    "Self Learning/Religion.md",
-    "Self Learning/Happiness.md",
-    "Self Learning/Nature.md",
-    "Self Learning/Imagination.md",
-    "Self Learning/Competition.md",
-    "Self Learning/Wisdom.md",
-    "Self Learning/Ambition.md",
-    "Self Learning/Government.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
