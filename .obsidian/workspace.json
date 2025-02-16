@@ -174,8 +174,7 @@
               "title": "Anarchy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,10 +385,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "f0a5ff37014615a9",
+  "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Communist.md",
     "Self Learning/Learn Notes/Government.md",
+    "Self Learning/Learn Notes/Communist.md",
     "Self Learning/Learn Notes/Dystopia.md",
     "Self Learning/Learn Notes/Utopia.md",
     "Self Learning/Learn Notes/Capitalism.md",
