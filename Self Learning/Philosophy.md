@@ -31,6 +31,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] [[Nature]]
 - [ ] [[Politics]]
 - [ ] [[Poverty]]
+- [ ] [[Relationships]]
 - [ ] [[Religion]]
 - [ ] [[Science]]
 - [ ] [[Technology]]

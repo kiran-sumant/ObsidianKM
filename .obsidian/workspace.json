@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Government.md",
+                "file": "-Support/Templates/Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Government"
+              "title": "Theme"
             }
           },
           {
@@ -195,17 +195,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Youth.md",
+                "file": "Self Learning/Learn Notes/Relationships.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Youth"
+              "title": "Relationships"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -415,20 +415,23 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "266b0060369842a2",
+  "active": "f0a5ff37014615a9",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Relationships.md",
     "Self Learning/Philosophy.md",
+    "-Support/Templates/Theme.md",
+    "-Support/Templates/Sub-Theme.md",
+    "Self Learning/Learn Notes/Government.md",
+    "Self Learning/Learn Notes/Freedom.md",
+    "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Food.md",
-    "-Support/Templates/Theme.md",
-    "Self Learning/Learn Notes/Government.md",
     "Self Learning/Learn Notes/Communist.md",
     "Self Learning/Learn Notes/Dystopia.md",
     "Self Learning/Learn Notes/Utopia.md",
     "Self Learning/Learn Notes/Capitalism.md",
     "Self Learning/Learn Notes/Nanny State.md",
     "Self Learning/Learn Notes/Affirmative Action.md",
-    "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Fascism.md",
     "Self Learning/Learn Notes/Tyranny.md",
     "Self Learning/Learn Notes/Anarchy.md",
@@ -440,9 +443,6 @@
     "Self Learning/Learn Notes/Authoritarian.md",
     "Self Learning/Learn Notes/Totalitarian.md",
     "Self Learning/Learn Notes/Democratic.md",
-    "Self Learning/Learn Notes/Monarchic.md",
-    "Self Learning/Learn Notes/Hate Bigotry Racism etc.md",
-    "Self Learning/Learn Notes/Poverty.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

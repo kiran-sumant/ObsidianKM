@@ -1,44 +1,31 @@
-Also ***Independence***
-
 # Definitions
 - **Your definition**:
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
 # Primary Satellite Themes
-## [[Identity]]
+## [[Freedom]]
 How-it-connects
 [[Example]]
 
-## [[Imagination]]
-"Freedom is the enemy of creativity, and flatulence is my prison"
-[[Example]]
 
-## [[Relationships]]
+## Subtheme1
 How-it-connects
 [[Example]]
 
-## [[]]
+## Subtheme2
 How-it-connects
 [[Example]]
 
-# Subtheme1
+## Subtheme3
 How-it-connects
 [[Example]]
 
-# Subtheme2
+## Subtheme4
 How-it-connects
 [[Example]]
 
-# Subtheme3
-How-it-connects
-[[Example]]
-
-# Subtheme4
-How-it-connects
-[[Example]]
-
-# Subtheme5
+## Subtheme5
 How-it-connects
 [[Example]]
 
