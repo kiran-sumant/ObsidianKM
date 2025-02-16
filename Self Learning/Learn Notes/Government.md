@@ -10,10 +10,18 @@ Sub-themes will include types of political systems as a separate section.
 - **Neo/Progressive consensus definition**:
 
 # Political Systems
-**Main ones** include [[Democratic]], [[Totalitarian]], [[Authoritarian]], [[Aristocratic]], [[Timocratic]], [[Oligarchic]]
+
+**Main ones** include [[Democratic]], [[Totalitarian]], [[Authoritarian]], [[Aristocratic]], [[Timocratic]], [[Oligarchic]], [[Monarchic]]
 
 
+| Category       |                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------- |
+| Democratic     | Direct vs Representative Democracy, Constitutional Monarchy                                        |
+| Non-democratic | Authoritarian, Totalitarian, Oligarchic, Technocratic, Theocratic, Dictatorship, Absolute Monarchy |
+| Other          | Communist, Colonialist, Aristocratic                                                               |
 
+Other terms:
+- 
 
 # Sub-Themes
 ## Subtheme1
