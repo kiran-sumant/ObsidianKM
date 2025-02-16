@@ -14,25 +14,29 @@ Sub-themes will include types of political systems as a separate section.
 **Main ones** include [[Democratic]], [[Totalitarian]], [[Authoritarian]], [[Aristocratic]], [[Timocratic]], [[Oligarchic]], [[Monarchic]]
 
 
-| Category       |                                                                                                    |
-| -------------- | -------------------------------------------------------------------------------------------------- |
-| Democratic     | Direct vs Representative Democracy, Constitutional Monarchy                                        |
-| Non-democratic | Authoritarian, Totalitarian, Oligarchic, Technocratic, Theocratic, Dictatorship, Absolute Monarchy |
-| Other          | Communist, Colonialist, Aristocratic                                                               |
+| Category       |                                                                                                                   |
+| -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Democratic     | [[Democratic\|Direct vs Representative Democracy]], [[Monarchic\|Constitutional Monarchy]]                        |
+| Non-democratic | Authoritarian, Totalitarian, Oligarchic, Technocratic, Theocratic, Dictatorship, [[Monarchic\|Absolute Monarchy]] |
+| Other          | [[Communist]], Colonialist, Aristocratic                                                                          |
 
 Other terms:
+- [[Socialist]]
+- [[Feudalism]]
+- [[Corporatism]]
+- [[Ergatocracy]]
 - 
 
 # Sub-Themes
-## Subtheme1
+## Anarchy
 How-it-connects
 [[Example]]
 
-## Subtheme2
+## Tyranny
 How-it-connects
 [[Example]]
 
-## Subtheme3
+## Fascism
 How-it-connects
 [[Example]]
 

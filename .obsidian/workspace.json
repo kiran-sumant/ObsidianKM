@@ -367,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "31129330a3e5467e",
@@ -507,6 +508,9 @@
   },
   "active": "f0a5ff37014615a9",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Democratic.md",
+    "Self Learning/Learn Notes/Government.md",
+    "Self Learning/Learn Notes/Monarchic.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Hate Bigotry Racism etc.md",
     "Self Learning/Learn Notes/Poverty.md",
@@ -530,9 +534,6 @@
     "Self Learning/Learn Notes/Wealth.md",
     "Self Learning/Learn Notes/Crime.md",
     "Self Learning/Learn Notes/Science.md",
-    "Self Learning/Learn Notes/Government.md",
-    "Self Learning/Learn Notes/Communication.md",
-    "Self Learning/Learn Notes/Co-operation.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
