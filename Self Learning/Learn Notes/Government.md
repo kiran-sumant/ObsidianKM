@@ -21,13 +21,15 @@ Sub-themes will include types of political systems as a separate section.
 | Other          | [[Communist]], Colonialist, Aristocratic                                                                          |
 
 Other terms:
-- [[Socialist]]
+- [[Socialism]]
 - [[Feudalism]]
 - [[Corporatism]]
 - [[Ergatocracy]]
 - [[Tribalism]]
+- [[Meritocracy]]
+- [[Nationalism]]
 
-# Sub-Themes
+# Satellite Themes
 ## [[Politics]]
 How-it-connects
 [[Example]]
@@ -53,7 +55,14 @@ How-it-connects
 [[Example]]
 
 ## [[War]]
+How-it-connects
+[[Example]]
 
+## [[Nature]]
+How-it-connects
+[[Example]]
+
+# Direct Sub-themes
 ## Anarchy
 How-it-connects
 [[Example]]
@@ -63,6 +72,18 @@ How-it-connects
 [[Example]]
 
 ## Fascism
+How-it-connects
+[[Example]]
+
+## Censorship
+How-it-connects
+[[Example]]
+
+## Affirmative Action
+How-it-connects
+[[Example]]
+
+## Nanny State
 How-it-connects
 [[Example]]
 
@@ -79,8 +100,6 @@ How-it-connects
 [[Example]]
 
 
-
-# Satellite themes (can include other primary themes that are loosely associated)
 
 
 
