@@ -10,6 +10,7 @@
           {
             "id": "41fad7da1e5474fb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,8 +19,249 @@
                 "backlinks": true,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Philosophy"
+            }
+          },
+          {
+            "id": "bd91990c01c1eb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Poverty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Poverty"
+            }
+          },
+          {
+            "id": "a44fd5ba10233074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Crime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crime"
+            }
+          },
+          {
+            "id": "1957cc734f9978c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Economics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Economics"
+            }
+          },
+          {
+            "id": "737edba70e1b7339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Humour.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Humour"
+            }
+          },
+          {
+            "id": "f558987b319c30c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Science"
+            }
+          },
+          {
+            "id": "b68ebad9ccae737b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Technology.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technology"
+            }
+          },
+          {
+            "id": "8b8fb4297bd4ff5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Art.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Art"
+            }
+          },
+          {
+            "id": "5fef69451e0d3521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time"
+            }
+          },
+          {
+            "id": "bce22bc3ad4962e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Love.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Love"
+            }
+          },
+          {
+            "id": "634334d35550a5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/War.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "War"
+            }
+          },
+          {
+            "id": "1c95c7b589cca48b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Politics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Politics"
+            }
+          },
+          {
+            "id": "dc27f067af40cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Idealism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idealism"
+            }
+          },
+          {
+            "id": "5ce46086b29398ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Identity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identity"
+            }
+          },
+          {
+            "id": "8bbf314b01416712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Gratitude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gratitude"
+            }
+          },
+          {
+            "id": "343bb65d680835d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Food.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Food"
+            }
+          },
+          {
+            "id": "8b5f09537f192883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Family.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Family"
             }
           }
         ]
@@ -234,16 +476,10 @@
   },
   "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Imagination.md",
-    "Self Learning/Learn Notes/Nature.md",
-    "Self Learning/Learn Notes/Happiness.md",
-    "Self Learning/Learn Notes/Religion.md",
-    "Self Learning/Learn Notes/Wealth.md",
     "Self Learning/Learn Notes/Poverty.md",
-    "Self Learning/Learn Notes/Crime.md",
+    "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Economics.md",
     "Self Learning/Learn Notes/Humour.md",
-    "Self Learning/Learn Notes/Science.md",
     "Self Learning/Learn Notes/Technology.md",
     "Self Learning/Learn Notes/Art.md",
     "Self Learning/Learn Notes/Time.md",
@@ -252,14 +488,20 @@
     "Self Learning/Learn Notes/Politics.md",
     "Self Learning/Learn Notes/Idealism.md",
     "Self Learning/Learn Notes/Identity.md",
-    "Self Learning/Learn Notes/Gratitude.md",
-    "Self Learning/Learn Notes/Food.md",
     "Self Learning/Learn Notes/Family.md",
+    "Self Learning/Learn Notes/Food.md",
+    "Self Learning/Learn Notes/Gratitude.md",
+    "Self Learning/Learn Notes/Imagination.md",
+    "Self Learning/Learn Notes/Nature.md",
+    "Self Learning/Learn Notes/Happiness.md",
+    "Self Learning/Learn Notes/Religion.md",
+    "Self Learning/Learn Notes/Wealth.md",
+    "Self Learning/Learn Notes/Crime.md",
+    "Self Learning/Learn Notes/Science.md",
     "Self Learning/Learn Notes/Government.md",
     "Self Learning/Learn Notes/Communication.md",
     "Self Learning/Learn Notes/Hate and Bigotry.md",
     "Self Learning/Learn Notes/Co-operation.md",
-    "Self Learning/Learn Notes/Freedom.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
