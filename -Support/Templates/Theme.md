@@ -4,12 +4,19 @@
 - **Neo/Progressive consensus definition**:
 
 # Subtheme1
-how-it-connects
+How-it-connects
 
 # Subtheme2
-
+How-it-connects
 
 # Subtheme3
+How-it-connects
+
+# Subtheme4
+How-it-connects
+
+# Subtheme5
+How-it-connects
 
 
 # Satellite themes (can include other primary themes that are loosely associated)
