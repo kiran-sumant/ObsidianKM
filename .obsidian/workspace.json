@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "59a4398df2e13f7c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "c215e2edd0431ffb",
             "type": "leaf",
             "state": {
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -293,7 +305,7 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "41fad7da1e5474fb",
+  "active": "59a4398df2e13f7c",
   "lastOpenFiles": [
     "Projects/Project Notes/Avatar Game Storyboard.md",
     "Projects/Project Notes/Ideas for Game structure and Lore-based details.md",
