@@ -8,9 +8,15 @@
 How-it-connects
 [[Example]]
 
-## [[]]
+## [[Poverty]]
 How-it-connects
 [[Example]]
+
+## [[Ambition]]
+How-it-connects
+[[Example]]
+
+
 
 # Sub-themes
 ## [[Capitalism]]

@@ -1,3 +1,11 @@
+Back-connects to:
+Religion
+Democracy
+Freedom
+Art
+Humour
+Identity
+
 # Definitions
 - **Your definition**:
 - **Traditional consensus definition**:
@@ -5,16 +13,8 @@
 
 # Closely-connected Sub-themes (and examples to interweave them through):
 
-## [[Trauma]]
+## [[Opinion]]
 description
-[[Example]]
-
-## [[Exploration]]
-How-it-connects
-[[Example]]
-
-## [[Personal Preference]]
-How-it-connects
 [[Example]]
 
 

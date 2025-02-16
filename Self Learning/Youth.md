@@ -18,6 +18,14 @@ How-it-connects
 How-it-connects
 [[Example]]
 
+## [[Wisdom]]
+How-it-connects
+[[Example]]
+
+## [[Relationships]]
+How-it-connects
+[[Example]]
+
 # Sub-themes
 ## [[Memory]]
 How-it-connects

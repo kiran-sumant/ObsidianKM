@@ -62,7 +62,9 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Nanny-state
 - [ ] Nostalgia
 - [ ] Oligarchic
+- [ ] Opinion
 - [ ] Picky Eating
+- [ ] Personal Preference
 - [ ] Timocratic
 - [ ] Totalitarian
 - [ ] Trauma
