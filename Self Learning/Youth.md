@@ -31,7 +31,7 @@ How-it-connects
 How-it-connects
 [[Example]]
 
-## Subtheme4
+## [[Exploration]]
 How-it-connects
 [[Example]]
 

@@ -3,29 +3,40 @@
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
-# Subtheme1
+# Primary Satellite Themes
+## [[Economics]]
 How-it-connects
 [[Example]]
 
-# Subtheme2
+## [[]]
 How-it-connects
 [[Example]]
 
-# Subtheme3
+# Sub-themes
+## [[Capitalism]]
 How-it-connects
 [[Example]]
 
-# Subtheme4
+## [[Greed]]
 How-it-connects
 [[Example]]
 
-# Subtheme5
+## Subtheme3
+How-it-connects
+[[Example]]
+
+## Subtheme4
+How-it-connects
+[[Example]]
+
+## Subtheme5
 How-it-connects
 [[Example]]
 
 
-# Satellite themes (can include other primary themes that are loosely associated)
 
 
+
+#thought #definition #philosophy #primary-theme
 
 #thought #definition #philosophy #primary-theme

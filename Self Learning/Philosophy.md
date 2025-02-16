@@ -45,6 +45,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 
 - [ ] Affirmative Action
 - [ ] Anarchy
+- [ ] Archetypes
 - [ ] Aristocratic
 - [ ] Authoritarian
 - [ ] Capitalism
@@ -52,7 +53,10 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Communist
 - [ ] Democratic
 - [ ] Dystopia
+- [ ] Exploration
 - [ ] Fascism
+- [ ] Greed
+- [ ] Growth
 - [ ] Memory
 - [ ] Monarchic
 - [ ] Nanny-state
