@@ -51,3 +51,10 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Democratic
 - [ ] Dystopia
 - [ ] Fascism
+- [ ] Monarchic
+- [ ] Nanny-state
+- [ ] Oligarchic
+- [ ] Timocratic
+- [ ] Totalitarian
+- [ ] Tyranny
+- [ ] Utopia
