@@ -29,7 +29,7 @@ Other terms:
 - [[Meritocracy]]
 - [[Nationalism]]
 
-# Satellite Themes
+# Primary Satellite Themes
 ## [[Politics]]
 How-it-connects
 [[Example]]
@@ -63,39 +63,39 @@ How-it-connects
 [[Example]]
 
 # Direct Sub-themes
-## Anarchy
+## [[Anarchy]]
 How-it-connects
 [[Example]]
 
-## Tyranny
+## [[Tyranny]]
 How-it-connects
 [[Example]]
 
-## Fascism
+## [[Fascism]]
 How-it-connects
 [[Example]]
 
-## Censorship
+## [[Censorship]]
 How-it-connects
 [[Example]]
 
-## Affirmative Action
+## [[Affirmative Action]]
 How-it-connects
 [[Example]]
 
-## Nanny State
+## [[Nanny State]]
 How-it-connects
 [[Example]]
 
-## Capitalism
+## [[Capitalism]]
 How-it-connects
 [[Example]]
 
-## Utopia
+## [[Utopia]]
 How-it-connects
 [[Example]]
 
-## Dystopia
+## [[Dystopia]]
 How-it-connects
 [[Example]]
 
