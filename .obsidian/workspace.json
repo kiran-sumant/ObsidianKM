@@ -180,13 +180,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Youth.md",
+                "file": "Self Learning/Learn Notes/Food.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Youth"
+              "title": "Food"
             }
           }
         ],
@@ -402,9 +402,9 @@
   },
   "active": "5e38482fbf9115ca",
   "lastOpenFiles": [
+    "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Food.md",
     "-Support/Templates/Theme.md",
-    "Self Learning/Youth.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Government.md",
     "Self Learning/Learn Notes/Communist.md",
