@@ -25,9 +25,35 @@ Other terms:
 - [[Feudalism]]
 - [[Corporatism]]
 - [[Ergatocracy]]
-- 
+- [[Tribalism]]
 
 # Sub-Themes
+## [[Politics]]
+How-it-connects
+[[Example]]
+
+## [[Idealism]]
+How-it-connects
+[[Example]]
+
+## [[Economics]]
+How-it-connects
+[[Example]]
+
+## [[Culture]]
+How-it-connects
+[[Example]]
+
+## [[Freedom]]
+How-it-connects
+[[Example]]
+
+## [[Religion]]
+How-it-connects
+[[Example]]
+
+## [[War]]
+
 ## Anarchy
 How-it-connects
 [[Example]]
@@ -40,13 +66,18 @@ How-it-connects
 How-it-connects
 [[Example]]
 
-## Subtheme4
+## Capitalism
 How-it-connects
 [[Example]]
 
-## Subtheme5
+## Utopia
 How-it-connects
 [[Example]]
+
+## Dystopia
+How-it-connects
+[[Example]]
+
 
 
 # Satellite themes (can include other primary themes that are loosely associated)
