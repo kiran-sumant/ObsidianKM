@@ -1,3 +1,6 @@
+Also includes ***Political Systems***, but some terms which have more resounding definitions than simply being related to governance will be a secon
+
+
 Sub-themes will include types  of governments and systems of ruling
 
 # Definitions
