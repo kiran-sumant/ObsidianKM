@@ -29,5 +29,12 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [[Nature]]
 - [[Imagination]]
 - [[Competition]]
-- 
+- [[Wisdom]]
+- [[Ambition]]
+- [[Government]]
+- [[Culture]]
+- [[Freedom]]
+- [[Co-operation]]
+- [[Hate and Bigotry]]
+- [[Communication]]
 
