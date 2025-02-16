@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,10 +293,10 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "0c08c887a5c4ad13",
+  "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
-    "-Support/Templates/Sub-Theme.md",
     "-Support/Templates/Example.md",
+    "-Support/Templates/Sub-Theme.md",
     "-Support/Templates/Theme.md",
     "Academic/Academic notes/Thesis Submission.md",
     "Self Learning/Philosophy.md",
