@@ -6,4 +6,14 @@ I will utilise the mind-map framework to evaluate connections, draw themes betwe
 
 format in templates for [[Theme]] and [[Sub-Theme]].
 
+# List of Primary Themes:
+- [[Family]]
+- [[Food]]
+- [[Gratitude]]
+- [[Identity]]
+- [[Idealism]]
+- [[Politics]]
+- [[War]]
+- [[Love]]
+- 
 
