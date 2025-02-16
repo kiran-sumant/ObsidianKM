@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Checkmark.md",
+                "file": "-Support/Templates/Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checkmark"
+              "title": "Theme"
             }
           },
           {
@@ -293,8 +293,9 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "acb2cc20f07d8589",
+  "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
+    "-Support/Templates/Checkmark.md",
     "-Support/Templates/Tags.md",
     "-Support/Templates/Theme.md",
     "-Support/Templates/Sub-Theme.md",
@@ -321,7 +322,6 @@
     "Projects/Addiction.md",
     "Academic/Academic notes/ANOVA-Amatsu.md",
     "Academic/Literature Notes/Protein glycosylation investigated by mass spectrometry an overview.md",
-    "Projects/Physical.md",
     "-Support/Reading/R Apps with Shiny.pdf",
     "-Support/Reading/Data Visualisation with ggplot2.pdf",
     "-Support/Reading/Data Transformation with dplyr.pdf",
