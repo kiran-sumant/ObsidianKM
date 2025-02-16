@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "editor:toggle-highlight"
+    "editor:toggle-highlight",
+    "editor:open-link-in-new-window"
   ]
 }
