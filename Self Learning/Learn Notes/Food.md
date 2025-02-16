@@ -17,7 +17,7 @@ As Time moves on, so do your preferences. There does exist the inner child withi
 "The dream is to maintain the positives of youth, while also acknowledging that there are positives to getting older", and growing through individual experiences.
 [NorthernLion's Picky Eater Rant](https://www.youtube.com/watch?v=cVVRaowO1RI&t=576s)
 
-# Sub-theme
+# Sub-themes
 ## Picky Eating
 How-it-connects
 [[Example]]

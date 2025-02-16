@@ -14,16 +14,20 @@ As Time moves on, so do your preferences. There does exist the inner child withi
 How-it-connects
 [[Example]]
 
+## [[Ambition]]
+How-it-connects
+[[Example]]
+
 # Sub-themes
-## Memory
+## [[Memory]]
 How-it-connects
 [[Example]]
 
-## Nostalgia
+## [[Nostalgia]]
 How-it-connects
 [[Example]]
 
-## 
+## [[Challenges]]
 How-it-connects
 [[Example]]
 

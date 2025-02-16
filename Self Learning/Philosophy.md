@@ -56,6 +56,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Memory
 - [ ] Monarchic
 - [ ] Nanny-state
+- [ ] Nostalgia
 - [ ] Oligarchic
 - [ ] Picky Eating
 - [ ] Timocratic
