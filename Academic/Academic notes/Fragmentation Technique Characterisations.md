@@ -20,7 +20,7 @@
 
 [[EAD]] is [[ECD]]
 
-# [[abc/xyz ions]]
+# [[xyz ions]]
 
 ![[Pasted image 20240610133820.png]]
 

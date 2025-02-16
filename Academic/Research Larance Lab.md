@@ -12,3 +12,7 @@
 - Potentially modelling Interactions?? 
 - Statistical analysis/incorporation of modelling and/or new data vis techniques in the existing dataset
 - Exploration of differentials: what happens if illness?
+
+# Data Science bit with TED database
+
+[[TED API Readme]]
