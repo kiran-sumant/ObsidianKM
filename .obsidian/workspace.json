@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Philosophy.md",
+                "file": "-Support/Templates/Sub-Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy"
+              "title": "Sub-Theme"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -293,14 +293,14 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "0c08c887a5c4ad13",
+  "active": "41fad7da1e5474fb",
   "lastOpenFiles": [
-    "-Support/Templates/Example.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Philosophy.md",
-    "-Support/Templates/Sub-Theme.md",
     "-Support/Templates/Theme.md",
     "Academic/Academic notes/Thesis Submission.md",
+    "-Support/Templates/Example.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "-Support/Templates/Sub-Theme.md",
     "-Support/Templates/Tags.md",
     "-Support/Templates/Checkmark.md",
     "Projects/Project(s).md",
