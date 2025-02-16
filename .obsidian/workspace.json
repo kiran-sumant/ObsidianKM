@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Untitled.md",
+                "file": "-Support/Templates/Theme.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Theme"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Support/Templates/Theme.md",
+                "file": "Self Learning/Philosophy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theme"
+              "title": "Philosophy"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fragmentation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -293,13 +293,13 @@
       "janitor:Janitor: scan vault": false
     }
   },
-  "active": "41fad7da1e5474fb",
+  "active": "0c08c887a5c4ad13",
   "lastOpenFiles": [
-    "-Support/Templates/Checkmark.md",
-    "-Support/Templates/Tags.md",
-    "-Support/Templates/Theme.md",
-    "-Support/Templates/Sub-Theme.md",
     "Self Learning/Philosophy.md",
+    "-Support/Templates/Sub-Theme.md",
+    "-Support/Templates/Theme.md",
+    "-Support/Templates/Tags.md",
+    "-Support/Templates/Checkmark.md",
     "Projects/Project(s).md",
     "Academic/Research Larance Lab.md",
     "Academic/Honours.md",
