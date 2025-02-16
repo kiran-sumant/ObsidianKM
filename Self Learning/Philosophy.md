@@ -22,7 +22,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] [[Government]]
 - [ ] [[Gratitude]]
 - [ ] [[Happiness]]
-- [ ] [[Hate and Bigotry]]
+- [ ] [[Hate Bigotry Racism etc]]
 - [ ] [[Humour]]
 - [ ] [[Idealism]]
 - [ ] [[Identity]]
