@@ -10,7 +10,7 @@ description
 [[Example]]
 
 ## [[Exploration]]
-How-it-connects
+Not being willing to explore new things affects your ability to form new relationships
 [[Example]]
 
 ## [[Personal Preference]]

@@ -12,17 +12,23 @@ How-it-connects
 How-it-connects
 [[Example]]
 
+## [[Love]]
+How-it-connects
+[[Example]]
+
+
+
 # Sub-themes
 ## Subtheme1
 How-it-connects
 [[Example]]
 
-## Subtheme2
-How-it-connects
+## [[Picky Eating]]
+Not being willing to explore new things affects your ability to form new relationships
 [[Example]]
 
-## Subtheme3
-How-it-connects
+## [[Exploration]]
+Not being willing to explore new things affects your ability to form new relationships
 [[Example]]
 
 ## Subtheme4

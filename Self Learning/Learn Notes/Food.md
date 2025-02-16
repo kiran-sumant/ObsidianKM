@@ -12,6 +12,10 @@ How-it-connects
 How-it-connects
 [[Example]]
 
+## [[Relationships]]
+How-it-connects
+[[Example]]
+
 ## [[Youth]]
 As Time moves on, so do your preferences. There does exist the inner child within us that is attached to certain flavours and foods, that as we get older bring about nostalgia. However that shouldn't be the limiter on premise to stop people from trying new things. The worst thing that can happen is you don't like what you've eaten, but the upside is you may find things you grow to love you would've never tried otherwise.
 "The dream is to maintain the positives of youth, while also acknowledging that there are positives to getting older", and growing through individual experiences.
