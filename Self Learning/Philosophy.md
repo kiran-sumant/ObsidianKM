@@ -52,10 +52,13 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Democratic
 - [ ] Dystopia
 - [ ] Fascism
+- [ ] Memory
 - [ ] Monarchic
 - [ ] Nanny-state
 - [ ] Oligarchic
+- [ ] Picky Eating
 - [ ] Timocratic
 - [ ] Totalitarian
+- [ ] Trauma
 - [ ] Tyranny
 - [ ] Utopia

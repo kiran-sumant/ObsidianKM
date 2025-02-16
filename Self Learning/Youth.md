@@ -10,16 +10,20 @@ As Time moves on, so do your preferences. There does exist the inner child withi
 "The dream is to maintain the positives of youth, while also acknowledging that there are positives to getting older", and growing through individual experiences.
 [NorthernLion's Picky Eater Rant](https://www.youtube.com/watch?v=cVVRaowO1RI&t=576s)
 
+[[Freedom]]
+How-it-connects
+[[Example]]
+
 # Sub-themes
-## Subtheme1
+## Memory
 How-it-connects
 [[Example]]
 
-## Subtheme2
+## Nostalgia
 How-it-connects
 [[Example]]
 
-## Subtheme3
+## 
 How-it-connects
 [[Example]]
 
