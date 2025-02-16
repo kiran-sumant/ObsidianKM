@@ -3,23 +3,25 @@
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
-# Subtheme1
+# Primary Satellite Themes 
+
+## [[Archetypes]]
 How-it-connects
 [[Example]]
 
-# Subtheme2
+## [[Trauma]]
 How-it-connects
 [[Example]]
 
-# Subtheme3
+## Subtheme3
 How-it-connects
 [[Example]]
 
-# Subtheme4
+## Subtheme4
 How-it-connects
 [[Example]]
 
-# Subtheme5
+## Subtheme5
 How-it-connects
 [[Example]]
 

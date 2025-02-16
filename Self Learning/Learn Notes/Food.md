@@ -18,15 +18,15 @@ As Time moves on, so do your preferences. There does exist the inner child withi
 [NorthernLion's Picky Eater Rant](https://www.youtube.com/watch?v=cVVRaowO1RI&t=576s)
 
 # Sub-themes
-## Picky Eating
+## [[Picky Eating]]
 How-it-connects
 [[Example]]
 
-## Memory
+## [[Memory]]
 How-it-connects
 [[Example]]
 
-## Subtheme3
+## [[]]
 How-it-connects
 [[Example]]
 

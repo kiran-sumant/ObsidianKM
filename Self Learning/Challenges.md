@@ -15,6 +15,14 @@ description
 How-it-connects
 [[Example]]
 
+## [[Relationships]]
+How-it-connects
+[[Example]]
+
+## [[Trauma]]
+How-it-connects
+[[Example]]
+
 
 #thought #definition #philosophy #secondary-theme
 
