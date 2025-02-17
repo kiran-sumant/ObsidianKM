@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Philosophy.md",
+                "file": "Self Learning/Youth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy"
+              "title": "Youth"
             }
           },
           {
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -305,8 +305,10 @@
       }
     ]
   },
-  "active": "86017bdd81af9fb4",
+  "active": "f7152866199ac881",
   "lastOpenFiles": [
+    "Self Learning/Youth.md",
+    "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
     "-Support/Templates/Example.md",
@@ -315,7 +317,6 @@
     "-Support/Templates/Theme Example.md",
     "Self Learning/Learn Notes/Family.md",
     "Self Learning/Learn Notes/Freedom.md",
-    "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Food.md",
     "Self Learning/Learn Notes/Picky Eating.md",
     "Self Learning/Learn Notes/Relationships.md",
@@ -332,7 +333,6 @@
     "Self Learning/Learn Notes/Capitalism.md",
     "Self Learning/Learn Notes/Utopia.md",
     "Self Learning/Learn Notes/Dystopia.md",
-    "Self Learning/Learn Notes/American Ghetto of Thought.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
