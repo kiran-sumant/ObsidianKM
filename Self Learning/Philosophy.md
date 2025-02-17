@@ -46,6 +46,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 
 - [ ] Affirmative Action
 - [ ] Anarchy
+- [ ] Apartheid
 - [ ] Archetypes
 - [ ] Aristocratic
 - [ ] Authoritarian
@@ -53,12 +54,18 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Censorship
 - [ ] Communist
 - [ ] Democratic
+- [ ] DEI
+- [ ] Diversity
 - [ ] Dystopia
 - [ ] Exploration
+- [ ] Entertainment
+- [ ] Equity
 - [ ] Fascism
 - [ ] Greed
 - [ ] Growth
+- [ ] Identity Politics
 - [ ] Ignorance
+- [ ] Inclusion
 - [ ] Intelligence
 - [ ] Memory
 - [ ] Monarchic
@@ -70,6 +77,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Picky Eating
 - [ ] Personal Preference
 - [ ] Propaganda
+- [ ] Social Engineering
 - [ ] Timocratic
 - [ ] Totalitarian
 - [ ] Trauma
