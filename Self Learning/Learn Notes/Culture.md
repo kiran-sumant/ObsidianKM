@@ -35,7 +35,7 @@ How-it-connects
 
 ## [[Censorship]]
 How-it-connects
-[[Example]]
+![[Uyghur Ethnic Cleansing by the CCP#^854d99]]
 
 ## Subtheme3
 How-it-connects
