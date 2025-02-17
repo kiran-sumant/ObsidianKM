@@ -25,7 +25,8 @@ How-it-connects
 # Sub-themes
 ## [[Censorship]]
 How-it-connects
-[[Example]]
+[[Uyghur Ethnic Cleansing by the CCP]]
+[[Selectivity of Free Speech in the Western World]]
 
 ## [[Multi-culturalism]]
 How-it-connects
