@@ -28,6 +28,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] [[Identity]]
 - [ ] [[Imagination]]
 - [ ] [[Love]]
+- [ ] [[Media]]
 - [ ] [[Nature]]
 - [ ] [[Politics]]
 - [ ] [[Poverty]]
@@ -57,6 +58,8 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Fascism
 - [ ] Greed
 - [ ] Growth
+- [ ] Ignorance
+- [ ] Intelligence
 - [ ] Memory
 - [ ] Monarchic
 - [ ] Multi-culturalism
@@ -66,6 +69,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Opinion
 - [ ] Picky Eating
 - [ ] Personal Preference
+- [ ] Propaganda
 - [ ] Timocratic
 - [ ] Totalitarian
 - [ ] Trauma
