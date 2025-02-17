@@ -3,29 +3,56 @@
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
-# Subtheme1
+# Primary Satellite Themes
+## [[Government]]
 How-it-connects
 [[Example]]
 
-# Subtheme2
+## [[Identity]]
 How-it-connects
 [[Example]]
 
-# Subtheme3
+## [[Freedom]]
 How-it-connects
 [[Example]]
 
-# Subtheme4
+## [[]]
 How-it-connects
 [[Example]]
 
-# Subtheme5
+## [[]]
+How-it-connects
+[[Example]]
+
+## [[]]
+How-it-connects
+[[Example]]
+
+# Sub-themes
+## [[Multi-culturalism]]
+How-it-connects
+[[Example]]
+
+## [[Censorship]]
+How-it-connects
+[[Example]]
+
+## Subtheme3
+How-it-connects
+[[Example]]
+
+## Subtheme4
+How-it-connects
+[[Example]]
+
+## Subtheme5
 How-it-connects
 [[Example]]
 
 
-# Satellite themes (can include other primary themes that are loosely associated)
 
 
+
+#thought #definition #philosophy #primary-theme
 
 #thought #definition #philosophy #primary-theme

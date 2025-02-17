@@ -59,6 +59,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Growth
 - [ ] Memory
 - [ ] Monarchic
+- [ ] Multi-culturalism
 - [ ] Nanny-state
 - [ ] Nostalgia
 - [ ] Oligarchic
