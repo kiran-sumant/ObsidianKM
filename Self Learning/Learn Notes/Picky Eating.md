@@ -20,16 +20,3 @@ How-it-connects
 
 
 #thought #definition #philosophy #secondary-theme
-
-
-
-
-
-
-
-
-
-
-
-
-

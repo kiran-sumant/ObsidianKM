@@ -22,23 +22,24 @@ How-it-connects
 How-it-connects
 [[Example]]
 
-# Subtheme1
+# Sub-themes
+## [[Censorship]]
 How-it-connects
 [[Example]]
 
-# Subtheme2
+## [[Multi-culturalism]]
 How-it-connects
 [[Example]]
 
-# Subtheme3
+## [[Opinion]]
 How-it-connects
 [[Example]]
 
-# Subtheme4
+## [[Exploration]]
 How-it-connects
 [[Example]]
 
-# Subtheme5
+## [[Growth]]
 How-it-connects
 [[Example]]
 

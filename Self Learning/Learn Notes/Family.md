@@ -50,7 +50,6 @@ How-it-connects
 [[Example]]
 
 
-# Satellite themes (can include other primary themes that are loosely associated)
 
 
 
