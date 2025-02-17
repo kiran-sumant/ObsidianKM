@@ -4,7 +4,31 @@
 - **Neo/Progressive consensus definition**:
 
 # Primary Satellite Themes 
+## [[Communication]]
+How-it-connects
+[[Example]]
 
+## [[Food]]
+How-it-connects
+[[Example]]
+
+## [[Happiness]]
+How-it-connects
+[[Example]]
+
+## [[Identity]]
+How-it-connects
+[[Example]]
+
+## [[Relationships]]
+How-it-connects
+[[Example]]
+
+## [[Love]]
+How-it-connects
+[[Example]]
+
+# Sub-themes
 ## [[Archetypes]]
 How-it-connects
 [[Example]]
