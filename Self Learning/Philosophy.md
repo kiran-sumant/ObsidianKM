@@ -78,6 +78,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Oligarchic
 - [ ] Opinion
 - [ ] Picky Eating
+- [ ] Performance
 - [ ] Personal Preference
 - [ ] Propaganda
 - [ ] Social Engineering
