@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Censorship.md",
+                "file": "Self Learning/Learn Notes/Art.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Censorship"
+              "title": "Art"
             }
           },
           {
@@ -109,8 +109,7 @@
               "title": "Example"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,15 +371,17 @@
       }
     ]
   },
-  "active": "41fad7da1e5474fb",
+  "active": "36e3a3524ab2ecc9",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/subtitles in movies.md",
+    "Self Learning/Learn Notes/Art.md",
+    "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Beauty.md",
-    "-Support/Templates/Example.md",
     "Self Learning/Philosophy.md",
+    "-Support/Templates/Example.md",
     "Self Learning/Learn Notes/Culture.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
     "Self Learning/Youth.md",
-    "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Selectivity of Free Speech in the Western World.md",
     "-Support/Templates/Theme Example.md",
     "Self Learning/Learn Notes/Family.md",
@@ -398,8 +399,6 @@
     "Self Learning/Learn Notes/Wealth.md",
     "Self Learning/Learn Notes/Affirmative Action.md",
     "Self Learning/Learn Notes/Nanny State.md",
-    "Self Learning/Learn Notes/Capitalism.md",
-    "Self Learning/Learn Notes/Utopia.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

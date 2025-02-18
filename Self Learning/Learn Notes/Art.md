@@ -3,23 +3,31 @@
 - **Traditional consensus definition**:
 - **Neo/Progressive consensus definition**:
 
-# Subtheme1
+# Primary Satellite Themes
+
+## [[Beauty]]
 How-it-connects
 [[Example]]
 
-# Subtheme2
+
+# Sub-themes
+## [[]]
 How-it-connects
 [[Example]]
 
-# Subtheme3
+## Inclusion
+The ability to experience art as a "beholder" is also influenced by our individual inclinations and biases. Do disabilities count as inclination (as they alter the experience of the art itself) and what should be done to accommodate for it, in a society where acknowledgment and transparency of disability in urban society grows?
+[[subtitles in movies]]
+
+## Subtheme3
 How-it-connects
 [[Example]]
 
-# Subtheme4
+## Subtheme4
 How-it-connects
 [[Example]]
 
-# Subtheme5
+## Subtheme5
 How-it-connects
 [[Example]]
 
