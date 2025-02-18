@@ -4,20 +4,33 @@
 - **Neo/Progressive consensus definition**:
 
 # Primary Satellite Themes
-## [[]]
+## [[Culture]]
 How-it-connects
 [[Example]]
+
+## [[Relationships]]
+How-it-connects
+[[Example]]
+
+## [[Youth]]
+How-it-connects
+[[Example]]
+
+## [[Nature]]
+How-it-connects
+[[Example]]
+
 
 # Sub-themes
-## Subtheme1
+## Observation
 How-it-connects
 [[Example]]
 
-## Subtheme2
+## Industry
 How-it-connects
 [[Example]]
 
-## Subtheme3
+## Diversity
 How-it-connects
 [[Example]]
 
