@@ -93,8 +93,17 @@
               "state": {
                 "file": "-Support/Templates/Example.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Example"
@@ -363,13 +372,13 @@
       }
     ]
   },
-  "active": "acb2cc20f07d8589",
+  "active": "51729701b6d76642",
   "lastOpenFiles": [
+    "-Support/Templates/Example.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Beauty.md",
     "Self Learning/Learn Notes/Culture.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
-    "-Support/Templates/Example.md",
     "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Selectivity of Free Speech in the Western World.md",
