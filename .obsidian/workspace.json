@@ -15,11 +15,32 @@
               "state": {
                 "file": "Self Learning/Learn Notes/Censorship.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Censorship"
+            }
+          },
+          {
+            "id": "51729701b6d76642",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -67,7 +88,8 @@
               "title": "Example"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +140,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -298,8 +321,17 @@
                   "state": {
                     "file": "Self Learning/Philosophy.md",
                     "mode": "source",
+                    "source": false,
                     "backlinks": true,
-                    "source": false
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "pinned": true,
                   "icon": "lucide-file",
@@ -319,7 +351,7 @@
       }
     ]
   },
-  "active": "36e3a3524ab2ecc9",
+  "active": "51729701b6d76642",
   "lastOpenFiles": [
     "Self Learning/Learn Notes/Culture.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
