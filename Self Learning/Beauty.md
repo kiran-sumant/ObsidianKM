@@ -22,23 +22,23 @@ How-it-connects
 
 
 # Sub-themes
-## Observation
+## [[Observation]]
 How-it-connects
 [[Example]]
 
-## Industry
+## [[Industry]]
 How-it-connects
 [[Example]]
 
-## Diversity
+## [[Diversity]]
 How-it-connects
 [[Example]]
 
-## Transience
+## [[Transience]]
 How-it-connects
 [[Example]]
 
-## Entertainment
+## [[Entertainment]]
 How-it-connects
 [[Example]]
 

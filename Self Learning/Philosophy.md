@@ -67,12 +67,14 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Identity Politics
 - [ ] Ignorance
 - [ ] Inclusion
+- [ ] Industry
 - [ ] Intelligence
 - [ ] Memory
 - [ ] Monarchic
 - [ ] Multi-culturalism
 - [ ] Nanny-state
 - [ ] Nostalgia
+- [ ] Observation
 - [ ] Oligarchic
 - [ ] Opinion
 - [ ] Picky Eating
