@@ -35,12 +35,24 @@
             "id": "51729701b6d76642",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Self Learning/Beauty.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Beauty"
             }
           },
           {
@@ -353,11 +365,12 @@
   },
   "active": "51729701b6d76642",
   "lastOpenFiles": [
+    "Self Learning/Philosophy.md",
+    "Self Learning/Beauty.md",
     "Self Learning/Learn Notes/Culture.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
     "-Support/Templates/Example.md",
     "Self Learning/Youth.md",
-    "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Selectivity of Free Speech in the Western World.md",
     "-Support/Templates/Theme Example.md",
@@ -378,7 +391,6 @@
     "Self Learning/Learn Notes/Nanny State.md",
     "Self Learning/Learn Notes/Capitalism.md",
     "Self Learning/Learn Notes/Utopia.md",
-    "Self Learning/Learn Notes/Dystopia.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

@@ -10,6 +10,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 
 - [ ] [[Ambition]]
 - [ ] [[Art]]
+- [ ] [[Beauty]]
 - [ ] [[Communication]]
 - [ ] [[Competition]]
 - [ ] [[Co-operation]]
