@@ -354,16 +354,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 960,
         "y": 0,
-        "width": 768,
-        "height": 816,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "51729701b6d76642",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Self Learning/Philosophy.md",
     "Self Learning/Beauty.md",
