@@ -81,6 +81,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Social Engineering
 - [ ] Timocratic
 - [ ] Totalitarian
+- [ ] Transience
 - [ ] Trauma
 - [ ] Tyranny
 - [ ] Utopia

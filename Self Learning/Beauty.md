@@ -34,11 +34,11 @@ How-it-connects
 How-it-connects
 [[Example]]
 
-## Subtheme4
+## Transience
 How-it-connects
 [[Example]]
 
-## Subtheme5
+## Entertainment
 How-it-connects
 [[Example]]
 
