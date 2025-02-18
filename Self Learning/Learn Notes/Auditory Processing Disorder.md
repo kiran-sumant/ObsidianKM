@@ -6,4 +6,6 @@
 > > [!example]- Key Takeaways for Secondary Themes
 > > - [[Inclusion]]: Such people with Auditory processing issues; what kinds of accessibility would be required? much of our accessibility needs to be tangible to have any semblance of effect in the perception of society and action of govt or council to help accommodate. Such issues affect ability to socialise in public, work in crowded busy spaces, impede auditory learning (where presentations primarily use auditory descriptions to elaborate and teach in lectures and seminars)
 
+^39a06e
+
 #philosophy #example 

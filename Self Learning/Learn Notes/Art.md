@@ -32,7 +32,7 @@ How-it-connects
 
 ## [[Inclusion]]
 The ability to experience art as a "beholder" is also influenced by our individual inclinations and biases. Do disabilities count as inclination (as they alter the experience of the art itself) and what should be done to accommodate for it, in a society where acknowledgment and transparency of disability in urban society grows?
-![[Auditory Processing Disorder]]
+![[Auditory Processing Disorder#^39a06e]]
 
 ## [[Performance]]
 How-it-connects
