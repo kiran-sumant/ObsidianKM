@@ -17,14 +17,16 @@ How-it-connects
 [[Example]]
 
 ## [[Nature]]
-Fireflies
-[[Example]]
+Does beauty in nature exist without observation?
+[[The fireflies]]
+Beauty does not know it exists
+[[Beauty of Nature]]
 
 
 # Sub-themes
 ## [[Observation]]
-Fireflies
-[[Example]]
+Does beauty in nature exist without observation?
+[[The fireflies]]
 
 ## [[Industry]]
 How-it-connects
