@@ -17,4 +17,4 @@ How-it-connects
 [[Example]]
 
 
-#thought #definition #philosophy #secondary-theme
+#thought #definition #philosophy #secondary-theme #neuro #parkinsons-disease #primary-theme

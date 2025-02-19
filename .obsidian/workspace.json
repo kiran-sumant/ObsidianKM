@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Auditory Processing Disorders.md",
+                "file": "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Auditory Processing Disorders"
+              "title": "Neurodegenerative Diseases"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#primary-themeAlso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -365,13 +365,14 @@
       }
     ]
   },
-  "active": "acb2cc20f07d8589",
+  "active": "36e3a3524ab2ecc9",
   "lastOpenFiles": [
+    "Self Learning/Learn Notes/Nature.md",
+    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
     "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
     "Self Learning/Learn Notes/Art.md",
     "Self Learning/Philosophy.md",
-    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
@@ -392,7 +393,6 @@
     "Self Learning/Learn Notes/Multi-culturalism.md",
     "Self Learning/Learn Notes/Identity.md",
     "Self Learning/Learn Notes/Anarchy.md",
-    "Self Learning/Learn Notes/Tyranny.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

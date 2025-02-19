@@ -1,3 +1,5 @@
+Also ***Human Nature***
+
 # Definitions
 - **Your definition**:
 - **Traditional consensus definition**:
@@ -28,4 +30,4 @@ How-it-connects
 
 
 
-#thought #definition #philosophy #primary-themeAlso ***Human Nature***
+#thought #definition #philosophy #primary-theme 
