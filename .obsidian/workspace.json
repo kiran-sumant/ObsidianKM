@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "86017bdd81af9fb4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "36e3a3524ab2ecc9",
             "type": "leaf",
             "state": {
@@ -80,16 +92,6 @@
             }
           },
           {
-            "id": "86017bdd81af9fb4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "c3f9b3a76a7079a5",
             "type": "leaf",
             "state": {
@@ -137,8 +139,7 @@
               "title": "Addiction"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -400,11 +401,11 @@
       }
     ]
   },
-  "active": "91ea084a3efe909d",
+  "active": "86017bdd81af9fb4",
   "lastOpenFiles": [
+    "Projects/Addiction.md",
     "Self Learning/Philosophy.md",
     "Self Learning/Learn Notes/Economics.md",
-    "Projects/Addiction.md",
     "-Support/Templates/Example.md",
     "-Support/Templates/Seminar.md",
     "Self Learning/Learn Notes/Ironmouse and CVID.md",
