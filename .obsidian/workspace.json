@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Art.md",
+                "file": "Self Learning/Learn Notes/Inclusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Art"
+              "title": "Inclusion"
             }
           },
           {
@@ -102,8 +102,33 @@
               "icon": "lucide-file",
               "title": "Youth"
             }
+          },
+          {
+            "id": "c3f9b3a76a7079a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Economics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Economics"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -365,14 +390,15 @@
       }
     ]
   },
-  "active": "36e3a3524ab2ecc9",
+  "active": "2ac2c6d392955e4f",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Nature.md",
-    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
-    "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
+    "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Art.md",
+    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
+    "Self Learning/Learn Notes/Economics.md",
     "Self Learning/Philosophy.md",
+    "Self Learning/Learn Notes/Nature.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
@@ -392,7 +418,6 @@
     "-Support/Templates/Sub-Theme.md",
     "Self Learning/Learn Notes/Multi-culturalism.md",
     "Self Learning/Learn Notes/Identity.md",
-    "Self Learning/Learn Notes/Anarchy.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
