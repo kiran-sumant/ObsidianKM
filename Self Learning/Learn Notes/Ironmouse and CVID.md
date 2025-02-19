@@ -1,5 +1,5 @@
-> [!info]- 
-> Anecdote Ironmouse and [[CVID]]
+> [!info]- Ironmouse and [[CVID]]
+> Anecdote 
 > > [!summary]- Takeaways for Primary Themes
 > > - [[]]: 
 > 
