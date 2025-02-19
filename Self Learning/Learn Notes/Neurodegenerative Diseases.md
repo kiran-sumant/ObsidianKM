@@ -4,19 +4,15 @@
 - **Neo/Progressive consensus definition**:
 
 # Closely-connected Sub-themes (and examples to interweave them through):
-## [[Auditory Processing Disorder]]
+## [[Inclusion]]
 description
 [[Example]]
 
-# [[Autism]]
-description
-[[Example]]
-
-## [[ADHD]]
+## [[Equity]]
 How-it-connects
 [[Example]]
 
-## [[Neurodegenerative Diseases]]
+## [[Social Value]]
 How-it-connects
 [[Example]]
 

@@ -53,6 +53,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Authoritarian
 - [ ] Capitalism
 - [ ] Censorship
+- [ ] Classism
 - [ ] Communist
 - [ ] Democratic
 - [ ] DEI
@@ -82,6 +83,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Personal Preference
 - [ ] Propaganda
 - [ ] Social Engineering
+- [ ] Social Value
 - [ ] Timocratic
 - [ ] Totalitarian
 - [ ] Transience
