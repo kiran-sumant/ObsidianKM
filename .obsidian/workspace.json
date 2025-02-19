@@ -379,16 +379,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 1240,
+        "x": 960,
         "y": 0,
-        "width": 296,
-        "height": 816,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "91ea084a3efe909d",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Academic/Academic notes/CPC Seminar 2024-06-20.md",
     "Self Learning/Philosophy.md",
