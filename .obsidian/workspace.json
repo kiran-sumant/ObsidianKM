@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
+                "file": "Self Learning/Learn Notes/Inclusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Neurodegenerative Diseases"
+              "title": "Inclusion"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -390,16 +390,17 @@
       }
     ]
   },
-  "active": "86017bdd81af9fb4",
+  "active": "51729701b6d76642",
   "lastOpenFiles": [
-    "Self Learning/Youth.md",
+    "-Support/Templates/Example.md",
     "Self Learning/Learn Notes/Ironmouse and CVID.md",
-    "Self Learning/Learn Notes/Social Value.md",
+    "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
+    "Self Learning/Youth.md",
+    "Self Learning/Learn Notes/Social Value.md",
     "Self Learning/Learn Notes/Economics.md",
     "-Support/Templates/Sub-Theme.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
     "Self Learning/Learn Notes/Art.md",
     "Self Learning/Philosophy.md",
@@ -408,7 +409,6 @@
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
-    "-Support/Templates/Example.md",
     "Self Learning/Learn Notes/Censorship.md",
     "Self Learning/Learn Notes/Culture.md",
     "Self Learning/Learn Notes/Selectivity of Free Speech in the Western World.md",

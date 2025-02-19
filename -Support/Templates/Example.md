@@ -1,7 +1,9 @@
 > [!info]- Examplename
 > Anecdote
-> > [!summary]- Key Takeaways for Respective Themes
-> > - [[Theme]]: 
-> > - [[Sub-Theme]]: 
+> > [!summary]- Takeaways for Primary Themes
+> > - [[]]: 
+> 
+> > [!example]- Takeaways for Secondary Themes
+> > - [[]]: 
 
 #philosophy #example 
