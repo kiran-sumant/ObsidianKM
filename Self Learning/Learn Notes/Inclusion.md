@@ -4,9 +4,9 @@
 - **Neo/Progressive consensus definition**:
 
 # Closely-connected Sub-themes (and examples to interweave them through):
-## [[Auditory Processing Disorder]]
+## [[Observation]]
 description
-[[Example]]
+![[Auditory Processing Disorders#^39a06e]]
 
 # [[Autism]]
 description
@@ -17,6 +17,10 @@ How-it-connects
 [[Example]]
 
 ## [[Neurodegenerative Diseases]]
+How-it-connects
+[[Example]]
+
+## [[Rurality]]
 How-it-connects
 [[Example]]
 

@@ -45,12 +45,14 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 
 # Sub-themes:
 
+- [ ] ADHD
 - [ ] Affirmative Action
 - [ ] Anarchy
 - [ ] Apartheid
 - [ ] Archetypes
 - [ ] Aristocratic
 - [ ] Authoritarian
+- [ ] Autism
 - [ ] Capitalism
 - [ ] Censorship
 - [ ] Classism
@@ -74,6 +76,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Monarchic
 - [ ] Multi-culturalism
 - [ ] Nanny-state
+- [ ] Neurodegenerative Diseases
 - [ ] Nostalgia
 - [ ] Observation
 - [ ] Oligarchic
@@ -82,6 +85,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Performance
 - [ ] Personal Preference
 - [ ] Propaganda
+- [ ] Rurality
 - [ ] Social Engineering
 - [ ] Social Value
 - [ ] Timocratic

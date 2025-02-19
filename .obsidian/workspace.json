@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Inclusion.md",
+                "file": "Self Learning/Learn Notes/Auditory Processing Disorders.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Inclusion"
+              "title": "Auditory Processing Disorders"
+            }
+          },
+          {
+            "id": "2ac2c6d392955e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Learning/Learn Notes/Art.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Art"
             }
           },
           {
@@ -332,22 +356,22 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
+        "x": 1251,
         "y": 0,
-        "width": 768,
+        "width": 285,
         "height": 816,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "41fad7da1e5474fb",
+  "active": "acb2cc20f07d8589",
   "lastOpenFiles": [
     "Self Learning/Learn Notes/Inclusion.md",
-    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
-    "Self Learning/Philosophy.md",
+    "Self Learning/Learn Notes/Auditory Processing Disorders.md",
     "Self Learning/Learn Notes/Art.md",
-    "Self Learning/Learn Notes/Auditory Processing Disorder.md",
+    "Self Learning/Philosophy.md",
+    "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
