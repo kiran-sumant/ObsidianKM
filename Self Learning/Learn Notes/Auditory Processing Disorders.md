@@ -5,6 +5,8 @@
 >
 > > [!example]- Key Takeaways for Secondary Themes
 > > - [[Inclusion]]: Such people with Auditory processing issues; what kinds of accessibility would be required? much of our accessibility needs to be tangible to have any semblance of effect in the perception of society and action of govt or council to help accommodate. Such issues affect ability to socialise in public, work in crowded busy spaces, impede auditory learning (where presentations primarily use auditory descriptions to elaborate and teach in lectures and seminars)
+> > - [[Observation]]:  
+> > - [[Equity]], [[DEI]], [[Social Value]]: It can be argued that if social media consumption and scree addiction leads to such a resulting disability, it was essentially brought upon by the "victim" of the disorder. Contradicting this, it can also be said that many would not be aware of such dangers when engaging with a product designed to engage your attention and immerse you. As a consumer it is the job of authority to keep us safe. As there are no health warnings how is a person to know? At the same time we should be responsible enough as adults to realise and at least make the effort to explore the dangers 
 
 ^39a06e
 
