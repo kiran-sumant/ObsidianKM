@@ -392,9 +392,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1251,
+        "x": 1240,
         "y": 0,
-        "width": 285,
+        "width": 296,
         "height": 816,
         "maximize": false,
         "zoom": 0
@@ -403,8 +403,8 @@
   },
   "active": "86017bdd81af9fb4",
   "lastOpenFiles": [
-    "Projects/Addiction.md",
     "Self Learning/Philosophy.md",
+    "Projects/Addiction.md",
     "Self Learning/Learn Notes/Economics.md",
     "-Support/Templates/Example.md",
     "-Support/Templates/Seminar.md",
