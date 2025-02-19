@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Ironmouse and CVID.md",
+                "file": "Self Learning/Learn Notes/R Code assorted templates.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ironmouse and CVID"
+              "title": "R Code assorted templates"
             }
           },
           {
@@ -119,54 +119,6 @@
             "id": "91ea084a3efe909d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Addiction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Addiction"
-            }
-          },
-          {
-            "id": "425dd5255f3d07f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2"
-            }
-          },
-          {
-            "id": "76904c373ff3a440",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -174,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -436,20 +388,25 @@
       }
     ]
   },
-  "active": "76904c373ff3a440",
+  "active": "91ea084a3efe909d",
   "lastOpenFiles": [
+    "Academic/Academic notes/Lecture SOMS4101 2024-03-12.md",
+    "Observation.md",
+    "Correlation.md",
+    "Projects/Addiction.md",
+    "Self Learning/Philosophy.md",
+    "Self Learning/Learn Notes/Callout list.md",
+    "Self Learning/Learn Notes/R Code assorted templates.md",
+    "Self Learning/Learn Notes/Ironmouse and CVID.md",
+    "Academic/Literature Notes/Post-translational Modifications and Mass Spectrometry Detection.md",
     "Academic/Literature Notes/Expanding the O-Fucosylation Repertoire Discovery of Novel Protein O-fucosyltransferases and Profiling the O-Fucose Proteome of POFUT1 and POFUT2.md",
     "Academic/Academic notes/EMILIN.md",
-    "Self Learning/Philosophy.md",
-    "Projects/Addiction.md",
     "Self Learning/Learn Notes/Economics.md",
     "-Support/Templates/Example.md",
     "-Support/Templates/Seminar.md",
-    "Self Learning/Learn Notes/Ironmouse and CVID.md",
     "Self Learning/Learn Notes/Disability.md",
     "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
-    "Self Learning/Learn Notes/Callout list.md",
     "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Social Value.md",
     "-Support/Templates/Sub-Theme.md",
@@ -459,11 +416,6 @@
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
-    "Self Learning/Learn Notes/Censorship.md",
-    "Self Learning/Learn Notes/Culture.md",
-    "Self Learning/Learn Notes/Selectivity of Free Speech in the Western World.md",
-    "-Support/Templates/Theme Example.md",
-    "Self Learning/Learn Notes/Family.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

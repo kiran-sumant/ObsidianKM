@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "section:(Data)",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "",
+      "query": "-tag",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 2068224
+      }
+    },
+    {
+      "query": "tag:#research",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 18.0665280665281,
   "linkStrength": 0.466216216216216,
   "linkDistance": 239,
-  "scale": 0.5210929867652688,
+  "scale": 0.2808973779592802,
   "close": false
 }
