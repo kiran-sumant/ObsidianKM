@@ -58,7 +58,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Classism
 - [ ] Communist
 - [ ] Democratic
-- [ ] DEI
+- [ ] Disability
 - [ ] Diversity
 - [ ] Dystopia
 - [ ] Exploration
@@ -76,7 +76,6 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Monarchic
 - [ ] Multi-culturalism
 - [ ] Nanny-state
-- [ ] Neurodegenerative Diseases
 - [ ] Nostalgia
 - [ ] Observation
 - [ ] Oligarchic

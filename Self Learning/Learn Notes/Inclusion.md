@@ -17,7 +17,7 @@ description
 How-it-connects
 [[Example]]
 
-## [[Neurodegenerative Diseases]]
+## [[Disability]]
 How-it-connects
 [[Example]]
 

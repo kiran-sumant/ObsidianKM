@@ -4,6 +4,10 @@
 > > - [[]]: 
 > 
 > > [!example]- Takeaways for Secondary Themes
-> > - [[]]: 
+> > - [[Inclusion]]: 
+> > - [[Disability]]:
+> > - [[Social Value]]:
+> > - [[Identity]]:
+> > - [[Technology]]:
 
 #philosophy #example 

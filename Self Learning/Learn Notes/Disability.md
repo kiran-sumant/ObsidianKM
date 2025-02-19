@@ -14,7 +14,7 @@ How-it-connects
 
 ## [[Social Value]]
 How-it-connects
-[[Example]]
+[[Ironmouse and CVID]]
 
 
 #thought #definition #philosophy #secondary-theme #neuro #parkinsons-disease #primary-theme
