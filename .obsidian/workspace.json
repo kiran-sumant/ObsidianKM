@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Social Value.md",
+                "file": "Self Learning/Learn Notes/Ironmouse and CVID.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Social Value"
+              "title": "Ironmouse and CVID"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Youth.md",
+                "file": "-Support/Templates/Example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Youth"
+              "title": "Example"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -390,13 +390,15 @@
       }
     ]
   },
-  "active": "2ac2c6d392955e4f",
+  "active": "86017bdd81af9fb4",
   "lastOpenFiles": [
+    "Self Learning/Youth.md",
+    "Self Learning/Learn Notes/Ironmouse and CVID.md",
+    "Self Learning/Learn Notes/Social Value.md",
     "Self Learning/Learn Notes/Neurodegenerative Diseases.md",
     "Self Learning/Learn Notes/Economics.md",
     "-Support/Templates/Sub-Theme.md",
     "Academic/Literature Notes/Tumour gene expression signature in primary melanoma predicts long-term outcomes.md",
-    "Self Learning/Learn Notes/Social Value.md",
     "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
     "Self Learning/Learn Notes/Art.md",
@@ -405,7 +407,6 @@
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
     "Self Learning/Beauty.md",
-    "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Uyghur Ethnic Cleansing by the CCP.md",
     "-Support/Templates/Example.md",
     "Self Learning/Learn Notes/Censorship.md",
@@ -417,7 +418,6 @@
     "Self Learning/Learn Notes/Food.md",
     "Self Learning/Learn Notes/Picky Eating.md",
     "Self Learning/Learn Notes/Relationships.md",
-    "-Support/Templates/Theme.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

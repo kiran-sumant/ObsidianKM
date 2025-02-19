@@ -6,9 +6,9 @@
 Note: Social value depends on the **perceptions of modern society**, which are transient and transitional. "Potential social value" is even more hard to actually place on an individual. With inclusion we see so many trajectories for those with disability that disability simply cannot become a part of ones assumed social value.
 
 # Closely-connected Sub-themes (and examples to interweave them through):
-## [[]]
-description
-[[Example]]
+## [[Inclusion]]
+Social value depends on the **perceptions of modern society**, which are transient and transitional. "Potential social value" is even more hard to actually place on an individual. With inclusion we see so many trajectories for those with disability that disability simply cannot become a part of ones assumed social value.
+[[Ironmouse and CVID]]
 
 
 
