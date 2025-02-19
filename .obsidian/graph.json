@@ -1,44 +1,37 @@
 {
   "collapse-filter": false,
-  "search": "tag:#philosophy -file:Example",
+  "search": "section:(Data)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#secondary-theme  ",
+      "query": "tag:#definition  ",
       "color": {
         "a": 1,
-        "rgb": 4732622
+        "rgb": 14048348
       }
     },
     {
-      "query": "tag:#primary-theme  ",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 13706019
-      }
-    },
-    {
-      "query": "tag:#example  ",
-      "color": {
-        "a": 1,
-        "rgb": 6751401
+        "rgb": 14069084
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.5,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.40904365904366,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.362785862785863,
-  "repelStrength": 14.2411642411642,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.28587333863817815,
-  "close": true
+  "centerStrength": 1,
+  "repelStrength": 18.0665280665281,
+  "linkStrength": 0.466216216216216,
+  "linkDistance": 239,
+  "scale": 0.5210929867652688,
+  "close": false
 }

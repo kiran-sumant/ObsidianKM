@@ -110,6 +110,55 @@
         "scale": 0.5096966065689799,
         "close": false
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1739958867005,
+      "title": "Philosophy Mind Map",
+      "options": {
+        "collapse-filter": false,
+        "search": "tag:#philosophy -file:Example -file:Philosophy",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag:#secondary-theme  ",
+            "color": {
+              "a": 1,
+              "rgb": 4732622
+            }
+          },
+          {
+            "query": "tag:#primary-theme  ",
+            "color": {
+              "a": 1,
+              "rgb": 13706019
+            }
+          },
+          {
+            "query": "tag:#example  ",
+            "color": {
+              "a": 1,
+              "rgb": 6751401
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -1.5,
+        "nodeSizeMultiplier": 1.40904365904366,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.362785862785863,
+        "repelStrength": 14.2411642411642,
+        "linkStrength": 1,
+        "linkDistance": 30,
+        "scale": 0.28587333863817815,
+        "close": false
+      }
     }
   ]
 }
