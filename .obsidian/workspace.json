@@ -83,24 +83,10 @@
             "id": "86017bdd81af9fb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Support/Templates/Example.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Example"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -109,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Economics.md",
+                "file": "Self Learning/Philosophy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,10 +110,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Economics"
+              "title": "Philosophy"
+            }
+          },
+          {
+            "id": "91ea084a3efe909d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Addiction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Addiction"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -389,16 +400,18 @@
       }
     ]
   },
-  "active": "36e3a3524ab2ecc9",
+  "active": "91ea084a3efe909d",
   "lastOpenFiles": [
-    "Self Learning/Learn Notes/Disability.md",
-    "Self Learning/Learn Notes/Ironmouse and CVID.md",
     "Self Learning/Philosophy.md",
+    "Self Learning/Learn Notes/Economics.md",
+    "Projects/Addiction.md",
+    "-Support/Templates/Example.md",
+    "-Support/Templates/Seminar.md",
+    "Self Learning/Learn Notes/Ironmouse and CVID.md",
+    "Self Learning/Learn Notes/Disability.md",
     "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorders.md",
     "Self Learning/Learn Notes/Callout list.md",
-    "-Support/Templates/Example.md",
-    "Self Learning/Learn Notes/Economics.md",
     "Self Learning/Youth.md",
     "Self Learning/Learn Notes/Social Value.md",
     "-Support/Templates/Sub-Theme.md",
@@ -415,8 +428,6 @@
     "Self Learning/Learn Notes/Family.md",
     "Self Learning/Learn Notes/Freedom.md",
     "Self Learning/Learn Notes/Food.md",
-    "Self Learning/Learn Notes/Picky Eating.md",
-    "Self Learning/Learn Notes/Relationships.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",

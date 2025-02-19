@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#reference path:\"Academic/Academic notes\"  ",
+  "search": "tag:#philosophy -file:Example",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.4927234927235,
   "linkStrength": 1,
   "linkDistance": 259,
-  "scale": 0.638107310304466,
+  "scale": 0.3246446783924108,
   "close": false
 }

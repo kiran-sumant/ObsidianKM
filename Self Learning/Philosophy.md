@@ -8,6 +8,7 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 
 # List of Primary Themes:
 
+- [ ] [[Addiction]]
 - [ ] [[Ambition]]
 - [ ] [[Art]]
 - [ ] [[Beauty]]
@@ -93,3 +94,5 @@ format in templates for [[Theme]] and [[Sub-Theme]].
 - [ ] Trauma
 - [ ] Tyranny
 - [ ] Utopia
+
+#philosophy 
