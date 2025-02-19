@@ -159,6 +159,41 @@
         "scale": 0.28587333863817815,
         "close": false
       }
+    },
+    {
+      "type": "graph",
+      "ctime": 1739959475282,
+      "title": "Find and edit tags",
+      "options": {
+        "collapse-filter": false,
+        "search": "-path:Support/Templates  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "tag",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.2032231825644314,
+        "close": false
+      }
     }
   ]
 }

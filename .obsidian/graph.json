@@ -1,44 +1,30 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:Support/Templates  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#definition  ",
+      "query": "tag",
       "color": {
         "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "-tag",
-      "color": {
-        "a": 1,
-        "rgb": 2068224
-      }
-    },
-    {
-      "query": "tag:#research",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.40904365904366,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 18.0665280665281,
-  "linkStrength": 0.466216216216216,
-  "linkDistance": 239,
-  "scale": 0.2808973779592802,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2032231825644314,
   "close": false
 }
