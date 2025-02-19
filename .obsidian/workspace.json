@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Learning/Learn Notes/Auditory Processing Disorder.md",
+                "file": "Self Learning/Learn Notes/Inclusion.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Auditory Processing Disorder"
+              "title": "Inclusion"
             }
           },
           {
@@ -341,9 +341,10 @@
       }
     ]
   },
-  "active": "acb2cc20f07d8589",
+  "active": "36e3a3524ab2ecc9",
   "lastOpenFiles": [
     "Self Learning/Learn Notes/Art.md",
+    "Self Learning/Learn Notes/Inclusion.md",
     "Self Learning/Learn Notes/Auditory Processing Disorder.md",
     "Self Learning/Learn Notes/Callout list.md",
     "-Support/Cheat Sheet.md",
@@ -368,7 +369,6 @@
     "Self Learning/Learn Notes/Anarchy.md",
     "Self Learning/Learn Notes/Tyranny.md",
     "Self Learning/Learn Notes/Fascism.md",
-    "Self Learning/Learn Notes/Wealth.md",
     "Age",
     "abc",
     "-Support/Reading/R Apps with Shiny.pdf",
